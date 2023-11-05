@@ -25094,7 +25094,7 @@
 				"$gameScreen.limitedView=0.5;"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				13,
 				0,
 				2
@@ -25106,7 +25106,7 @@
 				"「希望帕卡老前輩他們真的能夠治好娟．．．」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				2,
 				0,
 				2
@@ -25149,7 +25149,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				9,
 				0,
 				2
@@ -25166,7 +25166,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				1,
 				0,
 				2
@@ -25181,7 +25181,7 @@
 				"再說一次．．．」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				14,
 				0,
 				2
@@ -25259,7 +25259,7 @@
 				"「少年，你還是太懦弱了。」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				13,
 				0,
 				2
@@ -25306,7 +25306,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				5,
 				0,
 				2

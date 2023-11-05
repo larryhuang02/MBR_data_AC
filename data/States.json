@@ -168,7 +168,8 @@
 		{"code":14,"dataId":35,"value":1}
 	],"iconIndex":160,"maxTurns":10,"message1":"","message2":"","message3":"","message4":"","minTurns":10,"motion":0,"name":"七彩的加護","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":37,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
-		{"code":23,"dataId":2,"value":1.15}
+		{"code":23,"dataId":2,"value":1.15},
+		{"code":23,"dataId":3,"value":1.15}
 	],"iconIndex":181,"maxTurns":10,"message1":"","message2":"","message3":"","message4":"","minTurns":10,"motion":0,"name":"靈藥綻放","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":38,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":22,"dataId":7,"value":0.5}

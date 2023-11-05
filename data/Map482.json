@@ -3041,7 +3041,7 @@
 	{"id":5,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1250},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				4,
 				0,
 				2
@@ -3053,7 +3053,7 @@
 				"「達令還記得那隻發飆的大海獸嗎？」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				0,
 				0,
 				2
@@ -3068,7 +3068,7 @@
 				"大陸的方向。」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				0,
 				0,
 				2
@@ -3083,7 +3083,7 @@
 				"。」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				10,
 				0,
 				2
@@ -3120,7 +3120,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				1,
 				0,
 				2
@@ -3142,7 +3142,7 @@
 				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				5,
 				0,
 				2
@@ -3154,7 +3154,7 @@
 				"「怎麼都不發一語？」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				11,
 				0,
 				2
@@ -3179,7 +3179,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				7,
 				1,
 				2
@@ -3188,7 +3188,7 @@
 				"呃．．．是我錯覺嗎？\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				7,
 				1,
 				2

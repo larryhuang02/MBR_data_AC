@@ -12628,7 +12628,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				7,
 				0,
 				2
@@ -12658,7 +12658,7 @@
 				"」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				7,
 				0,
 				2
@@ -12780,7 +12780,7 @@
 				{"code":36,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				9,
 				0,
 				2
@@ -12792,7 +12792,7 @@
 				"「！」\\.\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				13,
 				0,
 				2
@@ -12838,7 +12838,7 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
+				"BLR_02_1_story",
 				13,
 				0,
 				2
@@ -12861,7 +12861,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				9,
 				0,
 				2
@@ -12907,7 +12907,7 @@
 				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_01_1_story",
 				8,
 				0,
 				2

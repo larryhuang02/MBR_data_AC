@@ -859,8 +859,8 @@
 	{"id":296,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"完美達到外脆內嫩，鮮甜多汁的銷魂肉，限戰鬥中使用，\n每次行動後回復100HP、100MP，持續9次行動。","effects":[
 		{"code":21,"dataId":261,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1607,"itypeId":1,"name":"天下第一銷魂烤肉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items296.txt>","occasion":1,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":297,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.8","type":1,"variance":0},"description":"我不入地獄，誰入地獄！限戰鬥中使用，對我方單體造成\n現有HP80%的傷害。","effects":[
-	],"hitType":0,"iconIndex":298,"itypeId":1,"name":"天下第一銷魂屍塊","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items297.txt>","occasion":1,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
+	{"id":297,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.8","type":1,"variance":0},"description":"我不入地獄，誰入地獄！對我方單體造成現有HP80%的傷害。","effects":[
+	],"hitType":0,"iconIndex":298,"itypeId":1,"name":"天下第一銷魂屍塊","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items297.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":298,"animationId":521,"consumable":true,"damage":{"critical":false,"elementId":3,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&鈍屬性」噁心到無法言語的東西，限戰鬥中使用，\n給予敵方單體攻擊傷害，必中，附加「全能力下降5階」持續9次行動。","effects":[
 		{"code":32,"dataId":2,"value1":9,"value2":0},
 		{"code":32,"dataId":2,"value1":9,"value2":0},

@@ -6183,7 +6183,7 @@
 				"長腿"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「居然是靈異照片．．．」"
+				"「居然是靈異照片。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"PeopleMZ_04",
@@ -6195,7 +6195,7 @@
 				"長腿"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「以前我曾經聽朋友說過，．．．」"
+				"「以前我曾經聽朋友說過．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"PeopleMZ_04",
@@ -6219,7 +6219,7 @@
 				"長腿"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我以前也有拍過，不過我拍到的照片裡面"
+				"「我以前也有拍過，不過我拍到的照片裡面，"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"只有出現一張臉或是一張手而已。」"
@@ -6329,7 +6329,7 @@
 				"長腿"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「欸？」"
+				"「嗯？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -6341,10 +6341,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「照片上拍到的人．．．是我很重要很重要的"
+				"「照片上拍到的人．．．是我很重要很重要"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"人，所以．．．」"
+				"的人，所以．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -6419,7 +6419,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「他是一種，可以把一張紙上的圖畫，複製"
+				"「它是一種，可以把一張紙上的圖畫，複製"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"很多張出來的古代遺物複製品。」"
@@ -6446,7 +6446,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「厲害是厲害沒錯，但他很貴，我沒想到這裡"
+				"「厲害是厲害沒錯，但它很貴，我沒想到這裡"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"會有一台．．．」"
@@ -6587,7 +6587,19 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「謝．．．謝謝．．．」"
+				"「謝．．．謝謝。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"PeopleMZ_04",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"長腿"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「哈哈哈，不用謝我啦。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"PeopleMZ_04",
@@ -6603,18 +6615,6 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"啊。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"PeopleMZ_04",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"長腿"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「哈哈哈，不用謝我啦。」"
 			]},
 			{"code":221,"indent":1,"parameters":[
 			]},
@@ -6772,7 +6772,10 @@
 				"長腿"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我想了很久，這個就送給你們吧。」"
+				"「我想了很久，也不知道送什麼給你們當禮物"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"好，想來想去，這個就送給你們吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_04",
@@ -6891,7 +6894,7 @@
 				"「而且我的腿現在都變成這樣了，這東西我也"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"用不上了。」"
+				"用不上。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

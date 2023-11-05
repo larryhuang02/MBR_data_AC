@@ -39875,7 +39875,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嗯？傳點失效了？？？"
+				"嗯？怎麼一點反應也沒有？"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -40304,10 +40304,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥準備好了嗎？進去之後就無法隨"
+				"「你們準備好了嗎？等到意識開始連接之後"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"意出來囉！」"
+				"就無法隨意出來囉！」"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -40446,7 +40446,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「回收四大神器的任務．．．拜託你們了。」"
+				"「回收四大神器的任務，拜託你們了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -40458,7 +40458,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧！交給我們了！」"
+				"「放心吧！交給我們吧！」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -40485,7 +40485,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"稍微整理一下目前目標．．．"
+				"稍微整理一下目前目標。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -40494,13 +40494,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"1.到\\C[2]敏東村以東、達西村以西、"
+				"1.到\\C[2]敏東村以東、達西村以西、鄉南村以南、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"鄉南村以南、雪北村以北\\C[0]．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"去尋找進入魔寧次元的\\C[2]入口\\C[0]。"
+				"雪北村以北\\C[0]，去尋找進入魔寧次元的\\C[2]入口\\C[0]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -40509,7 +40506,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"回收完\\C[2]4個四大神器\\C[0]後，再\\C[2]回來找冰月\\C[0]。"
+				"回收完\\C[2]四個四大神器\\C[0]後，再\\C[2]回來找冰月\\C[0]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -40518,10 +40515,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"2.有\\C[2]餘力\\C[0]的話可以\\C[2]探索世界地圖\\C[0]，"
+				"2.有\\C[2]餘力\\C[0]的話可以\\C[2]探索世界地圖\\C[0]，看看能否"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"看看能否找到跟小鈴締結契約的\\C[2]召喚獸\\C[0]．．．"
+				"找到霍恩以前留下的\\C[2]召喚獸\\C[0]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41314,7 +41311,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是半透明．．．似乎是實體了。」"
+				"「不是半透明，變成實體了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -41326,7 +41323,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最強的古文明．．．人偶？」"
+				"「她就是霍恩最後製造出來的，月藍文明"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"最強的．．．人偶？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -41338,7 +41338,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥，她似乎聽你的？」"
+				"「欸，說點什麼啊，她聽你的對吧？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -41367,7 +41367,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，霍恩大人。」"
+				"「是的，霍恩主人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41430,10 +41430,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「詢問，霍恩大人是否同意回答非您的詢問者"
+				"「詢問，霍恩大人是否同意回答來自非您的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"問題？」"
+				"詢問者問題？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41445,10 +41445,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特大哥也不是外人，我們幾個人的發問妳"
+				"「攸特大哥不是外人，我們大家的發問妳都"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"都回答吧。」"
+				"回答吧。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -41463,10 +41463,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「獲得授權，變更權限，擴增訪問者名單．．．"
+				"「獲得授權，變更權限，擴增訪問者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"」"
+				"名單．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -41486,10 +41486,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說妳講話都要這麼複雜嗎？能不能換一個"
+				"「妳講話都要這麼複雜嗎？能不能換一個方式"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"方式啊！？」"
+				"啊！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -41516,7 +41516,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請問霍恩大人要更新為哪種模式？」"
+				"「請問霍恩主人要更新為哪種模式？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41528,10 +41528,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．反正好說話的就好，別搞得像是娜"
+				"「呃．．．反正好說話的就行，不用那麼拘謹，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"娜美就好。」"
+				"別搞得像是娜娜美一樣。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -41583,10 +41583,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥好，請問這樣的語氣跟口音，主人"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"滿意嗎？」"
+				"「維皮你好，請問這樣的語氣跟口音可以嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -41643,7 +41640,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可以可以．．．」"
+				"「可以可以，自在一點也沒關係。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -41660,7 +41657,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「太好了，冰月等你們很久了呢！」"
+				"「冰月等你們很久了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41696,19 +41693,11 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，猛鈴姐姐。」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"落下1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				12,
-				7,
-				true
+				"「嗯，風鈴。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				3,
+				1,
 				0,
 				2
 			]},
@@ -41716,7 +41705,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「猛鈴．．．」"
+				"「風鈴啊．．．好久沒有人這樣叫我了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41728,10 +41717,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然時空流動受到了干擾，但因果律會指"
+				"「雖然時空流動受到了干擾，但因果律會指引"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"引著你們的到來。」"
+				"你們到來。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41743,10 +41732,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以雖然有了差錯，但結果還在可控制範圍"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「雖然有點誤差，但結果還在可控範圍內。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41770,7 +41756,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當然，為了四大神器。」"
+				"「是為了四大神器，對吧？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -41810,19 +41796,19 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了世界的穩定，我也必須拜託維皮哥哥"
+				"「為了世界的穩定，我也必須拜託你們去將"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你們去將四大神器取出來才行。」"
+				"四大神器取出來才行。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				7,
+				4,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"怎麼會．．．"
+				"好厲害，居然連我們的來意都知道！"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -41834,7 +41820,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳是如何知道我們要找四大神器的事情？」"
+				"「妳是怎麼知道我們要找四大神器的事情？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41846,10 +41832,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這片大陸．．．這個世界的脈動，冰月都一"
+				"「這片大陸．．．這個世界的一舉一動，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"直在觀察。」"
+				"冰月從能夠開始運作以後，就一直在觀察。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41913,10 +41899,28 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的唷，不論是300年、500年前，所有的"
+				"「嗯，不論是300年前、500年前，甚至是1000年"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"事情冰月都知道！」"
+				"前，所有的事情，冰月都知道！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「既然妳什麼都知道，妳一定也知道四大神器"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"在哪裡，妳自己去找就行了，霍恩幹嘛還要我們"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"去找啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41928,10 +41932,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「冰月是觀察者，只要不會破壞世界的脈動，"
+				"「維皮，冰月只是一台電腦而已，是觀察者，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冰月就不會去干涉。」"
+				"霍恩當初將我製造出來的理由，是做為保管庫"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"紀錄世界的一舉一動。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -41943,7 +41950,22 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．只要會對世界的存亡造成威脅，"
+				"「所以，只要不造成世界的危害，冰月就不會"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"去干涉。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但是．．．只要會對世界的存亡造成威脅，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"冰月就必須去排除。」"
@@ -41991,6 +42013,48 @@
 				"「這未免太厲害了吧！妳是神嗎！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「既然妳也知道四大神器的事情，我聽少年說，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"情況已經這麼很危急了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「為什麼妳不早點托人寄信給我們？那應該比"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"讓霍恩託夢告訴少年還要來的快吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「月藍文明的科技，這種事情不可能做不到。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
 				0,
 				0,
@@ -42000,10 +42064,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「冰月不是神，畢竟冰月正遭受著麻煩，要"
+				"「冰月不是神，如果是神的話，冰月也不會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"維皮哥哥幫忙。」"
+				"有事情要麻煩你們幫忙。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42015,7 +42079,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這也是剛剛攸特大哥問的問題．．．」"
+				"「這也是剛剛攸特剛才想問的問題。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -42027,7 +42091,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．好像是卡卡的？」"
+				"「呃．．．好像是說妳卡卡的？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42039,7 +42103,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，因為人家損壞了．．．」"
+				"「是的，因為我損壞了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -42059,7 +42123,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「什麼意思？！」"
+				"「什麼意思？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42071,10 +42135,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．當初我被創造時，系統被植入了"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"病毒。」"
+				"「嗯，當初我被創造時，系統被植入了病毒。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42086,10 +42147,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原本病毒是休止狀態，卻因為我發動時間之"
+				"「原本病毒是停止狀態，卻因為我發動時間之力"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"力時而被激活了。」"
+				"而開始運作了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42101,10 +42162,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而隨著時間推移，這個病毒影響我的機能"
+				"「而隨著時間推移，這個病毒癱瘓了我大部分的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也越來越大了。」"
+				"功能。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42116,7 +42177,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以，拜託維皮哥哥，趕快幫我排除好嗎？」"
+				"「所以，麻煩幫我排除好嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42128,10 +42189,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「事成之後，人家會解除身上的迷彩衣服，"
+				"「事成之後，我解除身上的迷彩衣服，把身體"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"身體給你摸好不好。」"
+				"給你摸好不好。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -42194,7 +42255,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等等，為什麼是這個獎勵？！」"
+				"「等等，為什麼是這個獎勵！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42206,10 +42267,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？拜託別人，露出○○給對方摸，不是很"
+				"「嗯？霍恩說過，要拜託別人，露出○○給"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"正常嗎？」"
+				"對方摸，不是很正常嗎？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -42261,7 +42322,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟，你對我說．．．只要是可愛，不管"
+				"「畢竟，是你先對我說．．．只要可愛，不管"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"男的女的都可以上．．．」"
@@ -42296,7 +42357,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可我沒有安裝○○○，無法跟你進行合意"
+				"「可是我沒有安裝○○○，無法跟你進行合意"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"性交，所以只能．．．」\\|\\^"
@@ -42337,10 +42398,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「停停停！！！馬上把這話題打住"
+				"\\{「停停停！馬上把這話題"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！！！」"
+				"打住！！！」"
 			]},
 			{"code":225,"indent":0,"parameters":[
 				9,
@@ -42542,7 +42603,22 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過妳說的病毒，是毒素嗎？」"
+				"「不過妳說的病毒，是什麼毒素嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我們要怎麼幫？刮骨療傷？可是妳是機器人，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"方法應該不太一樣吧？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -42564,7 +42640,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「病毒我也略知一二，那其實不是毒素．．．」"
+				"「病毒我也稍微知道一點點，可是那個其實"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不是毒素．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -42606,10 +42685,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還記得你第一次背著天使姐姐來找師傅"
+				"「維皮哥哥，還記得你背著天使姐姐來找師傅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"求救嗎？」"
+				"求救那次嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -42621,13 +42700,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那其實是一種惡意程式碼．．．"
+				"「那其實是一種惡意程式碼，用你也聽的懂的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"用維皮哥哥聽的懂的方式，就是一種會破壞"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"系統的．．．壞東西。」"
+				"方式，就是一種會破壞系統的．．．壞東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -42639,7 +42715,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當時天使姐姐得到的也是病毒。」"
+				"「當時天使姐姐被植入的也是病毒。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -42651,10 +42727,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．也就是，我們要帶冰月回去找妳師"
+				"「呃．．．所以，我們要帶冰月回去找帕卡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"傅？」"
+				"陛下？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42666,7 +42742,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不行唷，維皮哥哥。」"
+				"「沒有辦法喔，維皮。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -42718,10 +42794,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你看的我．．．這個女孩子的我．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"其實並非本體．．．」"
+				"「你看到的我，你眼前的我，其實不是本體。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42733,10 +42806,25 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我的本體其實是這個空間．．．"
+				"「我的本體其實是這整個空間，你們幾人都在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你們幾人都在我的肚子內。」"
+				"我的身體裡面。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「只是為了方便，所以我製造了一個虛擬影像"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"來回答你們的問題。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -42776,10 +42864,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．難不成我們只能拜託帕卡陛下來了"
+				"「呃．．．難不成我們只能拜託帕卡陛下來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42791,10 +42879,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒有用，那個印堂高高的光頭沒辦法修好"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"我的系統。」"
+				"「沒有用，帕卡他沒辦法修好我的系統。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42806,10 +42891,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．我只要將你們送進數位世界就可以"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"了。」"
+				"「修復我的方法，就是將你們送進數位世界。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -42833,10 +42915,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，我會分析你們的身體數據，將你們的"
+				"「嗯，我會分析你們的身體數據，將你們的資料"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"資料載入數位世界內。」"
+				"載入數位世界內。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42848,13 +42930,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而病毒也是一種數據，只要你們的資料有辦"
+				"「而病毒也是一種數據，只要讓你們的資料"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"法摧毀病毒，後續的故障我自己就能夠慢慢修"
+				"去摧毀病毒，後續的故障我自己就能夠慢慢"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"復。」"
+				"修復。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -42874,7 +42956,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？！」"
+				"「嗯！？給我說人話！剛剛不是才跟妳說要講"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的淺顯易懂一點！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -42891,10 +42976,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「打個比方．．．我會按照你們的資料，去做"
+				"「簡單來說，我會按照你們當基礎模型，做一個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"出黏土人，送到另一個地方。」"
+				"黏土人出來，把它送到另一個地方。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -42906,10 +42991,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們的黏土人只要能夠擊潰那個壞傢伙，就"
+				"「然後讓你們去操作那個黏土人，你們只要操作"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"能夠幫到我了。」"
+				"黏土人擊潰那個壞傢伙，就能夠幫到我了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -42938,10 +43023,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那．．．維皮哥哥、攸特大哥、如如小姐、"
+				"「那．．．維皮、攸特、如如、風鈴，後續就"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"猛鈴小姐，後續就拜託你們了。」"
+				"拜託你們了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43093,10 +43178,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「身上好幾個大洞．．．卻只是用點樹脂補起"
+				"「身上破破爛爛的，卻只用了點樹脂"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"來．．．」"
+				"補起來．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43108,10 +43193,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「能量核心跟關節軸心都有不同程度的磨損"
+				"「能量核心跟關節軸心都有不同程度的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"磨損．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43123,10 +43208,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還有那個．．．前世主人給妳打造的狂暴"
+				"「還有那個，霍恩為妳特別製作的狂暴晶片，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"晶片．．．居然壞著不管。」"
+				"居然壞著不管。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43138,7 +43223,42 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果主人看到，一定會很難過的．．．」"
+				"「你們還想讓那個對月藍文明一竅不通的人來"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"修好我。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果霍恩看到，一定會很難過．．．」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				7,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				3,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"師傅好歹是元素世界月藍文明的權威，居然被"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月妹妹批的一文不值．．．"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -43153,10 +43273,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「謝謝，可是人家現在還能動，已經很滿足了"
+				"「謝謝，可是人家現在還能動，已經很滿足"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -43168,7 +43288,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				4,
 				0,
 				2
 			]},
@@ -43176,7 +43296,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不行，做妹妹的受不了。」"
+				"「不行，看到娟姊這樣，我受不了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43203,10 +43323,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之，我會嘗試把娟姊修好的．．．就連"
+				"「總之，我先在這裡嘗試把娟姊修好．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"那個\\C[2]狂暴晶片也能\\C[0]．．．」"
+				"連那個\\C[2]狂暴晶片一起\\C[0]．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -43236,7 +43356,13 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個能夠跟母后對打的鬼神之力！？」"
+				"「你說的是那個在月藍文獻裡紀載的，只搭載"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"在姬偶身上．．．能讓人偶發揮出百倍強度的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"狂暴晶片？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -43252,12 +43378,12 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				3,
+				10,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可惜沒看過．．．"
+				"好可惜，那時候沒看過．．．"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -43313,10 +43439,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我現在功能沒辦法完全運轉，但如果維皮"
+				"「我現在很多功能都沒辦法使用，但如果你們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"哥哥你能幫我把病毒排除。」"
+				"能幫我把病毒排除。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -43333,7 +43459,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我保證．．．給你一個嶄新的娟姊！」"
+				"「我保證．．．能給你一個嶄新的娟姊！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -43501,7 +43627,22 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是？」"
+				"「咦？這裡還有其他機器人啊？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟我的身體那麼大，得要有人幫忙打掃和"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"維護。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -43641,7 +43782,7 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「挖嗚！！！怎麼來了這麼多的人類！？」"
+				"「哇嗚！！！怎麼來了這麼多的人類！？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -43687,10 +43828,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「機器人Ｇ是人家在這裡無聊時，自己嘗試"
+				"「機器人Ｇ是我在這裡無聊時，自己嘗試製造的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"製造的小機兵。」"
+				"小機兵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43705,7 +43846,7 @@
 				"「它也配備了人工智能與聲音接收器等裝置，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"各位也可以跟它進行交談。」"
+				"你們也可以跟它進行溝通。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43717,10 +43858,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們在這裡的這段期間，生活起居就由它照"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"應。」"
+				"「你們在這裡的這段期間，由它負責照應。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -43755,7 +43893,7 @@
 				"「機器人Ｇ，這段期間你就負責照顧他們的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"起居。」"
+				"生活起居。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -43797,7 +43935,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果有得罪貴客的話，小心我扣你薪水！」"
+				"「如果得罪他們的話，小心我扣你薪水！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -43826,10 +43964,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"扣薪水是怎麼回事？？？"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"扣乾電池嗎？？？"
+				"扣薪水是怎麼回事？扣乾電池嗎？？？"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -43878,7 +44013,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，麻煩你了～」"
+				"「嗯，麻煩你了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -43924,10 +44059,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我這裡也有一些以前研究員用的休息室，"
+				"「我這裡也有一間是以前研究員用的\\C[2]休息室，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有需要休息或補給可以去那裡。」"
+				"裡面有床還有萬能交換機，有需要休息或補給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"可以去那裡。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -44588,10 +44726,10 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「被女孩子稱讚．．．"
+				"「被女孩子稱讚．．．不要稱讚ＧＧ啦，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不要稱讚ＧＧ啦，笨蛋～」"
+				"笨蛋～」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -45100,7 +45238,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幾位．．．休息的如何？」"
+				"「休息的還好嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -45112,7 +45250,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯嗯，現在好多了。」"
+				"「嗯嗯，現在好多了，謝謝妳冰月。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -45124,10 +45262,25 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只是沒想到我們打完那個病毒後，居然都"
+				"「沒想到我們打完那個病毒後，居然睡了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"昏迷了．．．」"
+				"那麼久。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟．．．這項處理作業會對你們的身體"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"造成很大的負擔嘛。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45139,13 +45292,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟．．．人家是將你們的意識傳輸到虛擬"
+				"「我是將你們的意識傳輸到虛擬世界的Avator"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"世界的Avator上，而回來時還要把一些數據覆"
+				"中，把你們的意識傳送回來後還要把一些數據"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"寫回你們的身體內。」"
+				"覆寫回你們的身體內。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45157,7 +45310,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以會對腦神經造成不小的負擔．．．」"
+				"「所以會給腦神經造成不小的負擔．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -45177,7 +45330,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「覆寫．．．什麼意思？」"
+				"「覆寫，什麼意思？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45189,10 +45342,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「簡單說就是一些資源、能力帶回來，"
+				"「簡單說就是把一些資源、能力帶回來，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"白話一點來說就是經驗值．．．」"
+				"白話一點來說就是經驗值。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -45224,7 +45377,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那．．．那些像是鬼神般的招式！！！」"
+				"「那、那些咻咻咻，啪啪啪！可以讓我變得"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"超厲害的招式！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45268,7 +45424,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯！只是浮雲～」"
+				"「嗯！沒有。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45280,14 +45436,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟那些只是修改Avator的數據，不屬於"
+				"「畢竟那些只是修改Avator的數據，不是屬於"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你們自身的武藝。」"
+				"你們自己的力量。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				1,
+				0,
 				0,
 				2
 			]},
@@ -45295,7 +45451,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「況且．．．如果把病毒帶回來了怎麼辦？」"
+				"「而且．．．如果把病毒帶回來了怎麼辦？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -45312,7 +45468,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「慢著．．．」"
+				"「慢著。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -45370,7 +45526,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很簡單的答案啊～」"
+				"「那這樣怎麼樣？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45382,10 +45538,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「1.為了安全起見，數位世界的資訊一律作"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"廢．．．"
+				"「1.為了安全起見，數位世界的資訊一律作廢，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"也就是技能、經驗、道具、金幣通通沒有。」"
@@ -45400,10 +45553,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「2.同上，但能夠把技能之外的東西帶回來"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「2.同上，但能夠把技能之外的東西帶回來。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45415,7 +45565,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請問你要選哪個？」"
+				"「你要選哪個？」"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -45453,7 +45603,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「但人家沒那麼無聊去回朔數據．．．」"
+				"「但我也沒那麼無聊去回朔數據，回朔"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"很累人的。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -45507,10 +45660,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這件事情先打住，關於技能的事情，等下再"
+				"「先不要探究這件事情的合理性了，關於技能的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"說吧。」"
+				"事情，等下再說。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -45667,8 +45820,47 @@
 				"「來無影去無蹤．．．真羨慕這個身體啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「少年，那是她的幻影，你忘記了嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「她的身體是你放眼望去的所有地方。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「成為一棟建築物，哪都不能去，我想．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你應該不會喜歡吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				3,
+				10,
 				0,
 				2
 			]},
@@ -45676,10 +45868,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可不是血肉之軀，我還是比較喜歡現在的身"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"體。」"
+				"「嗯，我還是比較喜歡現在的身體。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				11,
@@ -45787,7 +45976,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本小姐又不在乎這個！」"
+				"「我又不在乎這個！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -46207,7 +46396,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼樣？還有不舒服的嗎？」"
+				"「怎麼樣？還有哪裡不舒服的嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -46231,7 +46420,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「受損的部分，幾乎都修好了。」"
+				"「受損的部分，好像都修好了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -46299,7 +46488,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這麼快就修好了，好驚人的技術阿．．．」"
+				"「這麼快就修好了，好驚人的技術啊．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -46346,7 +46535,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「主要是為了修復狂暴晶片多花了一些時間，"
+				"「主要是因為修復狂暴晶片多花了一些時間，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"否則速度還可以更快。」"
@@ -46366,7 +46555,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人偶中樞．．．大腦嗎？」"
+				"「人偶中樞．．．是指大腦嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46378,10 +46567,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，人偶中樞，很像是人體結構的腦部"
+				"「是的，人偶中樞，很像是人體結構的腦部，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．以及部分神經迴路。」"
+				"以及部分神經迴路，它掌管著人偶的記憶與"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"性格。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46393,13 +46585,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「它掌管著人偶的記憶與性格，並且娟姊在"
+				"「娟姊在誕生時，持續接受外部的資訊來改變"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"誕生時，持續接受外部的資訊來改變裡面的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"紀錄結構。」"
+				"裡面的紀錄結構。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46429,10 +46618,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是．．．霍恩主人．．．"
+				"「這是霍恩主人為了模擬人類，而創造出來的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為了模擬人類，而創造出來的機制。」"
+				"機制。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46444,7 +46633,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也是娟姊這種型，最複雜的核心技術之一。」"
+				"「也是娟姊這種原機型，最複雜的核心技術。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -46473,10 +46662,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「難怪妳說．．．還好人偶中樞沒有受損"
+				"「難怪妳說，還好人偶中樞沒有受損，聽起來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，聽起來一旦受損，後果就很麻煩了．．．」"
+				"一旦受損，後果就很麻煩了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46488,10 +46677,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，對於娟姊這類型的機器人偶，個性"
+				"「是的，娟姊這種類型的機器人偶，個性幾乎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"幾乎都是獨一無二的。」"
+				"都是獨一無二。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46503,10 +46692,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一旦損壞，不光會造成記憶的缺失，這個損"
+				"「一旦損壞，不光會造成記憶的缺失，這個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"害更是不可逆的。」"
+				"損害更是不可逆的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46577,10 +46766,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「的確，有那種東西，是有可能備份記憶．．．"
+				"「的確，如果有那種東西，是有可能備份記憶，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但目前只存在理論上。」"
+				"但目前它只存在理論上。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46592,10 +46781,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟．．．有用到這種的記憶模式，只有"
+				"「霍恩主人原本也有想過這個問題，打算開發"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"少量的ＧＸＰＴ１０００型。」"
+				"妳說的東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46607,10 +46796,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「即使是２０００型，因為智慧程度的不同，"
+				"「但在開發出來以前，月藍國就毀滅了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人偶中樞是無法兼用的。」"
+				"所以沒有任何資料有留下來，即使是我這裡"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"也沒有。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46622,7 +46814,25 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「進行記憶備份，風險度不小。」"
+				"「現在，使用這種記憶模式核心技術的，只有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"ＧＸＰＴ１０００型。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「即使是２０００型，因為智慧程度不同，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"人偶中樞也無法兼容。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46634,10 +46844,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而更重要的是，人家手頭上也沒有這種備用"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"零件。」"
+				"「更重要的是，人偶中樞是沒有備品零件的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -46664,10 +46871,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧！若遇到危險，我一定會站在她身前"
+				"「放心吧！如果遇到危險，我一定會擋在她"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！」"
+				"身前！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -46711,7 +46918,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那麼，該來討論一下主要的目的了。」"
+				"「好了，既然娟姊已經修好了，你們也休息得"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"差不多了，該來討論一下正事了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -46728,24 +46938,12 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，霍恩說的四大神器．．．」"
+				"「嗯，霍恩說的四大神器．．．到底是．．．」\\|\\|\\^"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
 				8,
 				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				13,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「為什麼．．．」\\.\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -46832,7 +47030,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我知道．．．現在不應該處理我的私事。」"
+				"「我知道，現在不應該處理人家的私事。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -46856,11 +47054,19 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳是想問．．．回家的辦法？」"
+				"「妳是想問，回家的辦法吧？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				1,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				10,
+				7,
 				0,
 				2
 			]},
@@ -46868,10 +47074,22 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對！我莫名其妙地被召喚到這個世界"
+				"「妳怎麼知道！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，爸爸媽媽．．．他們一定很擔心我。」"
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我說過了，這片大陸的事情，不管是300年、"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"500年，甚至是1000年前，我都知道。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -46901,6 +47119,21 @@
 				"「那．．．關於我回家的辦法．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我莫名其妙地被召喚到這個世界，爸爸媽媽，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"他們一定很擔心我。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
 				0,
 				0,
@@ -46921,18 +47154,6 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳有辦法！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
 				0,
 				0,
@@ -46942,31 +47163,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯～」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				8,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「那．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「可是不行，現在還不能送妳回去。」"
+				"「不過，現在不行，現在還不能送妳回去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -46990,7 +47187,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為．．．召喚妳過來的，就是我。」"
+				"「因為，召喚妳過來的，就是我。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -47088,7 +47285,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳說什麼！！！？？？」"
+				"\\{\\{「妳說什麼！？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -47105,7 +47302,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是人家．．．把妳從那個時間召喚過來的。」"
+				"「是我，把妳從那個時間線召喚過來的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47117,10 +47314,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家說過，冰月是觀察者，只要不會破壞"
+				"「我說過，我是觀察者，只要不會破壞世界的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"世界的脈動，冰月就不會去干涉。」"
+				"平衡，我就不會去干涉。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47147,7 +47344,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以，人家只好把妳召喚過來。」"
+				"「所以，冰月只好把妳召喚過來。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -47295,7 +47492,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要我怎麼冷靜！！！」"
+				"「你要我怎麼冷靜！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_2",
@@ -47319,7 +47516,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我手無寸鐵之力，把我丟在森林，人生地不熟的。」"
+				"「我一個大學生，手無縛雞之力，把我丟在"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"森林裡，人生地不熟的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_2",
@@ -47331,10 +47531,25 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我差點被獸人侵犯，即使逃到了街上，也是"
+				"「我原本以為是在拍戲，我差點被獸人侵犯"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"過著有一餐沒一餐，差點餓死在街頭。」"
+				"你知不知道！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_2",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然我好不容易逃到了街上，可是也是過著"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"有一餐沒一餐的生活，我差點餓死在街頭。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_2",
@@ -47368,7 +47583,19 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「然後妳跟我說．．．是妳召喚我過來的。」"
+				"「然後她跟我說．．．是她召喚我過來的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_2",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這些痛苦，這些危險，都是她帶給我的！」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -47383,7 +47610,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「面對這樣的兇手！我怎麼可能冷靜！！！」"
+				"「我面對她到底要怎麼冷靜！你說啊！！！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -47497,10 +47724,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果不是受到了時間干擾跟病毒影響，我會"
+				"「如果不是受到了時間干擾跟病毒影響，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"更早跟妳聯繫的。」"
+				"我會更早跟妳聯繫的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47512,7 +47739,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「讓妳受到危險，並非我的本意。」"
+				"「我不是故意要讓妳遇到危險的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -47541,7 +47768,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且．．．妳本來是要跟維皮哥哥會合的。」"
+				"「我原本的計畫，妳本來是要跟維皮會合的。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -47561,7 +47788,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我？！」"
+				"「我！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -47573,7 +47800,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是我沒遇到．．．」\\.\\.\\^"
+				"「那我們會合的也太慢了吧？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -47593,7 +47820,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等等．．．那個消失的女鬼！」"
+				"「等等，我記得在最果之雨村邊的山崖．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -47615,7 +47842,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我想起來了！我曾在山崖下看過她．．．」"
+				"「我想起來了！我好像在山崖下看過她！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -47661,7 +47888,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是沒人相信．．．小鈴也說她沒看過我。」"
+				"「可是我跟大哥說了他也不相信．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小鈴也說她沒看過我。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -47673,7 +47903,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「後來我都把這事情給忘了。」"
+				"「後來我就把這事情給忘了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -47705,7 +47935,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．果然是時間被干擾了．．．」"
+				"「嗯．．．果然是時間被干擾了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -47717,7 +47947,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．究竟是怎麼回事嗎？」"
+				"「冰月，妳是不是知道是怎麼回事啊？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -47739,7 +47969,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好吧．．．也許我該把這些事情講述一下。」"
+				"「好吧．．．也許我應該把這些事情的來龍去脈"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"解釋清楚。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47751,10 +47984,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不然大家心中帶著疑問，任務的成功率也會"
+				"「不然讓你們在什麼都不知道的情況下出發，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"降低．．．」"
+				"到時候又東想西想，對任務也會有影響。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -47837,7 +48070,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「首先．．．你們應該都知道月藍國吧？」"
+				"「首先，你們應該都知道月藍國吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -47849,10 +48082,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．似乎是5000年前毀滅的文明，"
+				"「嗯．．．好像是5000年前毀滅的文明？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也是妳誕生的時候。」"
+				"也是妳跟娟誕生的時候。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47864,7 +48097,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．」"
+				"「沒錯。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -47881,10 +48114,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而小鈴．．．其實妳並非從另一個世界過來"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「風鈴，其實妳不是從另一個世界過來的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47896,10 +48126,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而是．．．比月藍國更早的3000年前"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「而是來自比月藍國更早的3000年前。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -47911,10 +48138,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也就是．．．妳是從我們現在的8000年"
+				"「也就是，妳是從距離我們現在8000多年前"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"前過來的～」"
+				"過來的。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -48055,13 +48282,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，大約是6000年前，當時的先祖人類，"
+				"「嗯，大約是6000年前，當時的先祖人類，開始"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"開始瞭解如何聚集大自然的力量，也就是所謂"
+				"研究出如何聚集大自然的力量，也就是妳們口中"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的魔法原型．．．」"
+				"所謂的魔法原型。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48073,7 +48300,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而科技，一直是小鈴那時候大家所擅長的"
+				"「而科技，則是小鈴那時候所普及的機械"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"技術。」"
@@ -48088,10 +48315,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以在掌握科技與魔法的加持下，月藍國就"
+				"「在掌握科技技術的科技人員與學會了魔法如何"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"此誕生。」"
+				"使用的人們互相合作下，月藍國就此誕生。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48103,10 +48330,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在那個時代，生活幾乎都是動動手指即可"
+				"「在那個時代，生活上的大小事，只要動動手指"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"完成。」"
+				"就可以完成。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48118,14 +48345,17 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「戰爭交給機器，生活交給魔法，富人的日"
+				"「戰爭交給機器、生活依賴魔法，所有人都"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"子過的越來越輕鬆．．．」"
+				"習慣了這樣的生活，富人們的日子也過的越來"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"越輕鬆．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -48133,7 +48363,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．社會的矛盾也越來越分化。」"
+				"「在這樣的環境下，社會的矛盾變得越來"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"越激烈了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -48142,7 +48375,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				7,
+				1,
 				0,
 				2
 			]},
@@ -48150,7 +48383,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「社會的矛盾是什麼意思嗎？」"
+				"「社會的矛盾是什麼？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -48165,7 +48398,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「簡單說，就是資源的不均衡．．．」"
+				"「簡單來說，就是資源的不均衡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48192,10 +48425,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「『富人』掌握了大部分的資源，『窮人』日"
+				"「就像維皮，你只是個獵戶，每天只能吃點"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"子越過越辛苦，也越來越沒有翻身的可能。」"
+				"粗茶淡飯，烤烤肉，而凱鐵村的村長，卻能夠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"每天山珍海味，甚至鋪張浪費。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48207,13 +48443,28 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也因為那樣的社會氛圍、以及霍恩主人跟"
+				"「『富人』掌握了大部分的資源，『窮人』日子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妻子的不和睦．．．，機器人偶因此而誕生。"
+				"越過越辛苦，越來越沒有翻身的可能。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"」"
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「因為那樣的社會氛圍、以及霍恩主人跟妻子"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的不和睦．．．機器人偶因應了這樣的環境下"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"誕生了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -48230,10 +48481,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不和睦所以誕生了人偶．．．"
+				"「不和睦所以創造了人偶．．．這部分可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這部分可以麻煩冰月小姐詳述一下嗎？」"
+				"麻煩冰月小姐詳述一下嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48245,7 +48496,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好的．．．」"
+				"「好的。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -48275,10 +48526,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當時月藍國的國王．．．就是維皮的先祖"
+				"「當時月藍國的國王，就是維皮的先祖，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，霍恩．．．」"
+				"霍恩。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48290,10 +48541,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而當時的皇后．．．因為政治聯姻而跟霍恩"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"結婚的人，叫雷歐娜．．．」"
+				"「與當時月藍國的皇后，雷歐娜。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48305,10 +48553,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩主人，雖然是國王的身份．．．但統治"
+				"「他們因為政治聯姻的緣故而結婚，本身並沒有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一個國家，並非完全由國王說的算。」"
+				"任何的感情存在。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48320,10 +48568,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「底下的政要、派系、勢力．．．其實都會"
+				"「霍恩主人，雖然是國王的身份，但統治一個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"左右這個脆弱的政治體系。」"
+				"國家，並非完全由國王說的算。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48335,10 +48583,40 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩主人他，平心而論，他並不適合當國王"
+				"「底下的政要、派系、勢力，其實都會左右這個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"脆弱的政治體系。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「月藍國雖然外表看起來強盛，但他的政治鬥爭"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是綜合所有時代來看最腐敗的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「霍恩主人他，從我的資料庫下去做分析得到的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"答案，他並不適合當國王。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48377,10 +48655,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「加上政治聯姻等要素，讓他內心也備感空虛"
+				"「底層人民與富人的矛盾不斷的激化，加上"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"政治鬥爭，對雷歐娜皇后沒有感情等原因，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"讓他的內心備感空虛。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48392,10 +48673,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以霍恩主人．．．就興起了『為什麼不製"
+				"「所以霍恩主人，就有了『為什麼不創造一個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"造聽話的管家』的念頭。」"
+				"聽話的管家』的念頭。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48407,10 +48688,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「於是．．．最終機器人偶初代機．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"ＧＸＰＴ１０００．．．．"
+				"「於是，機器人偶初代機，ＧＸＰＴ１０００，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"娟姊就這樣誕生了。」"
@@ -48425,7 +48703,25 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「打造自己的妻子．．．以及家庭幫手嗎．．．」"
+				"「是各方問題下得到的答案嗎？想幫助窮人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"製造家庭幫手？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但是做著做著越來越起勁，在製作中加入了"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"自己的理想，日久生情了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48449,10 +48745,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這種近似人類，會聽從主人命令的人偶，若"
+				"「這種近似人類，會聽從主人命令的人偶，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"能普及，也能造福廣大的底層民眾。」"
+				"如果能普及，也能造福廣大的底層民眾。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48487,7 +48783,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可最後，這個人偶計畫．．．被迫中止了。」"
+				"「可最後，這個人偶計畫，被迫中止了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -48514,7 +48810,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為．．．干涉到了富人的利益．．．」"
+				"「因為，機械人偶，干涉到了富人的利益。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -48546,7 +48842,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當時反對者用了很多立場攻擊霍恩．．．」"
+				"「當時的反對者提了很多反論，甚至是捏造證據"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"來攻擊霍恩。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48558,10 +48857,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「像是道德淪喪、人偶就只是高級的洩慾對象"
+				"「像是道德淪喪、人偶就只是高級的洩慾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"對象。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48573,7 +48872,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「又或者是人偶失控，殺害研究員．．．」"
+				"「又或者是人偶失控，殺害研究員。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48588,7 +48887,7 @@
 				"「監視並記錄民眾的生活，有重大的安全隱患"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"等等．．．」"
+				"等等。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48600,10 +48899,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並且捏造了很多偽證，去煽動民眾反人偶"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"計畫。」"
+				"「甚至煽動底層民眾參與反人偶計畫。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -48620,7 +48916,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩也不是沒有做出反擊．．．」"
+				"「霍恩也不是沒有做出反擊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48635,10 +48931,10 @@
 				"「他特地研製了新型的ＧＸＰＴ２０００型，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"說人偶除了陪伴與家務，也多了更多保鑣與科"
+				"說人偶除了陪伴與家務，也多了更多功能，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"技等用途。」"
+				"能拓展其他多種用途。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48650,10 +48946,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可．．．不玩政治的霍恩主人，又怎是那一"
+				"「可是，霍恩主人討厭政治，也不插手政治，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"票老狐狸的對手。」"
+				"所以他自然不可能在辯論上爭贏底下的幕僚。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48665,10 +48961,25 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以最後．．．人偶計畫被終止．．．"
+				"「所以最後，人偶計畫被終止，製造出來的人偶"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"製造出來的人偶被迫銷毀．．．」"
+				"被迫銷毀。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當時底下幕僚的說詞是，念在娟姊是初代"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"原型機，所以可以把她留下，不用銷毀。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48680,17 +48991,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當時那夥老狐狸，還很大肚的說，念在娟姊"
+				"「但是，他們大概只是貪圖霍恩主人的核心技術"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是初代原型，把她留下、沒送到快樂解脫場內"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"而已。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -48698,10 +49006,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但其實．．．也不過是貪圖娟姊的黑科技而"
+				"「這些就是我的資料庫裡所記錄的全部資料"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"已。」"
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -48737,10 +49045,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「完全可以理解，特權階級為了自己的優勢，"
+				"「這有什麼好不能理解的？破麻，這種時候就"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一定會想盡辦法保有特權。」"
+				"不要裝乖了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -48752,10 +49060,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「什麼要當好人、壞人會被處罰，全部都是"
+				"「妳心裡一定也有過這種念頭吧？要是今天"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"屁話。」"
+				"妳沒過的那麼慘，妳就不會抱怨那麼多了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -48767,7 +49075,97 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唯有利益．．．是永遠不變的。」"
+				"「妳敢說妳學會魔法以後沒有去找幾個獸人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"出氣？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我才沒有！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊！好了好了！像妳這麼偽善的人我還真沒"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"看過幾個。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「反正我是不會像妳一樣，整天忍這個忍那個，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"遲早有一天生病。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「到頭來，什麼要當好人、壞人會被處罰，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"全部都是屁話。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「有人的地方，就會有紛爭，只要權力和利益"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"還在，人類就永遠爭鬥下去。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_02",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「異界就是這樣，不然妳以為母后為什麼想要"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"進行夢境搖籃計畫？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -48786,7 +49184,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -48794,10 +49192,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為此事件，讓霍恩跟雷歐娜兩人的關係降"
+				"「因為人偶事件，讓霍恩主人跟雷歐娜皇后"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"到冰點。」"
+				"兩人的關係降到冰點。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48809,7 +49207,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可其實．．．他們兩人都是受害者。」"
+				"「其實，他們兩人都是受害者。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -48833,10 +49231,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然是政治婚姻，但雷歐娜畢竟比霍恩長很"
+				"「雖然是政治婚姻，但雷歐娜皇后比霍恩主人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"多歲，心智也成熟很多。」"
+				"年長很多歲，心智也更為成熟。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48848,10 +49246,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以，她也一直默默的嘗試協助這個小老公"
+				"「在人偶計畫裡，雷歐娜皇后一直默默的協助"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"霍恩主人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48863,10 +49261,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但無奈．．．人偶事件的主事者，就是她背"
+				"「但諷刺的是，人偶事件的主事者，就是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"後的勢力。」"
+				"雷歐娜皇后背後的政治勢力。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48878,7 +49276,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「即使不是她動手，但她也難辭其咎。」"
+				"「霍恩主人和雷歐娜皇后從人偶事件以後，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就有了嫌隙。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -48890,7 +49291,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來是這樣。」"
+				"「原來如此。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48902,10 +49303,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩從此也就不理國事，每天陪伴著娟姊，"
+				"「霍恩主人從此也就不理國事，每天陪伴著"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也提防著她的科技被奪走．．．」"
+				"娟姊，也提防著她的核心科技被奪走。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48929,7 +49330,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「從此沉淪了．．．」"
+				"「從此消沉度日。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -48946,10 +49347,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這段時間，難道他都是孤軍奮戰，沒有幫手"
+				"「雷歐娜皇后有政治幕僚，難道霍恩他都是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嗎？」"
+				"孤軍奮戰，沒有後台嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48961,10 +49362,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並非如此，其實也是有支持他的人在協助"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"主人。」"
+				"「其實，也是有支持他的人在協助主人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -48976,10 +49374,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就像是．．．我就是他的擁護者，設計出來"
+				"「我就是由他的擁護者所設計，再由霍恩主人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的。」"
+				"製作出來的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -48991,49 +49389,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「但即使如此，人偶事件對主人的打擊過大，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"導致他對人心失去了信任。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「如果他有個好的心理老師，或許就能從這"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"漩渦轉出來了。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「可無奈，他身邊偏偏沒有合適的幫手。」"
+				"「既然這樣．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49045,7 +49401,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而雷歐娜這邊，因為霍恩的冷暴力。」"
+				"「但即使如此，人偶事件對霍恩主人的打擊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"過大，導致他失去了對人類的信任。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49057,7 +49416,49 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最終由愛生恨．．．，導致了最後的悲劇。」"
+				"「如果他有個能幫他療傷的人，或許就能從"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這樣的低潮走出來。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可是，很遺憾的，他身邊沒有這樣子的人。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「至於雷歐娜皇后這邊，因為霍恩主人的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冷暴力。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「最終由愛生恨，導致了最後的悲劇。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -49074,10 +49475,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最後悲劇，莫非考古學描述的．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"火之七日？」"
+				"「最後的悲劇？難道古籍裡所描述的．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49089,7 +49487,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，就是妳們口中的火之七日。」"
+				"「沒錯，就是妳們口中的火之七日。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -49098,7 +49496,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				13,
+				1,
 				0,
 				2
 			]},
@@ -49106,10 +49504,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可以跟我說說．．．那個火之七日的經過嗎"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"「火之七日？我記得好像聽大哥說過。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49121,7 +49516,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「簡單來說．．．就是一面倒的狀態。」"
+				"「火之七日，就是造成月藍國毀滅殆盡的一場"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"內戰。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49133,10 +49531,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原本月藍國的軍備，就已經使用大量、不由"
+				"「沒有被外國入侵，月藍國亡國的原因，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人操作的機器。」"
+				"就是因為機器人偶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49148,7 +49546,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而人偶事件後，更是加速了這項決策。」"
+				"「原本月藍國的軍方，已經慢慢的將活人替換為"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"無人操作的機器來進行作戰。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49160,10 +49561,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「許多戰鬥用的機器，早已替換為"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"ＧＸＰＴ３０００型．．．」"
+				"「人偶事件以後，更加速了這項決策。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49175,10 +49573,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就是有著各式金屬外表、各式戰爭機器，"
+				"「許多戰鬥用的器械，早就被替換成了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但核心是由人偶技術控制的AI系統。」"
+				"ＧＸＰＴ３０００型。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49190,10 +49588,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原本這些ＧＸＰＴ３０００型是相當安全的"
+				"「喔，雖然似人的機器人偶被下令銷毀，但是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"作戰用的金屬機器─ＧＸＰＴ－３０００型卻"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"還留著。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49205,7 +49606,34 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可就壞在．．．品涵的存在。」"
+				"「原因是因為他們是月藍國重要的戰力，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"它們也不會影響到富人的利益。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「原本這些ＧＸＰＴ３０００型是很安全的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可就壞在，品涵的存在。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -49217,7 +49645,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳是說品涵？」"
+				"「品涵？這跟她又有什麼關係？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49229,7 +49657,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，品涵屬於２０００型的初代機，具有"
+				"「品涵是ＧＸＰＴ２０００型的初代機，具有"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"獨特的電子駭客能力。」"
@@ -49244,10 +49672,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原本應該被銷毀，但卻被雷歐娜祕密的保存"
+				"「原本應該被銷毀，但卻被雷歐娜皇后撿了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"著。」"
+				"回去，祕密保存著。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49259,10 +49687,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「品涵重新認了雷歐娜為主人，並且對霍恩軍"
+				"「品涵重新認了雷歐娜皇后為主人，並且"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"隊的大量ＧＸＰＴ３０００進行竄改。」"
+				"竄改了霍恩軍隊的ＧＸＰＴ３０００兵團的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"中樞資料。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49274,7 +49705,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人偶的AI，正規管道是無法被修改的。」"
+				"「人偶的AI技術，與月藍國其他科技是完全不同"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的程式編碼，正規管道是無法被修改的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49286,10 +49720,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但有著同源技術的ＧＸＰＴ２０００，卻成"
+				"「但有著同源技術的ＧＸＰＴ２０００，卻成了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"了這關鍵的破口。」"
+				"關鍵的破口。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49301,7 +49735,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這也導致霍恩軍節節敗退．．．」"
+				"「這也導致霍恩軍節節敗退。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -49318,10 +49752,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可如果這樣，應該是雷歐娜勢力統治了月藍"
+				"「可如果這樣，應該是雷歐娜的勢力統治了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"國，月藍國怎麼會毀滅了？」"
+				"月藍國，月藍國怎麼會毀滅了？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -49338,10 +49772,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那是因為．．．霍恩還有個殺手鐧，就是"
+				"「那是因為，霍恩還有個殺手鐧，就是四大神器"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"四大神器的魔力。」"
+				"中儲存的魔力。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -49358,7 +49792,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"好長的故事，終於提到了四大神器．．．"
+				"好長的故事，終於提到四大神器了．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -49370,7 +49804,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這四大神器．．．比機器人大軍還厲害？」"
+				"「四大神器儲存的魔力．．．比機器人軍團"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"還厲害？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49382,10 +49819,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．但前提霍恩要有足夠的時間．．．"
+				"「是的，但如果霍恩主人有足夠的時間，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"」"
+				"他也許能扭轉戰局。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49397,13 +49834,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器．．．其實拚盡了全國之力，打造"
+				"「四大神器，是開國之初，花了全國上下"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"了四顆可以持續產生特定魔法分子的魔法石"
+				"的資源所打造的，四顆可以持續產生特定"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"魔法分子的魔法石。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49460,10 +49897,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並且將四大神器安置於國家的四個角落，讓"
+				"「並且將四大神器安置於國家的四個角落，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"整個力場涵蓋了整個國家。」"
+				"讓整個力場涵蓋整個國家。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49475,10 +49912,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而一般民眾透過神器產生的力場，就可以很"
+				"「而一般民眾透過神器產生的力場，就可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"輕鬆的使用出魔法。」"
+				"很輕鬆的使用出魔法。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49490,7 +49927,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．說四大神器是月藍國的魔法根源"
+				"「所以，說四大神器是月藍國的魔法根源"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"也不為過。」"
@@ -49510,7 +49947,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「自由創造魔法．．．也包含精神魔法嗎？」"
+				"「自由創造魔法，包含精神魔法嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49534,10 +49971,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「影響全國的魔法力場．．．如果還是精神"
+				"「影響全國的魔法力場，如果還是精神魔法"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"魔法的話．．．」"
+				"的話．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -49549,7 +49986,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「果然．．．母后的\\N[68]計畫．．．」"
+				"「果然，母后的\\N[68]計畫．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"關鍵還是在四大神器上。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -49567,7 +50007,7 @@
 				"「如果能夠自由創造魔法與力場，這樣聽起來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"月藍王說什麼也不應該會輸的．．．」"
+				"月藍王說什麼也不應該會輸的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -49579,10 +50019,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你剛才說要有足夠的時間，莫非是來不及改"
+				"「你剛才說要有足夠的時間，莫非是來不及"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"寫？」"
+				"創造出強力的魔法？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -49592,7 +50032,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -49600,25 +50040,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．畢竟當時四大神器的指令，是為"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"了簡化全國人民使用魔法的困難度，而非拿來"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"當戰爭武器。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「修改指令也不是一時三刻改變的了的．．．」"
+				"「對，也不對。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49630,10 +50052,37 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而在這場火之七日開打前一刻，霍恩提前"
+				"「當時四大神器的指令，是為了簡化全國人民"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"知曉了這叛亂行動。」"
+				"使用魔法的困難度，而非作為戰爭武器使用。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「修改內部的指令不是一時三刻改變的了的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而在火之七日開打的前一刻，霍恩主人藉由"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"擁護者們，提前知曉了叛亂行動。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49657,10 +50106,30 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以他將娟姊安置於守護洞窟，避免她被"
+				"「他唯一能做的，只有將娟姊安置於守護洞窟，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"叛軍所傷。」"
+				"避免她被叛軍所傷。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				1,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_2",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49672,10 +50141,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並且．．．緊急的將四大神器的魔力全部抽"
+				"「並且緊急的將四大神器的魔力全部抽離，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"離，儲存到手中的介質內。」"
+				"儲存到手中的介質內。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49687,7 +50156,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並將四大神器放入魔寧次元．．．可理解為"
+				"「並將四大神器存入魔寧次元，你們可以理解為"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"放到空間的夾縫中。」"
@@ -49702,17 +50171,17 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「手中的戒指形狀的介質．．．聚集了全國的"
+				"「霍恩主人手中的戒指形狀的介質，聚集了全國"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"魔法能量，所以即使ＧＸＰＴ３０００被竄改，"
+				"所有的魔法能量，所以即使ＧＸＰＴ３０００被"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"霍恩他們還是有勝算。」"
+				"竄改，霍恩主人他們還是有勝算。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -49720,7 +50189,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可就壞在．．．霍恩他．．．心理生病了。」"
+				"「但是，最後月藍國毀滅的原因，卻是因為"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"霍恩主人的心理生病了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -49734,7 +50206,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -49742,7 +50214,31 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說長不長的七日戰爭，無辜者被波擊．．．」"
+				"「打了七日的戰爭，不論輸贏誰都不會幸福，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"無辜者們被戰爭波及，戰爭打完後還有許多"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"事情必須處理。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「社會貧富的差距、雷歐娜皇后對娟姊的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"忌妒與憎恨、政治的爾虞我詐、無辜者的慰問"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"等等。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49754,11 +50250,11 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「社會貧富的差距．．．」"
+				"「每一件事情，都壓的霍恩主人喘不過氣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -49766,11 +50262,11 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雷歐娜對娟姊的忌妒與憎恨．．．」"
+				"「這些事情，都要留給霍恩主人處理。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -49778,46 +50274,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「政治的爾虞我詐．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「每一件事情，都壓的霍恩喘不過氣．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「就像是這些非冒險的鳥事，這堆派系、人士"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"、社會問題，通通丟在維皮哥哥身上．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你們覺得會如何？」"
+				"「你們覺得結果會如何？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -49839,7 +50296,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大家怎麼想我不知道．．．」"
+				"「大家怎麼想我不知道。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -49851,7 +50308,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但我聽了一個頭兩個大，腦袋會爆炸．．．」"
+				"「但我聽的一個頭兩個大，腦袋會爆炸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49863,7 +50320,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．所以霍恩爆炸了．．．」"
+				"「沒錯，維皮，你是霍恩的後代，應該能理解"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"霍恩是怎麼樣的人，所以他爆炸了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49875,7 +50335,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他釋放了介質中所有的魔力．．．」"
+				"「他釋放了介質中所有的魔力，引發了毀滅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"一切的爆炸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49887,7 +50350,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「把自己跟叛軍．．．連同月藍國的文明．．．」"
+				"「把自己跟叛軍，連同月藍國的文明。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -49899,7 +50362,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一起．．．葬送掉了。」"
+				"「全都葬送掉了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -49931,7 +50394,7 @@
 				"「明明只是想過的自由自在，卻被捲入政治"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"鬥爭中．．．」"
+				"鬥爭中。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49943,10 +50406,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「並不是．．．所有人都能夠好好的應對這種"
+				"「並不是所有人都能夠好好的應對這種派系"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"派系問題。」"
+				"問題。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49958,10 +50421,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果四周都沒有理解自己的人，而手中又"
+				"「如果四周都沒有理解自己的人，而手中又有著"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有著毀滅世界的核彈。」"
+				"毀滅世界的核彈。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49976,7 +50439,7 @@
 				"「的確有可能，抱著大家一起死的心態，按下"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"了這個奪命的按鈕。」"
+				"這顆按鈕。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -50020,10 +50483,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果是這樣，那四大神器現在就是在那個什"
+				"「如果是這樣，那四大神器現在就是在你所謂"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"麼空間內．．．」"
+				"的魔寧次元中．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -50043,14 +50506,14 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也難怪母后找不到四神器．．．原來根本就"
+				"「難怪母后找不到四神器，原來根本就不在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不在泥土內。」"
+				"元素大陸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -50058,7 +50521,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．但也因此而產生了麻煩．．．」"
+				"「這就是為什麼要拜託你們尋找四大神器的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"原因。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -50070,7 +50536,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「發生了什麼事情嗎？」"
+				"「啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50082,10 +50548,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器．．．它們被放到的那個次元"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「四大神器，它們被放到魔寧次元裡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50097,7 +50560,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「魔力是不會消散的．．．」"
+				"「魔力並不會消散。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -50121,13 +50584,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．四大神器會隨著時間流動，自動"
+				"「四大神器會隨著時間流動，自動產生魔力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"產生魔力，可問題是．．．神器乘載的魔力"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"容量有限。」"
+				"但是，神器乘載的魔力容量有限。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50142,10 +50602,10 @@
 				"「如果是一般的元素世界，溢出的魔力會跟"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"自然界中的魔法分子中和，但在那裡卻無法"
+				"自然界中的魔法分子中和，但在那裡沒有任何"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"中和。」"
+				"可以和它中和的分子存在。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50157,19 +50617,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．放到最後．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				0,
-				0,
-				2
+				"「所以，放到最後，神器會釋放出強大的魔力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「神器會爆炸．．．」"
+				"像當年火之七日一樣爆炸。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -50206,7 +50657,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「爆炸．．．很劇烈的爆炸嗎？」"
+				"「爆炸！？那威力有多大？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -50218,7 +50669,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩跟我說過．．．世界會崩壞？」"
+				"「霍恩跟我說過，世界會毀滅。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50230,11 +50681,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．世界會崩壞．．．」"
+				"「月藍王國，當時是一個非常強盛的國家，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"統一了全世界，佔據了整個大陸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -50242,11 +50696,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「世界．．．就像是一個房間．．．」"
+				"「當時四大神器儲存的魔力量，遠遠沒有達到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"上限。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -50254,14 +50711,11 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而四神器．．．就是埋藏在牆壁內的炸藥"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「僅僅釋放出來，就能將整片大陸徹底摧毀。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -50269,22 +50723,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果炸藥爆炸了，你們覺得這個房間還會是"
+				"「如果四大神器的魔力儲存至臨界點，並且"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"房間嗎？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「天空破了大洞，海水流入深淵．．．」"
+				"全部釋放。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50296,10 +50738,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「世界崩塌．．．維繫所有物種的基鍵全部"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"斷裂．．．混雜．．．」"
+				"「天空會被撕裂，海水將流入深淵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50311,14 +50750,11 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然不像是火山爆發，但恐怕大家離死亡也"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"不遠了。」"
+				"「世界會整個毀滅，徹底回歸一片虛無。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				0,
 				0,
 				2
 			]},
@@ -50326,10 +50762,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．為了世界的穩定，這也是我們"
+				"「所以，為了世界的穩定，這也是我們必須要把"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"必須要把四大神器取出來的原因．．．」"
+				"四大神器取出來的原因。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -50368,10 +50804,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我懂了．．．難怪在夢境時，霍恩支支吾吾的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．"
+				"我懂了，難怪在夢境時，霍恩支支吾吾的。"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -50388,7 +50821,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"原來是他媽的要幫他擦屁股．．．．"
+				"原來他媽的是要我幫他擦屁股！"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50400,22 +50833,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而要讓四大神器重新登場．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				0,
-				0,
-				2
+				"「而要把四大神器取出來，風鈴，妳和維皮"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「小鈴．．．妳跟維皮哥哥都是不可缺少的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"關鍵．．．」"
+				"都是不可或缺的關鍵。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -50467,10 +50888,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為．．．你們的組合．．．是所有結果的"
+				"「因為，你們的組合，是所有結果的成功率中，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"成功率中，最高的一組。」"
+				"最高的一組。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -50482,7 +50903,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是什麼意思？？」"
+				"「這是什麼意思？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50494,7 +50915,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就是字面上的意思，為了守護世界的穩定，"
+				"「就是字面上的意思，為了維持世界的穩定，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"我必須從眾多的可能性中，挑選成功率最高的"
@@ -50512,10 +50933,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟．．．就算是時間魔法，也無法違逆因"
+				"「因為，就算是時間魔法，也無法違逆因果律"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"果律的束縛。」"
+				"的束縛。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -50535,10 +50956,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因果律是什麼？怎麼又有一個聽不懂的東西"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「因果律是什麼？怎麼又有聽不懂的東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -50567,7 +50985,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抱歉，這我也沒辦法給你很正確的答案．．．"
+				"「關於這個，我也沒辦法給你很正確的答案，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"因為時空魔法，在月藍國也只是才剛開始研究"
@@ -50620,13 +51038,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．即使是這樣，也無法做到絕對的"
+				"「可是，即使是這樣，也無法做到絕對的干擾，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"干擾，就像是我們無法回到過去，去殺死懷著"
+				"就像是我們無法回到過去，去殺死懷著你的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你的母親。」"
+				"母親。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50638,13 +51056,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個無形的干擾，我們稱呼為因果律，目前"
+				"「這個無形的干擾，我們稱呼為因果律，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"只知道，修改越近的時空，因果律的束縛越強"
+				"目前只知道，修改越近的時空，因果律的束縛"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"會越強。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50656,10 +51074,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也許這個因果律，就是這個時間河流的一種"
+				"「也許這個因果律，就是時間的一種保護機制"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"保護機制吧。」"
+				"吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50671,22 +51089,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而召喚小鈴前來協助維皮哥哥，是在不受到"
+				"「而召喚風鈴前來協助你，是在不受到因果律"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"因果律干擾．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「所有的可能性下．．．成功率最高的組合。」"
+				"干擾下，所有的可能性中成功率最高的組合。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -50715,10 +51121,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以並非我有什麼關鍵，而是我衰的意思嗎"
+				"「所以並非我有什麼特別的地方，而是我衰的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"意思嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50730,10 +51136,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳要這樣解讀也是可以．．．可人家並不這"
+				"「妳要這樣解讀也是可以，可是我不這麼"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"樣認為．．．」"
+				"認為。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50745,10 +51151,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟你們兩人，有著幾個能夠幫助成功的要"
+				"「畢竟你們身上，有幾個能夠提高成功率的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"素。」"
+				"要素存在。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50760,7 +51166,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「什麼意思嗎？」"
+				"「什麼意思？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -50778,7 +51184,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「1.維皮的血脈．．．」"
+				"「1.你們兩個的血脈。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50790,10 +51196,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器．．．當時避免落入歹人之手，"
+				"「四大神器，當時就是為了避免被雷歐娜皇后"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上面刻有魔法刻印，也就是守護獸．．．」"
+				"的幕僚們奪走，上面刻有魔法刻印，會召喚出"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鎮守它的守護獸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50805,10 +51214,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果是尋常人，會被守護獸視為敵人而攻擊"
+				"「如果是普通人，會被守護獸視為敵人而被"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"攻擊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50820,10 +51229,103 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可維皮擁有霍恩的血脈，守護獸判定他是"
+				"「維皮擁有霍恩的血脈，守護獸應該不會判定"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"敵人的機率最低。」"
+				"他是敵人。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「至於風鈴，或許妳自己沒有察覺，妳能學會"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔法並不是偶然。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「記得我前面說的嗎？會使用科技的人和對"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔法有親和力的人合作，才誕生了月藍文明。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而妳，就是擁有魔法潛力的超古代人，在"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"血統上也與霍恩相近，霍恩甚至可能要叫妳"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"一聲曾外祖母。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				3,
+				false
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「曾曾曾曾曾曾曾曾（以下省略）外祖母好～」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				7,
+				false
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你信不信我等等用法杖敲你？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				8,
+				true
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -50838,7 +51340,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「2.魔法相性．．．」"
+				"「2.程式語言。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50850,10 +51352,40 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴妳其實有著跟魔法生物高親和的相性，"
+				"「風鈴，你除了擁有魔法適性之外，妳在那個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"只要適當機緣，魔法生物會視妳為同類。」"
+				"時代，主修的也是理工科。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你們那個時代的工科知識，就是月藍文明"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的雛形，妳沒有發現妳其實意外的很了解"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"古代遺物嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我還以為只是偶然。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50880,7 +51412,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「3.語文能力．．．」"
+				"「3.語文能力。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50892,7 +51424,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴妳看得懂古月藍文字對吧？」"
+				"「風鈴，妳看得懂古月藍文字對吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50904,10 +51436,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．雖然字形不太一樣，但有點像是"
+				"「嗯，雖然字形不太一樣，但有點像是人家"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人家那時候的英文．．．」"
+				"那時候的英文．．．」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -50922,7 +51454,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．其他部份我就不說了．．．」"
+				"「基於上述幾點，所以才選中了妳，並不是"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"什麼因為你運氣不好這些原因。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50934,10 +51469,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之，人家必須讓妳來，畢竟這是成功率"
+				"「所以，我才選中了妳，畢竟這是成功率最高的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"最高的方法。」"
+				"方法。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50949,7 +51484,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「按照我原本的計算．．．，其實妳應該會在"
+				"「按照我原本的計算，其實妳應該會在"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"最果之雨村，跟維皮相識。」"
@@ -50964,10 +51499,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是時間受到了干擾，妳提早了二年就來這"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「可是時間受到了干擾，妳提早了二年過來。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -50996,10 +51528,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．還記得我說，時間就像是一個"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"流動的溪流。」"
+				"「還記得我說，時間就像是一個流動的溪流。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51023,10 +51552,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在新產生的漣漪還沒消失前．．．如果又多"
+				"「在新產生的漣漪還沒消失前，如果又多丟了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"丟了一顆石頭．．．」"
+				"一顆石頭。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51038,10 +51567,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兩顆石頭產生的漣漪，就會把時間河流攪亂"
+				"「兩顆石頭產生的漣漪，就會把時間河流攪亂，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，造成許多怪異的時間異狀。」"
+				"造成許多怪異的時間異狀。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51053,7 +51582,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「會產生多少混亂，人家這邊也無法確定．．．」"
+				"「會產生多少混亂，我也無法計算出來。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -51075,10 +51604,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我當時在最果之雨村．．．山腳下看到的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小鈴．．．」"
+				"「那我當時在最果之雨村山腳下看到的小鈴？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51090,7 +51616,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．很有可能是二年前的她．．．」"
+				"「嗯，有可能是二年前的她。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -51125,10 +51651,82 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了．．．說了這麼多，你們應該也聽累了"
+				"「好了，你們還有什麼問題不清楚的嗎？」"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				11,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				11,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				11,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				12,
+				8,
+				true
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51143,7 +51741,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．為了世界的穩定．．．」"
+				"「為了世界的穩定，維皮、風鈴，還有在座的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"各位。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51155,22 +51756,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥．．．小鈴．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「還有在座的各位．．．你們願意幫忙．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"取回四大神器嗎？」"
+				"「你們願意幫忙取回四大神器嗎？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51219,10 +51805,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果按照勇者RPG來說，這時候應該是天崩"
+				"「如果按照勇者繪本來說，這時候應該是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"地裂，魔物橫行．．．」"
+				"天崩地裂、魔物橫行．．．」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"2000_Opening1","volume":15,"pitch":100,"pan":0}
@@ -51246,7 +51832,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「世界上需要一個大勇者．．．來拯救蒼生。」"
+				"「世界上需要一個大勇者，來拯救蒼生。」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"2000_Opening1","volume":25,"pitch":100,"pan":0}
@@ -51270,10 +51856,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「卻沒想到．．．現在居然是如此平凡的原因"
+				"「沒想到，這個重責大任居然落到了我這個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"平凡人身上。」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"2000_Opening1","volume":35,"pitch":100,"pan":0}
@@ -51321,10 +51907,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「的確．．．或許大家都想當勇者．．．當"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"那個拯救世界的英雄。」"
+				"「有的時候，意外就是來的那麼突然。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51336,7 +51919,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．就像是一個家庭的爸爸．．．」"
+				"「就像火之七日一樣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51348,10 +51931,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了自己的家庭，忍受上司的刁難，只為了"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"多賺一筆錢。」"
+				"「不論如何，這些事情總要有人去做的不是？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51363,79 +51943,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了照顧自己的小孩，半夜餵奶，幾乎整夜"
+				"「你們的旅途中，不也有過好幾次突然的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"無法好好入睡．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「為了自己的伴侶，犧牲了多少自己的夢想，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"為了就是給對方一個更合適的家。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「對這個家來說，他們就是勇者。」"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{「平凡．．．\\}也可以很偉大。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「況且．．．為了解決世界的隱患，維皮哥哥"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"你也不平凡。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你只是．．．沒有掌聲而已．．．」"
+				"意外嗎？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51507,42 +52018,15 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但自從我跟大哥經歷了這趟非凡的旅途後，"
+				"「但自從我跟大哥經歷了這趟意義非凡的旅途"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"頭一次感覺自己還是很有才能的．．．」"
+				"後，頭一次有想要保護什麼的感覺．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				11,
 				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「既然都出來旅行了！就來轟轟烈烈的大幹一"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"場吧！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳說的沒錯！平凡又如何！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51554,7 +52038,43 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要自己知道自己的偉大，那就足夠了！！！」"
+				"「我還要和娟白頭偕老，度過餘生呢，世界毀滅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的話，我要怎麼過上快樂生活啊！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「況且，馬大叔、王大媽，最果之雨村的大家"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"對我這麼好，旅途上也遇到那麼多願意幫助我"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的好人，就算是為了他們，我也要挺身而出！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你都說了非我不可吧？那就來轟轟烈烈的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"大幹一場吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -51566,7 +52086,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．人家永遠追隨達令。」"
+				"「嗯．．．人家會一直陪在達令身邊的。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -51596,10 +52116,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「老實說．．．因為妳的自私，其實．．．"
+				"「老實說，因為妳的自私，其實我非常的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我非常的不開心。」"
+				"不開心。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51611,10 +52131,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明我就像是不相關的人，卻因為妳的成功"
+				"「明明我就像是不相關的人，卻因為妳說的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"率，讓我被拖來這．．．」"
+				"成功率，把我拖來這．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -51623,7 +52143,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				3,
 				0,
 				2
 			]},
@@ -51631,7 +52151,22 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可．．．不開心又如何？」"
+				"「不過，不開心又能怎麼樣？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「事情都發生了，來都來了，該面對的還是要"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"面對。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51643,7 +52178,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「事情都發生了，該面對的還是要面對。」"
+				"「雖然來到這裡是個充滿血淚的回憶，但我也"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"因此認識了好多意想不到的人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51655,10 +52193,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「來到這裡，雖然是個充滿血淚的回憶，"
+				"「我也學會了小說動畫中才有的魔法，這樣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但我也因此認識了好多人。」"
+				"算起來，應該不虧啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51670,22 +52208,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也學會了小說動畫中才有的．．．魔法。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				1,
-				0,
-				2
+				"「既然我是妳口中重要的關鍵，那就讓我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「既然我是妳口中重要的關鍵，那也讓我盡一"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"份力吧。」"
+				"盡一份力吧。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51705,10 +52231,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本小姐沒這麼偉大～這個世界的死活，老實"
+				"「我沒這麼偉大喔～這個世界的死活，老實說"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"說一點都不在乎。」"
+				"我一點都不在乎。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -51747,10 +52273,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我還欠他一頓中餐．．．就用這次事件，來"
+				"「我還欠他一頓飯，就用這次事件，來償還"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"償還他的恩情吧。」"
+				"他的恩情吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51762,10 +52288,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過，冰月．．．四大神器入手後，可以讓"
+				"「不過，冰月，四大神器入手後，可以讓我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我研究一番嗎？」"
+				"研究一下嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51780,7 +52306,7 @@
 				"「畢竟這是母后的夢想，我也想幫母后完成"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這心願。」"
+				"這個心願。」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"冰月已經看到未來會被奪走"
@@ -51823,7 +52349,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我知道了．．．」"
+				"「我知道了。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51948,7 +52474,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們．．．看我幹什麼？」"
+				"「你們看我幹什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51984,10 +52510,25 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對我來說．．．能夠接觸到這些古文明一切，"
+				"「接觸到這裡的古文明，聽到當年的歷史故事，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"就是最好的禮物了。」"
+				"這些就當是我的報酬了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「反正四票對一票，大哥也不可能說不去，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"對吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51999,10 +52540,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真掃興，還以為你這撲克臉會講什麼東西呢"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「真掃興，還以為你這病鬼會講什麼東西呢。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -52064,7 +52602,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然各位都願意幫忙，冰月我在這先謝謝"
+				"「既然你們都願意幫忙，冰月我在這先謝謝"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"大家了。」"
@@ -52079,19 +52617,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．我們接下來該怎麼做？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「前往封印著四大神器的位置．．．」"
+				"「所以，我們要去哪找四大神器？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -52103,7 +52629,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但在這之前．．．」"
+				"「在這之前。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -52130,7 +52656,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「出了這裡，往\\C[2]大廳的另一側傳送點\\C[0]前進就"
+				"「出了這裡，往\\C[2]大廳的另一側傳送點\\C[0]走就"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"可以了。」"
@@ -52612,10 +53138,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不曉得．．．冰月讓我們去那裡，有何用意"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「不曉得冰月讓我們去那裡要幹嘛。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -52627,10 +53150,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我今天早上去過那邊，有很多不明的魔晶石"
+				"「我今天早上有去過那邊，有很多充滿能量的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"魔晶石。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -52642,7 +53165,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「難不成．．．有什麼魔法需求？」"
+				"「難不成，是要開傳送陣帶我們過去？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -52730,10 +53253,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「選定目標後就貫徹執行，才是本小姐的座右"
+				"「選定目標後就貫徹執行，才是本小姐的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"銘。」"
+				"座右銘。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -52776,7 +53299,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"話說．．．大哥呢？"
+				"嗯？大哥呢？"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"攸特這邊的耽擱是伏筆"
@@ -52861,7 +53384,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大哥怎麼了？怎麼慢了？」"
+				"「大哥怎麼了？怎麼這麼慢？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -52885,10 +53408,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟這裡．．．可比什麼古代遺跡要來的棒"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"多了。」"
+				"「畢竟這裡，可比什麼古代遺跡來的棒多了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -52900,10 +53420,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只是剛拿出工具時，就被冰月小姐制止了"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「只是剛拿出工具時，就被冰月小姐制止了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -52915,10 +53432,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在那邊喊說．．．"
+				"「在那邊喊說，『放下那支起子，你想對我的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"『放下那支起子，你想對我的遺跡做什麼！』」"
+				"身體做什麼！』」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -52930,7 +53447,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「然後就被趕出來了．．．」"
+				"「然後就被趕出來了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -52982,7 +53499,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然人都到了，大家動身吧．．．」"
+				"「既然人都到了，大家就走吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -53387,16 +53904,16 @@
 				120
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
+				"BLR_IceMoon",
 				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
+				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個是．．．？」"
+				"「你們來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53408,10 +53925,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要讓你們面對四大神器的守護獸，"
+				"「要讓你們面對四大神器的守護獸，沒有足夠的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"沒有足夠的力量是不行的．．．」"
+				"力量是不行的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53423,7 +53940,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是．．．讓你們獲得力量的管道。」"
+				"「這些就是，讓你們獲得力量的管道。」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"1開頭問題測驗","volume":50,"pitch":100,"pan":0}
@@ -53438,7 +53955,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家稱呼它為．．．．\\C[2]『技能之心』\\C[0]」"
+				"「我稱呼它為，\\C[2]『技能之心』\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -53462,10 +53979,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的．．．特化你們部分招式，讓你的武藝"
+				"「沒錯，特化你們的部分招式，將你的技能"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"更加精進。」"
+				"進行昇華。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53477,7 +53994,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還記得．．．在數位世界的那些招式？」"
+				"「還記得在數位世界的那些技能嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -53489,7 +54006,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「莫非就是那些！！！」"
+				"「欸！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -53501,7 +54018,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳還騙我們無法帶回來呢！」"
+				"「妳還騙我們沒辦法帶回來！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53513,7 +54030,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嘻嘻，就是想捉弄你們一下。」"
+				"「因為那時候還沒有把程序編寫完，所以也"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不敢跟你們打包票。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53525,19 +54045,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但是．．．技能之心\\C[2]總數\\C[0]是有限制的。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「而每個人都\\C[2]可以學兩種\\C[0]。」"
+				"「不過，技能之心\\C[2]總數\\C[0]是有限制的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53549,7 +54057,19 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以你想\\C[2]專精少數人\\C[0]，少數人\\C[2]兩種都學\\C[0]，"
+				"「而每個人最多\\C[2]可以學兩種\\C[0]。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「所以你想只\\C[2]專精少數人\\C[0]，讓他們\\C[2]兩種都學\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"還是平均戰力、\\C[2]大家都有學到\\C[0]，取決於你自己的"
@@ -53570,7 +54090,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥！」"
+				"「維皮！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -53609,13 +54129,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【奮勇之心】\\C[0]將會強化你的\\C[6]拳法\\C[0]，"
+				"「\\C[2]【奮勇之心】\\C[0]將會強化你的\\C[6]拳法能力\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"使你具有\\C[6]猛烈輸出\\C[0]外，還能降低敵人\\C[6]防禦與"
+				"使你能夠\\C[6]以迅雷之勢發動攻擊\\C[0]，還能降低敵人\\C[6]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"魔防\\C[0]，並加速你的ＴＰ收集。」"
+				"防禦與魔防\\C[0]，並加速你的ＴＰ收集。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53627,10 +54147,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「配合\\C[6]奧義-兩極波動\\C[0]"
+				"「配合上\\C[6]奧義-兩極波動\\C[0]，為你提供大範圍的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"將為你提供你大範圍的全體強力轟炸力。」"
+				"全體強大破壞力。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53642,13 +54162,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【鬼影之心】\\C[0]將會強化你的劍法，"
+				"「\\C[2]【鬼影之心】\\C[0]將會強化你的刀法能力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]火焰、聖光、極限斬\\C[0]均會強化，鬼影使你的\\C[6]迴"
+				"\\C[6]火焰、聖光、極限斬\\C[0]均會強化，鬼影使你的\\C[6]迴避"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"避\\C[0]更進一步，讓你成為又痛又閃的劍客。」"
+				"\\C[0]更進一步，讓你成為一名無影無蹤的刀客。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53660,13 +54180,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[6]奧義-爆裂連牙\\C[0]"
+				"「\\C[6]奧義-爆裂連牙\\C[0]，單體無視防禦輸出技能，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"單體無視防禦輸出技能，是你最強的傷害奧義"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"是你最強的傷害奧義。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -53681,7 +54198,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「娟姊～」"
+				"「娟姊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -53705,10 +54222,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「身為維皮哥哥的伴侶，妳一直是隊伍堅實的"
+				"「身為維皮的伴侶，妳一直是隊伍堅實的壁壘，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"肉盾，能扛能打．．．」"
+				"能夠戰鬥，也能輔助。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53720,13 +54237,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【慈愛之心】\\C[0]將會強化妳的輔助力，"
+				"「\\C[2]【慈愛之心】\\C[0]將會強化妳的輔助能力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"治癒魔法將會全面升級，不但\\C[6]治療量提升\\C[0]、具"
+				"治癒魔法將會全面升級，不但\\C[6]治療量提升\\C[0]、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有\\C[6]復活效果\\C[0]，還能附加幸運上升的效果。」"
+				"還具有\\C[6]復活效果\\C[0]，同時附加幸運上升的功能。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53738,7 +54255,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「除此之外、\\C[6]更強的嘲諷技能\\C[0]使妳更能夠保護"
+				"「除此之外、\\C[6]更強的嘲諷技能\\C[0]，使妳更能夠保護"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"隊友，使妳成為隊伍不可缺的盾牌。」"
@@ -53753,13 +54270,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【自然之心】\\C[0]將會強化妳的輸出力，"
+				"「\\C[2]【自然之心】\\C[0]將會強化妳的元素親和力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"大幅提升\\C[6]風、水屬性\\C[0]的輸出外，新增的\\C[6]冰屬性\\C[0]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"特性也將增加妳的打點面。」"
+				"特性也將增加妳攻擊的屬性多樣性。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53786,14 +54303,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最重要的．．．不論是哪種型態．．．"
+				"「最重要的，不論是哪種型態，\\C[2]都能夠解鎖"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[2]狂暴模式將解鎖！\\C[0]」"
+				"狂暴模式！\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				0,
+				1,
 				0,
 				2
 			]},
@@ -53801,10 +54318,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「保險起見不能讓妳整場發揮，但遇到危急的"
+				"「我將狂暴晶片改良過了，雖然啟動的需求"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"時刻，就化身為女武神吧！」"
+				"變多了，但是對身體的負擔降低了，如果遇到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"危急的時刻，就將它啟動吧！」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -53819,7 +54339,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特～」"
+				"「攸特。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -53843,13 +54363,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「身為維皮哥哥的導師，你一直是旅途中佔有"
+				"「身為維皮的導師，你一直在旅途中佔有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"很重要的地位，不論是輸出還是治癒，都是很"
+				"很重要的地位，不論是攻擊還是治癒都能辦到，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"重要的輔助者。」"
+				"是個很稱職的輔助者。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53861,13 +54381,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【丹心之心】\\C[0]將再次強化你的輔助力，"
+				"「\\C[2]【丹心之心】\\C[0]將再次強化你的輔助能力，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"治癒魔法將會附加\\C[6]再生效果\\C[0]，讓大家\\C[6]持續恢復"
+				"治癒魔法將會附加\\C[6]再生效果\\C[0]，讓大家\\C[6]持續"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"HP\\C[0]。」"
+				"恢復HP\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53879,13 +54399,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「萬靈淨化，除了清除全狀態異常，更可以替"
+				"「萬靈淨化，除了解除全狀態異常外，更可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大家\\C[6]免疫狀態異常的攻擊\\C[0]，讓大家在\\C[6]配裝上\\C[0]可"
+				"替大家\\C[6]免疫狀態異常的攻擊\\C[0]，最重要的是，\\C[6]使用"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"以更加的自由。」"
+				"它之後，再也不會把能力強化給消除掉了\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53897,13 +54417,31 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【詭雷之心】\\C[0]將會強化你的輸出力，"
+				"「奧義\\C[6]高效恢復結界，能有效提高受到的恢復"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]雷系輸出\\C[0]大幅提升，毒系輸出不但有能\\C[6]持續傷"
+				"效果和藥品的使用效果，神秘治療III能大幅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"害的侵蝕\\C[0]，也有\\C[6]降低敵人攻擊、魔攻的效果\\C[0]。」"
+				"提高我方HP上限，並提供4次行動的HP恢復。\\C[0]」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「\\C[2]【詭雷之心】\\C[0]將會強化你的雷元素親合力，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]雷系輸出\\C[0]大幅提升，毒系輸出不但有能\\C[6]持續傷害"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的侵蝕\\C[0]，也有\\C[6]降低敵人攻擊、魔攻的效果\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53918,10 +54456,10 @@
 				"「\\C[6]奧義-滅世奔雷\\C[0]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"除了造成大量的傷害外，最大特色在於還會定"
+				"除了造成大量的傷害外，最大特色在於還會定時"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"時放電，定時給予全體敵人傷害跟擊退ATB。」"
+				"放電，定時給予全體敵人傷害跟擊退ATB。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -53936,7 +54474,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如如～」"
+				"「如如。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -53963,7 +54501,7 @@
 				"「雖然是最晚加入的妳，但在隊伍中，也是很"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"關鍵的輸出擔當。」"
+				"重要的輸出擔當。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -53975,10 +54513,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【漆黑之心】\\C[0]讓妳更加專精於\\C[6]暗魔法\\C[0]上"
+				"「\\C[2]【漆黑之心】\\C[0]讓妳更加專精於\\C[6]暗魔法\\C[0]上，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，部分招式具有\\C[6]絕對爆擊\\C[0]的特性，而\\C[6]駭惡狀態\\C[0]，"
+				"部分招式具有\\C[6]絕對爆擊\\C[0]的特性，而\\C[6]駭惡狀態\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"能夠\\C[6]降低敵人的暗抗性與爆擊、抗暴率\\C[0]。」"
@@ -54008,13 +54546,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]【奧元之心】\\C[0]讓妳更加專精於\\C[6]火、土、冰魔法\\C[0]"
+				"「\\C[2]【奧元之心】\\C[0]開發妳的另一種可能性，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，強化三種屬性的攻擊，讓妳更可以對應不同"
+				"專精於\\C[6]火、土、冰魔法\\C[0]，強化三種屬性的攻擊，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"抗性的敵人。」"
+				"讓妳更可以對應不同抗性的敵人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -54029,10 +54567,7 @@
 				"「此外，三種攻擊分別能夠\\C[6]降低敵人的雙攻、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"雙防、速度\\C[0]，使自己成為敵人眼中討厭的干擾"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"者。」"
+				"雙防、速度\\C[0]，成為敵人眼中討厭的干擾者。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -54044,10 +54579,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最重要的．．．不論是哪種型態．．．"
+				"「最重要的，不論是哪種型態，\\C[2]都能夠解鎖"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[2]魔女化將解鎖！\\C[0]」"
+				"魔女化！\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -54059,13 +54594,13 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「魔女化期間雖然會持續消耗自己的血量，但"
+				"「魔女化期間雖然會持續消耗自己的血量，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"換來的就是超額的輸出，讓自己更加坐實魔女"
+				"但以此為代價獲得的就是超額的輸出，讓自己"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"之名。」"
+				"更加坐實魔女之名。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -54080,7 +54615,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴～」"
+				"「風鈴。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -54104,7 +54639,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很可惜．．．唯獨妳沒有技能特化。」"
+				"「很可惜，唯獨妳沒有技能特化。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -54156,10 +54691,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為．．．人家有更重要的使命，拜託妳處"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"理。」"
+				"「因為，我有更重要的事情，想拜託妳處理。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -54171,7 +54703,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「更重要的．．．嗎．．．」"
+				"「什麼？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -54186,10 +54718,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那麼．．．我順便幫你們計算一下，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"你們這次旅行的情形．．．」"
+				"「我幫你們計算一下，你們這次旅行的情況。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -54214,7 +54743,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「民望．．．\\V[15]點．．．」"
+				"「民望總共獲得了\\V[15]點。」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"此處變數58=8，代表遊戲開始有輸入密技"
@@ -54236,10 +54765,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「啊．．．因為你輸入了秘技，"
+				"「啊，因為你輸入了秘技，共可以獲得\\C[2]\\V[58]個"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"共可以獲得\\C[2]\\V[58]個\\C[0]技能之心！」"
+				"\\C[0]技能之心！」"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"checked"
@@ -54300,7 +54829,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -54308,19 +54837,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過．．．居然有這隱藏分數．．．？」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_IceMoon",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「你都最高分了．．．講這話欠抽？」"
+				"「不過，居然沒辦法知道自己有多少民望。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54332,13 +54849,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過幫你複習吧．．．部分任務、小遊戲、"
+				"「當然了，畢竟這不是遊戲，而是現實世界"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"必敗的BOSS戰鬥，都會依據表現獲得民望"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"。」"
+				"嘛。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54350,13 +54864,43 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「尤其是必敗戰，如果只是要你看劇情，為什"
+				"「人生是沒有後悔藥的，一次又一次的選擇，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"麼不開場直接把你們秒光光？而是循序漸進的"
+				"最後造就出了這個結果。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"變難？」"
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「部分的任務、小遊戲、必敗的BOSS戰鬥，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都會依據你的表現獲得民望。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「尤其是必敗戰，如果只是要你看劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"為什麼不開場直接把你們全部打倒？還要"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"循序漸進的變難？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -54432,7 +54976,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -54440,19 +54984,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過．．．居然有這隱藏分數．．．？」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_IceMoon",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「你都這麼高了．．．還講這種欠揍的話？」"
+				"「不過，居然沒辦法知道自己有多少民望。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54464,10 +54996,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「幫你複習．．．部分任務、小遊戲、必敗的"
+				"「當然了，畢竟這不是遊戲，而是現實世界"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"BOSS戰鬥，都會依據表現獲得民望。」"
+				"嘛。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54479,13 +55011,43 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「尤其是必敗戰，如果只是要你看劇情，為什"
+				"「人生是沒有後悔藥的，一次又一次的選擇，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"麼不開場直接把你們秒光光？而是循序漸進的"
+				"最後造就出了這個結果。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"變難？」"
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「部分的任務、小遊戲、必敗的BOSS戰鬥，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都會依據你的表現獲得民望。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「尤其是必敗戰，如果只是要你看劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"為什麼不開場直接把你們全部打倒？還要"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"循序漸進的變難？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54523,7 +55085,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．表現的普普喔．．．」"
+				"「嗯，表現普通喔。」"
 			]},
 			{"code":122,"indent":1,"parameters":[
 				58,
@@ -54554,14 +55116,14 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「表現的還不夠好．．．但也夠4人各使用"
+				"「表現的還不夠好，但也夠四個人各用一顆"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"一顆了。」"
+				"了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -54569,7 +55131,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過．．．居然有這隱藏分數．．．？」"
+				"「不過，居然沒辦法知道自己有多少民望。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54581,10 +55143,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「是的唷．．．部分任務、小遊戲、必敗的"
+				"「當然了，畢竟這不是遊戲，而是現實世界"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"BOSS戰鬥，都會依據表現獲得民望。」"
+				"嘛。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54596,13 +55158,43 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「尤其是必敗戰，如果只是要你看劇情，為什"
+				"「人生是沒有後悔藥的，一次又一次的選擇，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"麼不開場直接把你們秒光光？而是循序漸進的"
+				"最後造就出了這個結果。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"變難？」"
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「部分的任務、小遊戲、必敗的BOSS戰鬥，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都會依據你的表現獲得民望。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「尤其是必敗戰，如果只是要你看劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"為什麼不開場直接把你們全部打倒？還要"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"循序漸進的變難？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54640,7 +55232,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「呃．．．這民望也太低了吧。」"
+				"「這民望也太低了吧。」"
 			]},
 			{"code":122,"indent":1,"parameters":[
 				58,
@@ -54671,7 +55263,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「天曉得有這個東西．．．隱藏分數？」"
+				"「天曉得有這個東西，隱藏分數？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54683,10 +55275,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「是的唷．．．部分任務、小遊戲、必敗的"
+				"「當然了，畢竟這不是遊戲，而是現實世界"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"BOSS戰鬥，都會依據表現獲得民望。」"
+				"嘛。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54698,13 +55290,43 @@
 				"冰月"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「尤其是必敗戰，如果只是要你看劇情，為什"
+				"「人生是沒有後悔藥的，一次又一次的選擇，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"麼不開場直接把你們秒光光？而是循序漸進的"
+				"最後造就出了這個結果。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"變難？」"
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「部分的任務、小遊戲、必敗的BOSS戰鬥，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都會依據你的表現獲得民望。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「尤其是必敗戰，如果只是要你看劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"為什麼不開場直接把你們全部打倒？還要"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"循序漸進的變難？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
@@ -54745,10 +55367,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"共有\\C[2]8種\\C[0]技能之心可選擇．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"而我有\\C[2]\\V[58]個\\C[0]．．．"
+				"總共有\\C[2]8種\\C[0]技能之心可以選擇，而我有\\C[2]\\V[58]個\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"該如何選擇，好好的思考一下吧。"
@@ -54871,10 +55490,10 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「或者你要稱呼天賦特化也行，就是強化角色"
+				"「或者你要稱呼天賦特化也行，就是強化角色的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"的部分技能與方向。」"
+				"部分技能與方向。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -54901,10 +55520,10 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「只是．．．技能之心無法讓所有人都吃滿2"
+				"「只是，技能之心沒辦法讓所有人都吃滿兩個，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"個，要如何抉擇．．．就看你怎麼取捨囉。」"
+				"要怎麼抉擇，就看你怎麼取捨囉。」"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"01"
@@ -55915,8 +56534,51 @@
 			{"code":401,"indent":2,"parameters":[
 				"「嗯？你還沒有把所有的技能之心用完喔！」"
 			]},
-			{"code":119,"indent":2,"parameters":[
+			{"code":101,"indent":2,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「莫非你要放棄使用？」"
+			]},
+			{"code":102,"indent":2,"parameters":[
+				[
+					"沒事，我手滑了！",
+					"放棄剩餘的技能之心"
+				],
+				-1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":2,"parameters":[
+				0,
+				"沒事，我手滑了！"
+			]},
+			{"code":119,"indent":3,"parameters":[
 				"heart"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":402,"indent":2,"parameters":[
+				1,
+				"放棄剩餘的技能之心"
+			]},
+			{"code":122,"indent":3,"parameters":[
+				58,
+				58,
+				0,
+				0,
+				0
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":404,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -56738,7 +57400,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_02_1",
-				7,
+				0,
 				0,
 				2
 			]},
@@ -56746,7 +57408,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「全身充滿了魔法力。」"
+				"「感覺全身充滿了能量。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -56876,7 +57538,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．我被排擠了嗎？」"
+				"「我被排擠了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -56888,7 +57550,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當然是為了．．．坐實妳是拖油瓶之實啊。」"
+				"「當然是為了，坐實妳是拖油瓶之實啊。」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				8,
@@ -57008,7 +57670,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那是因為，妳已經有最強的心囉．．．」"
+				"「那是因為，妳已經有最強的心囉。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -57205,7 +57867,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「走吧！大伙動身！」"
+				"「走吧！」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -57840,7 +58502,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「乖～回頭給你糖吃。」"
+				"「嗯，謝謝你，回頭給你糖吃。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_G",
@@ -57991,7 +58653,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是什麼？手機？？？」"
+				"「這是什麼？手錶？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58015,10 +58677,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳把它靠在手腕上，就會幻化成手錶的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大小了。」"
+				"「它不是普通的手錶喔。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -58039,7 +58698,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -58047,7 +58706,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真的耶！」"
+				"「欸．．．它很像那個．．．賈先生做的那個，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"叫什麼來著？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58059,10 +58721,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「面板上有很多文字．．．妳操作起來，應該"
+				"「面板上有很多文字，妳操作起來，應該感覺"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"感覺蠻習慣的吧？」"
+				"蠻習慣的吧？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -58077,10 +58739,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「的確．．．，雖然都是外文，但或多或少看"
+				"「的確，雖然都是月藍語，但或多或少"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的懂。」"
+				"看的懂。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -58092,7 +58754,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這東西，做什麼用的啊？」"
+				"「這東西是做什麼用的啊？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -58107,19 +58769,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[67]」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
+				"「\\N[67]，是當年霍恩因為好玩，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這個機器，雖然是當年霍恩為了好玩，製造"
+				"參考了和妳同一時代的賈先生做的手錶，製造"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"出來的。」"
@@ -58134,7 +58787,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但它也是切開空間，進入魔寧次元的關鍵。」"
+				"「它是切開空間，進入魔寧次元的關鍵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58146,10 +58799,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我請機器人Ｇ輸入了妳的資料，這樣妳就可"
+				"「我請機器人Ｇ輸入了妳的資料，這樣妳就可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"以好好的操作它了。」"
+				"好好的操作它了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -58317,7 +58970,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你是多尼多尼鹿嗎．．．"
+				"你是多尼多尼鹿嗎？"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -58343,7 +58996,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				2,
+				1,
 				0,
 				2
 			]},
@@ -58351,7 +59004,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「咳．．．扯遠了。」"
+				"「因為你有理工相關的知識，我才把它交給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"妳。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -58366,10 +59022,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之，持有這個裝置，你們就能夠進入"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"魔寧次元。」"
+				"「持有這個裝置，你們就能夠進入魔寧次元。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58381,7 +59034,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「至於入口．．．就在目前四個帶有方位名稱"
+				"「至於入口，就在目前四個帶有方位名稱"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的城鎮，他們的附近。」"
@@ -58396,10 +59049,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也就是．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\C[2]敏東村以東、達西村以西、"
+				"「也就是，\\C[2]敏東村以東、達西村以西、"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"鄉南村以南、雪北村以北\\C[0]。」"
@@ -58414,7 +59064,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要在入口附近，這機器就會發出提示。」"
+				"「只要在入口附近，它就會發出提示。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58426,10 +59076,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「然後再透過維皮哥哥與機器的配合，就可以"
+				"「然後再透過維皮與機器的配合，就可以打開"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"打開進入魔寧次元的傳送陣。」"
+				"進入魔寧次元的傳送陣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -58453,13 +59103,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「按照人家的計算，守護神獸應該不會將你們"
+				"「按照我的計算，守護神獸應該不會將你們視為"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"視為敵人，但自己也要注意好，別隨便招惹牠"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"們。」"
+				"敵人，但自己也要注意好，別隨便招惹牠們。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58496,7 +59143,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「此外．．．」"
+				"「還有。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -58518,7 +59165,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴。」"
+				"「風鈴。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58530,14 +59177,14 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還記得我跟妳說過．．．妳跟魔法生物有很"
+				"「如果情況允許的話，也可以把手錶裡四散"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大的親和力，對吧？」"
+				"的力量找回來。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -58545,7 +59192,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯。」"
+				"「嗯？什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58557,7 +59204,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這東西除了是打開魔寧次元的關鍵．．．」"
+				"「這隻手錶，除了是打開魔寧次元的關鍵。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -58577,10 +59224,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還有一個作用，當妳遇到\\C[2]相性吻合\\C[0]"
+				"「還有另一個功能，霍恩在創造出它以後，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的魔法生物時，它就會發光。」"
+				"給它額外增加了一個功能。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58592,10 +59239,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳就可以跟魔法生物簽訂契約，借用他們的"
+				"「能夠藉由它和人、動物之類的簽訂契約，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"魔力。」"
+				"來借用他們的力量。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58607,7 +59254,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「簡單來說．．．就像是\\C[2]召喚獸\\C[0]．．．」"
+				"「簡單來說，就像是\\C[2]召喚獸\\C[0]。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -58627,10 +59274,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「莫非是JRPG內．．．那些有名的召喚獸"
+				"「欸！難道是像遊戲裡面一樣，可以從手錶裡面"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！？」"
+				"召喚出很厲害的召喚獸！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58642,7 +59289,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的唷，還記得妳在數位世界時，不是有隻"
+				"「沒錯，還記得妳在數位世界時，不是有隻"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"火鳳凰嗎？」"
@@ -58658,6 +59305,36 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「它就寄宿在裡面。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「霍恩當年總共用它簽訂了七次契約，也就是"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\c[2]原本裡面擁有七位召喚獸\\c[0]。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但隨著時代過去，那些召喚獸們都離開了，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"只剩下這隻火鳳凰還留在裡面。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58687,7 +59364,7 @@
 				"「此外，所有召喚獸技能都是\\C[2]絕對命中\\C[0]！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"換言之．．．\\C[3]即使是\\C[2]抗燃燒\\C[3]的頭目，在召喚獸"
+				"換言之，\\C[3]即使是能\\C[2]抵抗燃燒\\C[3]的頭目，在召喚獸"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的攻擊下，也有可能會獲得\\C[2]燃燒\\C[0]。」"
@@ -58702,7 +59379,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此，真的是太厲害了！」"
+				"「哇！好厲害！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58714,10 +59391,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們有空的時候也可以去\\C[2]世界各地看看\\C[0]．．．"
+				"「你們有空的時候可以去\\C[2]世界各地看看\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"找看看有沒有願意跟你們簽訂契約的魔物。」"
+				"根據我的計算，那些召喚獸們都還活著。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58730,6 +59407,63 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「收集越多，對你們的旅程越有幫助喔！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸？既然冰月妳都能算出他們還活著，那"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"幹嘛不直接告訴我們他們在哪裡啊？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我要是直接就告訴妳，那不就少了很多探索"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的樂趣嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而且啊，鴿神做這些召喚獸的劇情做的那麼"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"辛苦，你們這麼簡單就想直接帶走？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -58791,10 +59525,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「的確．．．乍看之下給維皮哥哥似乎更正常"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「的確，乍看之下給維皮哥哥似乎更合理。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58806,7 +59537,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但有幾個原因．．．」"
+				"「但是有幾個原因。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58818,10 +59549,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「第一，維皮哥哥不像霍恩主人那樣，有那麼"
+				"「第一，維皮不像霍恩主人那樣，有那麼強大的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"強大的魔法力，給他使用不是最理想的。」"
+				"魔法力，給他使用不是最理想的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58833,10 +59564,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「其次是妳懂月藍古文，魔法相性也最合適，"
+				"「其次是妳懂月藍古文，也會操作古文明機器，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"交給妳使用是最保險的。」"
+				"魔法相性也最合適，交給妳使用是最保險的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58848,7 +59579,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最重要的一點．．．」"
+				"「最重要的一點。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -58862,7 +59593,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				1,
+				2,
 				0,
 				2
 			]},
@@ -58870,19 +59601,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「罷了，你們將來也許就會知道．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\}「感情債有多可怕．．．」"
+				"「你們如果有機會見到他們就會知道了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -58914,7 +59633,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥～」"
+				"「維皮。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -58926,7 +59645,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「回收四大神器的任務．．．拜託你們了。」"
+				"「回收四大神器的任務，就拜託你們了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -58938,7 +59657,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧！交給我們了！」"
+				"「放心吧！交給我們吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -58950,10 +59669,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟．．．這個世界是我熱愛的家園，大家"
+				"「畢竟這個世界是我熱愛的家園，大家都有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"都有義務，保護這個世界。」"
+				"義務，保護這個世界。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -59046,7 +59765,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「各位，動身吧！」"
+				"「各位，出發吧！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -59219,6 +59938,11 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":38,"indent":null}
 			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
 			{"code":230,"indent":0,"parameters":[
 				180
 			]},
@@ -59228,6 +59952,9 @@
 				0,
 				0,
 				10
+			]},
+			{"code":249,"indent":0,"parameters":[
+				{"name":"Musical3","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":117,"indent":0,"parameters":[
 				261
@@ -59248,14 +59975,7 @@
 				0,
 				150
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				1,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"稍微整理一下目前目標．．．"
+			{"code":244,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -59264,22 +59984,19 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"1.到\\C[2]敏東村以東、達西村以西、"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"鄉南村以南、雪北村以北\\C[0]．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"去尋找進入魔寧次元的\\C[2]入口\\C[0]。"
+				"稍微整理一下目前目標。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				0,
+				1,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"回收完\\C[2]4個四大神器\\C[0]後，再\\C[2]回來找冰月\\C[0]。"
+				"1.到\\C[2]敏東村以東、達西村以西、鄉南村以南、"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雪北村以北\\C[0]，去尋找進入魔寧次元的\\C[2]入口\\C[0]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -59288,10 +60005,19 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"2.有\\C[2]餘力\\C[0]的話可以\\C[2]探索世界地圖\\C[0]，"
+				"回收完\\C[2]四個四大神器\\C[0]後，再\\C[2]回來找冰月\\C[0]。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				1,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"看看能否找到跟小鈴締結契約的\\C[2]召喚獸\\C[0]．．．"
+				"2.有\\C[2]餘力\\C[0]的話可以\\C[2]探索世界地圖\\C[0]，看看能否"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"找到霍恩以前留下的\\C[2]召喚獸\\C[0]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -62513,7 +63239,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．大哥我先離開好了．．．」"
+				"「呃．．．大哥我先離開好了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				11,
@@ -62734,10 +63460,10 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還是你想跟ＧＧ說，你的小雞雞是黏上去的"
+				"「還是你想跟ＧＧ說，你的小雞雞是黏上去"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"的？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -62757,7 +63483,19 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我沒關係吧？我好歹是娟的未婚夫吧！」"
+				"「我沒關係吧？我好歹是娟的未婚夫！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"而且我又不是沒看過？該看得我也看了，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不該看的我也看了好不好！"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_G",
@@ -62784,13 +63522,10 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「根據人類法律．．．"
+				"「根據人類法律．．．未婚夫是指一個女性訂婚"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"未婚夫是指一個女性訂婚但尚未結婚的男性伴"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"侶。」"
+				"但尚未結婚的男性伴侶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_G",
@@ -62841,10 +63576,7 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「羞羞臉羞羞臉．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"你是大淫蟲！你是老色胚！」"
+				"「羞羞臉羞羞臉，你是大淫蟲！你是老色胚！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -63935,7 +64667,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雞毛蒜皮的事情．．．」"
+				"「雞毛蒜皮的小事而已。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -64066,7 +64798,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				0,
+				13,
 				0,
 				2
 			]},
@@ -64074,7 +64806,88 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「或許我現在說的話，妳聽不到．．．」"
+				"「妳還好嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「帕卡大師沒辦法完全修好妳，只能替妳做些"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"應急處理，為什麼這些事情都不跟我說？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「妳就是這樣．．．就算自己受委屈，也不跟"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我哭鬧。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「難道我在妳心中，就這麼不值得依靠嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「幸好冰月說能把妳完全修好．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「否則，妳又想一直瞞下去了吧．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「再過幾天，我是不是就能看到完全康復的妳"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了呢？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64091,7 +64904,27 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．妳真美．．．」"
+				"「娟．．．不知道我現在說的話，妳聽不聽"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"得到。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不過．．．妳真美。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64118,7 +64951,7 @@
 				"「我有點理解．．．霍恩為什麼對妳這麼痴迷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"了．．．」"
+				"了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64135,22 +64968,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我承認．．．我看到美女時，往往都會情不"
+				"「我以前，看到美女時，往往都會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"自禁．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「巴不得能夠左擁右抱．．．」"
+				"情不自禁．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64167,10 +64988,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不論是小兔兔、還是雷娜大美女，甚至是小"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"葵小姐。」"
+				"「不論是兔兔、還是雷娜，甚至是小葵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64182,7 +65000,117 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要說我完全沒有一點邪念，那是騙人的。」"
+				"「我見一個愛一個，只要是漂亮的我都喜歡。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我當時看到妳的時候，也一樣。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「看著妳對我投懷送抱、百依百順，讓妳"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"保護我，不管我說什麼妳都會乖乖照做。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我原本以為妳是上天給我這個無賴的禮物。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「沒想到，妳其實是上天派來讓我成長的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"契機。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我真的欠妳太多了．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「對不起，娟．．．還有，謝謝妳．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「從妳身上，讓我明白了一件事。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「愛有的時候，不一定要追求完美，只要兩人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"願意互相扶持，過的下去就可以．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64199,7 +65127,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可我明白了一件事．．．」"
+				"「妳是機器人偶．．．這麼隱晦的事情，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我也沒辦法和大家說。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64211,10 +65142,22 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「愛有的時候．．．不一定要追求完美，只要"
+				"「不過，對我來說，妳就是人，是我的妻子，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"兩人願意扶持，過的下去就可以．．．」"
+				"天使蛋糕。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果我跟妳結婚，陸家的香火就斷了．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64231,10 +65174,22 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳是機器人偶．．．"
+				"「但是，那又怎麼樣呢？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這麼隱晦的事情，也無法跟大家透漏。」"
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「就算娶了妳，我不是還有妹妹嗎？等我找到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"她以後，讓她去煩惱這個問題吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64246,10 +65201,61 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也就是．．．若我跟妳結婚了，陸家的香火"
+				"「我已經決定了！非娶妳不可！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"就斷了．．．」"
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「什麼小三小四的，我通通不需要。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「大家怎麼看我，這都不重要。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果王大媽之後一直唸我怎麼還不生個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"胖小子出來，大不了領養一個就好。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「反正世界上孤兒這麼多，也可以為世界做點"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"貢獻。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -64258,22 +65264,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「當然．．．我也可以再去找小三，跟小三生"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"個胖小子。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
+				13,
 				0,
 				2
 			]},
@@ -64281,27 +65272,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．大家會怎麼看我？王大媽會怎麼"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"看我？」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「而妳．．．又會怎麼看我？」"
+				"「我只在乎．．．妳會怎麼看我。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -64337,51 +65308,6 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":38,"indent":null}
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我相信．．．即使我去找小三，妳也一定會"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"同意。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳就是那種．．．寧願自己受苦、也不願意"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"傷害伴侶的那種人．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「對於這樣的妳．．．我又怎能去傷害妳的心"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"呢．．．」"
-			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
@@ -64402,10 +65328,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「老實說．．．我並不清楚我們將來會面對"
+				"「老實說，我並不清楚我們將來會面對多少"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"多少考驗．．．」"
+				"考驗．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64417,10 +65343,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「甚至．．．妳究竟是愛我．．．"
+				"「甚至，妳究竟是愛我．．．還是只是想從我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還是只是想從我身上找到前世的影子．．．」"
+				"身上找到霍恩的影子．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64469,7 +65395,7 @@
 				"「但．．．不論怎樣．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"2親嘴","volume":90,"pitch":100,"pan":0}
+				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -64484,7 +65410,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我願意陪妳走一步算一步．．．」"
+				"「只要妳不嫌棄我，我就願意陪妳走一步"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"算一步．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -64995,10 +65924,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥．．．即使天使姐姐是妳的未婚妻"
+				"「維皮哥哥．．．就算天使姐姐是你的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"未婚妻．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -65010,10 +65939,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你也不可以趁四下無人來這裡對她做不雅的"
+				"「你也不可以趁四下無人的時候，來這裡對她"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"舉動．．．」"
+				"做不雅的舉動！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -65057,10 +65986,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你．．．你都隔著玻璃親．．．親那個地方"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"了．．．」"
+				"「你、你都隔著玻璃親、親那個地方了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -65152,6 +66078,21 @@
 				"是誤會！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{「我明明只有把手放在玻璃罩上"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"而已！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				11,
 				0,
@@ -65208,7 +66149,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說，小鈴剛剛去哪了？」"
+				"「嗯？對了，小鈴妳怎麼會過來？妳剛剛去哪"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -65235,7 +66179,22 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「結果被趕出來了．．．」"
+				"「結果被趕出來．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「然後就和你一樣，想過來看看天使姐姐的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"情況．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				29,
@@ -65323,10 +66282,10 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「主人說，今天大家去數位世界．．．"
+				"「主人說，今天大家去數位世界，身體會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"身體會很疲倦，要好好休息。」"
+				"很疲倦，要好好休息。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_G",
@@ -65350,7 +66309,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很疲倦嗎．．．的確．．．」"
+				"「很疲倦嗎？的確．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -65374,10 +66333,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這樣一說我也是．．．"
+				"「這樣一說我也是．．．感覺腦袋像一團糨糊，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"感覺腦袋有一團糨糊，都不太能好好思考。」"
+				"都不太能好好思考。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_G",
@@ -65631,7 +66590,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嗯？這裡是床上．．．"
+				"嗯？這裡是床上？"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip3","volume":90,"pitch":100,"pan":0}
@@ -65705,7 +66664,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「看樣子．．．是從數位世界回來了．．．」"
+				"「看樣子，是從數位世界回來了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -65751,7 +66710,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「睡的真不好．．．恍惚中還夢到娟了．．．」"
+				"「睡的真不好．．．恍惚中好像夢到娟發生"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"什麼事了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -65780,7 +66742,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「去看看吧．．．」"
+				"「去看看吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,

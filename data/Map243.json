@@ -8521,10 +8521,77 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．還記得我和你們說過，我來自比月"
+				"「嗯．．．還記得冰月和你們說過，我是來自"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"藍文明還要以前的世界這件事嗎？」"
+				"比月藍文明還要以前的世界這件事嗎？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「小鈴曾曾曾曾曾．．．」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_07_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「維皮哥哥，你再這樣我不理你囉！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「欸，開心點，妳可是活了八千多歲耶，我"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"想活那麼久都沒辦法。」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_07_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「那我還真是謝謝妳喔。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8556,7 +8623,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．不太確定，但這個東西的外型．．．"
+				"「嗯．．．不太確定，但這個東西的外型，"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"在我那個時代就有了。」"
@@ -8577,32 +8644,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「嗯．．．它的作用嘛．．．」"
 			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				1100,
-				1
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_07_1",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「把它想像成是月藍王國文明的前身可能簡單"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"一點。」"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				1,
@@ -8618,34 +8659,23 @@
 			{"code":401,"indent":0,"parameters":[
 				"重要的東西。」"
 			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				1100,
-				1
-			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"\\N[7]"
 			]},
-			{"code":401,"indent":1,"parameters":[
-				"「例如這個\\N[67]，也是在電腦"
+			{"code":401,"indent":0,"parameters":[
+				"「它可以說是所有科技的前身吧，人類文明"
 			]},
-			{"code":401,"indent":1,"parameters":[
-				"發明出來之後，才藉由它的功能去開發出的新"
+			{"code":401,"indent":0,"parameters":[
+				"是從創造出了電腦，接起了網路，才開始有"
 			]},
-			{"code":401,"indent":1,"parameters":[
-				"道具。」"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
+			{"code":401,"indent":0,"parameters":[
+				"劃時代的進步。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -8699,10 +8729,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這個東西．．．月藍文明也有，原來它在月"
+				"「這個東西．．．月藍文明也有，原來它在"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"藍文明之前就被創造出來了啊．．．」"
+				"月藍文明之前就被創造出來了啊．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_02_1",
@@ -8742,10 +8772,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「會是會啦．．．不過也要看裡面的電量還足"
+				"「會是會啦，不過也要看裡面的電量還足不足夠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不足夠才行．．．」"
+				"才行．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -8756,6 +8786,33 @@
 				10,
 				8,
 				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不行，它放得太久，裡面已經完全沒電了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「要電？那有什麼問題？讓攸特大哥對它放個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雷電魔法不就行了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -8767,33 +8824,6 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				10,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「不行，它放得太久，裡面已經完全沒電了．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				5,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「要電？那是什麼？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
 				3,
 				0,
 				2
@@ -8802,10 +8832,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你可以理解為．．．這東西肚子餓了所以"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"沒辦法工作。」"
+				"「不行啦！這樣會直接把它弄壞的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8832,7 +8859,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．這個世界哪來的插座啊．．．」"
+				"「可是，這個世界哪來的插座啊．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8844,7 +8871,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．聽起來不能用的意思．．．」"
+				"「呃．．．聽起來是不能用的意思？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8889,7 +8916,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				9,
 				0,
 				2
 			]},
@@ -8897,7 +8924,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！有了，拜託你，攸特哥哥。」"
+				"「算了，死馬當活馬醫看看吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8909,10 +8936,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「麻煩你對這個插頭放雷魔法看看，說不定會"
+				"「拜託你，攸特哥哥，麻煩你對這個插頭放"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有用。」"
+				"雷魔法看看，說不定會有用。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8924,10 +8951,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊？這是沒什麼問題．．．不過壞了的話我"
+				"「啊？這是沒什麼問題．．．不過壞了的話"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可不管啊．．．」"
+				"我可不管啊．．．」"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				14,
@@ -9015,7 +9042,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「可是．．．時間不對啊．．．」"
+				"「可是．．．年代不對啊？怎麼會在筆記型電腦"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"裡面？」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -9036,7 +9066,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔．．．沒想到我居然還能有重見天日的一天。」"
+				"「喔．．．沒想到我居然還能有重見天日"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的一天。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9060,7 +9093,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「黑積木出現的臉！？」"
+				"「玻璃片裡面出現了一張臉！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -9096,19 +9129,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我叫做謬尼爾，是霍恩主子的使魔。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				7,
-				0,
-				2
+				"「我叫做謬尼爾，是老霍的．．．應該算朋友"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「啊．．．？！居然是月藍王的！？」"
+				"吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9120,7 +9144,37 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？小姑娘，現在是什麼時候？」"
+				"「當年發生了一些事情，我嗝屁了，他就把我"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的記憶變成了一團數據塞進這台電腦裏面。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_ETNR_Monster01",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"謬尼爾"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我的身體死了，但是成功以電腦數據的形象"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"活下來了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_ETNR_Monster01",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"謬尼爾"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「小姑娘，現在是什麼時候了？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -9142,10 +9196,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「月藍文明．．．已經毀滅了．．．現在已經"
+				"「月藍文明，已經毀滅了，現在是毀滅後的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是5000年之後了．．．」"
+				"是5000年以後．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -9209,10 +9263,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴說的沒錯．．．月藍國已經不在了、"
+				"「小鈴說的沒錯，月藍國已經不在了，達令"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"達令也走了．．．」"
+				"也死了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9224,10 +9278,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「國家已經毀滅了，但．．．人家重新甦醒了"
+				"「國家已經毀滅了，但．．．人家重新甦醒"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9239,7 +9293,7 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是嗎．．．那老霍的努力．．．總算沒有白費．．．」"
+				"「是嗎．．．那老霍的努力，總算沒有白費。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9251,7 +9305,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不光是我．．．你看．．．」"
+				"「不光是我．．．你看。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9283,7 +9337,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔？老霍之前研究的那個什麼基子技術成功了嗎？」"
+				"「喔？老霍之前研究的那個什麼基子技術"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"成功了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9315,10 +9372,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈哈哈，能夠和妳在一起，老霍應該能"
+				"「哈哈哈，能夠和妳在一起，老霍應該能夠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"夠含笑九泉了吧。」"
+				"含笑九泉了吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9413,10 +9470,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「小姑娘，我是想跟你們一起旅行，但我沒辦"
+				"「小姑娘，我是想跟你們一起旅行，但我"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"法．．．」"
+				"沒辦法。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9428,10 +9485,13 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「除非你們有什麼能夠讓我寄宿的法寶，不然"
+				"「除非你們有什麼能夠讓我寄宿的法寶，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"我們就只能這樣說說話了。」"
+				"還是把以前老霍那隻給找出來，不然我們就"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"只能這樣說說話了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9443,7 +9503,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「\\C[2]等你們拿到後，再呼喚我吧！\\C[0]」"
+				"「\\C[2]等你們拿到能讓我寄宿的東西，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"再呼喚我吧！\\C[0]」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -9452,13 +9515,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"寄宿的法寶．．．"
+				"寄宿的法寶？所以目前是欠缺什麼能夠讓祂"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"所以目前是欠缺什麼能夠讓他跟我們行動的"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"東西嗎？"
+				"跟我們一起行動的東西嗎？"
 			]},
 			{"code":221,"indent":1,"parameters":[
 			]},
@@ -9542,10 +9602,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「沒有！除非你們有什麼能夠讓我寄宿的法寶"
+				"「沒有！除非你們有什麼能夠讓我寄宿的法寶，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"，不然我們就只能這樣說說話了。」"
+				"不然我們就只能這樣說說話了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9557,7 +9617,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「\\C[2]等你們拿到後，再呼喚我吧！\\C[0]」"
+				"「\\C[2]等你們拿到能讓我寄宿的東西，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"再呼喚我吧！\\C[0]」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -9566,13 +9629,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"寄宿的法寶．．．"
+				"寄宿的法寶？所以目前是欠缺什麼能夠讓祂"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"所以目前是欠缺什麼能夠讓他跟我們行動的"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"東西嗎？"
+				"跟我們一起行動的東西嗎？"
 			]},
 			{"code":221,"indent":1,"parameters":[
 			]},
@@ -9636,10 +9696,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當然是它啊，這隻手錶本來就是為了使用"
+				"「當然是它啊，這隻手錶本來就是為了借用"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"守護獸的力量而設計的。」"
+				"我們的力量而設計的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_ETNR_Monster01",
@@ -9666,7 +9726,10 @@
 				"謬尼爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他足足陪我喝了一年多的啤酒我才答應幫他。」"
+				"「他足足陪我喝了一年多的啤酒我才答應"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"幫他。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}

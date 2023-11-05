@@ -4055,11 +4055,14 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個．．．莫非就是那個病毒？」"
+				"「這個看起來特別奇怪，它一定就是那個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"病毒了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				5,
+				4,
 				0,
 				2
 			]},
@@ -4067,7 +4070,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是的，就是干擾我系統的病毒。」"
+				"「沒錯，它就是一直干擾我系統的病毒。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4578,7 +4581,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -4586,7 +4589,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「不要小看！身為AI的自尊！！！」"
+				"\\{「我已經把你的腳本破譯完畢"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了！」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"Wingless_integral-one-material_loop","volume":50,"pitch":100,"pan":0}
@@ -4642,7 +4648,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				5,
+				0,
 				0,
 				2
 			]},
@@ -4650,7 +4656,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「數據．．．保存．．．」\\|\\^"
+				"「DATA，保存。」\\|\\^"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				-1,
@@ -4680,7 +4686,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -4688,7 +4694,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「技能．．．\\C[2]升級\\C[0]．．．」\\|\\|\\^"
+				"「SKill，\\C[2]升級\\C[0]！」\\|\\|\\^"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				-1,
@@ -4718,7 +4724,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -4756,7 +4762,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				6,
+				1,
 				0,
 				2
 			]},
@@ -4764,7 +4770,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「拜託了！給我擊碎它！！！」\\|\\|\\^"
+				"「已經沒問題了！各位！幫我除掉它吧！」\\|\\|\\^"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				1,
@@ -4974,7 +4980,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
-				1,
+				2,
 				0,
 				2
 			]},
@@ -4982,7 +4988,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「終於．．．把這個隱患消滅了．．．」"
+				"「終於把它給消滅掉了。」"
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -5235,7 +5241,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「別擔心，我正在將你們引導回現實世界中。」\\|\\|\\|\\^"
+				"「別擔心，我正在將你們的意識引導回現實世界"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"中。」\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -5247,10 +5256,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「昏睡是必然的，幾位勇士辛苦了，先好好"
+				"「身體感覺很疲累是正常的，大家都辛苦了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"休息吧。」\\|\\|\\|\\^"
+				"先好好休息吧。」\\|\\|\\|\\^"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120

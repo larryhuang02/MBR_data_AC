@@ -7038,7 +7038,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個地方．．．」"
+				"「這個地方！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -7047,10 +7047,7 @@
 				0
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這地方的感覺．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"跟遇到娟的時候好像．．．"
+				"這地方的感覺，跟遇到娟的時候好像．．．"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -7152,18 +7149,6 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				11,
-				0,
-				0
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「那是什麼？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_07_2",
 				4,
 				0,
@@ -7173,7 +7158,19 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不會是幽靈吧！」"
+				"「半透明的人！？不會是幽靈吧！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				11,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「喂！妳是誰？是冰月嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -7265,7 +7262,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「消失了．．．」"
+				"「又消失了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -7289,7 +7286,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「各位．．．走吧。」"
+				"「我們走吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				1,
@@ -7556,7 +7553,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒路了．．．」"
+				"「沒路了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -7847,7 +7844,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．這是什麼？」"
+				"「這、這是什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -7859,7 +7856,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"突然一股聲音傳入眾人耳內．．．\\|\\|\\|\\^\""
+				"\\TXTCENTER:\"突然，一道聲音傳入眾人耳內．．．\\|\\|\\|\\^\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -7952,7 +7949,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雷．．．雷之試煉？」"
+				"「雷、雷之試煉？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -8118,7 +8115,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們幾個．．．這是什麼意思！？」"
+				"「你們幾個，什麼意思！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8130,7 +8127,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也不知道．．．突然覺得很危險．．．」"
+				"「我也不知道，突然覺得很危險。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8142,7 +8139,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「反正別波及到本小姐就好～」"
+				"「反正別波及到本小姐就好。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8154,7 +8151,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年，你就上吧！」"
+				"「少年，上吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8166,10 +8163,13 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「依你那比蟑螂還要頑強的生命，頂多被電的"
+				"「依你那比蟑螂還要頑強的生命，如果真的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嘎崩脆，死不了的。」"
+				"像我們猜得一樣，你頂多被電的嘎崩脆，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"死不了的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -8323,7 +8323,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"算了．．．一群豬隊友．．．"
+				"算了．．．一群豬隊友。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8332,7 +8332,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"準備好後就重新踏回那個\\C[2]踏板\\C[0]吧。"
+				"準備好後就去踏那個\\C[2]踏板\\C[0]吧。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8664,7 +8664,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這裡的建築．．．跟娟那裡的好像．．．」"
+				"「這裡的建築，跟娟那裡的好像．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8676,7 +8676,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「看樣子．．．果然是古月藍時代的．．．」"
+				"「看樣子，這裡應該就是月藍王說的．．．」"
 			]},
 			{"code":203,"indent":0,"parameters":[
 				1,
@@ -8906,7 +8906,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等等．．．這是想幹嘛？！」"
+				"「等等．．．這是想幹嘛？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -8924,7 +8924,7 @@
 				"「口令不符，但基子序列部分吻合，認定為"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"懷疑者．．．」"
+				"懷疑者。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -9806,7 +9806,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1048},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -9837,7 +9837,7 @@
 			{"code":102,"indent":1,"parameters":[
 				[
 					"開始挑戰",
-					"我不行了，上吧！攸特！",
+					"我不行了，上吧！攸特大哥！",
 					"聽取說明",
 					"離開"
 				],
@@ -9857,7 +9857,7 @@
 			]},
 			{"code":402,"indent":1,"parameters":[
 				1,
-				"我不行了，上吧！攸特！"
+				"我不行了，上吧！攸特大哥！"
 			]},
 			{"code":205,"indent":2,"parameters":[
 				-1,
@@ -10300,10 +10300,10 @@
 				"3.每道考驗均由\\C[2]【上、下、左、右】四種方向\\C[0]構成"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"4.依序\\C[2]從左至右\\C[0]，在\\C[2]倒數時間內\\C[0]按照題目的方向輸入按鈕"
+				"4.依序\\C[2]從左至右\\C[0]，在\\C[2]倒數時間內\\C[0]按照題目的方向輸入按鈕，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，若超過時間考驗將強制中斷。"
+				"若超過時間考驗將強制中斷。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -10378,7 +10378,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1051},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -10855,7 +10855,7 @@
 				0
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"看不懂．．．別亂碰好了。"
+				"看不懂，別亂碰好了。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -10879,7 +10879,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說．．．忘記問冰月怎麼回去了．．．」"
+				"「啊，忘記問冰月怎麼回去了。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -10900,7 +10900,7 @@
 				"冰月的聲音"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「將手掌貼齊那顆水晶球就可以切換地點了。」"
+				"「把手放在那顆水晶球就可以切換地點了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -10920,10 +10920,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「咦！？聲音居然是從小鈴手腕上那個機器發"
+				"「咦！？聲音居然是從小鈴手腕上那個機器"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"出來的。」"
+				"發出來的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -10935,7 +10935,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「透過\\N[67]，人家也可以"
+				"「透過\\N[67]，我也可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"跟你們這樣通話。」"
@@ -10962,22 +10962,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_IceMoon",
-				1,
-				0,
-				2
+				"「總之，將手掌放在那顆\\C[2]水晶球上可以切換"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冰月"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「將手掌貼齊那顆\\C[2]水晶球可以切換地點\\C[0]，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"再踩\\C[2]傳送陣\\C[0]就可以出去了。」"
+				"地點\\C[0]，接著再踩\\C[2]傳送陣\\C[0]就可以出去了。」"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				10,
@@ -13446,8 +13434,8 @@
 			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":111,"indent":0,"parameters":[
-				11,
-				"down"
+				12,
+				"Input.isTriggered('down')"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Decision2","volume":90,"pitch":100,"pan":0}
@@ -13621,19 +13609,19 @@
 			]},
 			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":230,"indent":1,"parameters":[
-				5
-			]},
 			{"code":119,"indent":1,"parameters":[
 				"check"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"原始RMMV的跳標籤本來就會等1幀"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":111,"indent":0,"parameters":[
-				11,
-				"left"
+				12,
+				"Input.isTriggered('left')"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Decision2","volume":90,"pitch":100,"pan":0}
@@ -13807,19 +13795,19 @@
 			]},
 			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":230,"indent":1,"parameters":[
-				5
-			]},
 			{"code":119,"indent":1,"parameters":[
 				"check"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"原始RMMV的跳標籤本來就會等1幀"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":111,"indent":0,"parameters":[
-				11,
-				"right"
+				12,
+				"Input.isTriggered('right')"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Decision2","volume":90,"pitch":100,"pan":0}
@@ -13993,19 +13981,19 @@
 			]},
 			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":230,"indent":1,"parameters":[
-				5
-			]},
 			{"code":119,"indent":1,"parameters":[
 				"check"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"原始RMMV的跳標籤本來就會等1幀"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":111,"indent":0,"parameters":[
-				11,
-				"up"
+				12,
+				"Input.isTriggered('up')"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Decision2","volume":90,"pitch":100,"pan":0}
@@ -14179,11 +14167,11 @@
 			]},
 			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":230,"indent":1,"parameters":[
-				10
-			]},
 			{"code":119,"indent":1,"parameters":[
 				"check"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"原始RMMV的跳標籤本來就會等1幀"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -15076,7 +15064,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「達令好棒！」"
+				"「達令太棒了！」"
 			]},
 			{"code":122,"indent":2,"parameters":[
 				17,
@@ -15152,7 +15140,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「達令不錯唷～」"
+				"「達令好棒！」"
 			]},
 			{"code":122,"indent":2,"parameters":[
 				17,
@@ -15995,7 +15983,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"娟在後面看，我可不能漏氣了．．．"
+				"娟在後面看，我可不能漏氣了！"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16023,10 +16011,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說，攸特大哥．．．你明明會駕馭雷電，"
+				"「攸特大哥．．．你明明會駕馭雷電，為什麼"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼不是你來處理？」"
+				"不是你來處理？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16092,7 +16080,7 @@
 				"「維皮哥哥加油，雖然我也想幫你，但我不會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"雷魔法，雷抗性不高．．．」"
+				"雷魔法，雷抗性不高。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -16104,13 +16092,13 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且不知道為什麼．．．我腦內總有一個"
+				"「而且不知道為什麼，我腦內總有一個聲音"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"聲音，告訴我原本身為拖油瓶的我，是會雷魔"
+				"告訴我，原本身為拖油瓶的我，是會雷魔法"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"法的．．．」"
+				"的．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -16122,7 +16110,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．只能自己加油吧．．．」"
+				"「所以，你只能自己加油吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -16131,13 +16119,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我也挺好奇的．．．"
+				"我也挺好奇的，為什麼我總感覺最早應該是在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼我總感覺最早應該是在最果之雨村跟"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"她認識，而不是鄉南村．．．"
+				"最果之雨村跟她認識，而不是鄉南村。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16157,7 +16142,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1050},"directionFix":false,"image":{"tileId":0,"characterName":"2000_Actor1","direction":8,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				0,
+				11,
 				0,
 				2
 			]},
@@ -16165,7 +16150,19 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幹什麼，你該不會要淑女替你去吧？」"
+				"「幹什麼，你該不會要我替你去吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果讓我去過，你是真的很丟臉啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -16174,7 +16171,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳這魔女跟淑女有半毛錢關係？！"
+				"哼！我去就我去！"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16411,6 +16408,146 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":13,"y":8},
 	{"id":53,"name":"傳點","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1085},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊，忘記問冰月怎麼回去了。」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Computer","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				15
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月的聲音"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「把手放在那顆水晶球就可以切換地點了。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「咦！？聲音居然是從小鈴手腕上那個機器"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"發出來的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「透過\\N[67]，我也可以"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"跟你們這樣通話。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「真神奇．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_IceMoon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「總之，將手掌放在那顆\\C[2]水晶球上可以切換"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"地點\\C[0]，接著再踩\\C[2]傳送陣\\C[0]就可以出去了。」"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				10,
+				10,
+				0,
+				0,
+				1100
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":16,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":17,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":18,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":19,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":0,"stepAnime":true,"through":false,"trigger":1,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1100},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":212,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":281,"indent":0,"parameters":[
 				1
