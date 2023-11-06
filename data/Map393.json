@@ -3316,7 +3316,7 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉．．．我的小寶貝啊．．．」"
+				"「唉．．．我的女兒啊．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -3674,10 +3674,10 @@
 				"\\n[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「把男人凍成冰雕帶回去．．．還有這裡的布"
+				"「把男人凍成冰雕帶回去，還有這裡的布置，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"置．．．難道妳是雪女！？」"
+				"難道妳是雪女！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -3735,7 +3735,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我的名字叫做\\N[69]！是哥哥真正的未婚妻！」"
+				"「我的名字叫做\\N[69]！是霍恩哥哥真正的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"未婚妻！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -4146,10 +4149,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼會有這麼完美的肌肉，那美麗的肱二頭"
+				"「怎麼會有這麼完美的肌肉，那美麗的斜方肌，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"肌，厚實的腹肌．．．哈嘶哈嘶～」"
+				"厚實的腹肌，結實的肱二頭肌，哈嘶哈嘶～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4161,13 +4164,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然老了點，可是這肌肉．．．"
+				"「雖然老了點，可是這肌肉．．．沒關係，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"沒關係，平常吃慣了大魚大肉，偶爾來點清粥"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小菜。」"
+				"平常吃慣了大魚大肉，偶爾來點清粥小菜。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -4179,7 +4179,7 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．哪來的八爪魔女！？」"
+				"「這、這是哪來的八爪魔女！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -4203,7 +4203,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉唷～大叔別害臊咩～」"
+				"「唉唷～大叔別害臊嘛～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4215,7 +4215,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家都不害臊了，你害羞個什麼？」"
+				"「人家都不害臊了，你害羞什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4232,20 +4232,8 @@
 			{"code":401,"indent":0,"parameters":[
 				"的。」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_MountainGod",
-				5,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"山神"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這．．．這是什麼怪力！老夫自豪的肌力"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"居然沒效！」"
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Bow4","volume":90,"pitch":50,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -4257,7 +4245,25 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「掙．．．掙脫不了阿．．．」"
+				"「這、這是什麼怪力！老夫自豪的肌力居然"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"沒效！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Bow4","volume":90,"pitch":50,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MountainGod",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"山神"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「居然．．．掙脫不開．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4360,7 +4366,7 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊～住手．．．不！住嘴啊！」"
+				"「啊～住手，不！住嘴啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4372,10 +4378,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了經驗值，玩家一定會願意繼續讓我吸的"
+				"「為了經驗值，玩家一定會願意繼續讓我吸"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"～」"
+				"的～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4387,7 +4393,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這結實的胸肌，啊～好棒的滋味～」"
+				"「這結實的胸肌，啊～好棒的味道～」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"2親嘴","volume":90,"pitch":100,"pan":0}
@@ -4443,10 +4449,10 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「啊！啊！啊！啊！"
+				"\\{「啊！啊！啊！啊！老夫的千年"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"老夫的千年修為！」"
+				"修為！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -4470,10 +4476,10 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「老夫的供品給你們，通通都給你們，快來幫"
+				"「老夫的供品給你們，通通都給你們，快來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"幫我！」"
+				"幫幫我！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MountainGod",
@@ -4579,10 +4585,7 @@
 				"獲得了供品"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\na[855]、"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"99個\\Ni[42]，99個\\Ni[43]，99個\\Ni[44]。"
+				"\\na[855]、99個\\Ni[42]，99個\\Ni[43]，99個\\Ni[44]。"
 			]},
 			{"code":203,"indent":0,"parameters":[
 				10,
@@ -4708,7 +4711,7 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只剩3成不到了啊．．．嗚嗚嗚．．．」"
+				"「只剩三成不到了啊．．．嗚嗚嗚．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -4745,7 +4748,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這．．．好可怕的吸吸大法．．．"
+				"好可怕的吸吸大法．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4841,10 +4844,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不好意思，我真的不是什麼霍恩．．．在下"
+				"「不好意思，我真的不是什麼霍恩．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[1]，行不改名坐不改姓。」"
+				"在下\\N[1]，行不改名坐不改姓。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -4856,7 +4859,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．\\N[69]小姐．．．妳找達．．．"
+				"「那個，\\N[69]小姐，妳找達．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"霍恩到底有什麼事情呢？」"
@@ -4893,7 +4896,7 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼會這樣．．．」"
+				"「怎麼會這樣！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -4972,10 +4975,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家以前啊，一直待在這座大雪山裡，遵循"
+				"「人家以前啊，一直待在這座大雪山裡，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"爸爸的要求找老公。」"
+				"遵循爸爸的要求找老公。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -4987,10 +4990,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家只要見到中意的小帥哥，就會出現在他"
+				"「人家只要見到中意的小帥哥，就會出現在他們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"們面前，然後把他們拐回來做成冰雕。」"
+				"面前，然後把他們拐回來做成冰雕。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -5074,10 +5077,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．\\N[69]小姐．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"莫非妳認識霍恩？」"
+				"「那個．．．\\N[69]小姐，難道妳認識霍恩？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -5094,10 +5094,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很久以前啊，霍恩哥哥曾經來到這座大雪山"
+				"「很久以前啊，霍恩哥哥曾經來過這座"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"大雪山。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5109,10 +5109,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他長得很帥氣啊，所以人家也想把他凍成冰"
+				"「他長得很帥氣啊，所以人家也想把他凍成"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"雕。」"
+				"冰雕。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5124,10 +5124,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但是沒想到，我不但沒有成功，還被他給打"
+				"「但是沒想到，我不但沒有成功，還被他給"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"倒了。」"
+				"打倒了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5139,10 +5139,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「之後他對我說了很多情話，讓我對他深深著"
+				"「之後他對我說了很多情話，讓我對他深深"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"迷。」"
+				"著迷。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5154,10 +5154,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「後來他就拿出了那個東西，說那是我倆的定"
+				"「後來他就拿出了那個東西，說那是我倆的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"情之物。」"
+				"定情之物。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5184,10 +5184,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家當然義不容辭啊，後來人家就一直在這"
+				"「人家當然義不容辭啊，後來人家就一直在這裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"裡等他，一直等啊等，等啊等的。」"
+				"等他，一直等啊等，等啊等的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -5214,10 +5214,10 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「後來．．．長的很像霍恩哥哥的，你們就出"
+				"「後來．．．長的很像霍恩哥哥的你們，就"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"現了．．．」"
+				"出現了．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				11,
@@ -5327,7 +5327,7 @@
 				"「風流倜儻又帥氣，又很幽默，屁股也很翹，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"摸起來手感很好．．．還讓我很有安全感．．．」"
+				"摸起來手感很好，還讓我很有安全感．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -5347,10 +5347,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「像這種好色又始亂終棄，外強中乾的男生哪"
+				"「像這種好色又始亂終棄，外強中乾的男生哪裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"裡好啊？」"
+				"好啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -5362,10 +5362,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且安全感？妳再開玩笑嗎！？都始亂終棄"
+				"「而且安全感？妳再開玩笑嗎！？都始亂終棄了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"了哪來的安全感！？」"
+				"哪來的安全感！？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -5524,10 +5524,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說到安全感，要是人家的話，當然要選像山"
+				"「說到安全感，要是人家的話，當然要選像山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"神老伯這種男人啊。」"
+				"老伯這種男人啊。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -5641,10 +5641,10 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我的小寶貝，妳怎麼可以這樣說把拔呢！把"
+				"「女兒啊，妳怎麼可以這樣說把拔呢！把拔會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"拔會傷心的啊！」"
+				"傷心的啊！」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -5692,10 +5692,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不行，我一定要好好的指引妳這頭迷途的羔"
+				"「不行，我一定要好好的指引妳這頭迷途的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"羊。」"
+				"羔羊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -5719,10 +5719,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳想像一下，霍恩的臉，然後有妳爸爸的身"
+				"「妳想像一下，霍恩的臉，然後有妳爸爸的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"材。」"
+				"身材。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -5916,7 +5916,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個人叫刺蝟頭成成堂．．．」"
+				"「這個人叫刺蝟頭成成堂。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -5945,7 +5945,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"比武擂台然後．．．那什麼律師啥的是什麼？？？"
+				"比武擂台然後．．．那什麼律師啥的是什麼？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -5954,7 +5954,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"小鈴世界的人這麼奇怪？"
+				"八千年前的人長的這麼奇怪？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -5996,7 +5996,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是個肌肉與知識的結合，亦文亦武，相當迷人呢！」"
+				"「是個肌肉與知識相結合，亦文亦武的帥哥，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"非常迷人喔！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -6140,7 +6143,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「『This is ninja sparta !』」"
+				"「This is ninja sparta !」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6167,10 +6170,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他一生氣，就發動了查克拉，使出那帥氣的"
+				"「他一生氣，就發動了查庫拉，使出那帥氣的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"踢，一腳把使者踢進萬丈深淵。」"
+				"踢，一腳把敵國使者踢進萬丈深淵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6182,10 +6185,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最後來率領了300壯士，一起死守的邊關"
+				"「最後率領了三百壯士，和他們一起死守邊關，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，直到力竭陣亡。」"
+				"直到力竭陣亡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6200,7 +6203,7 @@
 				"「雖然只是電影，但是那精壯的大腿，配上"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"查克拉的神蹟術，真是另人癡迷～」"
+				"查庫拉的神蹟術，真是另人癡迷～」"
 			]},
 			{"code":232,"indent":0,"parameters":[
 				2,
@@ -6261,7 +6264,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「想不到妹妹妳真挑呢。」"
+				"「這個也不喜歡嗎？想不到妹妹妳真挑呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6341,10 +6344,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個人叫阿姆斯壯，最喜歡跟人用肉體打交"
+				"「這個人叫阿姆斯壯，最喜歡跟人用肉體"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"道。」"
+				"打交道。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6383,7 +6386,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最招牌的一句話就是．．．『你勒壞我的胸肌了！』」"
+				"「最招牌的一句話就是．．．『你勒壞我的胸肌"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了！』」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6542,7 +6548,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喂！怎麼會有照片！？？？？」"
+				"「喂！怎麼會有照片！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6554,7 +6560,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「跟天神借的！」"
+				"「冰月妹妹給我的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6605,7 +6611,7 @@
 				"\\N[69]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．這個．．．好像．．．真的有點帥。」"
+				"「這、這個．．．好像．．．真的有點帥。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6617,10 +6623,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳想像一下，他用充滿磁性的聲音叫妳寶貝"
+				"「妳想像一下，他用充滿磁性的聲音叫妳"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"寶貝。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -6652,10 +6658,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「健壯高大的身材，雄壯威武厚實的背肌，能"
+				"「健壯高大的身材，雄壯威武厚實的背肌，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"讓妳像個小女孩一樣依偎在他胸口撒嬌。」"
+				"能讓妳像個小女孩一樣依偎在他胸口撒嬌。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -6687,10 +6693,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「睡覺的時候還能把手臂給妳當枕頭用，讓妳"
+				"「睡覺的時候還能把手臂給妳當枕頭用，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一夜好眠。」"
+				"讓妳一夜好眠。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6702,10 +6708,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「像這種充滿安全感的男人，難道妳不心動嗎"
+				"「像這種充滿安全感的男人，難道妳不心動"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！？」"
+				"嗎！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -7062,7 +7068,7 @@
 				"山神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小寶貝！妳冷靜一點啊！」"
+				"「女兒啊！妳冷靜一點啊！」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -7173,7 +7179,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心，雖然著了她的道，但大體沒事。」"
+				"「放心，雖然著了她的道，但我也沒出什麼"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"大事。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -7185,7 +7194,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大家繼續動身吧。」"
+				"「趕快離開大雪山吧，晚了氣候變冷就不好"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
