@@ -100896,10 +100896,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"破碎的結晶．．．"
+				"破碎的結晶，依稀能辨識出可能是顆水晶還是寶石之類的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"似乎原本是顆水晶還是寶石之類的殘骸。"
+				"殘骸。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -100941,7 +100941,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「似乎是古月藍時候的文字．．．」"
+				"「似乎是古月藍時候的文字。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -101006,10 +101006,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「從雕像的手勢來看．．．"
+				"「從雕像的手勢來看，它原本好像拿著法杖之類"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"似乎原本拿著法杖之類的東西。」"
+				"的東西。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				9,
@@ -101888,7 +101888,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不是日記，但似乎是個記事本．．．」"
+				"「不是日記，好像是個記事本。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -101900,10 +101900,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「撰寫者好像是\\C[2]雙人小團隊\\C[0]中的"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"一人。」"
+				"「嗯．．嗯．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -101917,17 +101914,9 @@
 			{"code":401,"indent":1,"parameters":[
 				"「從日期看，好像是一兩年前的事情了。」"
 			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Book2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":1,"parameters":[
-				-1,
-				8,
-				true
-			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
-				0,
+				10,
 				0,
 				2
 			]},
@@ -101935,33 +101924,13 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「一支鑲嵌著寶石之母的天使法杖．．．．」"
-			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Book2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":1,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_07_1",
-				0,
-				0,
-				2
+				"「嗯，按照記事本上面寫的，裡面有兩種筆跡，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\N[7]"
+				"我猜應該是一對雙人搭檔的冒險者，因為分寶物"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「頂端．．．寶石與天使形狀雕像．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"杖身．．．乍看是一般木杖，但似乎經過魔力"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"淬鍊。」"
+				"吵架。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book2","volume":90,"pitch":100,"pan":0}
@@ -101981,10 +101950,174 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「法杖．．．\\|位置．．．\\|"
+				"「這裡原本放著一支鑲嵌著寶石之母的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"這個密室就是放置這法杖的地方．．．」"
+				"天使法杖。」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_07_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「記事本裡面畫著的圖，你們看，法杖的頂端"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"好像是一顆寶石，還有天使形狀的雕像。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_07_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「杖身．．．乍看是一般木杖，但似乎經過魔力"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"淬鍊，上面有奇怪的花紋。」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_07_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「嗯．．．不曉得這跟法杖現在會在哪裡。」"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				8,
+				438
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Flash1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				9,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「欸？小鈴，這個上面畫的雕像，好像我們在"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"黃金城找到的雕像。」"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_07_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「真的耶，好像！會不會它就是那根法杖的"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"一部分？」"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				9,
+				168,
+				false
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Flash1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				9,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「欸？小鈴，這個法杖上的花紋．．．像不像"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"我們在墓塚撿到的木裩？」"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_07_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「真的耶，好像！會不會它就是那根法杖啊？」"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -102321,7 +102454,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這間密室是怎麼回事？」"
+				"「居然還要破解機關才進來，裡面是有什麼"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"寶藏嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -102333,10 +102469,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明是很小的密室．．．但卻到處都是"
+				"「好小的房間．．．奇怪，到處都是打鬥過的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"打鬥過的痕跡。」"
+				"痕跡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -102348,10 +102484,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「從殘留的魔法元素來看．．．"
+				"「從殘留的魔法元素來看，好像不是金屬機甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"好像不是金屬機甲造成的．．．」"
+				"造成的．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -102363,7 +102499,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「反而．．．比較像是人為的。」"
+				"「反而．．．比較像是什麼人在這裡發生過"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"爭執。」"
 			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
