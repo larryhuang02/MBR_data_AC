@@ -41543,7 +41543,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年，你是想要放我一個人顧小孩就溜了嗎？」"
+				"「少年，你是想要放我一個人顧小孩趁機溜走嗎？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -41685,7 +41685,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"那我先叫大家歸隊好了．．．"
+				"那我先叫大家歸隊好了。"
 			]},
 			{"code":221,"indent":3,"parameters":[
 			]},
@@ -47364,10 +47364,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以希望你們能不能．．．稍微拿點金幣來"
+				"「所以希望你們能不能．．．稍微拿點金幣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"換。」"
+				"來換？」"
 			]},
 			{"code":302,"indent":0,"parameters":[
 				0,
@@ -47443,7 +47443,7 @@
 				"「鐵特老大真的對我們很好，所以我不希望他"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"被占便宜．．．」"
+				"被占便宜。」"
 			]},
 			{"code":115,"indent":0,"parameters":[
 			]},
@@ -47633,7 +47633,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"事蹟都傳遍王國了。」"
@@ -47648,7 +47648,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
+				"「還找我們訓練，是欺負我們吧？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -47657,7 +47657,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
+				"這樣說好像也對。"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -47772,7 +47772,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"事蹟都傳遍王國了。」"
@@ -47787,7 +47787,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
+				"「還找我們訓練，是欺負我們吧？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -47796,155 +47796,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":132,"indent":2,"parameters":[
-				{"name":"battle_ver03","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":283,"indent":2,"parameters":[
-				"Wasteland",
-				"Cliff"
-			]},
-			{"code":301,"indent":2,"parameters":[
-				0,
-				139,
-				true,
-				true
-			]},
-			{"code":601,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":602,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":603,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":604,"indent":2,"parameters":[
-			]},
-			{"code":132,"indent":2,"parameters":[
-				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"離開"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":404,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「奇怪，其他弟兄去哪了？」"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":5,"y":31},
-	{"id":76,"name":"EV076","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「如果你覺得自身的武藝不夠強，可以找我們"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"訓練。」"
-			]},
-			{"code":102,"indent":0,"parameters":[
-				[
-					"跟守衛打",
-					"離開"
-				],
-				1,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":0,"parameters":[
-				0,
-				"跟守衛打"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				1,
-				10,
-				0,
-				1000,
-				1
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"事蹟都傳遍王國了。」"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"BLR_01_1",
-				7,
-				1,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
+				"這樣說好像也對。"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -48011,6 +47863,145 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":6,"y":31},
+	{"id":76,"name":"EV076","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果你覺得自身的武藝不夠強，可以找我們"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"訓練。」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"跟守衛打",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"跟守衛打"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				10,
+				0,
+				1000,
+				1
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"事蹟都傳遍王國了。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「還找我們訓練，是欺負我們吧？」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"這樣說好像也對。"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":132,"indent":2,"parameters":[
+				{"name":"battle_ver03","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":283,"indent":2,"parameters":[
+				"Wasteland",
+				"Cliff"
+			]},
+			{"code":301,"indent":2,"parameters":[
+				0,
+				139,
+				true,
+				true
+			]},
+			{"code":601,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":602,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":603,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":604,"indent":2,"parameters":[
+			]},
+			{"code":132,"indent":2,"parameters":[
+				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"因為偷窺被抓了"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":5,"y":31},
 	{"id":77,"name":"EV077","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -48042,10 +48033,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？你找鐵特隊長嗎．．．他現在．．．"
+				"「嗯？你找鐵特隊長嗎？他現在．．．有點"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在忙喔．．．」"
+				"忙喔．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48182,7 +48173,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「坑道相當的漆黑，注意腳步阿。」"
+				"「坑道裡面很黑，注意腳步啊。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48232,7 +48223,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「坑道下層現在無法下去。」"
+				"「坑道下層現在沒辦法下去。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48928,10 +48919,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「隊長跟一名小姐一起前往礦坑深處探查了，"
+				"「剛剛有個穿著火辣的漂亮小姐，跟隊長一起"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"真羨慕．．．」"
+				"到礦坑深處探查了，真羨慕．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -49194,7 +49185,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"現在沒心情管其他事情了．．．"
+				"現在沒心情管其他事情。"
 			]},
 			{"code":115,"indent":2,"parameters":[
 			]},
@@ -51646,7 +51637,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兄弟！礦坑下層．．．封住了！」"
+				"「小弟！礦坑下層現在封住了！」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"$gamePlayer.turnTowardCharacter($gameMap._events[事件id])"
@@ -51667,7 +51658,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請．．．請．．．請不要下去！」"
+				"「正在施工暫時不開放，麻煩．．．麻煩．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"麻煩不要下去！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51688,7 +51682,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這麼神秘．．．總覺得有鬼？"
+				"怎麼看起來慌慌張張的，這麼神秘．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"總覺得有鬼？"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -51738,7 +51735,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「各位．．．我們先回休息室吧。」"
+				"「既然礦坑在施工，那我們先回休息室吧。」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -51788,10 +51785,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼了，維皮哥哥？為什麼我們要坐在這裡"
+				"「怎麼了，維皮哥哥？為什麼我們要坐在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"這裡？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -51813,7 +51810,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是這樣的，我想要偷偷送這裡的士兵們禮物。」"
+				"「是這樣的，我想要偷偷送這裡的士兵們一些"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"禮物。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51837,10 +51837,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．他們在這礦坑內值勤，又陰暗又"
+				"「是啊，他們在這礦坑內值勤，又陰暗又潮濕，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"潮濕，過的很辛苦。」"
+				"過的很辛苦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51852,10 +51852,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「想說．．．既然重返此地，不如送些禮物給"
+				"「想說．．．既然剛好路過這裡，跟他們以前"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大家。」"
+				"也有一點交情，想說送些禮物給大家。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51867,10 +51867,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「給這些連眼睛都沒有的士兵送禮，你錢太多"
+				"「給這些連眼睛都沒有的士兵送禮，你錢"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"啊？」"
+				"太多啊？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				113,
@@ -51884,7 +51884,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				3,
 				0,
 				2
 			]},
@@ -51892,10 +51892,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過話也不能這麼說，雖然他們不是考古團"
+				"「話也不能這麼說，雖然他們不是考古團體系"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"體系的士兵，但好歹也是國家的軍人。」"
+				"的士兵，但好歹也是國家的軍人。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				113,
@@ -51921,7 +51921,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				5,
+				0,
 				0,
 				2
 			]},
@@ -51929,10 +51929,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是阿．．．所以．．．你們幾個先在這裡"
+				"「是阿，所以，我想先去探聽大家的喜好，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"等等，我先去偷偷探聽大家的喜好。」"
+				"你們在這裡等我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51993,13 +51993,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然我沒當過士兵．．．"
+				"「雖然我沒當過士兵，但．．．有些喜好，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但．．．有些喜好，說不定女孩子在場不方便"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"呢。」"
+				"說不定女孩子在場反而不方便跟我說。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -52035,7 +52032,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那．．．各位就在這裡等等，我去打聽情報。」"
+				"「大家就在這裡等我一下，我去打聽情報。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				60,
@@ -52134,7 +52131,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"誰管那些士兵啊？！"
+				"誰管那些士兵啊？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -52241,7 +52238,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兄弟！我不是說過礦坑下層封住了嗎？」"
+				"「小弟！我不是說過礦坑下層封住了嗎？」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"$gamePlayer.turnTowardCharacter($gameMap._events[事件id])"
@@ -52293,7 +52290,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「總之．．．別下去就是了！」"
+				"「總之別下去就是了！」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -52742,7 +52739,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「好奇怪．．．怎麼肚子有點疼．．．」"
+				"「好奇怪，怎麼肚子有點疼．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Recolor_Soldiers",
@@ -52786,10 +52783,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「說那麼多．．．還是拜倒在金錢攻勢之下了"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"。」"
+				"「說那麼多，還不是拜倒在金錢攻勢之下了。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -53340,10 +53334,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這種只是經驗值得士兵，做什麼對他們那麼"
+				"「這種路邊隨便抓就是一大把的士兵，對他們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"好？」"
+				"那麼好做什麼？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -53371,7 +53365,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我們就趁機歇歇腳吧。」"
+				"「那我們就趁機休息一下吧。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -53399,7 +53393,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我們就先在休息區歇歇腳吧。」"
+				"「那我們就先在休息區休息一下吧。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
