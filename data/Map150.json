@@ -3159,7 +3159,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好啦～最後一隻老鼠也逮住了！」"
+				"「好啦～最後一隻老鼠也逮住了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -3183,7 +3183,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「究竟．．．究竟發生什麼事情了！？」"
+				"「欸？咦咦？雷娜姐姐？妳怎麼在這？為什麼"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那麼多人被吊起來？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -3195,7 +3198,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年．．．就跟你說要小心了．．．」"
+				"「少年．．．就跟你說要小心了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				16,
@@ -3229,7 +3232,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在礦坑門口放繩套．．．會不會太無良了點？」"
+				"「在礦坑門口放繩套．．．會不會太無良"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了點？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3253,7 +3259,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「難道你們剛剛幾個的行為就很有良心嗎？」"
+				"「難道你們幾個剛剛的行為就很有良心嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3277,10 +3283,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了顧及鐵特的面子，老娘只好裝作沒看到"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「為了鐵特的面子，老娘只好裝作沒看到。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3307,10 +3310,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．居然還給老娘吃起點心起來，會不"
+				"「但居然還給老娘吃起點心起來，會不會太囂張"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"會太囂張了點？」"
+				"了點？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3358,7 +3361,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「維皮哥哥是不是又幹了什麼很糟糕的事情？」"
+				"「維皮哥哥是不是又幹了什麼很糟糕的事？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3370,7 +3373,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「反正他自找的，別可憐他。」"
+				"「反正是他自找的，別可憐他。」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -3414,7 +3417,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個繩索技術絕對是大師級了．．．」"
+				"「這個繩索技術絕對是大師級了。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -3429,7 +3432,22 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「死攸特、天使妹妹、風鈴鈴小姐．．．」"
+				"「喲！死攸特、天使妹妹、風鈴鈴小姐，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"天使妹妹、死攸特，\\n[55]之旅好玩嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_05_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[5]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3441,7 +3459,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還有．．．如如．．．小姐是嗎？」"
+				"「還有我記得妳是．．．如如．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -3512,7 +3533,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雷娜大美女，再喝下去我會酒精肝的！」"
+				"「雷娜小姐，再喝下去我會酒精肝的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -3536,7 +3557,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真掃興．．．」"
+				"「切，真掃興。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3548,10 +3569,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「罷了，那姐姐作東，我飲酒你們隨意，咱們"
+				"「罷了，那姐姐作東，我飲酒你們隨意，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"去吃好料的。」"
+				"咱們去吃好料的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3563,7 +3584,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「來一個姊妹淘的聚會～」"
+				"「來一個姊妹淘的聚會吧！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -3600,10 +3621,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心！他那比蟑螂還強的韌性，就算吊個三"
+				"「放心！他那比蟑螂還強的韌性，就算吊個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"天三夜都不會有事。」"
+				"三天三夜都不會有事。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3796,7 +3817,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說雷娜小姐．．．我不是女的吧．．．」"
+				"「話說雷娜小姐．．．我不是女的吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -3879,7 +3900,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「會腦充血了啊．．．」"
+				"「會腦充血的啊．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				16,
@@ -4054,7 +4075,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令．．．偷窺是不對的．．．」"
+				"「達令．．．偷窺是不對的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -4066,7 +4087,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不經一事不長一智啊．．．少年。」"
+				"「不經一事不長一智啊，少年。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -4123,7 +4144,7 @@
 				"礦坑衛兵Ａ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「謝謝．．．謝謝仙女，把我們放下來。」"
+				"「謝謝．．．謝謝風仙女，把我們放下來。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Soldiers",
@@ -4138,8 +4159,23 @@
 				"「嗚嗚嗚，我們再也不敢偷窺了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"礦坑衛兵Ｃ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「想不到隊長居然也有這樣的一面，我還以為"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"她只會叫我們練肌肉，我們都錯怪她了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				9,
 				0,
 				0
 			]},
@@ -4147,7 +4183,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那麼．．．幾位在這些文件上簽字吧。」"
+				"「好了，別說那些沒營養的，你們在這些文件上"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"簽字吧。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -4241,7 +4280,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「各位是要簽還是不簽？」"
+				"\\{「你們是要簽還是不簽？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -4293,7 +4332,7 @@
 				"礦坑衛兵Ａ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只是要我們做什麼？」"
+				"「只是這個契約是要我們做什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4332,10 +4371,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要過來幫人家開砲的弟兄，就可以直接到"
+				"「只要過來幫人家開砲的弟兄，就可以直接"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"退伍令！」"
+				"從我這邊領到退伍令！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -4375,7 +4414,7 @@
 				"礦坑衛兵Ｃ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「退伍！？直接退伍！！？？？」"
+				"「退伍！？直接退伍！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Soldiers",
@@ -4387,10 +4426,10 @@
 				"礦坑衛兵Ａ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我有印象，是那個僵屍大軍襲擊時，"
+				"「鐵管子？喔！我有印象，是那個僵屍大軍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"城門口上開火的那個鐵管子！」"
+				"襲擊時，城門口上開火的那個鐵管子！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Soldiers",
@@ -4426,13 +4465,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過開砲之前．．．1人至少要先拉4個"
+				"「不過開砲之前，1人至少要先拉4個弟兄，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"弟兄，才有資格晉級為砲手，也才能趕快退伍"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"才有資格晉級為砲手，才能趕快退伍。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4502,7 +4538,7 @@
 				"礦坑衛兵Ｂ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「簽！拉4個弟兄就可以晉升為砲手．．．」"
+				"「簽！拉4個弟兄就可以晉升為砲手！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"writing","volume":90,"pitch":100,"pan":0}
@@ -4517,7 +4553,7 @@
 				"礦坑衛兵Ｃ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也簽！開砲後就可以提早退伍．．．」"
+				"「我也簽！開砲後就可以提早退伍！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Soldiers",
@@ -4529,7 +4565,7 @@
 				"礦坑衛兵Ｃ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這麼好事的事情，不做才是傻蛋！」"
+				"「這種好事，不做才是傻蛋！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"writing","volume":90,"pitch":100,"pan":0}
@@ -4589,7 +4625,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\}「欸？破麻！我記得這鐵管子．．．」"
+				"\\}「欸？破麻！我記得妳說的鐵管子．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -4613,7 +4649,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\}「當然是瑕疵品．．．否則軍隊內的兵器，怎麼可能說徵調就徵調．．．」"
+				"\\}「當然是瑕疵品，否則軍隊內的兵器，怎麼可能說徵調就徵調．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4637,7 +4673,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「噗哧，妳比我還黑心．．．」"
+				"「噗哧，妳比我還黑心。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
