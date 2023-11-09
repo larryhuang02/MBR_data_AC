@@ -25925,10 +25925,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「好激烈的血跡．．．這些是當時跟薩奇那"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"傢伙殘留下來的吧．．．」"
+				"「好多血，都過了這麼久，都乾掉了？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -25940,10 +25937,19 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過沒看到屍體，不知道是死了還是"
+				"「這些是當時薩奇留下來的吧？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"怎樣．．．」"
+				"\\N[1]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「不過沒看到屍體，不知道是死了還是怎樣。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -25963,7 +25969,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯？這個什麼東西．．．」"
+				"「嗯？這個什麼東西？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -26007,10 +26013,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你若是去撿．．．人家．．．"
+				"「你如果去撿．．．人家、人家會、會很生氣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人家會．．．會很生氣很生氣的！！！」"
+				"很生氣的！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
