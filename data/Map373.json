@@ -4972,7 +4972,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「美女？妳怎樣？要不要緊啊？！」"
+				"「美女？妳怎麼樣？要不要緊啊？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				1,
@@ -5004,7 +5004,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「女孩子．．．」"
+				"「女孩子？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -5016,7 +5016,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在這種沒有渡船到的地方？？？」"
+				"「在這種沒有渡船到的了的地方？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -5191,10 +5191,10 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「居然這樣就得到四大神器，真的是得來全"
+				"「居然這樣就得到四大神器，真的是得來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不費工夫～」"
+				"全不費工夫～」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				1,
@@ -5581,7 +5581,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				6,
+				3,
 				0,
 				2
 			]},
@@ -5589,7 +5589,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這些不是．．．？」"
+				"「這些是．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor3",
@@ -5850,10 +5850,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒什麼～只是在下．．．"
+				"「沒什麼～只是在下．．．不，小生的內褲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不．．．小生的內褲而已～」"
+				"而已～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor3",
@@ -5865,10 +5865,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這根本就是屎坑吧！！！"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"怎麼會這麼臭！！！」"
+				"「這根本就是屎坑吧！怎麼會這麼臭！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -5940,13 +5937,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．還好啦．．．"
+				"「啊．．．還好啦，那幾件就是從最果之雨村"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"那幾件就是從最果之雨村出發冒險開始，一路"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"穿到現在的原味內褲。」"
+				"出發冒險開始，一路穿到現在的原味內褲。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -5970,13 +5964,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「穿內褲的精隨就是．．．"
+				"「穿內褲的精隨就是，正面穿三天、反面穿"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"正面穿三天、反面穿三天、陽台曬一天、隔天"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"繼續穿。」"
+				"三天、陽台曬一天、隔天繼續穿。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6016,6 +6007,21 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「難怪我一直覺得你這傢伙很臭，還以為是"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我想太多．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
 				6,
 				0,
 				2
@@ -6024,10 +6030,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「原來維皮你一直藏了個終極詛咒"
+				"\\{「原來你這傢伙一直藏了個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在褲襠裡！？」"
+				"終極詛咒在褲襠裡！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -6064,7 +6070,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為什麼．．．為什麼我會失手．．．」"
+				"「為什麼、為什麼我會失手？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor3",
@@ -6076,7 +6082,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為什麼你會知道我們要搶四大神器．．．」"
+				"「為什麼你會知道我們要搶四大神器！？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -6093,7 +6099,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「拜託．．．請仔細想好嗎？」"
+				"「拜託，仔細想想好嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -6125,10 +6131,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「然後我被暗算，四大神器就這樣不翼而飛"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「然後我被暗算，四大神器就這樣不翼而飛。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6140,10 +6143,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「然後我們只能像是戰敗的公雞回去找冰月"
+				"「然後我們只能像是戰敗的公雞回去找"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"冰月．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6187,7 +6190,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「只有第一次做RM的人才會寫出這種血尿劇情！」"
+				"\\{「只有第一次做RM的人才會寫出"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這種智障劇情！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6199,7 +6205,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「我的尷尬癌都要發作了好咩！」"
+				"\\{「天神一天到晚被鴿神調侃，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"都快被唸到臭頭了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6281,22 +6290,22 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然人家覺得你在偷酸誰．．．"
+				"「雖然人家覺得你在說誰壞話，但人家沒有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但人家沒有證據。」"
+				"證據。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				13,
+				"BLR_02_1",
+				3,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
+				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「噗哧哧，人都有第一次做遊戲咩～」"
+				"「人嘛，都有第一次啊～」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				2
@@ -6317,7 +6326,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然如此．．．就只好正面動手了！」"
+				"「既然如此，就只好直接正面動手了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6365,7 +6374,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「打倒！？就憑你們？！」"
+				"「打倒！？就憑你們？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor3",
@@ -6419,13 +6428,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「都對話這麼久了．．．"
+				"「都對話這麼久了，還\\C[2]沒有名字、沒有專屬臉圖"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還\\C[2]沒有名字、沒有專屬臉圖的雜魚\\C[0]．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"是能強到哪？」\\|\\.\\.\\^"
+				"的雜魚\\C[0]．．．是能強到哪？」\\|\\.\\.\\^"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"","volume":90,"pitch":100,"pan":0}
@@ -6623,10 +6629,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是這些人．．．居然知道我們在收集"
+				"「可是這些人，居然知道我們在收集四大"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"四大神器．．．」"
+				"神器。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -6648,7 +6654,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如如，莫非是妳母后的人？」"
+				"「如如，難道牠們是妳母后的人？」"
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"Scene4","volume":50,"pitch":100,"pan":0}
@@ -6736,7 +6742,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳們．．．是母后的手下？」"
+				"「妳們，是母后的手下？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				15,
@@ -6800,7 +6806,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少主．．．妳為什麼要背叛我們．．．」"
+				"「少主．．．妳為什麼要背叛我們？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -6952,7 +6958,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳已經不在是．．．我們的一員了。」"
+				"「妳已經不再是．．．我們的一員了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -6984,7 +6990,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是．．．怎麼回事！？」"
+				"「這是怎麼回事！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -7060,7 +7066,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抱歉．．．風鈴鈴小姐．．．」"
+				"「抱歉，風鈴鈴小姐。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -7072,7 +7078,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也是跟你們旅行後，才知道如如他們三人"
+				"「我也是跟你們旅行後，才知道如如他們三個"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"不是這個大陸的人。」"
@@ -7164,10 +7170,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這怎麼可能．．．母后她怎麼會做出這種"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"決定．．．」"
+				"「這怎麼可能！母后她怎麼會做出這種決定？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7194,7 +7197,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為什麼．．．」"
+				"「為什麼？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -7240,7 +7243,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「問清楚．．．妳為什麼不自己問她？」"
+				"「問清楚？妳為什麼不自己問她？」"
 			]},
 			{"code":225,"indent":0,"parameters":[
 				9,
@@ -7314,7 +7317,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家．．．一點都不眷戀．．．」"
+				"「我．．．一點都不眷戀。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120
@@ -7531,10 +7534,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本以為那幾個酒囊飯袋，可以奪得神器，"
+				"「本來以為靠你們幾個的媚術可以輕鬆奪得"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但余還是想的太美好了。」"
+				"神器，但余還是想的太美好了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				15,
@@ -7556,10 +7559,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「現在給我滾！回去再好好的討論妳們的懲處"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「現在給我滾！回去再來決定妳們的懲處。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor3",
@@ -7571,7 +7571,7 @@
 				"謎之少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是．．．屬下告退．．．」"
+				"「是．．．屬下告退。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				15,
@@ -7721,7 +7721,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「余可不記得．．．余什麼時候有小孩了。」"
+				"「余可不記得，余什麼時候有小孩了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -7756,7 +7756,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．對了。」"
+				"「啊，對了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -7768,7 +7768,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．這個身體．．．」"
+				"「是啊，這個身體．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -7780,7 +7780,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳的確是這個身體的女兒．．．」"
+				"「妳的確是這個身體的女兒。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7792,7 +7792,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個身體？？？」"
+				"「這個身體？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -7809,7 +7809,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不對．．．這個口吻．．．這個語氣．．．」"
+				"「不對，這個口吻、這個語氣．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7821,19 +7821,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳．．．妳不是母后！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				15,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳究竟是誰！？」"
+				"「妳、妳不是母后！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -7857,7 +7845,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼．．．對妳的師傅用這種口氣說話？」"
+				"「怎麼？對妳的師傅用這種口氣說話？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7869,7 +7857,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳在胡說什麼？拖爾才是我的師父！」"
+				"「妳在胡說什麼？拖爾才是我的師傅！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -7886,10 +7874,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「拖爾．．．他只是從旁協助指點妳而已．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"」"
+				"「拖爾？他只是從旁協助指點妳而已。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -7901,7 +7886,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳忘記是誰傳授給妳黑魔法的精髓力量嗎？」"
+				"「妳忘記是誰傳授給妳黑魔法的精髓了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7972,10 +7957,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本想說在妳的身上重生，沒想到會在"
+				"「本來想說，在妳的身上重生，沒想到會在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"她身上重生。」"
+				"她的身上重生。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8011,19 +7996,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「神使大人，不是在幫母后的忙嗎？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「重生是怎麼回事．．．」"
+				"「神使大人，您不是在幫母后的忙嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -8040,7 +8013,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幫忙？別傻了．．．」"
+				"「幫忙？別傻了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8055,7 +8028,7 @@
 				"「妳自己也很清楚，這世界上沒有無條件的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"幫忙。」"
+				"善意。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8091,15 +8064,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「否則．．．妳是如何從那年輕人手中搶到"
+				"「否則．．．妳是如何從\\N[50]的人手中"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"品涵的？」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				4,
-				8,
-				false
+				"搶到品涵的？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -8116,7 +8084,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「利益跟利用．．．」"
+				"「所以，神使你將黑魔法的力量傳給我．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -8133,27 +8101,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．神使妳會傳授給我這個"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"黑魔法力量．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				3,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「也是因為．．．利益？」"
+				"「是為了，利益？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -8170,7 +8118,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「ㄚ頭，妳跟我一樣．．．內心充滿著慾望。」"
+				"「ㄚ頭，妳跟我一樣，內心充滿著慾望。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8197,10 +8145,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而當余知道妳的願望．．．"
+				"「而當余知道妳的願望是復仇時，余就在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是復仇時，余就在想．．．」"
+				"想．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8212,7 +8160,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「余重生的機會來了．．．」"
+				"「余重生的機會來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8224,10 +8172,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「余將力量傳授給妳，並且配合凶星的運行"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「余將力量傳授給妳，並且配合凶星的軌跡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8251,10 +8196,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「讓妳．．．僅靠一人．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"就可以對這個國家進行復仇．．．」"
+				"「讓妳自己一個人，就可以對整個國家復仇。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8266,7 +8208,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「余是不是．．．在滿足妳的願望？」"
+				"「余不是，滿足了妳的願望嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8295,10 +8237,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．發動亡靈大陣的代價，不光是透支"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"妳自己的生命．．．」"
+				"「我今天心情好，就告訴你吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8310,7 +8249,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也會讓妳身上吸收大量的負面力量。」"
+				"「發動亡靈大陣的代價，不光是透支妳自己的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"生命．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8322,7 +8264,19 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「替余製造了最佳的搖籃．．．」"
+				"「也會讓妳吸收大量的負面力量。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Marme",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"瑪姆"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「替余製造最佳的搖籃．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -8339,7 +8293,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．我當時會爆走．．．」"
+				"「所以，我當時會暴走．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8351,7 +8305,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．當然是余的力量幫了妳一把。」"
+				"「當然是余的力量幫了妳一把。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8363,10 +8317,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「蠢ㄚ頭，否則僅憑妳自己一人的法力，怎麼"
+				"「蠢ㄚ頭，否則僅憑妳一人的力量，怎麼可能"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可能對王都的襲擊呢？」"
+				"對王都發動襲擊呢？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8399,7 +8353,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
-				6,
+				9,
 				0,
 				2
 			]},
@@ -8407,10 +8361,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可沒想到，這個充滿負面力量的身體．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"居然被轉移了．．．」"
+				"「母愛還真是偉大啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8422,7 +8373,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「被轉移到．．．現在這具身體身上．．．」"
+				"「為了救你，妳的母后將所有的負面力量全部"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"吸收到自己身上。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8454,7 +8408,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「莫非．．．人家能從魔力爆走中醒來．．．」"
+				"「莫非，我能從魔力暴走中醒來．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8478,33 +8432,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而是．．．把那失控的力量轉移到她身上"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Marme",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"瑪姆"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．居然擅自主張，打亂了余的計畫"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"落下1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				9,
-				7,
-				true
+				"「而是，把我失控的力量轉移到自己身上！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8531,7 +8459,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但．．．她卻擅自主張，壞了余的計畫。」"
+				"「她卻自作主張，壞了余的計畫。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8543,7 +8471,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒辦法，余只好借用她的身體了。」"
+				"「既然已經做了，那也沒辦法，余只好借用"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"她的身體。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8621,7 +8552,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「滾．．．」"
+				"「滾！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8633,7 +8564,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「滾．．．給我滾！！！」"
+				"\\{「給我滾出母后的身體！！！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -8680,7 +8611,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「把母后還來！她是我的！」"
+				"\\{「把母后還來！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -8761,7 +8692,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「滾？妳在胡說什麼？」"
+				"「滾？妳再胡說什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8773,7 +8704,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如今瑪姆就是余、余就是瑪姆～」"
+				"「如今瑪姆即是余、余即是瑪姆。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8809,7 +8740,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不．．．這不可能．．．．」"
+				"「不，這不可能．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8821,10 +8752,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還是．．．妳覺得妳有辦法在不傷及她的"
+				"「還是．．．妳覺得妳有辦法在不傷及她靈魂"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"靈魂之下，將余分開？」"
+				"之情況下，將余分開？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -8904,7 +8835,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼回事．．．難不成瑪姆．．．」"
+				"「怎麼回事？難不成瑪姆．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8916,7 +8847,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「被另一個魔頭控制了？」"
+				"「被另一個人控制了？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -8971,7 +8902,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"怎麼好像在哪裡聽過．．．"
+				"怎麼好像在哪裡聽過？"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -8991,7 +8922,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了，廢話不多說了．．．」"
+				"「好了，說那麼多廢話做什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9003,7 +8934,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器．．．就在你們身上吧。」"
+				"「余今天的事還多著呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9015,7 +8946,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「交出來，余可饒你們不死！」"
+				"「把四大神器交出來，余可以饒你們不死！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -9137,7 +9068,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我們已非在神祇遺跡那時一樣．．．」"
+				"「我們已經今非昔比了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -9149,7 +9080,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳別以為，可以這麼輕鬆獲勝了！」"
+				"「妳別以為，這次可以這麼輕鬆獲勝！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9161,19 +9092,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼．．．一群蠢蛋．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Marme",
-				9,
-				0,
-				2
+				"「哼，一群蠢蛋，你們以為，當年四大神器是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"瑪姆"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你們以為．．．保的住四大神器嗎？」"
+				"靠誰才有辦法做出來的？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -9191,7 +9113,7 @@
 				"\\{「芬托斯、亞坤、弗拉瑪、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"泰拉．．．」"
+				"泰拉！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9392,7 +9314,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「神器怎麼飛出來了！？」"
+				"「神器怎麼從包包裡自己飛出來了！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Saint4","volume":90,"pitch":100,"pan":0}
@@ -9573,7 +9495,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還回來！」"
+				"「還給我們！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -9844,10 +9766,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哎呀！這樣打斷別人說話很不禮貌的，油味"
+				"「哎呀！這樣打斷別人說話是很不禮貌的，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"小鬼！」"
+				"油味小鬼！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9859,7 +9781,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「況且．．．這是物歸原主，什麼叫還回來？」"
+				"「況且，這是物歸原主，什麼叫還回來？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -9868,7 +9790,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"物歸．．．原主！？"
+				"物歸原主！？"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -9885,7 +9807,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「謝謝妳啊．．．如如．．．」"
+				"「我得要謝謝妳啊，如如。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9897,7 +9819,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「多虧了妳．．．余才能重新取回這些神器。」"
+				"「多虧了妳，余才能重新取回這些神器。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -9909,7 +9831,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「什麼．．．意思．．．」"
+				"「什麼．．．意思？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -9939,7 +9861,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只能讓你們代勞了～」"
+				"「而被封印的地點，余也不知道．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -9951,19 +9873,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而被封印的地點．．．余也不知道．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Marme",
-				9,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"瑪姆"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「但．．．余知道\\C[2]妳\\C[0]的位置！」"
+				"「但，余知道\\C[2]妳\\C[0]的位置！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -10047,7 +9957,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．我回不去異界．．．」"
+				"「所以，我回不去異界，是因為．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -10059,10 +9969,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是！是余趁瑪姆失神之際，抽離了妳的許可"
+				"「是！是余趁瑪姆失神之際，抽離了妳的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"權。」"
+				"許可權。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -10074,10 +9984,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如同余的預測，妳果然跟著這些人一起行動"
+				"「如同余的預測，妳果然跟著這些人一起"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"行動。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -10109,7 +10019,19 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對了！余就來完成妳們的心願吧．．．」"
+				"「對了！余就來完成妳們的心願吧。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Marme",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"瑪姆"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「余是不是個善解人意之人呢？」"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				9,
@@ -10160,7 +10082,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"神使已從眾人眼前消失．．．\\|\\|\\|\\^\""
+				"\\TXTCENTER:\"隨著神使從眼前消失．．．\\|\\|\\|\\^\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -10398,7 +10320,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼會．．．這樣．．．」"
+				"「怎麼會．．．這樣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_2",
@@ -10422,7 +10344,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「居然．．．還是失手了．．．」"
+				"「居然．．．還是失手了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -10479,7 +10401,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我不知道．．．事情會變成這樣．．．」"
+				"「我不知道．．．事情會變成這樣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -10503,7 +10425,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對不起．．．」"
+				"「對不起。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -10538,7 +10460,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不．．．這件事情不是妳的錯．．．」"
+				"「不，這件事情不是妳的錯。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10550,7 +10472,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也有責任．．．」"
+				"「我也有責任。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -10567,7 +10489,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明受了霍恩跟冰月的委託．．．」"
+				"「明明受了霍恩跟冰月的委託。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10579,7 +10501,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我應該．．．更小心的．．．」"
+				"「我應該更小心的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10591,7 +10513,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是我這．．．隊長的責任．．．」"
+				"「是我這．．．隊長的責任。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -10606,7 +10528,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「罷了．．．既然事情都已經發生了。」"
+				"「罷了，既然事情都已經發生了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -10635,7 +10557,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也只能．．．先回去跟冰月通知了．．．」"
+				"「也只能．．．先回去告訴冰月了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Computer","volume":90,"pitch":100,"pan":0}
@@ -10653,7 +10575,7 @@
 				"冰月的聲音"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．你們幾個，先速速返回吧。」"
+				"「嗯．．．你們，先趕快回來吧。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -10688,10 +10610,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．是從\\N[67]"
+				"「啊．．．是從\\N[67]裡傳出的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"傳出的聲音。」"
+				"聲音。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -10703,7 +10625,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「剛才瑪姆的到來，把四周的訊號都阻隔了。」"
+				"「剛才瑪姆過來的時候，把四周的訊號都"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"阻隔了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -10715,7 +10640,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「現在才有辦法跟你們通話。」"
+				"「現在她走了，我才有辦法跟你們通話。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -10727,7 +10652,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對不起．．．冰月姐姐，是我們失手了。」"
+				"「對不起，冰月姐姐，是我們失手了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -10781,7 +10706,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「各位．．．走吧。」"
+				"「各位，走吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -10994,7 +10919,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我就不去了．．．」"
+				"「我就不去了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -11079,7 +11004,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們．．．走吧．．．」"
+				"「你們．．．去吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -11281,7 +11206,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家．．．就是這樣撐過來的．．．」"
+				"「人家就是這樣撐過來的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -11305,10 +11230,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳母親被控制了又如何？失去了異界少主的"
+				"「妳母親被控制了又如何？失去了異界少主"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"身份又如何？」"
+				"的身份又怎樣？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -11431,7 +11356,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這句話原封不動還妳。」"
+				"「這句話原封不動還給妳。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -11448,10 +11373,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴說的沒錯，哪裡被打倒就從哪裡站起來"
+				"「小鈴說的沒錯，哪裡被打倒就從哪裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"站起來。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -11529,7 +11454,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「再來思考．．．之後該如何行動．．．」"
+				"「再來思考．．．之後該怎麼做。」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				2
