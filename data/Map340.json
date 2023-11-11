@@ -7144,7 +7144,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「刀呢？\\nw[19]去哪了？」"
+				"「刀呢？\\nw[20]去哪了？」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -8909,7 +8909,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得\\nw[20]。"
+				"獲得\\nw[21]。"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
