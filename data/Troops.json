@@ -15,12 +15,13 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":3,"x":171,"y":358,"hidden":false}
+		{"enemyId":577,"x":165,"y":360,"hidden":false},
+		{"enemyId":578,"x":360,"y":295,"hidden":false},
+		{"enemyId":579,"x":336,"y":444,"hidden":false}
 	],"name":"TEST","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":342,"indent":0,"parameters":[-1,0,0,99]},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":1}
+		],"span":0}
 	]},
 	{"id":3,"members":[
 	],"name":"","pages":[
@@ -291,6 +292,7 @@
 			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[1,21,0,1,0]},
 			{"code":339,"indent":1,"parameters":[0,0,1,0]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":1,"parameters":[5,0,1,6]},
 			{"code":331,"indent":2,"parameters":[0,1,0,100,true]},
 			{"code":115,"indent":2,"parameters":[]},
@@ -300,6 +302,7 @@
 			{"code":411,"indent":0,"parameters":[]},
 			{"code":111,"indent":1,"parameters":[1,21,0,2,0]},
 			{"code":339,"indent":2,"parameters":[0,0,3,0]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":2,"parameters":[5,0,1,6]},
 			{"code":331,"indent":3,"parameters":[0,1,0,100,true]},
 			{"code":115,"indent":3,"parameters":[]},
@@ -315,6 +318,7 @@
 			{"code":339,"indent":4,"parameters":[0,0,1,0]},
 			{"code":0,"indent":4,"parameters":[]},
 			{"code":412,"indent":3,"parameters":[]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":3,"parameters":[5,0,1,6]},
 			{"code":331,"indent":4,"parameters":[0,1,0,100,true]},
 			{"code":115,"indent":4,"parameters":[]},
@@ -324,6 +328,7 @@
 			{"code":411,"indent":2,"parameters":[]},
 			{"code":111,"indent":3,"parameters":[1,21,0,4,0]},
 			{"code":339,"indent":4,"parameters":[0,0,506,0]},
+			{"code":355,"indent":4,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":4,"parameters":[5,0,1,6]},
 			{"code":331,"indent":5,"parameters":[0,1,0,100,true]},
 			{"code":122,"indent":5,"parameters":[21,21,0,0,0]},
@@ -335,6 +340,7 @@
 			{"code":108,"indent":4,"parameters":["倒坦，巨魔亂打"]},
 			{"code":111,"indent":4,"parameters":[1,21,0,0,1]},
 			{"code":339,"indent":5,"parameters":[0,0,3,-1]},
+			{"code":355,"indent":5,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":5,"parameters":[5,0,1,6]},
 			{"code":331,"indent":6,"parameters":[0,1,0,100,true]},
 			{"code":115,"indent":6,"parameters":[]},
@@ -1114,7 +1120,7 @@
 			{"code":411,"indent":0,"parameters":[]},
 			{"code":101,"indent":1,"parameters":["Recolor_Ghosts",6,0,2]},
 			{"code":401,"indent":1,"parameters":["幽魂死神"]},
-			{"code":401,"indent":1,"parameters":["「加入我們吧.....」"]},
+			{"code":401,"indent":1,"parameters":["「加入我們吧．．．」"]},
 			{"code":335,"indent":1,"parameters":[1]},
 			{"code":335,"indent":1,"parameters":[2]},
 			{"code":337,"indent":1,"parameters":[1,102,false]},
@@ -1129,7 +1135,7 @@
 			{"code":411,"indent":0,"parameters":[]},
 			{"code":101,"indent":1,"parameters":["Recolor_Ghosts",6,0,2]},
 			{"code":401,"indent":1,"parameters":["幽魂死神"]},
-			{"code":401,"indent":1,"parameters":["「加入後死亡，或死亡後加入....」"]},
+			{"code":401,"indent":1,"parameters":["「加入後死亡，或死亡後加入．．．」"]},
 			{"code":335,"indent":1,"parameters":[3]},
 			{"code":335,"indent":1,"parameters":[4]},
 			{"code":337,"indent":1,"parameters":[3,102,false]},
@@ -1154,6 +1160,7 @@
 			{"code":401,"indent":0,"parameters":["「我告訴你，對付你這種武師，這個結界"]},
 			{"code":401,"indent":0,"parameters":["足以！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,550,0]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":121,"indent":0,"parameters":[121,121,1]},
 			{"code":121,"indent":0,"parameters":[122,122,0]},
 			{"code":0,"indent":0,"parameters":[]}
@@ -1169,6 +1176,7 @@
 			{"code":401,"indent":0,"parameters":["晨"]},
 			{"code":401,"indent":0,"parameters":["「好，那就讓你見識我的真本事！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,551,0]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":121,"indent":0,"parameters":[122,122,1]},
 			{"code":121,"indent":0,"parameters":[123,123,0]},
 			{"code":0,"indent":0,"parameters":[]}
@@ -1239,6 +1247,7 @@
 			{"code":122,"indent":0,"parameters":[21,21,0,0,0]},
 			{"code":112,"indent":0,"parameters":[]},
 			{"code":339,"indent":1,"parameters":[0,0,539,-2]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":1,"parameters":[21,21,1,0,1]},
 			{"code":111,"indent":1,"parameters":[12,"$gameParty.isAllDead()"]},
 			{"code":113,"indent":2,"parameters":[]},
@@ -1759,6 +1768,7 @@
 			{"code":401,"indent":4,"parameters":["「\\C[2]雙重\\C[6]裂解破壞砲\\C[0]啟動，排除目標！」"]},
 			{"code":339,"indent":4,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":4,"parameters":[0,1,561,-1]},
+			{"code":355,"indent":4,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":111,"indent":4,"parameters":[4,1,6,1]},
 			{"code":101,"indent":5,"parameters":["BLR_01_1",10,0,0]},
 			{"code":401,"indent":5,"parameters":["陸維皮"]},
@@ -1885,6 +1895,7 @@
 			{"code":401,"indent":4,"parameters":["「\\C[2]雙重\\C[6]裂解破壞砲\\C[0]啟動，排除目標！」"]},
 			{"code":339,"indent":4,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":4,"parameters":[0,1,561,-1]},
+			{"code":355,"indent":4,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":4,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":4,"parameters":["GXPT3000"]},
 			{"code":401,"indent":4,"parameters":["「雙重攻擊無法摧毀目標．．．調整輸出功率，"]},
@@ -1969,6 +1980,7 @@
 			{"code":313,"indent":1,"parameters":[0,3,1,1]},
 			{"code":339,"indent":1,"parameters":[1,1,24,0]},
 			{"code":339,"indent":1,"parameters":[1,3,89,0]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":250,"indent":1,"parameters":[{"name":"Paralyze1","volume":45,"pitch":80,"pan":0}]},
 			{"code":224,"indent":1,"parameters":[[255,255,119,170],60,false]},
 			{"code":225,"indent":1,"parameters":[7,9,15,false]},
@@ -2024,6 +2036,7 @@
 			{"code":111,"indent":4,"parameters":[1,21,0,0,0]},
 			{"code":339,"indent":5,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":5,"parameters":[0,1,561,-1]},
+			{"code":355,"indent":5,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":5,"parameters":[21,21,1,0,1]},
 			{"code":101,"indent":5,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":5,"parameters":["GXPT3000"]},
@@ -2035,6 +2048,7 @@
 			{"code":339,"indent":6,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":6,"parameters":[0,1,561,-1]},
 			{"code":339,"indent":6,"parameters":[0,0,561,-1]},
+			{"code":355,"indent":6,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":6,"parameters":[21,21,1,0,1]},
 			{"code":101,"indent":6,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":6,"parameters":["GXPT3000"]},
@@ -2047,6 +2061,7 @@
 			{"code":339,"indent":7,"parameters":[0,1,561,-1]},
 			{"code":339,"indent":7,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":7,"parameters":[0,1,561,-1]},
+			{"code":355,"indent":7,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":7,"parameters":[21,21,1,0,1]},
 			{"code":101,"indent":7,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":7,"parameters":["GXPT3000"]},
@@ -2060,6 +2075,7 @@
 			{"code":339,"indent":8,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":8,"parameters":[0,1,561,-1]},
 			{"code":339,"indent":8,"parameters":[0,0,561,-1]},
+			{"code":355,"indent":8,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":8,"parameters":[21,21,1,0,1]},
 			{"code":101,"indent":8,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":8,"parameters":["GXPT3000"]},
@@ -2074,6 +2090,7 @@
 			{"code":339,"indent":9,"parameters":[0,1,561,-1]},
 			{"code":339,"indent":9,"parameters":[0,0,561,-1]},
 			{"code":339,"indent":9,"parameters":[0,1,561,-1]},
+			{"code":355,"indent":9,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":9,"parameters":[21,21,1,0,1]},
 			{"code":101,"indent":9,"parameters":["Monster_ETNR_Monster01",5,0,0]},
 			{"code":401,"indent":9,"parameters":["GXPT3000"]},
@@ -2216,6 +2233,7 @@
 			{"code":401,"indent":0,"parameters":["拖爾"]},
 			{"code":401,"indent":0,"parameters":["「暗黑的擊劍，就讓妳好好見識一下！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,668,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -2243,6 +2261,7 @@
 			{"code":401,"indent":0,"parameters":["拖爾"]},
 			{"code":401,"indent":0,"parameters":["「這招定勝負！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,669,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["BLR_Tuoer",7,1,0]},
 			{"code":401,"indent":0,"parameters":["擋住了！？\\.\\.\\^"]},
 			{"code":101,"indent":0,"parameters":["BLR_02_2",2,0,0]},
@@ -2252,6 +2271,7 @@
 			{"code":401,"indent":0,"parameters":["托爾"]},
 			{"code":401,"indent":0,"parameters":["「大放厥詞！我倒想看看妳怎麼擋下這招！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,670,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["BLR_02_2",2,0,0]},
 			{"code":401,"indent":0,"parameters":["天使蛋糕"]},
 			{"code":401,"indent":0,"parameters":["「．．．」"]},
@@ -2880,7 +2900,7 @@
 			{"code":121,"indent":1,"parameters":[21,21,1]},
 			{"code":101,"indent":1,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":1,"parameters":["\\N[1]"]},
-			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎....」"]},
+			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎？」"]},
 			{"code":111,"indent":1,"parameters":[4,3,0]},
 			{"code":101,"indent":2,"parameters":["BLR_03_1",4,0,0]},
 			{"code":401,"indent":2,"parameters":["\\N[3]"]},
@@ -2897,7 +2917,7 @@
 			{"code":121,"indent":1,"parameters":[21,21,1]},
 			{"code":101,"indent":1,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":1,"parameters":["\\N[1]"]},
-			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎....」"]},
+			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎？」"]},
 			{"code":111,"indent":1,"parameters":[4,3,0]},
 			{"code":101,"indent":2,"parameters":["BLR_03_1",4,0,0]},
 			{"code":401,"indent":2,"parameters":["\\N[3]"]},
@@ -2914,7 +2934,7 @@
 			{"code":121,"indent":1,"parameters":[21,21,1]},
 			{"code":101,"indent":1,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":1,"parameters":["\\N[1]"]},
-			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎....」"]},
+			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎？」"]},
 			{"code":111,"indent":1,"parameters":[4,3,0]},
 			{"code":101,"indent":2,"parameters":["BLR_03_1",4,0,0]},
 			{"code":401,"indent":2,"parameters":["\\N[3]"]},
@@ -2931,7 +2951,7 @@
 			{"code":121,"indent":1,"parameters":[21,21,1]},
 			{"code":101,"indent":1,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":1,"parameters":["\\N[1]"]},
-			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎....」"]},
+			{"code":401,"indent":1,"parameters":["「咦！？殺不死的怪物嗎？」"]},
 			{"code":111,"indent":1,"parameters":[4,3,0]},
 			{"code":101,"indent":2,"parameters":["BLR_03_1",4,0,0]},
 			{"code":401,"indent":2,"parameters":["\\N[3]"]},
@@ -3558,6 +3578,7 @@
 			{"code":401,"indent":0,"parameters":["\\N[1]"]},
 			{"code":401,"indent":0,"parameters":["「\\C[2]身上的苦難\\C[0]？」"]},
 			{"code":339,"indent":0,"parameters":[0,0,616,-1]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",5,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[1]"]},
 			{"code":401,"indent":0,"parameters":["「這啥？」"]},
@@ -3603,6 +3624,7 @@
 			{"code":122,"indent":1,"parameters":[22,22,0,2,0,0]},
 			{"code":111,"indent":1,"parameters":[1,22,0,0,0]},
 			{"code":339,"indent":2,"parameters":[0,0,616,-1]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":2,"parameters":[]},
 			{"code":412,"indent":1,"parameters":[]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -3611,6 +3633,7 @@
 			{"code":122,"indent":2,"parameters":[22,22,0,2,0,1]},
 			{"code":111,"indent":2,"parameters":[1,22,0,0,0]},
 			{"code":339,"indent":3,"parameters":[0,0,616,-1]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":3,"parameters":[]},
 			{"code":412,"indent":2,"parameters":[]},
 			{"code":0,"indent":2,"parameters":[]},
@@ -3619,6 +3642,7 @@
 			{"code":122,"indent":3,"parameters":[22,22,0,2,0,2]},
 			{"code":111,"indent":3,"parameters":[1,22,0,0,0]},
 			{"code":339,"indent":4,"parameters":[0,0,616,-1]},
+			{"code":355,"indent":4,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":4,"parameters":[]},
 			{"code":412,"indent":3,"parameters":[]},
 			{"code":0,"indent":3,"parameters":[]},
@@ -3626,6 +3650,7 @@
 			{"code":122,"indent":3,"parameters":[22,22,0,2,0,3]},
 			{"code":111,"indent":3,"parameters":[1,22,0,0,0]},
 			{"code":339,"indent":4,"parameters":[0,0,616,-1]},
+			{"code":355,"indent":4,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":4,"parameters":[]},
 			{"code":412,"indent":3,"parameters":[]},
 			{"code":0,"indent":3,"parameters":[]},
@@ -4036,17 +4061,19 @@
 			{"code":401,"indent":1,"parameters":["「犯規啊！怎麼一直在補血呢！」"]},
 			{"code":101,"indent":1,"parameters":["BLR_01_1",3,0,0]},
 			{"code":401,"indent":1,"parameters":["\\N[1]"]},
-			{"code":401,"indent":1,"parameters":["「身為勇者！身上帶９９瓶水是基本的！"]},
+			{"code":401,"indent":1,"parameters":["「身為勇者！身上帶99瓶水是基本的！"]},
 			{"code":401,"indent":1,"parameters":["嗑藥都嗑死妳！」"]},
 			{"code":101,"indent":1,"parameters":["BLR_LiLiYa",2,0,0]},
 			{"code":401,"indent":1,"parameters":["莉莉婭"]},
 			{"code":401,"indent":1,"parameters":["「那只能讓你們嚐嚐這個了！準備享受這帶來的美味啊。」"]},
 			{"code":339,"indent":1,"parameters":[0,0,637,-1]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":121,"indent":1,"parameters":[24,24,0]},
 			{"code":121,"indent":1,"parameters":[27,27,0]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":411,"indent":0,"parameters":[]},
 			{"code":339,"indent":1,"parameters":[0,0,637,-1]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":121,"indent":1,"parameters":[24,24,0]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
@@ -4057,6 +4084,7 @@
 			{"code":401,"indent":0,"parameters":["莉莉婭"]},
 			{"code":401,"indent":0,"parameters":["「真討厭的一群人，收割靈魂的時間到了。」"]},
 			{"code":339,"indent":0,"parameters":[0,0,633,-1]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":121,"indent":0,"parameters":[28,28,1]},
 			{"code":121,"indent":0,"parameters":[25,25,0]},
 			{"code":0,"indent":0,"parameters":[]}
@@ -4589,6 +4617,7 @@
 			{"code":111,"indent":0,"parameters":[12,"$gameTroop.members()[1].isAlive()"]},
 			{"code":111,"indent":1,"parameters":[5,1,1,6]},
 			{"code":339,"indent":2,"parameters":[0,0,647,1]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":2,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":2,"parameters":[24,24,0]},
 			{"code":333,"indent":2,"parameters":[0,0,120]},
@@ -4596,12 +4625,14 @@
 			{"code":411,"indent":1,"parameters":[]},
 			{"code":111,"indent":2,"parameters":[5,1,1,7]},
 			{"code":339,"indent":3,"parameters":[0,0,647,1]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":333,"indent":3,"parameters":[0,0,120]},
 			{"code":0,"indent":3,"parameters":[]},
 			{"code":411,"indent":2,"parameters":[]},
 			{"code":339,"indent":3,"parameters":[0,0,648,1]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,1,0,10]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":0,"indent":3,"parameters":[]},
@@ -4613,6 +4644,7 @@
 			{"code":111,"indent":0,"parameters":[12,"$gameTroop.members()[2].isAlive()"]},
 			{"code":111,"indent":1,"parameters":[5,2,1,6]},
 			{"code":339,"indent":2,"parameters":[0,0,647,2]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":2,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":2,"parameters":[24,24,0]},
 			{"code":333,"indent":2,"parameters":[0,0,120]},
@@ -4620,12 +4652,14 @@
 			{"code":411,"indent":1,"parameters":[]},
 			{"code":111,"indent":2,"parameters":[5,2,1,7]},
 			{"code":339,"indent":3,"parameters":[0,0,647,2]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":333,"indent":3,"parameters":[0,0,120]},
 			{"code":0,"indent":3,"parameters":[]},
 			{"code":411,"indent":2,"parameters":[]},
 			{"code":339,"indent":3,"parameters":[0,0,648,2]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,1,0,10]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":0,"indent":3,"parameters":[]},
@@ -4637,6 +4671,7 @@
 			{"code":111,"indent":0,"parameters":[12,"$gameTroop.members()[3].isAlive()"]},
 			{"code":111,"indent":1,"parameters":[5,3,1,6]},
 			{"code":339,"indent":2,"parameters":[0,0,647,3]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":2,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":2,"parameters":[24,24,0]},
 			{"code":333,"indent":2,"parameters":[0,0,120]},
@@ -4644,12 +4679,14 @@
 			{"code":411,"indent":1,"parameters":[]},
 			{"code":111,"indent":2,"parameters":[5,3,1,7]},
 			{"code":339,"indent":3,"parameters":[0,0,647,3]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,2,0,2]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":333,"indent":3,"parameters":[0,0,120]},
 			{"code":0,"indent":3,"parameters":[]},
 			{"code":411,"indent":2,"parameters":[]},
 			{"code":339,"indent":3,"parameters":[0,0,648,3]},
+			{"code":355,"indent":3,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":122,"indent":3,"parameters":[21,21,1,0,10]},
 			{"code":121,"indent":3,"parameters":[24,24,0]},
 			{"code":0,"indent":3,"parameters":[]},
@@ -4988,6 +5025,7 @@
 			{"code":339,"indent":0,"parameters":[0,2,6,-2]},
 			{"code":339,"indent":0,"parameters":[0,3,6,-2]},
 			{"code":339,"indent":0,"parameters":[0,4,6,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["Actor3",0,0,0]},
 			{"code":401,"indent":0,"parameters":["妖修"]},
 			{"code":401,"indent":0,"parameters":["「喂！你們這什麼意思！？」"]},
@@ -5487,18 +5525,14 @@
 		],"span":0}
 	]},
 	{"id":216,"members":[
-		{"enemyId":333,"x":417,"y":331,"hidden":false},
-		{"enemyId":333,"x":366,"y":382,"hidden":false},
-		{"enemyId":333,"x":333,"y":427,"hidden":false},
-		{"enemyId":333,"x":279,"y":331,"hidden":false},
-		{"enemyId":333,"x":246,"y":382,"hidden":false},
-		{"enemyId":333,"x":216,"y":439,"hidden":false},
-		{"enemyId":333,"x":147,"y":346,"hidden":false},
-		{"enemyId":333,"x":93,"y":424,"hidden":false}
-	],"name":"可愛的小蚯蚓*8","pages":[
+		{"enemyId":333,"x":352,"y":320,"hidden":false},
+		{"enemyId":333,"x":304,"y":415,"hidden":false},
+		{"enemyId":335,"x":207,"y":322,"hidden":false},
+		{"enemyId":337,"x":117,"y":439,"hidden":false}
+	],"name":"可愛的小蚯蚓*2, 女兒娃娃, 死亡武士","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
-			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.85,\"1\":0.85,\"2\":0.85,\"3\":0.85,\"4\":0.85,\"5\":0.85,\"6\":0.85,\"7\":0.85}>"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.85,\"1\":0.85,\"2\":0.85,\"3\":0.85}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -6338,6 +6372,7 @@
 			{"code":401,"indent":0,"parameters":["次元鐵衛"]},
 			{"code":401,"indent":0,"parameters":["「發動\\C[2]自爆程序\\C[0]，摧毀入侵者。」"]},
 			{"code":339,"indent":0,"parameters":[0,0,321,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":333,"indent":0,"parameters":[0,0,29]},
 			{"code":333,"indent":0,"parameters":[0,0,135]},
 			{"code":333,"indent":0,"parameters":[0,1,5]},
@@ -7448,6 +7483,7 @@
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":122,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":true,"turnValid":true},"list":[
 			{"code":339,"indent":0,"parameters":[0,0,671,0]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":6,"turnEnding":false,"turnValid":true},"list":[
@@ -7716,6 +7752,7 @@
 			{"code":401,"indent":0,"parameters":["「\\.．\\.．\\.．\\.」\\|\\^"]},
 			{"code":401,"indent":0,"parameters":["　　　　　　　　　　"]},
 			{"code":339,"indent":0,"parameters":[0,0,824,-1]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":230,"indent":0,"parameters":[60]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[1]"]},
@@ -7736,6 +7773,7 @@
 			{"code":401,"indent":0,"parameters":["　　　　　　　　　　"]},
 			{"code":355,"indent":0,"parameters":["BattleManager.clearDmgLog($gameTroop.members()[0]);"]},
 			{"code":339,"indent":0,"parameters":[0,0,827,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":230,"indent":0,"parameters":[60]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",7,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[1]"]},
@@ -7780,6 +7818,7 @@
 			{"code":111,"indent":0,"parameters":[5,0,1,153]},
 			{"code":111,"indent":1,"parameters":[12,"BattleManager.getDmgSum($gameTroop.members()[0],'hp',)>=1"]},
 			{"code":339,"indent":2,"parameters":[0,0,825,-2]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":355,"indent":2,"parameters":["BattleManager.clearDmgLog($gameTroop.members()[0]);"]},
 			{"code":0,"indent":2,"parameters":[]},
 			{"code":412,"indent":1,"parameters":[]},
@@ -9007,6 +9046,7 @@
 			{"code":401,"indent":2,"parameters":["太陽之王"]},
 			{"code":401,"indent":2,"parameters":["「熾熱的陽光！灼燒掉那個可憎的結界吧！」"]},
 			{"code":339,"indent":2,"parameters":[0,0,841,-1]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0"]},
 			{"code":101,"indent":2,"parameters":["BLR_01_1",9,0,0]},
 			{"code":401,"indent":2,"parameters":["\\N[1]"]},
 			{"code":401,"indent":2,"parameters":["「這是什麼招式！？」"]},
@@ -9491,6 +9531,7 @@
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":75,"enemyIndex":0,"enemyValid":true,"switchId":122,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":true,"turnValid":true},"list":[
 			{"code":339,"indent":0,"parameters":[0,0,580,0]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":60,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":4,"turnEnding":false,"turnValid":true},"list":[
@@ -9748,6 +9789,7 @@
 			{"code":339,"indent":0,"parameters":[0,0,332,-2]},
 			{"code":339,"indent":0,"parameters":[0,1,333,-2]},
 			{"code":339,"indent":0,"parameters":[0,2,334,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":21,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
@@ -9769,6 +9811,7 @@
 			{"code":339,"indent":0,"parameters":[0,0,331,-1]},
 			{"code":339,"indent":0,"parameters":[0,1,331,-1]},
 			{"code":339,"indent":0,"parameters":[0,2,331,-1]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1}
 	]},
@@ -10192,7 +10235,10 @@
 			{"code":337,"indent":0,"parameters":[0,104,false]},
 			{"code":230,"indent":0,"parameters":[90]},
 			{"code":223,"indent":0,"parameters":[[0,0,0,0],60,false]},
-			{"code":335,"indent":0,"parameters":[3]},
+			{"code":111,"indent":0,"parameters":[1,19,0,35,1]},
+			{"code":335,"indent":1,"parameters":[3]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
 			{"code":335,"indent":0,"parameters":[4]},
 			{"code":230,"indent":0,"parameters":[60]},
 			{"code":0,"indent":0,"parameters":[]}
@@ -12161,6 +12207,7 @@
 			{"code":333,"indent":0,"parameters":[0,0,5]},
 			{"code":230,"indent":0,"parameters":[60]},
 			{"code":339,"indent":0,"parameters":[0,0,742,-2]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":356,"indent":0,"parameters":["weather : 1 : 29 : 100 : 300 : 0 : Fog_01i"]},
 			{"code":108,"indent":0,"parameters":["weather note:"]},
 			{"code":408,"indent":0,"parameters":["weather ID : TYPE : POWER : SPEED : BLEND_TYPE : FILE_NAME "]},
@@ -13393,6 +13440,7 @@
 			{"code":111,"indent":0,"parameters":[5,0,0]},
 			{"code":111,"indent":1,"parameters":[1,30,0,7,4]},
 			{"code":339,"indent":2,"parameters":[0,0,765,-2]},
+			{"code":355,"indent":2,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":2,"parameters":[]},
 			{"code":412,"indent":1,"parameters":[]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -13623,14 +13671,14 @@
 		],"span":1}
 	]},
 	{"id":382,"members":[
-		{"enemyId":391,"x":222,"y":424,"hidden":false}
+		{"enemyId":391,"x":222,"y":384,"hidden":false}
 	],"name":"女武神","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":121,"indent":0,"parameters":[22,22,0]},
 			{"code":333,"indent":0,"parameters":[0,0,5]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":3,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_Valkyrja_Face",0,0,0]},
 			{"code":401,"indent":0,"parameters":["女武神"]},
 			{"code":401,"indent":0,"parameters":["「汝有意思．．．」"]},
@@ -13638,7 +13686,7 @@
 			{"code":121,"indent":0,"parameters":[22,22,1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":5,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":4,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_Valkyrja_Face",0,0,0]},
 			{"code":401,"indent":0,"parameters":["女武神"]},
 			{"code":401,"indent":0,"parameters":["「迎接吾的這招吧？」"]},
@@ -13646,7 +13694,7 @@
 			{"code":121,"indent":0,"parameters":[23,23,1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":7,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":5,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_Valkyrja_Face",0,0,0]},
 			{"code":401,"indent":0,"parameters":["女武神"]},
 			{"code":401,"indent":0,"parameters":["「汝比吾想的更強．．．」"]},
@@ -13669,7 +13717,7 @@
 			{"code":333,"indent":0,"parameters":[0,1,5]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":8,"turnB":3,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":6,"turnB":3,"turnEnding":false,"turnValid":true},"list":[
 			{"code":121,"indent":0,"parameters":[25,25,0]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1}
@@ -13759,6 +13807,7 @@
 			{"code":401,"indent":0,"parameters":["晨"]},
 			{"code":401,"indent":0,"parameters":["「好，那就讓鬧劇早點結束吧！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,551,0]},
+			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
 			{"code":401,"indent":0,"parameters":["那個，是他上次在跨海大橋上用過的魔法．．．"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
@@ -13797,6 +13846,7 @@
 			{"code":401,"indent":1,"parameters":["晨"]},
 			{"code":401,"indent":1,"parameters":["「可惡！精靈女王，請賜予我力量！」"]},
 			{"code":339,"indent":1,"parameters":[0,0,671,0]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":331,"indent":1,"parameters":[0,0,0,2500,false]},
 			{"code":121,"indent":1,"parameters":[22,22,1]},
 			{"code":121,"indent":1,"parameters":[21,21,0]},
@@ -13849,6 +13899,7 @@
 			{"code":111,"indent":0,"parameters":[5,0,1,16]},
 			{"code":333,"indent":1,"parameters":[0,1,16]},
 			{"code":339,"indent":1,"parameters":[0,0,1085,-2]},
+			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}

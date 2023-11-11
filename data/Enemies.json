@@ -12297,8 +12297,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":50000,"name":"邪龍","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":600,\"def\":600,\"mdf\":600,\"agi\":500,\"luk\":500,\"hp\":70000,\"mp\":9999}>\n","params":[
-		60000,
+	],"gold":50000,"name":"邪龍","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":600,\"def\":600,\"mdf\":600,\"agi\":500,\"luk\":500,\"hp\":50000,\"mp\":9999}>\n","params":[
+		40000,
 		9999,
 		600,
 		500,
@@ -15396,7 +15396,7 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"GXPT3000重戰型","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":600,\"mdf\":600,\"agi\":200,\"luk\":10,\"hp\":40000,\"mp\":9999}>\n","params":[
+	],"gold":50000,"name":"GXPT3000重戰型","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":600,\"mdf\":600,\"agi\":200,\"luk\":10,\"hp\":35000,\"mp\":9999}>\n","params":[
 		30000,
 		9999,
 		700,
@@ -15498,8 +15498,8 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"次元鐵衛","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":700,\"mdf\":700,\"agi\":150,\"luk\":10,\"hp\":40000,\"mp\":9999}>\n\n備註:保險起見，NORMAL跟HARD的血量要一致，Commonevent 164比較不會錯\n","params":[
-		40000,
+	],"gold":50000,"name":"次元鐵衛","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":700,\"mdf\":700,\"agi\":150,\"luk\":10,\"hp\":35000,\"mp\":9999}>\n\n備註:保險起見，NORMAL跟HARD的血量要一致，Commonevent 164比較不會錯\n","params":[
+		35000,
 		9999,
 		800,
 		600,
@@ -15549,8 +15549,8 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"次元鐵衛","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":50,\"mdf\":50,\"agi\":150,\"luk\":10,\"hp\":40000,\"mp\":9999}>\n\n備註:保險起見，NORMAL跟HARD的血量要一致，Commonevent 164比較不會錯","params":[
-		40000,
+	],"gold":50000,"name":"次元鐵衛","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":800,\"def\":50,\"mdf\":50,\"agi\":150,\"luk\":10,\"hp\":35000,\"mp\":9999}>\n\n備註:保險起見，NORMAL跟HARD的血量要一致，Commonevent 164比較不會錯","params":[
+		35000,
 		9999,
 		800,
 		50,
@@ -15945,7 +15945,7 @@
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0}
 	],"gold":0,"name":"石靈","note":"","params":[
-		1750,
+		1500,
 		1000,
 		300,
 		250,
@@ -15995,7 +15995,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":1}
 	],"gold":300,"name":"狂野巨魔","note":"","params":[
-		3000,
+		2000,
 		500,
 		700,
 		250,
@@ -16045,7 +16045,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
 	],"gold":0,"name":"失意體樹妖","note":"","params":[
-		1250,
+		1000,
 		1000,
 		150,
 		150,
@@ -16595,8 +16595,8 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"變異病毒","note":"<alter:{\"cond\":4,\"atk\":300,\"mat\":500,\"def\":500,\"mdf\":400,\"agi\":350,\"luk\":10,\"hp\":90000,\"mp\":9999}>","params":[
-		90000,
+	],"gold":50000,"name":"變異病毒","note":"<alter:{\"cond\":4,\"atk\":300,\"mat\":500,\"def\":500,\"mdf\":400,\"agi\":350,\"luk\":10,\"hp\":60000,\"mp\":9999}>","params":[
+		60000,
 		9999,
 		300,
 		400,
@@ -17335,8 +17335,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"海龍","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":700,\"def\":500,\"mdf\":500,\"agi\":350,\"luk\":500,\"hp\":50000,\"mp\":8000}>\n","params":[
-		40000,
+	],"gold":50000,"name":"海龍","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":700,\"def\":500,\"mdf\":500,\"agi\":350,\"luk\":500,\"hp\":40000,\"mp\":8000}>\n","params":[
+		30000,
 		8000,
 		500,
 		400,
@@ -17438,8 +17438,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":50000,"name":"風狼芬里爾","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":800,\"def\":300,\"mdf\":300,\"agi\":600,\"luk\":300,\"hp\":40000,\"mp\":9999}>","params":[
-		30000,
+	],"gold":50000,"name":"風狼芬里爾","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":800,\"def\":300,\"mdf\":300,\"agi\":600,\"luk\":300,\"hp\":35000,\"mp\":9999}>","params":[
+		25000,
 		9999,
 		500,
 		300,
@@ -17488,8 +17488,8 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":0,"name":"女武神","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":550,\"mdf\":400,\"agi\":400,\"luk\":300,\"hp\":45000,\"mp\":9999}>\n\n","params":[
-		35000,
+	],"gold":0,"name":"女武神","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":550,\"mdf\":400,\"agi\":400,\"luk\":300,\"hp\":25000,\"mp\":9999}>\n\n","params":[
+		20000,
 		9999,
 		600,
 		500,
@@ -17591,8 +17591,8 @@
 		{"code":13,"dataId":17,"value":0},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"雪女","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":500,\"mdf\":650,\"agi\":300,\"luk\":300,\"hp\":45000,\"mp\":9999}>","params":[
-		35000,
+	],"gold":50000,"name":"雪女","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":500,\"mdf\":650,\"agi\":300,\"luk\":300,\"hp\":35000,\"mp\":9999}>","params":[
+		25000,
 		9999,
 		300,
 		400,
@@ -17697,8 +17697,8 @@
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1},
 		{"code":22,"dataId":8,"value":0.02}
-	],"gold":50000,"name":"聖靈獅獸","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":550,\"def\":500,\"mdf\":650,\"agi\":700,\"luk\":300,\"hp\":45000,\"mp\":1000}>","params":[
-		35000,
+	],"gold":50000,"name":"聖靈獅獸","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":550,\"def\":500,\"mdf\":650,\"agi\":700,\"luk\":300,\"hp\":35000,\"mp\":1000}>","params":[
+		25000,
 		1000,
 		600,
 		400,
@@ -17747,8 +17747,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"依佛利特","note":"<alter:{\"cond\":4,\"atk\":100,\"mat\":600,\"def\":450,\"mdf\":450,\"agi\":450,\"luk\":300,\"hp\":50000,\"mp\":9999}>","params":[
-		40000,
+	],"gold":50000,"name":"依佛利特","note":"<alter:{\"cond\":4,\"atk\":100,\"mat\":600,\"def\":450,\"mdf\":450,\"agi\":450,\"luk\":300,\"hp\":40000,\"mp\":9999}>","params":[
+		30000,
 		8000,
 		100,
 		350,
@@ -17845,8 +17845,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"依佛利特","note":"<alter:{\"cond\":4,\"atk\":100,\"mat\":600,\"def\":500,\"mdf\":500,\"agi\":450,\"luk\":300,\"hp\":50000,\"mp\":8000}>\n<fixedDamaged:50>\n","params":[
-		40000,
+	],"gold":50000,"name":"依佛利特","note":"<alter:{\"cond\":4,\"atk\":100,\"mat\":600,\"def\":500,\"mdf\":500,\"agi\":450,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n<fixedDamaged:50>\n","params":[
+		30000,
 		8000,
 		100,
 		400,
@@ -17998,8 +17998,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":50000,"name":"亡靈船長","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":450,\"mdf\":600,\"agi\":650,\"luk\":300,\"hp\":60000,\"mp\":2000}>","params":[
-		50000,
+	],"gold":50000,"name":"亡靈船長","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":450,\"mdf\":600,\"agi\":650,\"luk\":300,\"hp\":45000,\"mp\":2000}>","params":[
+		35000,
 		1200,
 		600,
 		350,
@@ -18058,8 +18058,8 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":100000,"name":"太陽之王","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":1000,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":300,\"hp\":80000,\"mp\":9999}>\n","params":[
-		80000,
+	],"gold":100000,"name":"太陽之王","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":1000,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":300,\"hp\":60000,\"mp\":9999}>\n","params":[
+		60000,
 		9999,
 		900,
 		600,
@@ -18118,8 +18118,8 @@
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0},
 		{"code":22,"dataId":8,"value":1}
-	],"gold":100000,"name":"千變妖狐","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":40,\"mdf\":400,\"agi\":650,\"luk\":300,\"hp\":80000,\"mp\":200}>\n１．六屬性技能對應玩家的六圍屬性，玩家該屬性越高、威力越痛\n２．troop定妖狐戲法，每Ｘ回合改變玩家數值\n３．死亡超過9次gameover","params":[
-		70000,
+	],"gold":100000,"name":"千變妖狐","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":40,\"mdf\":400,\"agi\":650,\"luk\":300,\"hp\":60000,\"mp\":200}>\n１．六屬性技能對應玩家的六圍屬性，玩家該屬性越高、威力越痛\n２．troop定妖狐戲法，每Ｘ回合改變玩家數值\n３．死亡超過9次gameover","params":[
+		50000,
 		200,
 		300,
 		300,
@@ -18174,8 +18174,8 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"千手之神","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":900,\"hp\":80000,\"mp\":9999}>\n","params":[
-		80000,
+	],"gold":0,"name":"千手之神","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":900,\"hp\":60000,\"mp\":9999}>\n","params":[
+		60000,
 		9999,
 		750,
 		600,
@@ -18228,8 +18228,8 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":200000,"name":"千手之神","note":"<alter:{\"cond\":4,\"atk\":1100,\"mat\":900,\"def\":800,\"mdf\":800,\"agi\":350,\"luk\":900,\"hp\":80000,\"mp\":9999}>\n","params":[
-		80000,
+	],"gold":200000,"name":"千手之神","note":"<alter:{\"cond\":4,\"atk\":1100,\"mat\":900,\"def\":800,\"mdf\":800,\"agi\":350,\"luk\":900,\"hp\":60000,\"mp\":9999}>\n","params":[
+		60000,
 		9999,
 		900,
 		700,
@@ -18279,8 +18279,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"赤之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"赤之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18330,8 +18330,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"青之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"青之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18381,8 +18381,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"黃之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"黃之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18432,8 +18432,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"碧之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"碧之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18483,8 +18483,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"棕之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"棕之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18534,8 +18534,8 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"gold":0,"name":"蒼之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":8000}>\n","params":[
-		30000,
+	],"gold":0,"name":"蒼之柱","note":"<alter:{\"cond\":4,\"atk\":500,\"mat\":500,\"def\":500,\"mdf\":500,\"agi\":300,\"luk\":300,\"hp\":30000,\"mp\":8000}>\n","params":[
+		20000,
 		8000,
 		500,
 		500,
@@ -18583,8 +18583,8 @@
 		{"code":13,"dataId":17,"value":0.25},
 		{"code":13,"dataId":18,"value":0.25},
 		{"code":13,"dataId":19,"value":0.25}
-	],"gold":0,"name":"弓天使","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":350,\"mdf\":350,\"agi\":500,\"luk\":900,\"hp\":3500,\"mp\":1000}>\n","params":[
-		2500,
+	],"gold":0,"name":"弓天使","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":350,\"mdf\":350,\"agi\":500,\"luk\":900,\"hp\":3000,\"mp\":1000}>\n","params":[
+		2000,
 		1000,
 		600,
 		350,
@@ -18632,8 +18632,8 @@
 		{"code":13,"dataId":17,"value":0.25},
 		{"code":13,"dataId":18,"value":0.25},
 		{"code":13,"dataId":19,"value":0.25}
-	],"gold":0,"name":"聖潔音女","note":"<alter:{\"cond\":4,\"atk\":450,\"mat\":600,\"def\":700,\"mdf\":700,\"agi\":500,\"luk\":900,\"hp\":3500,\"mp\":1000}>\n","params":[
-		2500,
+	],"gold":0,"name":"聖潔音女","note":"<alter:{\"cond\":4,\"atk\":450,\"mat\":600,\"def\":700,\"mdf\":700,\"agi\":500,\"luk\":900,\"hp\":3000,\"mp\":1000}>\n","params":[
+		2000,
 		1000,
 		350,
 		350,
@@ -24778,306 +24778,208 @@
 		10
 	]},
 	{"id":577,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":708}
-	],"battlerHue":0,"battlerName":"town_08_circus master","dropItems":[
-		{"kind":1,"dataId":124,"denominator":1},
-		{"kind":1,"dataId":154,"denominator":1},
-		{"kind":0,"dataId":0,"denominator":1}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.9},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":755}
+	],"battlerHue":0,"battlerName":"BLR_winged serpents","dropItems":[
+		{"kind":1,"dataId":654,"denominator":1},
+		{"kind":1,"dataId":654,"denominator":1},
+		{"kind":1,"dataId":304,"denominator":1}
+	],"exp":50000,"traits":[
+		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
-		{"code":31,"dataId":3,"value":0},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
-		{"code":11,"dataId":4,"value":1},
-		{"code":11,"dataId":5,"value":1},
-		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":4,"value":0.1},
+		{"code":11,"dataId":5,"value":2},
+		{"code":11,"dataId":6,"value":0.4},
 		{"code":11,"dataId":7,"value":1},
 		{"code":11,"dataId":8,"value":1},
-		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":9,"value":0.1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
 		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":6,"value":0.15},
-		{"code":13,"dataId":7,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
 		{"code":13,"dataId":8,"value":0.5},
 		{"code":13,"dataId":9,"value":0},
 		{"code":13,"dataId":10,"value":0},
-		{"code":13,"dataId":11,"value":0},
-		{"code":13,"dataId":12,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":13,"dataId":12,"value":0},
 		{"code":13,"dataId":13,"value":1},
-		{"code":13,"dataId":14,"value":1},
-		{"code":13,"dataId":15,"value":0},
-		{"code":13,"dataId":16,"value":0},
-		{"code":13,"dataId":17,"value":0.15},
-		{"code":13,"dataId":18,"value":0},
+		{"code":13,"dataId":14,"value":0},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":10000,"name":"米團","note":"<alter:{\"cond\":4,\"atk\":300,\"mat\":450,\"def\":400,\"mdf\":400,\"agi\":300,\"luk\":300,\"hp\":25000,\"mp\":9000}>","params":[
-		20000,
-		9000,
-		200,
-		300,
-		350,
-		300,
-		300,
-		300
-	],"meta":{"alter":"{\"cond\":4,\"atk\":300,\"mat\":450,\"def\":400,\"mdf\":400,\"agi\":300,\"luk\":300,\"hp\":25000,\"mp\":9000}"}},
-	{"id":578,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":846}
-	],"battlerHue":0,"battlerName":"God_of_light","dropItems":[
-		{"kind":1,"dataId":215,"denominator":1},
-		{"kind":1,"dataId":216,"denominator":1},
-		{"kind":1,"dataId":96,"denominator":1}
-	],"exp":80000,"traits":[
-		{"code":22,"dataId":0,"value":1.2},
-		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":22,"dataId":4,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
-		{"code":11,"dataId":3,"value":0.7},
-		{"code":11,"dataId":4,"value":0.1},
-		{"code":11,"dataId":5,"value":1},
-		{"code":11,"dataId":6,"value":1.5},
-		{"code":11,"dataId":7,"value":1},
-		{"code":11,"dataId":8,"value":1.5},
-		{"code":11,"dataId":9,"value":1.5},
-		{"code":11,"dataId":10,"value":0.1},
-		{"code":11,"dataId":11,"value":1.5},
-		{"code":11,"dataId":12,"value":0.7},
-		{"code":14,"dataId":6,"value":1},
-		{"code":14,"dataId":7,"value":1},
-		{"code":14,"dataId":8,"value":1},
-		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
-		{"code":14,"dataId":11,"value":1},
-		{"code":14,"dataId":12,"value":1},
-		{"code":14,"dataId":13,"value":1},
-		{"code":14,"dataId":14,"value":1},
-		{"code":14,"dataId":15,"value":1},
-		{"code":14,"dataId":16,"value":1},
-		{"code":14,"dataId":17,"value":1},
-		{"code":14,"dataId":18,"value":1},
-		{"code":14,"dataId":19,"value":1},
-		{"code":12,"dataId":2,"value":0},
-		{"code":12,"dataId":3,"value":0.25},
-		{"code":12,"dataId":4,"value":0},
-		{"code":12,"dataId":5,"value":0.25},
-		{"code":12,"dataId":6,"value":0},
-		{"code":12,"dataId":7,"value":0.25}
-	],"gold":100000,"name":"太陽之王","note":"<alter:{\"cond\":4,\"atk\":1000,\"mat\":1000,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":300,\"hp\":80000,\"mp\":9999}>\n","params":[
-		80000,
-		9999,
-		900,
-		600,
-		900,
-		600,
+	],"gold":50000,"name":"海龍","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":700,\"def\":500,\"mdf\":500,\"agi\":350,\"luk\":500,\"hp\":50000,\"mp\":8000}>\n","params":[
+		40000,
+		8000,
 		500,
-		300
-	],"meta":{}},
-	{"id":579,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":728}
-	],"battlerHue":0,"battlerName":"God","dropItems":[
-		{"kind":1,"dataId":215,"denominator":1},
-		{"kind":1,"dataId":215,"denominator":1},
-		{"kind":0,"dataId":0,"denominator":3}
-	],"exp":100000,"traits":[
-		{"code":22,"dataId":0,"value":1.2},
-		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":-0.5},
-		{"code":22,"dataId":4,"value":-0.5},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
-		{"code":11,"dataId":3,"value":1.5},
-		{"code":11,"dataId":4,"value":1},
-		{"code":11,"dataId":5,"value":1},
-		{"code":11,"dataId":6,"value":1},
-		{"code":11,"dataId":7,"value":1.5},
-		{"code":11,"dataId":8,"value":1.5},
-		{"code":11,"dataId":9,"value":1},
-		{"code":11,"dataId":10,"value":0.4},
-		{"code":11,"dataId":11,"value":0.4},
-		{"code":11,"dataId":12,"value":1},
-		{"code":14,"dataId":6,"value":1},
-		{"code":14,"dataId":7,"value":1},
-		{"code":14,"dataId":8,"value":1},
-		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
-		{"code":14,"dataId":11,"value":1},
-		{"code":14,"dataId":15,"value":1},
-		{"code":14,"dataId":16,"value":1},
-		{"code":14,"dataId":17,"value":1},
-		{"code":14,"dataId":18,"value":1},
-		{"code":14,"dataId":19,"value":1},
-		{"code":12,"dataId":2,"value":0.25},
-		{"code":12,"dataId":3,"value":0.25},
-		{"code":12,"dataId":4,"value":0.25},
-		{"code":12,"dataId":5,"value":0.25},
-		{"code":12,"dataId":6,"value":0.25},
-		{"code":12,"dataId":7,"value":0.25}
-	],"gold":200000,"name":"千手之神","note":"<alter:{\"cond\":4,\"atk\":1100,\"mat\":900,\"def\":800,\"mdf\":800,\"agi\":350,\"luk\":900,\"hp\":80000,\"mp\":9999}>\n","params":[
-		80000,
-		9999,
-		900,
-		700,
-		750,
-		700,
-		300,
-		300
-	],"meta":{}},
-	{"id":580,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":867},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":868}
-	],"battlerHue":0,"battlerName":"UndeadCaptain","dropItems":[
-		{"kind":1,"dataId":596,"denominator":1},
-		{"kind":1,"dataId":304,"denominator":1},
-		{"kind":1,"dataId":214,"denominator":1}
-	],"exp":60000,"traits":[
-		{"code":22,"dataId":0,"value":1},
-		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":3,"value":0},
-		{"code":31,"dataId":1,"value":0},
-		{"code":11,"dataId":1,"value":1},
-		{"code":11,"dataId":2,"value":0.7},
-		{"code":11,"dataId":3,"value":1.5},
-		{"code":11,"dataId":4,"value":0.7},
-		{"code":11,"dataId":5,"value":1},
-		{"code":11,"dataId":6,"value":1},
-		{"code":11,"dataId":7,"value":1},
-		{"code":11,"dataId":8,"value":1.5},
-		{"code":11,"dataId":9,"value":0.7},
-		{"code":11,"dataId":10,"value":2},
-		{"code":11,"dataId":11,"value":0},
-		{"code":11,"dataId":12,"value":1},
-		{"code":14,"dataId":6,"value":1},
-		{"code":14,"dataId":7,"value":1},
-		{"code":14,"dataId":8,"value":1},
-		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
-		{"code":14,"dataId":11,"value":1},
-		{"code":13,"dataId":12,"value":0.5},
-		{"code":13,"dataId":13,"value":2},
-		{"code":13,"dataId":14,"value":0.5},
-		{"code":14,"dataId":15,"value":1},
-		{"code":13,"dataId":16,"value":0},
-		{"code":14,"dataId":17,"value":1},
-		{"code":14,"dataId":18,"value":1},
-		{"code":14,"dataId":19,"value":1}
-	],"gold":50000,"name":"亡靈船長","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":450,\"mdf\":600,\"agi\":650,\"luk\":300,\"hp\":60000,\"mp\":2000}>","params":[
-		50000,
-		1200,
-		600,
-		350,
 		400,
-		500,
-		550,
-		300
-	],"meta":{}},
-	{"id":581,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":764}
-	],"battlerHue":0,"battlerName":"BLR_SnowWoman","dropItems":[
-		{"kind":1,"dataId":406,"denominator":1},
-		{"kind":1,"dataId":406,"denominator":1},
-		{"kind":1,"dataId":596,"denominator":1}
+		600,
+		400,
+		300,
+		500
+	],"meta":{"alter":"{\"cond\":4,\"atk\":600,\"mat\":700,\"def\":500,\"mdf\":500,\"agi\":350,\"luk\":500,\"hp\":50000,\"mp\":8000}"}},
+	{"id":578,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":799}
+	],"battlerHue":0,"battlerName":"wolf02","dropItems":[
+		{"kind":1,"dataId":684,"denominator":1},
+		{"kind":1,"dataId":684,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":3}
 	],"exp":50000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
-		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.35},
+		{"code":22,"dataId":3,"value":0.25},
+		{"code":22,"dataId":2,"value":0.1},
+		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
 		{"code":11,"dataId":4,"value":2},
-		{"code":11,"dataId":6,"value":0.1},
 		{"code":11,"dataId":5,"value":1.5},
-		{"code":11,"dataId":7,"value":1},
-		{"code":11,"dataId":8,"value":1},
-		{"code":11,"dataId":9,"value":0.3},
+		{"code":11,"dataId":6,"value":1.5},
+		{"code":11,"dataId":7,"value":0},
+		{"code":11,"dataId":8,"value":0.5},
+		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
 		{"code":11,"dataId":12,"value":1},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
-		{"code":13,"dataId":8,"value":0.5},
+		{"code":13,"dataId":8,"value":0.25},
+		{"code":13,"dataId":9,"value":0},
+		{"code":13,"dataId":10,"value":0},
+		{"code":14,"dataId":11,"value":1},
+		{"code":13,"dataId":12,"value":1},
+		{"code":13,"dataId":13,"value":1},
+		{"code":13,"dataId":14,"value":0},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1}
+	],"gold":50000,"name":"風狼芬里爾","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":800,\"def\":300,\"mdf\":300,\"agi\":600,\"luk\":300,\"hp\":40000,\"mp\":9999}>","params":[
+		30000,
+		9999,
+		500,
+		300,
+		600,
+		300,
+		500,
+		300
+	],"meta":{"alter":"{\"cond\":4,\"atk\":600,\"mat\":800,\"def\":300,\"mdf\":300,\"agi\":600,\"luk\":300,\"hp\":35000,\"mp\":9999}"}},
+	{"id":579,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":7,"skillId":829}
+	],"battlerHue":0,"battlerName":"BLR_HolyGodness","dropItems":[
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":3}
+	],"exp":0,"traits":[
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":2,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
+		{"code":11,"dataId":1,"value":0.5},
+		{"code":11,"dataId":2,"value":0.5},
+		{"code":11,"dataId":3,"value":0.5},
+		{"code":11,"dataId":4,"value":1},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":2},
+		{"code":11,"dataId":12,"value":1},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":13,"dataId":8,"value":0},
 		{"code":14,"dataId":9,"value":1},
 		{"code":14,"dataId":10,"value":1},
 		{"code":14,"dataId":11,"value":1},
 		{"code":13,"dataId":12,"value":1},
-		{"code":13,"dataId":13,"value":1},
+		{"code":14,"dataId":13,"value":1},
 		{"code":13,"dataId":14,"value":1},
 		{"code":14,"dataId":15,"value":1},
 		{"code":14,"dataId":16,"value":1},
 		{"code":13,"dataId":17,"value":0},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0}
-	],"gold":50000,"name":"雪女","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":500,\"mdf\":650,\"agi\":300,\"luk\":300,\"hp\":45000,\"mp\":9999}>","params":[
+	],"gold":0,"name":"女武神","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":500,\"def\":550,\"mdf\":400,\"agi\":400,\"luk\":300,\"hp\":45000,\"mp\":9999}>\n\n","params":[
 		35000,
 		9999,
-		300,
-		400,
-		400,
-		550,
-		250,
-		300
-	],"meta":{"alter":"{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":500,\"mdf\":650,\"agi\":300,\"luk\":300,\"hp\":40000,\"mp\":9999}"}},
-	{"id":582,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":834}
-	],"battlerHue":0,"battlerName":"Foxman","dropItems":[
-		{"kind":1,"dataId":215,"denominator":1},
-		{"kind":1,"dataId":261,"denominator":1},
-		{"kind":1,"dataId":304,"denominator":1}
-	],"exp":80000,"traits":[
-		{"code":22,"dataId":0,"value":1.2},
-		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
-		{"code":11,"dataId":1,"value":1},
-		{"code":11,"dataId":2,"value":1},
-		{"code":11,"dataId":3,"value":1},
-		{"code":11,"dataId":4,"value":0.4},
-		{"code":11,"dataId":5,"value":0.4},
-		{"code":11,"dataId":6,"value":0.4},
-		{"code":11,"dataId":7,"value":0.4},
-		{"code":11,"dataId":8,"value":0.4},
-		{"code":11,"dataId":9,"value":0.4},
-		{"code":11,"dataId":10,"value":0.4},
-		{"code":11,"dataId":11,"value":0.4},
-		{"code":11,"dataId":12,"value":1},
-		{"code":14,"dataId":6,"value":1},
-		{"code":14,"dataId":7,"value":1},
-		{"code":14,"dataId":8,"value":1},
-		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
-		{"code":14,"dataId":11,"value":1},
-		{"code":14,"dataId":12,"value":1},
-		{"code":14,"dataId":13,"value":1},
-		{"code":14,"dataId":14,"value":1},
-		{"code":14,"dataId":15,"value":1},
-		{"code":14,"dataId":16,"value":1},
-		{"code":14,"dataId":17,"value":1},
-		{"code":14,"dataId":18,"value":1},
-		{"code":14,"dataId":19,"value":1},
-		{"code":12,"dataId":2,"value":0},
-		{"code":12,"dataId":3,"value":0},
-		{"code":12,"dataId":4,"value":0},
-		{"code":12,"dataId":5,"value":0},
-		{"code":12,"dataId":6,"value":0},
-		{"code":12,"dataId":7,"value":0},
-		{"code":22,"dataId":8,"value":1}
-	],"gold":100000,"name":"千變妖狐","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":500,\"def\":40,\"mdf\":400,\"agi\":650,\"luk\":300,\"hp\":80000,\"mp\":200}>\n１．六屬性技能對應玩家的六圍屬性，玩家該屬性越高、威力越痛\n２．troop定妖狐戲法，每Ｘ回合改變玩家數值\n３．死亡超過9次gameover","params":[
-		70000,
-		200,
-		300,
-		300,
-		400,
-		300,
+		600,
 		500,
+		400,
+		350,
+		350,
 		300
 	],"meta":{}},
+	{"id":580,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
+	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0}
+	],"exp":0,"traits":[
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":31,"dataId":1,"value":0}
+	],"gold":0,"name":"","note":"","params":[
+		100,
+		0,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+	]},
+	{"id":581,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
+	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0}
+	],"exp":0,"traits":[
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":31,"dataId":1,"value":0}
+	],"gold":0,"name":"","note":"","params":[
+		100,
+		0,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+	]},
+	{"id":582,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
+	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0}
+	],"exp":0,"traits":[
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":31,"dataId":1,"value":0}
+	],"gold":0,"name":"","note":"","params":[
+		100,
+		0,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+	]},
 	{"id":583,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[

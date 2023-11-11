@@ -22169,8 +22169,8 @@
 				"「嗯！我會的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -22184,8 +22184,8 @@
 				"我還以為你要守在這裡一輩子呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -22257,8 +22257,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -22310,8 +22310,8 @@
 				"「這個肉該不會是．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -22385,8 +22385,8 @@
 				{"code":1,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22415,7 +22415,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得雞蛋5顆。"
+				"獲得\\ni[256]5顆。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -22829,8 +22829,8 @@
 				"喝吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -22973,8 +22973,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -22985,8 +22985,8 @@
 				"「哎呀，真的走了呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},

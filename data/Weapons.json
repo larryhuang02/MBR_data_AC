@@ -305,7 +305,7 @@
 	],"price":0,"wtypeId":0},
 	{"id":25,"animationId":6,"description":"「斬+風屬性」物攻、幸運+100、命中+30%，\n小幅提升自身火、雷、光屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1093,"name":"妖精的嘆息","note":"<weaponImg:Weapon_Forest,0,1>\n<屬性傷害倍率:[[4,1.10]]>\n<屬性傷害倍率:[[5,1.10]]>\n<屬性傷害倍率:[[10,1.10]]>\n<skill_id:485>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons25.txt>","params":[
+	],"iconIndex":1093,"name":"妖精的嘆息","note":"<weaponImg:Weapon_Forest,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[10,1.10]]>\n<skill_id:485>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons25.txt>","params":[
 		0,
 		0,
 		100,
@@ -2654,7 +2654,7 @@
 		0
 	],"price":0,"wtypeId":0},
 	{"id":205,"animationId":11,"description":"「爆裂屬性」「需長時間詠唱」裝備後無法使用部分武器\n相關技能，對敵方全體造成約750點無視防禦的直接傷害。","etypeId":1,"traits":[
-	],"iconIndex":1471,"name":"能量光束槍","note":"<weaponImg:Weapons1,8,2>\n<skill_id:481>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons205.txt>","params":[
+	],"iconIndex":1471,"name":"能量光束槍","note":"<weaponImg:Weapon_Blasters,7,2>\n<skill_id:481>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons205.txt>","params":[
 		0,
 		0,
 		0,

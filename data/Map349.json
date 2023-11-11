@@ -11857,7 +11857,7 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -12722,7 +12722,7 @@
 			{"code":213,"indent":0,"parameters":[
 				13,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -12777,10 +12777,20 @@
 			{"code":401,"indent":0,"parameters":[
 				"「你確定你不是嗎？」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				13,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -12796,6 +12806,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"抱著過去！應該要向前看！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -12996,6 +13016,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"「大家也不需要對我另眼相看。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
 				2,
@@ -13067,6 +13097,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「好了好了，少年也沒有你說的那麼不堪。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -13630,7 +13670,7 @@
 				"「妳是說．．．妳從大陽學長那裡搶走的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"ＧＸＰＴ－２０００？」"
+				"ＧＸＰＴ２０００？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
