@@ -3547,10 +3547,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"鎧特早上決定要喝史萊姆果汁"
+				""
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\TXTCENTER:\"鎧特早上決定要喝史萊姆果汁。\""
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -3567,10 +3570,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"這個史萊姆看起來不怎麼樣"
+				""
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\TXTCENTER:\"這個史萊姆看起來不怎麼樣。\""
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -3587,10 +3593,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"史萊姆跟鎧特比起來，弱小太多了"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"史萊姆跟鎧特比起來，弱小太多了。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -3607,10 +3616,10 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"現在鎧特狀態絕佳!"
+				"\\TXTCENTER:\"現在鎧特狀態絕佳！\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -3627,10 +3636,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"鎧特剛剛上山的時候，走路扭到腳。"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"鎧特剛剛上山的時候，走路扭到腳。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -3705,10 +3717,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"鎧特現在看起來狀態良好!"
+				""
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\TXTCENTER:\"鎧特現在看起來狀態良好！\""
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -3725,10 +3740,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"巨魔大聲的咆哮，但是鎧特並不畏懼"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"巨魔大聲的咆哮，但是鎧特並不畏懼。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -3745,10 +3763,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"鎧特想起了家中的奶奶，絕對不能輸!"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"鎧特想起了家中的奶奶，絕對不能輸！\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -3765,10 +3786,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"巨魔大聲的咆哮，鎧特有點慫了"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"巨魔大聲的咆哮，鎧特有點慫了。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -3785,10 +3809,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"巨魔的身後藏著AK47"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"巨魔的身後藏著AK47。\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -3850,10 +3877,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"保險起見，鎧特準備了M249"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"保險起見，鎧特準備了M249。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -3870,10 +3900,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"奇美拉不斷咳嗽，感覺好像得了肺癌。"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"奇美拉不斷咳嗽，感覺好像得了肺癌。\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -3890,10 +3923,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"鎧特此時想起了風之心法的最終奧義"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"鎧特此時想起了風之心法的最終奧義。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -3910,10 +3946,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"奇美拉看起來異常凶狠!"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"奇美拉看起來異常凶狠！\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -3930,10 +3969,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":9,"parameters":[
-				"鎧特有點不太專心，想起來早上的油條還沒吃完"
+				""
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"\\TXTCENTER:\"鎧特有點不太專心，想起來早上的油條還沒吃完。\""
 			]},
 			{"code":0,"indent":9,"parameters":[
 			]},
@@ -3995,10 +4037,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"這隻寶箱怪感覺像是寶箱偽裝的"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"這隻寶箱怪感覺像是寶箱偽裝的。\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -4015,10 +4060,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"這個寶箱怪的寶物非常多，鎧特不會放過機會"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"這個寶箱怪的寶物非常多，鎧特不會放過機會。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -4035,10 +4083,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"寶箱怪與鎧特的氣勢不分軒輊!"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"寶箱怪與鎧特的氣勢不分軒輊！\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -4055,10 +4106,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":9,"parameters":[
-				"這隻寶箱怪在鎧特上廁所上到一半的時候跑出來"
+				""
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"\\TXTCENTER:\"這隻寶箱怪在鎧特上廁所上到一半的時候跑出來。\""
 			]},
 			{"code":0,"indent":9,"parameters":[
 			]},
@@ -4075,10 +4129,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":10,"parameters":[
-				"鎧特有點不太專心，想起來早上的油條還沒吃完"
+				""
+			]},
+			{"code":401,"indent":10,"parameters":[
+				"\\TXTCENTER:\"鎧特有點不太專心，想起來早上的油條還沒吃完。\""
 			]},
 			{"code":0,"indent":10,"parameters":[
 			]},
@@ -4226,10 +4283,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"這隻等級99的史萊姆正在超高速移動"
+				""
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\TXTCENTER:\"這隻等級99的史萊姆正在超高速移動。\""
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -4246,10 +4306,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"鎧特剛剛上山的時候，走路扭到腳。"
+				""
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\TXTCENTER:\"鎧特剛剛上山的時候，走路扭到腳。\""
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -4266,10 +4329,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"這個史萊姆看起來不怎麼樣"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"這個史萊姆看起來不怎麼樣。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -4286,10 +4352,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"史萊姆跟鎧特比起來，弱小太多了"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"史萊姆跟鎧特比起來，弱小太多了。\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -4306,10 +4375,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"現在鎧特狀態絕佳!"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"現在鎧特狀態絕佳！\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -4326,10 +4398,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"鎧特早上決定要喝史萊姆果汁"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"鎧特早上決定要喝史萊姆果汁。\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -4494,10 +4569,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"巨魔的身後藏著AK47"
+				""
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\TXTCENTER:\"巨魔的身後藏著AK47。\""
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -4514,10 +4592,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"巨魔大聲的咆哮，鎧特有點慫了"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"巨魔大聲的咆哮，鎧特有點慫了。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -4534,10 +4615,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"鎧特想起了家中的奶奶，絕對不能輸!"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"鎧特想起了家中的奶奶，絕對不能輸！\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -4554,10 +4638,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"巨魔大聲的咆哮，但是鎧特並不畏懼"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"巨魔大聲的咆哮，但是鎧特並不畏懼。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -4574,10 +4661,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"鎧特現在看起來狀態良好!"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"鎧特現在看起來狀態良好！\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -4738,10 +4828,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"鎧特有點不太專心，想起來早上的油條還沒吃完"
+				""
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\TXTCENTER:\"鎧特有點不太專心，想起來早上的油條還沒吃完。\""
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -4758,10 +4851,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"奇美拉看起來異常凶狠!"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"奇美拉看起來異常凶狠！\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -4778,10 +4874,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"鎧特此時想起了風之心法的最終奧義"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"鎧特此時想起了風之心法的最終奧義。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -4798,10 +4897,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"奇美拉不斷咳嗽，感覺好像得了肺癌。"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"奇美拉不斷咳嗽，感覺好像得了肺癌。\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -4818,10 +4920,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":9,"parameters":[
-				"保險起見，鎧特準備了M249"
+				""
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"\\TXTCENTER:\"保險起見，鎧特準備了M249。\""
 			]},
 			{"code":0,"indent":9,"parameters":[
 			]},
@@ -4982,10 +5087,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"這是傳說中的超級賽亞寶箱怪2"
+				""
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"\\TXTCENTER:\"這是傳說中的超級賽亞寶箱怪2！\""
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -5002,10 +5110,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"這隻寶箱怪在鎧特上廁所上到一半的時候跑出來"
+				""
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"\\TXTCENTER:\"這隻寶箱怪在鎧特上廁所上到一半的時候跑出來。\""
 			]},
 			{"code":0,"indent":7,"parameters":[
 			]},
@@ -5022,10 +5133,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":8,"parameters":[
-				"寶箱怪與鎧特的氣勢不分軒輊!"
+				""
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"\\TXTCENTER:\"寶箱怪與鎧特的氣勢不分軒輊！\""
 			]},
 			{"code":0,"indent":8,"parameters":[
 			]},
@@ -5042,10 +5156,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":9,"parameters":[
-				"這個寶箱怪的寶物非常多，鎧特不會放過機會"
+				""
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"\\TXTCENTER:\"這個寶箱怪的寶物非常多，鎧特不會放過機會！\""
 			]},
 			{"code":0,"indent":9,"parameters":[
 			]},
@@ -5062,10 +5179,13 @@
 				"",
 				0,
 				1,
-				0
+				1
 			]},
 			{"code":401,"indent":10,"parameters":[
-				"這隻寶箱怪感覺像是寶箱偽裝的"
+				""
+			]},
+			{"code":401,"indent":10,"parameters":[
+				"\\TXTCENTER:\"這隻寶箱怪感覺像是寶箱偽裝的。\""
 			]},
 			{"code":0,"indent":10,"parameters":[
 			]},
@@ -5293,10 +5413,7 @@
 				1
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"鎧特被擊敗，回到了家中．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"損失了部分開心幣。"
+				"鎧特被擊敗，回到了家中．．．損失了部分開心幣。"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"$gameTemp._攸藍打鋼珠_goback=true;"

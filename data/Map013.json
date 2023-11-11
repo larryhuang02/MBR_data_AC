@@ -2536,10 +2536,7 @@
 			{"code":213,"indent":0,"parameters":[
 				11,
 				1,
-				false
-			]},
-			{"code":230,"indent":0,"parameters":[
-				30
+				true
 			]},
 			{"code":205,"indent":0,"parameters":[
 				0,
@@ -2926,10 +2923,7 @@
 			{"code":213,"indent":0,"parameters":[
 				11,
 				4,
-				false
-			]},
-			{"code":230,"indent":0,"parameters":[
-				30
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Mrma",
@@ -2958,14 +2952,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"就帶回三個，嗯～不錯不錯。」"
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				6,
-				false
-			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
@@ -2976,8 +2962,13 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
 			]},
-			{"code":230,"indent":0,"parameters":[
-				30
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				6,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

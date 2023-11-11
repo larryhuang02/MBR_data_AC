@@ -8119,10 +8119,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「姑娘，這個暖心石先給妳，上雪山一定要注"
+				"「姑娘，這個暖心石先給妳，上雪山一定要"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"意好保暖。」"
+				"注意好保暖。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8176,10 +8176,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇！不用！我不需要！你快點把那個東西拿"
+				"「哇！不用！我不需要！你快點把那個東西"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"走！」"
+				"拿走！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -8219,10 +8219,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「您穿的這麼單薄，又沒準備暖心石，走在雪"
+				"「您穿的這麼單薄，又沒準備暖心石，走在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"山裡會失溫，很容易發生山難！」"
+				"雪山裡會失溫，很容易發生山難！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8246,10 +8246,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我們因為風雪太大遇到了山難，幸好遇到好"
+				"「我們因為風雪太大遇到了山難，幸好遇到"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"心人出手相救。」"
+				"好心人出手相救。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8261,10 +8261,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以姑娘！要準備萬全才可以上山來啊！畢"
+				"「所以姑娘！要準備萬全才可以上山來啊！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"竟安全是最重要的。」"
+				"畢竟安全是最重要的。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				5,
@@ -8337,7 +8337,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
-				10,
+				3,
 				0,
 				2
 			]},
@@ -8399,7 +8399,7 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「過了這麼久了，你終於來娶我了！」"
+				"「過了這麼久了，你終於回來娶我了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -8460,10 +8460,10 @@
 				"\\n[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年．．．你在雪北村是不是發生了什麼對"
+				"「少年．．．你在雪北村是不是做了什麼，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不起天使小姐的事情？」"
+				"對不起天使小姐的事情？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8504,7 +8504,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不對！這是誤會啊！我根本就不認識她！」"
+				"「不對！這是誤會！我根本就不認識她！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -8555,10 +8555,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你不是曾經承諾過我，等到你把事情辦完了"
+				"「你不是曾經承諾過我，等到你把事情辦完了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，就會回來娶我嗎？」"
+				"就會回來娶我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -8624,10 +8624,10 @@
 				"\\n[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你不是發過誓，絕對不會再做對不起天使小"
+				"「你不是發過誓，絕對不會再做對不起"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"姐的事嗎？」"
+				"天使小姐的事嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -8854,10 +8854,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「為什麼那個東西會在她手上"
+				"\\{「為什麼那個東西會在她"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！？」"
+				"手上！？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -8933,10 +8933,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個女人要腰身沒腰身，要胸部沒胸部，皮"
+				"「那個女人要腰身沒腰身，要胸部沒胸部，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"膚還沒有我白，到底哪一點比我好！？」"
+				"皮膚還沒有我白，到底哪一點比我好！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -9000,10 +9000,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好啊！現在連人家這個未婚妻都不認了是嗎"
+				"「好啊！現在連人家這個未婚妻都不認了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！？」"
+				"是嗎！？」"
 			]},
 			{"code":225,"indent":0,"parameters":[
 				9,
@@ -9106,10 +9106,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗚．．．可惡，不但帶著新的未婚妻來我這"
+				"「嗚．．．可惡，不但帶著新的未婚妻來我這裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"裡秀恩愛，而且還對我動手。」"
+				"秀恩愛，而且還對我動手。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Pigeon",
@@ -9121,10 +9121,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼！雖然我輸了，但是妳也別想如意！我絕"
+				"「哼！雖然我輸了，但是妳也別想如意！我絕對"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"對會搶在妳之前和他結婚的！」"
+				"會搶在妳之前和他結婚的！」"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
@@ -9353,7 +9353,7 @@
 				"\\n[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過是個小風雪罷了．．．」"
+				"「不過是個小風雪罷了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -9375,7 +9375,7 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家也沒事喔．．．」"
+				"「人家也沒事喔。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9399,7 +9399,7 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你也要小心．．．」"
+				"「你也要小心。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -9463,10 +9463,10 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．\\n[3]剛剛，被那個女孩子帶走了"
+				"「那個．．．\\n[3]剛剛，被那個女孩子帶走"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -9520,10 +9520,10 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家和攸特同時出手，才阻止了她，但是攸"
+				"「人家和攸特同時出手，才阻止了她，但是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"特被她帶走了。」"
+				"攸特被她帶走了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -9574,10 +9574,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要是我說謊的話！這種冰天雪地，老天爺馬"
+				"「要是我說謊的話！這種冰天雪地，老天爺馬上"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上降下一道落雷把我劈死！」"
+				"降下一道落雷把我劈死！」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -9729,10 +9729,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要是我說謊的話！這種冰天雪地，老天爺馬"
+				"「要是我說謊的話！這種冰天雪地，老天爺馬上"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上降下三道落雷把我劈死！」"
+				"降下三道落雷把我劈死！」"
 			]},
 			{"code":203,"indent":0,"parameters":[
 				10,
@@ -9961,7 +9961,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們聽我解釋！」"
+				"「妳們聽我解釋！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -9977,6 +9977,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"打到我這來！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

@@ -6033,6 +6033,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"吧。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				2,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_familyfc03",
 				1,
@@ -6047,6 +6057,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"小如。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_familyfc03",
@@ -6077,6 +6097,26 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				2,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_familyfc04",

@@ -8134,13 +8134,6 @@
 			{"code":355,"indent":0,"parameters":[
 				"$gameSystem._hideSQSQuestArrow = 1"
 			]},
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":222,"indent":0,"parameters":[
-			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
@@ -8177,7 +8170,7 @@
 				"「今天慶祝你們終於願意回來，船長我就開"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一瓶８２年的蛞蝓黏液。」"
+				"一瓶82年的蛞蝓黏液。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"People_ET",
@@ -9258,7 +9251,7 @@
 				"ＥＷＯＫ"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「今天的餐點可豪華了，不但開了一瓶８２年"
+				"「今天的餐點可豪華了，不但開了一瓶82年"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的蛞蝓黏液。」"
@@ -9298,7 +9291,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

@@ -7044,7 +7044,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？這是什麼？！」"
+				"「嗯？這是什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -7056,7 +7056,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「方形的．．．魔石？」"
+				"「方形的石頭？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -7068,7 +7068,25 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「上面有不錯的魔力．．．可以拿來\\C[2]當飾品用\\C[0]。」"
+				"「好特別的魔石，這顆魔石上居然同時蘊含了"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"兩種元素的力量。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這麼特殊的石頭，應該是人工做出來的，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"以前可能是什麼東西上的\\C[2]裝飾品\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -7092,7 +7110,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳以為玩家會不會在乎是古代遺物嗎？」"
+				"「妳以為玩家會在乎這是不是古代遺物嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -7116,25 +7134,25 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「除了飾品，如果好好加工，或許也能夠有"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\C[2]其他用途\\C[0]．．．」"
+				"「不過這附近好像沒看到類似的東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				4,
-				1,
+				5,
+				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在這大陸上．．．有沒有遇過，\\C[2]精通寶石"
+				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"雕刻、把多個寶石當成工藝品材料的工匠"
+				"「這麼特別的魔石，放在這裡也是暴殄天物，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[0]嗎．．．"
+				"我們把它帶走，\\C[2]或許能拿去讓寶石工匠加工成"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"什麼其他東西\\C[0]。」"
 			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",

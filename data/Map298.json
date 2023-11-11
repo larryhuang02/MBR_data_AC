@@ -1719,7 +1719,7 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「你們想要找我的師兄嗎？他說他會先去一家"
+				"「你們想要找我的師兄嗎？他說他會先隨便找家"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"武器店打打鐵賺取旅費。」"
@@ -1731,10 +1731,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"嗯．．．"
+				"嗯．．．到\\C[2]每個城鎮的武器店找找\\C[0]吧，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"到\\C[2]每個城鎮的武器店找找\\C[0]吧，總會發現的。"
+				"總會發現的。"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"SF_Actor2",
@@ -2938,7 +2938,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"或許他知道．．．"
+				"或許可以交給他。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -2950,7 +2950,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這位兄弟，請問一下，你看過這種東西嗎？」"
+				"「那個，雕刻匠大哥，請問一下，這個東西"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你能加工嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -2962,7 +2965,7 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？什麼．．．」"
+				"「嗯？什麼？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -2984,10 +2987,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這些寶石．．．似乎不是凡品，都有強大的"
+				"「喔．．．我從來沒看過這種方形的寶石，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"魔力．．．」"
+				"裡面蘊含了強大的魔力，感覺不是什麼凡品。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -3007,7 +3010,71 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！或許可以喔！說不定可以給師兄用！」"
+				"「這個已經超出我的技術範圍了，我可能"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"愛莫能助。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這樣啊．．．那你有沒有認識什麼能夠加工"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這種寶石的人啊？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"SF_Actor2",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雕刻匠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				6,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"SF_Actor2",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雕刻匠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				6,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"SF_Actor2",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雕刻匠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊！或許可以！說不定可以交給師兄！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3019,7 +3086,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「師兄？」"
+				"「你師兄？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3031,10 +3098,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是這樣的，為了學習雕刻技術，我拜入了"
+				"「喔，我啊，當初為了學習一流的雕刻技術，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"神匠流的門下。」"
+				"拜入了神匠流的門下。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3046,10 +3113,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我想要嘗試做出最珍貴的工藝品，但我的"
+				"「我想要嘗試做出最珍貴的工藝品，但我師兄，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"師兄，則是想要做出最特別的魔法劍！」"
+				"則是想做出最強的魔劍！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3076,13 +3143,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也嘗試過\\N[54]出產的"
+				"「他也嘗試過\\N[54]出產的太陽、月亮、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"太陽、月亮、星星寶石，但均達不到他的目標"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"星星寶石，但都達不到他的目標。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3097,7 +3161,7 @@
 				"「這種魔石．．．如果你們交給我的師兄，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"說不定能夠了解他的心願。」"
+				"說不定他會有辦法。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3109,7 +3173,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此．．．那你的師兄人在哪？」"
+				"「原來如此，那你的師兄人在哪？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3121,13 +3185,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我也不太清楚．．．不過最近一次的書信"
+				"「我也不太清楚，不過最近一次的書信往來，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"往來，他說他會先去一家武器店打打鐵賺取"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"旅費。」"
+				"他說他會先隨便找家武器店打打鐵賺取旅費。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3139,7 +3200,7 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他的特徵也很明顯．．．他是獨眼的。」"
+				"「他的外表特徵嘛，也很明顯，是個獨眼的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"SF_Actor2",
@@ -3151,7 +3212,10 @@
 				"雕刻匠"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要到武器店找找看，應該可以看到他吧！」"
+				"「只要一間一間武器店找找看，應該至少有一家"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"可以看到他吧！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -3168,10 +3232,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"拜託．．．世界這麼大．．．"
+				"拜託．．．世界這麼大，鬼才知道是哪一家"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"鬼才知道是哪一家武器店！？"
+				"武器店！？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3180,10 +3244,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"算了．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"反正這一路走來城鎮也沒有到上百間．．．"
+				"算了，反正這一路走來城鎮也沒有到上百間，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"到\\C[2]每個城鎮的武器店找找\\C[0]吧，總會發現的。"

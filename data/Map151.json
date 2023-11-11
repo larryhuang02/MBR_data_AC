@@ -41543,7 +41543,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年，你是想要放我一個人顧小孩就溜了嗎？」"
+				"「少年，你是想要放我一個人顧小孩趁機溜走嗎？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -41685,7 +41685,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"那我先叫大家歸隊好了．．．"
+				"那我先叫大家歸隊好了。"
 			]},
 			{"code":221,"indent":3,"parameters":[
 			]},
@@ -45609,10 +45609,7 @@
 				"鐵特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「奇怪．．．雷娜為什麼要把那些兄弟吊在洞口"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「奇怪，雷娜為什麼要把那些兄弟吊在洞口？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -47364,10 +47361,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以希望你們能不能．．．稍微拿點金幣來"
+				"「所以希望你們能不能．．．稍微拿點金幣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"換。」"
+				"來換？」"
 			]},
 			{"code":302,"indent":0,"parameters":[
 				0,
@@ -47443,7 +47440,7 @@
 				"「鐵特老大真的對我們很好，所以我不希望他"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"被占便宜．．．」"
+				"被占便宜。」"
 			]},
 			{"code":115,"indent":0,"parameters":[
 			]},
@@ -47633,7 +47630,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"事蹟都傳遍王國了。」"
@@ -47648,7 +47645,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
+				"「還找我們訓練，是欺負我們吧？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -47657,7 +47654,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
+				"這樣說好像也對。"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -47772,7 +47769,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"事蹟都傳遍王國了。」"
@@ -47787,7 +47784,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
+				"「還找我們訓練，是欺負我們吧？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -47796,155 +47793,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":132,"indent":2,"parameters":[
-				{"name":"battle_ver03","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":283,"indent":2,"parameters":[
-				"Wasteland",
-				"Cliff"
-			]},
-			{"code":301,"indent":2,"parameters":[
-				0,
-				139,
-				true,
-				true
-			]},
-			{"code":601,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":602,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":603,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":604,"indent":2,"parameters":[
-			]},
-			{"code":132,"indent":2,"parameters":[
-				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"離開"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":404,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「奇怪，其他弟兄去哪了？」"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":5,"y":31},
-	{"id":76,"name":"EV076","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「如果你覺得自身的武藝不夠強，可以找我們"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"訓練。」"
-			]},
-			{"code":102,"indent":0,"parameters":[
-				[
-					"跟守衛打",
-					"離開"
-				],
-				1,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":0,"parameters":[
-				0,
-				"跟守衛打"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				1,
-				10,
-				0,
-				1000,
-				1
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"「兄弟！拜託你們打敗女魔頭、拯救王都的"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"事蹟都傳遍王國了。」"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"Recolor_Soldiers",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"礦坑衛兵"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"「還找我們訓練，是欺負我們吧！」"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"BLR_01_1",
-				7,
-				1,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"這樣說好像也對．．．"
+				"這樣說好像也對。"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -48011,6 +47860,145 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":6,"y":31},
+	{"id":76,"name":"EV076","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果你覺得自身的武藝不夠強，可以找我們"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"訓練。」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"跟守衛打",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"跟守衛打"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				10,
+				0,
+				1000,
+				1
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「兄弟！拜託你們打敗了魔女、拯救王都的"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"事蹟都傳遍王國了。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"礦坑衛兵"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「還找我們訓練，是欺負我們吧？」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"這樣說好像也對。"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":132,"indent":2,"parameters":[
+				{"name":"battle_ver03","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":283,"indent":2,"parameters":[
+				"Wasteland",
+				"Cliff"
+			]},
+			{"code":301,"indent":2,"parameters":[
+				0,
+				139,
+				true,
+				true
+			]},
+			{"code":601,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":602,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":603,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":604,"indent":2,"parameters":[
+			]},
+			{"code":132,"indent":2,"parameters":[
+				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"因為偷窺被抓了"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":5,"y":31},
 	{"id":77,"name":"EV077","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Soldiers","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -48042,10 +48030,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？你找鐵特隊長嗎．．．他現在．．．"
+				"「嗯？你找鐵特隊長嗎？他現在．．．有點"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在忙喔．．．」"
+				"忙喔．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48182,7 +48170,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「坑道相當的漆黑，注意腳步阿。」"
+				"「坑道裡面很黑，注意腳步啊。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48232,7 +48220,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「坑道下層現在無法下去。」"
+				"「坑道下層現在沒辦法下去。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -48928,10 +48916,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「隊長跟一名小姐一起前往礦坑深處探查了，"
+				"「剛剛有個穿著火辣的漂亮小姐，跟隊長一起"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"真羨慕．．．」"
+				"到礦坑深處探查了，真羨慕．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -49194,7 +49182,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"現在沒心情管其他事情了．．．"
+				"現在沒心情管其他事情。"
 			]},
 			{"code":115,"indent":2,"parameters":[
 			]},
@@ -49283,10 +49271,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是的．．．雖然你寫信給俺．．．俺是很"
+				"「真是的．．．雖然你寫信給俺，俺是很高興"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"高興啦。」"
+				"啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -49310,10 +49298,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是的．．．俺要不要去找鐵特老哥念給俺"
+				"「真是的，俺要不要去找鐵特老哥念給俺聽"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"聽啊？」"
+				"啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -49351,10 +49339,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你是．．．啊！是那個幫過鐵特老哥的旅行"
+				"「你是．．．啊！你是那個幫過鐵特老哥的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"者．．．記得是叫．．．」"
+				"冒險者，記得是叫．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -49410,13 +49398,13 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是這樣啦，俺的童年玩伴寫了信給俺，可是"
+				"「是這樣啦，俺的童年玩伴寫了信給俺，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嘛．．．因為俺不識字，所以看不懂上面寫什"
+				"可是嘛．．．因為俺不識字，所以看不懂"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"麼。」"
+				"上面寫什麼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49591,10 +49579,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]我在那裡很努力很努力，已經買下了屬於自"
+				"「\\C[5]我在那裡很努力很努力，已經買下了屬於"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"己的房子了，你呢？\\C[0]」"
+				"自己的房子了，你呢？\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49606,10 +49594,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]你還記得以前我們在那片山丘上，那個瞭望"
+				"「\\C[5]你還記得以前我們在那片山丘上，那個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"台上，一起看星星的回憶嗎？\\C[0]」"
+				"瞭望台上，一起看星星的回憶嗎？\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49621,7 +49609,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]那個我們小時候一起許下的未來夢想的願望。\\C[0]」"
+				"「\\C[5]那個我們小時候一起許下未來夢想的願望。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49657,10 +49645,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]我直到現在也和你看著同一片天空，一直想"
+				"「\\C[5]我直到現在也和你看著同一片天空，一直"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"著你。\\C[0]」"
+				"想著你。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49672,10 +49660,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]雖然我們兩個已經長大了，距離也逐漸在改"
+				"「\\C[5]雖然我們兩個已經長大了，距離也逐漸在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"變。\\C[0]」"
+				"改變。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -49711,7 +49699,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[5]那麼你，什麼時候會過來和我永遠在一起呢？\\C[0]」"
+				"「\\C[5]那麼你，什麼時候會過來和我永遠在一起"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"呢？\\C[0]」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -49755,7 +49746,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真．．．真是肉麻啊．．．」"
+				"「真、真是肉麻啊。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -49787,7 +49778,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這寫信的口吻，還有內容，怎麼看都是情書吧！」"
+				"「這寫信的口吻，還有內容，怎麼看都是情書"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"吧！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				104,
@@ -49845,7 +49839,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．真是太浪費了。」"
+				"「可是，真是太浪費了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				104,
@@ -49862,10 +49856,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「PLAY ONE！PLAY ONE！你們"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"有考慮3P嗎！？」"
+				"「PLAY ONE！PLAY ONE！你們有考慮3P嗎！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -50102,10 +50093,7 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「俺的青梅竹馬啊．．．那可是個大美人．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．」"
+				"「俺的青梅竹馬啊，那可是個大美人．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50117,13 +50105,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「以前小時候和她常常玩在一起．．．她帶我"
+				"「以前小時候和她常常玩在一起，她帶我去看"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"去看星星．．．我帶她去跳廣場舞，逛菜市場"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"星星，我帶她去跳健康操，逛菜市場．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50135,10 +50120,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我還記得．．．我帶著她去報名什麼農村體"
+				"「我還記得．．．我帶著她去報名什麼農村"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"驗。」"
+				"體驗。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50150,7 +50135,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我們一起種了稻米，餵了豬，那年大豐收啊！」"
+				"「我們一起種了稻米，餵了豬，那年大豐收"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50177,10 +50165,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「撒上香料，烤的焦焦脆脆．．．哎呀，那滋"
+				"「撒上香料，烤的焦焦脆脆．．．哎呀，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"味，現在回想起來都會流口水。」"
+				"那滋味，現在回想起來都會流口水。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50207,10 +50195,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明我們一起養的小豬那麼好吃．．．可惜"
+				"「明明我們一起養的小豬那麼好吃．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"啊。」"
+				"可惜啊。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -50262,10 +50250,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「農村生活還要體驗啊？養豬養雞這種事情我"
+				"「農村生活還要體驗啊？養豬養雞這種事情，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"們最果之雨村天天都在做啊。」"
+				"我們最果之雨村天天都在做啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50277,10 +50265,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那時候俺向她表白．．．說長大以後一定會"
+				"「那時候俺向她表白，說長大以後一定會娶她，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"娶她．．．然後買一間大房子住一起．．．」"
+				"然後買一間大房子住一起．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50304,10 +50292,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒想到小時候說的胡話．．．她居然都還記"
+				"「沒想到小時候說的胡話，她居然都還記得，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"得．．．俺都忘記了．．．」"
+				"俺都忘記了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50319,10 +50307,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「經歷過了那樣的回憶，居然沒有老死不相往"
+				"「經歷過了那樣的回憶，居然沒有老死不相"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"來．．．」"
+				"往來．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50334,10 +50322,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「您的這位青梅竹馬還真是．．．相當與眾不"
+				"「您的這位青梅竹馬還真是．．．相當與眾不同"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"同呢。」"
+				"呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50381,7 +50369,7 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小姑娘謝謝妳啊，念信給我聽。」"
+				"「謝謝妳啊小姐，唸信給俺聽。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50452,7 +50440,7 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔．．．喔．．．心意嗎．．．」"
+				"「喔．．．喔，心意嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50479,10 +50467,7 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．俺也不識字．．．不知道信要怎"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"麼寫．．．」"
+				"「可是，俺也不識字，不知道信要怎麼寫。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -50506,10 +50491,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！那個．．．小姑娘．．．妳剛剛唸信給"
+				"「啊！那個，小姐，妳剛剛唸信給我聽，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我聽，那妳會寫信嗎？」"
+				"那妳會寫信嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50521,7 +50506,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我．．．我嗎？」"
+				"「我、我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -50643,10 +50628,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小哥．．．坐在你身旁、挽著你胳膊的，"
+				"「小哥，坐在你身旁、挽著你胳膊的，應該是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"應該是你老婆吧。」"
+				"你老婆吧。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				106,
@@ -50701,10 +50686,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就麻煩你們幫幫俺，讓俺能寫一封好情書出"
+				"「就麻煩你們幫幫俺，讓俺能寫一封好情書"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"來了。」"
+				"出來了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -50773,7 +50758,7 @@
 				"礦工會依序念出文章的內容，玩家可按照自己的喜好，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"替書信的\\C[2]空白部分\\C[6]撰寫(沒靈感也可以保留預設的文字)"
+				"替書信的\\C[2]空白部分\\C[6]撰寫\\c[2]（沒靈感也可以保留預設的文字）"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -50964,10 +50949,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然妳都已經表白了，那俺也要像個男人一"
+				"「既然妳都已經表白了，那俺也要像個男人一樣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"樣不能退縮。」"
+				"不能退縮。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"writing","volume":100,"pitch":100,"pan":0}
@@ -51010,10 +50995,10 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「給俺一些時間收拾行李，俺很快就會到妳身"
+				"「給俺一些時間收拾行李，俺很快就會到妳"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"邊。」"
+				"身邊。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"writing","volume":100,"pitch":100,"pan":0}
@@ -51164,16 +51149,13 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[5]那個．．．很抱歉．．．俺這麼久才寫信給"
+				"\\C[5]那個．．．很抱歉．．．俺這麼久才寫信給妳，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳，收到妳的信俺很高興。"
+				"收到妳的信俺很高興。"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳也知道，俺不識字，所以拜託了認識的人"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"替俺寫這封信。"
+				"妳也知道，俺不識字，所以拜託了認識的人替俺寫這封信。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -51182,10 +51164,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[5]妳的心意，俺很感動．．．沒想到過了這麼"
+				"\\C[5]妳的心意，俺很感動．．．沒想到過了這麼多年，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"多年，妳還記得俺。"
+				"妳還記得俺。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"妳對俺而言，就像\\V[21]。"
@@ -51209,10 +51191,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[5]既然妳都已經表白了，那俺也要像個男人一"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"樣不能退縮。"
+				"\\C[5]既然妳都已經表白了，那俺也要像個男人一樣不能退縮。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"俺也想要\\V[24]。"
@@ -51224,16 +51203,13 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[5]給俺一些時間收拾行李，俺很快就會到妳身"
+				"\\C[5]給俺一些時間收拾行李，俺很快就會到妳身邊。"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"邊。"
+				"等俺過去以後，俺再和妳分享俺在凱鐵支畝村"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"等俺過去以後，俺再和妳分享俺在凱鐵支畝"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"村\\V[25]。"
+				"\\V[25]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -51254,10 +51230,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[5]要等俺啊，俺\\V[28]的童年"
+				"\\C[5]要等俺啊，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"玩伴。"
+				"俺\\V[28]的童年玩伴。"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -51362,7 +51338,7 @@
 				"礦工"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈哈！誠你吉言！」"
+				"「哈哈！承你吉言！」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
@@ -51411,7 +51387,7 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"就這樣\\.．\\.．\\.．\\.\\|維皮一行人替礦工寫完了信\\.．\\.．\\.．\\.\\|"
+				"\\TXTCENTER:\"就這樣\\.．\\.．\\.．\\.\\|維皮一行人替礦工寫完了信\\.．\\.．\\.．\\.\\|\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -51420,10 +51396,10 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"究竟維皮（玩家）們寫的信\\.．\\.．\\.．\\.\\|會害礦工單身一輩子\\.．\\.．\\.．\\.\\|"
+				"\\TXTCENTER:\"究竟維皮（玩家）們寫的信\\.．\\.．\\.．\\.\\|會害礦工單身一輩子\\.．\\.．\\.．\\.\\|\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還是會和青梅竹馬長相思守呢\\.．\\.．\\.．\\.\\|"
+				"\\TXTCENTER:\"還是會和青梅竹馬長相廝守呢\\.．\\.．\\.．\\.\\|\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -51432,7 +51408,7 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"關於這一點．．．大概只有玩家自己知道了\\.．\\.．\\.．\\.\\|"
+				"\\TXTCENTER:\"關於這一點．．．大概只有玩家自己知道了\\.．\\.．\\.．\\.\\|\""
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -51528,7 +51504,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"希望我寫的信不要害到他們才好．．．"
+				"希望我寫的信不要害到他們才好。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -51646,7 +51622,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兄弟！礦坑下層．．．封住了！」"
+				"「小弟！礦坑下層現在封住了！」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"$gamePlayer.turnTowardCharacter($gameMap._events[事件id])"
@@ -51667,7 +51643,10 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請．．．請．．．請不要下去！」"
+				"「正在施工暫時不開放，麻煩．．．麻煩．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"麻煩不要下去！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51688,7 +51667,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這麼神秘．．．總覺得有鬼？"
+				"怎麼看起來慌慌張張的，這麼神秘．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"總覺得有鬼？"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -51738,7 +51720,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「各位．．．我們先回休息室吧。」"
+				"「既然礦坑在施工，那我們先回休息室吧。」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -51788,10 +51770,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼了，維皮哥哥？為什麼我們要坐在這裡"
+				"「怎麼了，維皮哥哥？為什麼我們要坐在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"這裡？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -51813,7 +51795,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是這樣的，我想要偷偷送這裡的士兵們禮物。」"
+				"「是這樣的，我想要偷偷送這裡的士兵們一些"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"禮物。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51837,10 +51822,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．他們在這礦坑內值勤，又陰暗又"
+				"「是啊，他們在這礦坑內值勤，又陰暗又潮濕，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"潮濕，過的很辛苦。」"
+				"過的很辛苦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -51852,10 +51837,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「想說．．．既然重返此地，不如送些禮物給"
+				"「想說．．．既然剛好路過這裡，跟他們以前"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大家。」"
+				"也有一點交情，想說送些禮物給大家。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -51867,10 +51852,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「給這些連眼睛都沒有的士兵送禮，你錢太多"
+				"「給這些連眼睛都沒有的士兵送禮，你錢"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"啊？」"
+				"太多啊？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				113,
@@ -51884,7 +51869,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				1,
+				3,
 				0,
 				2
 			]},
@@ -51892,10 +51877,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過話也不能這麼說，雖然他們不是考古團"
+				"「話也不能這麼說，雖然他們不是考古團體系"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"體系的士兵，但好歹也是國家的軍人。」"
+				"的士兵，但好歹也是國家的軍人。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				113,
@@ -51921,7 +51906,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				5,
+				0,
 				0,
 				2
 			]},
@@ -51929,10 +51914,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是阿．．．所以．．．你們幾個先在這裡"
+				"「是阿，所以，我想先去探聽大家的喜好，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"等等，我先去偷偷探聽大家的喜好。」"
+				"你們在這裡等我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -51993,13 +51978,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然我沒當過士兵．．．"
+				"「雖然我沒當過士兵，但．．．有些喜好，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但．．．有些喜好，說不定女孩子在場不方便"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"呢。」"
+				"說不定女孩子在場反而不方便跟我說。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -52035,7 +52017,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那．．．各位就在這裡等等，我去打聽情報。」"
+				"「大家就在這裡等我一下，我去打聽情報。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				60,
@@ -52134,7 +52116,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"誰管那些士兵啊？！"
+				"誰管那些士兵啊？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -52241,7 +52223,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兄弟！我不是說過礦坑下層封住了嗎？」"
+				"「小弟！我不是說過礦坑下層封住了嗎？」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"$gamePlayer.turnTowardCharacter($gameMap._events[事件id])"
@@ -52293,7 +52275,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「總之．．．別下去就是了！」"
+				"「總之別下去就是了！」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -52742,7 +52724,7 @@
 				"礦坑衛兵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「好奇怪．．．怎麼肚子有點疼．．．」"
+				"「好奇怪，怎麼肚子有點疼．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Recolor_Soldiers",
@@ -52786,10 +52768,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「說那麼多．．．還是拜倒在金錢攻勢之下了"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"。」"
+				"「說那麼多，還不是拜倒在金錢攻勢之下了。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -53340,10 +53319,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這種只是經驗值得士兵，做什麼對他們那麼"
+				"「這種路邊隨便抓就是一大把的士兵，對他們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"好？」"
+				"那麼好做什麼？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -53371,7 +53350,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我們就趁機歇歇腳吧。」"
+				"「那我們就趁機休息一下吧。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -53399,7 +53378,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我們就先在休息區歇歇腳吧。」"
+				"「那我們就先在休息區休息一下吧。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},

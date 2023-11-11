@@ -3082,7 +3082,7 @@
 	0,
 	0,
 	0,
-	469,
+	0,
 	0,
 	0,
 	0,
@@ -6059,7 +6059,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"究竟．．．是怎麼回事．．．"
+				"究竟是怎麼回事？"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				12,
@@ -6073,7 +6073,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼．．．余會不受控制．．．"
+				"為什麼，余會不受控制？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -6082,7 +6082,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼．．．余會對如如說出那樣的話．．．"
+				"為什麼，余會對如如說出那樣的話？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -6269,6 +6269,15 @@
 			{"code":401,"indent":0,"parameters":[
 				"滾．．．\\.\\.\\^"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				5,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"滾．．．\\.\\.\\^"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				90
 			]},
@@ -6292,7 +6301,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「滾！」\\.\\.\\^"
+				"「閉嘴！滾！」\\.\\.\\^"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic10","volume":90,"pitch":100,"pan":0}
@@ -6450,6 +6459,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"「牠們明明沒有犯錯．．．」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Marme",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"瑪姆"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我到底幹了什麼？」"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sword7_A","volume":90,"pitch":100,"pan":0}
 			]},
@@ -6528,7 +6549,7 @@
 				"\\C[7]\\TXTCENTER:\"這個世界究竟是怎麼了，　　　　　　　\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[7]\\TXTCENTER:\"怎麼都是不適合當王的人擔任國王．．．\"\\|\\|\\|\\^"
+				"\\C[7]\\TXTCENTER:\"怎麼都是不適合當王的人成為王呢．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -6540,7 +6561,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[7]\\TXTCENTER:\"對．．．就跟那傢伙一樣，居然也能當國王．．．\"\\|\\|\\|\\^"
+				"\\C[7]\\TXTCENTER:\"對．．．就跟那傢伙一樣，居然也能成為國王．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -6646,10 +6667,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．余才需要四大神器，需要上古"
+				"「所以，余才需要四大神器，需要上古文明的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"文明的終極法器．．．」"
+				"終極法器。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -6661,10 +6682,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「神使不也是一樣的目標，所以才降身於余嗎"
+				"「神使您不也是擁有一樣的目標，所以才降身"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"於余的嗎？」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -6798,7 +6819,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「為了如如．．．余沒有辦法．．．」"
+				"「為了如如，余沒有辦法．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",
@@ -6810,7 +6831,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「否則．．．她早晚會被這股魔力給摧毀的。」"
+				"「否則，她早晚會被這股魔力給摧毀的。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -6825,7 +6846,7 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只是．．．神使大人，沒有其他辦法了嗎？」"
+				"「只是，神使大人，沒有其他辦法了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Marme",

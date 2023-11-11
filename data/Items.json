@@ -972,12 +972,30 @@
 	{"id":326,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，我方單體HP回復1點，\n「中幅提升斬、刺、鈍屬抗性」持續7次行動","effects":[
 		{"code":21,"dataId":268,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":339,"itypeId":1,"name":"聖少女惡鬼","note":"<sortingKey:300.06>\n<speed:20000>\n<maxStack:10>\n用牛奶和各式蔬菜混合打成的奶昔，對小孩子而言就像是露出天使微笑的惡鬼\n一樣。\n<道具額外文字檔:BLR_custom/detail/item/Items326.txt>","occasion":1,"price":25000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":327,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"受到祝福禱告的聖水，噴灑在身上後可以獲得聖水庇護。\n「大幅度減少暗元素傷害，免疫即死魔法」持續7回合。","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":328,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":329,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":327,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"吃下會讓人頭皮發麻、生無可戀的爛菜，\n我方單體HP回復1點，「命中率+15%」持續9次行動。","effects":[
+		{"code":21,"dataId":352,"value1":1,"value2":0}
+	],"hitType":2,"iconIndex":1767,"itypeId":1,"name":"水煮爛花椰菜","note":"<sortingKey:300.07>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items327.txt>","occasion":0,"price":8000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":328,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"早餐店必備的腹瀉利器，給予自己「MP上升1階」\n持續9次行動，但會因腸胃不適導致中毒...","effects":[
+		{"code":31,"dataId":1,"value1":9,"value2":0},
+		{"code":21,"dataId":6,"value1":1,"value2":0}
+	],"hitType":2,"iconIndex":1768,"itypeId":1,"name":"大冰奶","note":"<sortingKey:300.08>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items328.txt>","occasion":0,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":329,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"我方單體機率獲得各式狀態異常、機率獲得萬靈狀態。\n※萬靈：免疫全狀態異常，持續3~7次行動。","effects":[
+		{"code":21,"dataId":6,"value1":0.2,"value2":0},
+		{"code":21,"dataId":7,"value1":0.2,"value2":0},
+		{"code":21,"dataId":8,"value1":0.2,"value2":0},
+		{"code":21,"dataId":9,"value1":0.2,"value2":0},
+		{"code":21,"dataId":10,"value1":0.2,"value2":0},
+		{"code":21,"dataId":11,"value1":0.2,"value2":0},
+		{"code":21,"dataId":12,"value1":0.2,"value2":0},
+		{"code":21,"dataId":13,"value1":0.2,"value2":0},
+		{"code":21,"dataId":14,"value1":0.2,"value2":0},
+		{"code":21,"dataId":15,"value1":0.2,"value2":0},
+		{"code":21,"dataId":16,"value1":0.2,"value2":0},
+		{"code":21,"dataId":17,"value1":0.2,"value2":0},
+		{"code":21,"dataId":18,"value1":0.2,"value2":0},
+		{"code":21,"dataId":19,"value1":0.2,"value2":0},
+		{"code":21,"dataId":71,"value1":0.35,"value2":0}
+	],"hitType":2,"iconIndex":1769,"itypeId":1,"name":"七彩菇菇鍋","note":"<sortingKey:300.09>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":0,"price":15000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":330,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":331,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
