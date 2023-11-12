@@ -11694,16 +11694,16 @@
 				1
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
-				2,
+				1,
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				1,
+				7,
 				0,
 				2
 			]},
@@ -11711,7 +11711,114 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是什麼？」"
+				"「欸！太多石頭了吧！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這麼多石頭，等等不會朝我的臉飛過來吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「怎麼了，少年？村長的奪命石頭陣給你造成"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"心理陰影了嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸！臭大哥！村長都跟我說了！說那個石頭陣"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是在你的幫忙下開發的！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哎呀，我哪知道村長會找你去試啊，最後你"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不是也很漂亮的通過了嗎？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				7,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「要是我沒有通過，我現在還會在這裡嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「放心吧，我們在這邊說些有的沒的，這些石頭"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"也沒有動起來的跡象。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這裡應該只是個謎陣，不考驗你的反應能力"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -11735,7 +11842,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]深處\\C[0]好像有聲音．．．」"
+				"「\\C[2]深處\\C[0]好像有什麼聲音。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -11747,10 +11854,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可這要怎麼過去啊．．．真希望能夠靠"
+				"「可這要怎麼過去啊？真希望能夠靠『幫幫我，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"『攸特大哥』．．．」"
+				"攸特大哥』．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -11762,10 +11869,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年．．．遊戲都已經這個時間了，別處處"
+				"「少年，遊戲都已經到這麼後期了，別處處"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"想偷懶．．．」"
+				"想偷懶。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
