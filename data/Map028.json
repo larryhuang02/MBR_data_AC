@@ -22814,8 +22814,8 @@
 				"「終於不會有人騷擾我了，萬歲！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -22841,8 +22841,8 @@
 				"「那我提供燒肉，大家慶祝一下吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -23015,8 +23015,8 @@
 				"的那麼重了，愁雲慘澹像什麼樣呢？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},

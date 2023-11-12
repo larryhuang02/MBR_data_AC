@@ -2961,7 +2961,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼像個破布躺在地上！」"
+				"「怎麼像個破布躺在地上．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3270,7 +3270,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呼．．．撿回一命了。」"
+				"「呼．．．撿回一命了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3338,7 +3338,7 @@
 				"「勇氣秘傳-羽衣石陣！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"1.只要推開沉重的石頭，就可以取得最棒的"
+				"1.只要推開重重的石頭，就可以取得最棒的"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"傳說衣服。」"
@@ -3353,10 +3353,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而我這次，終於是只憑我自己的力量攻克"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"難關，取得天使羽衣了！」"
+				"「而我這次終於取得天使羽衣了！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -3419,22 +3416,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這件衣服我聽說過！\\N[50]裡面的資料"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"有記載！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「難道就放在外面那個空寶箱裡面！？」"
+				"「莫非是外面那個空寶箱！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3478,7 +3460,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那件衣服，可以讓賣給我們嗎？」"
+				"「那件衣服．．．可以讓賣給我們嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -3490,7 +3472,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家、人家拿好寶物跟你換！」"
+				"「人家．．．人家拿好寶物跟你換。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -3539,11 +3521,11 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喂。」"
+				"「那個．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				11,
+				1,
 				0,
 				2
 			]},
@@ -3551,7 +3533,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說起來，為甚麼你會被那隻大獅子給追殺？」"
+				"「話說．．．這隻大獅子是怎麼回事？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -3568,10 +3550,10 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說起來倒楣，我才拿起衣服沒多久，牠就"
+				"「說起來倒楣，我才拿起衣服沒多久，就不知"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不知道從哪裡衝出來。」"
+				"道從哪裡冒出來這大獅子。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3583,7 +3565,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「死命追著我跑，又撕又咬的。」"
+				"「死命追著我跑，又撕又咬的．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3595,19 +3577,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「若不是遇到你們，我大概就涼了。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				11,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「那隻獅子不會是天使羽衣的守護獸吧？」"
+				"「若不是遇到你們，我大概就涼了．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -3644,7 +3614,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那、那件衣服呢？」"
+				"「那．．．那件衣服呢？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3656,7 +3626,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔，在這！」"
+				"「喔．．．在這！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -3738,7 +3708,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你、你、你、你你你！」"
+				"「你．．．你．．．你．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -3792,7 +3762,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼能怪我，我也是受害者好嗎！？」"
+				"「怎麼能怪我，我也是受害者好嗎．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -3818,34 +3788,19 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「呵，破麻，你沒新衣服穿了。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_2",
 				6,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
+				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那是天使羽衣耶！不是什麼隨處可見的爛法袍"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"耶！如如你不心疼嗎？」"
+				"「傳說的聖品．．．最棒的法袍．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				2,
+				15,
 				0,
 				2
 			]},
@@ -3853,30 +3808,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我又不在意，那種輕飄飄的衣服，大概只配"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"妳這荷包蛋。」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				2,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				9,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「是你害它破掉的不是嗎？？？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3888,7 +3820,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「姑娘、姐姐、祖奶奶～」"
+				"「兩位姑娘、兩位姐姐、兩位祖奶奶～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -3961,7 +3893,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以羽衣才被牠咬破的？」"
+				"「所以最後才被聖獅咬破的？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -3985,9 +3917,14 @@
 				8,
 				true
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
+			{"code":213,"indent":0,"parameters":[
 				3,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_02",
+				10,
 				0,
 				2
 			]},
@@ -3995,7 +3932,19 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「矮額，真是噁心。」"
+				"「傳說羽衣．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_02",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「光屁股．．．與羽衣的親密接觸．．．」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -4007,28 +3956,16 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				14,
+				"BLR_11_02",
+				11,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
+				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊、\\{啊、\\{啊！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				14,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「暴殄天物！真是暴殄天物！」"
+				"「\\{啊\\}啊\\}啊．．．．」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -4065,84 +4002,13 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在小鈴這個魔法師面前，把傳說法袍用壞"
+				"「在兩個法師面前．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不說，還拿來包屁屁．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				8,
-				0,
-				2
+				"把傳說法袍用壞不說．．．還拿來包屁屁．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「雖然那件羽衣，我應該不能穿，但我想我能"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"理解風鈴鈴小姐的心情。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「欸？大哥，你怎麼不能穿？你不是也是法師"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"嗎？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				8,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「少年，大哥穿薄紗，那畫面能看嗎？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「病鬼，說不定會有玩家哈這一味喔？」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				4,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				8,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4169,7 +4035,7 @@
 				"「大哥我先去買一些水果好了，七天後應該"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"馬上用的到。」"
+				"馬上用的到．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -4201,7 +4067,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「愛莫能助。」"
+				"「愛莫能助．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -4213,10 +4079,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我只是23世紀的，但這次敵人是30世紀最新式"
+				"「本人只是23世紀的，但這次敵人是30世"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的！」"
+				"紀最新式的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -4298,7 +4164,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				1,
+				14,
 				0,
 				2
 			]},
@@ -4306,23 +4172,11 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當然還在．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				12,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你那邊還有什麼？全部都給我拿過來！」"
+				"「當然還在～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				2,
+				14,
 				0,
 				2
 			]},
@@ -4330,10 +4184,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抽腸機，鑽牙釘、鐵鉤什麼的都有，你全都"
+				"「不光抽腸機，鑽牙釘、鐵鉤什麼的都準備的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"要是吧？」"
+				"妥妥的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4345,7 +4199,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那些太便宜他了，有猶大的搖籃嗎？」"
+				"「那太便宜他了，有猶大的搖籃嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -4396,10 +4250,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一天讓他坐個八小時，連續數個月，這就是"
+				"「一天讓他坐個八小時．．．連續數月．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"猶大的搖籃。」"
+				"這就是猶大的搖籃。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -4436,7 +4290,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔？聽起來真有趣。」"
+				"「嗯～聽起來真有趣。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -4463,7 +4317,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				3,
+				13,
 				0,
 				2
 			]},
@@ -4471,19 +4325,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇，妳這傢伙，真的比我還心理變態。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				12,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「都是神威自己不好。」"
+				"「沒問題～我的好姐妹。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -4601,7 +4443,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「饒了我吧！！！」"
+				"「饒了我吧！！！！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -4633,10 +4475,7 @@
 				"神威"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「饒了我吧！！！我會好好補償"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"妳們的！」"
+				"\\{「饒了我吧！！！！我會好好補償你們的！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -4649,19 +4488,16 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				2,
+				"BLR_07_1",
+				12,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
+				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不用補償我，反正我對那什麼破羽衣也沒"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"什麼興趣。」"
+				"「既然羽衣都毀了，那也沒辦法了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4673,25 +4509,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然羽衣都毀了，那也沒辦法。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				12,
-				0,
-				2
+				"「看你的身手很不錯，以後就來幫我們戰鬥吧"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「冒險者神威是吧？我記得，聽過不少你的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"故事，你的身手很不錯吧？以後就來幫我們"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"戰鬥！」"
+				"！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -4725,7 +4546,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這些\\|給、\\.我、\\.簽、\\.名。\\.」\\."
+				"「這些給我簽名．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_kamoifc2",
@@ -4749,10 +4570,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯，我把羽衣的價值，算成這些借據的"
+				"「是的，人家把羽衣的價值．．．算成這些借"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"總和。」"
+				"據的總和。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4894,7 +4715,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好、好可怕，就這樣簽下了不平等條約"
+				"「好．．．好可怕，就這樣簽下了不平等條約"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"了．．．」"
@@ -4909,7 +4730,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只能說神威他．．．運氣不好啊。」"
+				"「別作死就不會死了．．．」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60

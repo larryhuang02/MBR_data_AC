@@ -22556,7 +22556,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -22588,7 +22588,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -22626,7 +22626,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -22851,7 +22851,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -22875,7 +22875,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -22946,7 +22946,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":304,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -23000,7 +23000,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":19},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -23027,7 +23027,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -23123,7 +23123,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -23161,7 +23161,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -31492,7 +31492,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獸人．．．是獸人．．．該怎麼辦．．．"
+				"獸人．．．是獸人．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -31506,6 +31506,11 @@
 			{"code":401,"indent":0,"parameters":[
 				"的！"
 			]},
+			{"code":213,"indent":0,"parameters":[
+				55,
+				8,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				14,
@@ -31513,19 +31518,24 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獸人的體格強壯，力氣又大．．．一拳就可以"
+				"為什麼．．．什麼魔物都好．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"把我的骨頭敲碎．．．"
+				"甚至更大的蜘蛛或巨蟒都沒差．．．"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				55,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				9,
+				14,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不是、不是我可以打贏的對手！"
+				"但偏偏是獸人．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"People1",
@@ -31640,36 +31650,12 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				14,
+				10,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我打不贏．．．我打不贏．．．我不可能打贏"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"的．．．"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				14,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"他一拳就可以把我打死．．．我會像條破抹布"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"一樣被蹂躪之後死在路邊．．．"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				9,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"我的頭會被他打碎，我會被吃掉．．．"
+				"．．．．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -31678,7 +31664,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我會像爸爸一樣．．．像媽媽一樣．．．"
+				"該怎辦．．．我該怎麼辦．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -31687,37 +31673,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"快逃．．．我現在逃走也不會有人怪我的．．．"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				10,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"因為是獸人嘛．．．我打不贏也是理所當然"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"的．．．"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				10,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"快動啊，我的腳！"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				10,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"快逃啊！"
+				"我會像爸爸、媽媽一樣嗎．．．"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				5
@@ -32017,30 +31973,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「我．．．我來\\C[2]爭取時間\\C[0]！你們快把他抬走！」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獸人"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「吼！小子，你勇氣可嘉。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獸人"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「但是！當我的對手！你連屁都不是！」"
-			]},
 			{"code":121,"indent":0,"parameters":[
 				21,
 				21,
@@ -32287,7 +32219,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},

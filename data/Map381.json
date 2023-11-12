@@ -6958,7 +6958,7 @@
 				0
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"古老王朝的舞孃，好像是晚上才會出現。"
+				"古老王朝的舞孃，似乎是晚上才會出現．．．"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -6973,18 +6973,6 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"等到晚上"
-			]},
-			{"code":122,"indent":1,"parameters":[
-				21,
-				40,
-				0,
-				0,
-				0
-			]},
-			{"code":121,"indent":1,"parameters":[
-				21,
-				30,
-				1
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -7279,7 +7267,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在這裡等那麼久，終於到晚上了。」"
+				"「終於．．．到晚上了。」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -7318,10 +7306,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令是聽說了那個，古老王朝的舞孃皇后，"
+				"「達令是聽說了那個．．．古老王朝的舞孃皇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"才想來這裡看看嗎？」"
+				"后才想來這裡看看嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -7351,10 +7339,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是！那個．．．娟，我只是好奇而已，"
+				"「不是！那個．．．娟，我只是好奇而已，絕"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"絕對沒有其他想法！」"
+				"對沒有其他想法！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -7388,10 +7376,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他小奸小惡一大堆，不過是不可能會做出"
+				"「他小奸小惡一大堆，不過是不可能會做出出"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"出軌這種事的。」"
+				"軌這種事的。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -7437,10 +7425,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「去雪北村時把大哥丟下，只為了跟天使小姐"
+				"「去雪北村時把大哥丟下，只為了跟向日葵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還有向日葵小姐享受齊人之福．．．」"
+				"小姐享受齊人之福．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -7452,10 +7440,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「和雷娜小姐一起慶功宴的時候，目不轉睛的"
+				"「和雷娜小姐一起慶功宴的時候．．．目不轉"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"盯著她的裸體．．．」"
+				"睛的盯著她的裸體．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -7514,7 +7502,7 @@
 				"「人家不奢求自己在你心裡是第一，只要你的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"心中有人家就好。」"
+				"心中有人家就好．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -7913,6 +7901,32 @@
 			{"code":241,"indent":0,"parameters":[
 				{"name":"m-art_Stargazer","volume":50,"pitch":100,"pan":0}
 			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_Dancing",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				120,
+				false
+			]},
 			{"code":205,"indent":0,"parameters":[
 				1,
 				{"list":[
@@ -8197,35 +8211,6 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
 			]},
-			{"code":231,"indent":0,"parameters":[
-				1,
-				"CG_Dancing",
-				0,
-				0,
-				0,
-				0,
-				50,
-				50,
-				0,
-				0
-			]},
-			{"code":232,"indent":0,"parameters":[
-				1,
-				0,
-				0,
-				0,
-				0,
-				0,
-				50,
-				50,
-				255,
-				0,
-				120,
-				false
-			]},
-			{"code":230,"indent":0,"parameters":[
-				180
-			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
 				3,
@@ -8254,14 +8239,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「她跳的舞．．．好美．．．」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				1,
-				1,
-				true
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -8301,23 +8278,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「你們．．．是什麼人！？」"
 			]},
-			{"code":232,"indent":0,"parameters":[
-				1,
-				0,
-				0,
-				0,
-				0,
-				0,
-				50,
-				50,
-				0,
-				0,
-				60,
-				true
-			]},
-			{"code":235,"indent":0,"parameters":[
-				1
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				13,
@@ -8346,7 +8306,10 @@
 				"「我們聽說您的舞蹈絕世無雙，因為好奇所以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"才到這月牙泉來，絕對沒有什麼不好的念頭。」"
+				"才到這月牙泉來，我們絕對沒有什麼不好的念"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"頭。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8386,6 +8349,23 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「．．．真的嗎？人家的舞蹈真的很漂亮嗎？」"
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0,
+				60,
+				true
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -8507,6 +8487,18 @@
 				3
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"？？？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個是！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				7,
 				0,
@@ -8517,18 +8509,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「\\N[67]有反應！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"？？？"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳手上那個是！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8560,7 +8540,7 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\.．\\.．\\.．\\.\\|好久沒聽到這個名字了啊。」"
+				"「\\.．\\.．\\.．\\.\\|好久沒聽到這個名字了啊．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -8615,10 +8595,10 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我在這裡苦等了這麼久，等到的卻是其他女孩戴著那只錶"
+				"「我在這裡苦等了這麼久，等到的卻是其他女孩戴著那只"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"來見我嗎？霍恩。」"
+				"錶來見我嗎？霍恩。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -8630,7 +8610,7 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉，我們．．．還是夥伴嗎？」"
+				"「唉，我們．．．還是夥伴嗎．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8657,10 +8637,10 @@
 				"\\n[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「其實．．．月藍文明已經毀滅了，人家是"
+				"「其實．．．月藍文明已經毀滅了，人家是因"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"因緣際會下才拿到這只錶的。」"
+				"緣際會下才拿到這只錶的。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8680,7 +8660,7 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「月藍文明，毀滅了！？」"
+				"「月藍文明．．．毀滅了！？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				1,
@@ -9013,10 +8993,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"剛剛沒看到臉，本來想說，就算臉蛋抱歉至"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"少身材不錯．．．"
+				"遠看本想說就算臉蛋抱歉至少身材不錯．．．"
 			]},
 			{"code":225,"indent":0,"parameters":[
 				9,
@@ -9079,10 +9056,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"如果能把月牙泉搬回台灣，不用一個月我就可以"
+				"若能把月牙泉搬回台灣．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"成為億萬富翁了．．．"
+				"不用一個月我就能成為億萬富翁了．．．"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -9167,10 +9144,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就真的很噁心啊！明明長的這麼一個大塊頭，"
+				"「就真的很噁心啊！明明長的這麼一個大塊頭"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"居然還穿舞孃服！」"
+				"，居然還穿舞孃服！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -9284,10 +9261,13 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我不會在意的，要是我會因為這點小事失落，"
+				"「我不會在意的，要是我會因為這點小事就失"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可沒辦法自稱是那個厚臉皮賴皮王的摯友呢。」"
+				"落，可沒辦法自稱是那個厚臉皮的賴皮王的摯"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"友呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -9364,10 +9344,13 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"究竟是哪個王八蛋把大叔妳設計成這樣的？"
+				"究竟是哪個王八蛋把大叔你設計成這樣的．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"叫他出來！！！我保證不打死他！！！"
+				"叫他出來！！！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我保證不打死他！！！"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -9387,10 +9370,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個．．．小妹妹怎麼稱呼？妳怎麼知道"
+				"「這個．．．小姐怎麼稱呼？妳怎麼知道我的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我的名字的？」"
+				"名字的？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9402,22 +9385,13 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家的名字是\\N[2]，是妳說的。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
-				4,
-				0,
-				2
+				"「人家的名字是\\N[2]，是妳說的，達令為了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\n[2]"
+				"最完美的妻子這個目標所創造的機器人偶，初代"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令為了最完美的妻子這個目標所創造的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"機器人偶，初代原型機ＧＸＰＴ１０００型。」"
+				"原型機ＧＸＰＴ１０００型。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -9469,10 +9443,10 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在人家被創造出來的時候，達令有跟人家說過"
+				"「在人家被創造出來的時候，達令有跟人家說"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳的事情喔，阿妮姬小姐。」"
+				"過妳的事情喔，阿妮姬小姐。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9484,10 +9458,10 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令說，妳是他最好最好的摯友，是能夠"
+				"「達令說，妳是他最好最好的摯友，是能夠放"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"放心的把背後託付給妳的那種關係。」"
+				"心的把背後託付給妳的那種關係。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				1,
@@ -9528,10 +9502,10 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那是達令自己的選擇啊，阿妮姬小姐不要再"
+				"「那是達令自己的選擇，阿妮姬小姐不要再糾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"糾結了。」"
+				"結了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -9561,10 +9535,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等、等一下，娟，妳說，小姐！？她、她是"
+				"「等、等一下，娟，妳說．．．小姐！？她、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"女的！？」"
+				"她是女的！？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -9634,10 +9608,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈哈！小弟弟，不要看我這樣，我可是真真"
+				"「哈哈！小哥，不要看我這樣，我可是真真正"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"正正，如假包換的女孩子喔！」"
+				"正，如假包換的女孩子喔！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -9719,10 +9693,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不知道，就不知道為什麼腦中突然想到"
+				"「不知道，就不知道為什麼腦中突然想到這句"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這句話，它是古月藍語嗎？」"
+				"話，它是古月藍語嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -9734,7 +9708,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．太令人吃驚了。」"
+				"「這．．．太令人吃驚了．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -9771,7 +9745,7 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯\\.．\\.．\\.．\\.\\|既然\\n[2]小妹妹在這裡，這只錶"
+				"「嗯\\.．\\.．\\.．\\.\\|既然\\n[2]小姐在這裡，這只錶"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"也在\\.．\\.．\\.．\\.」\\|"
@@ -9945,7 +9919,7 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「霍恩！好久不見了，我好想你。」"
+				"「霍恩．．．好久不見了，我好想你。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -9965,10 +9939,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「欸！等等等等等等！不要靠我那麼近！"
+				"「欸！等等等等等等！不要靠我那麼近！很可"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"很可怕！」"
+				"怕！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -10032,10 +10006,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嘿嘿，太久沒見到老朋友，太激動，有點"
+				"「抱歉，太久沒見到老朋友，太激動，有點情"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"情不自禁。」"
+				"不自禁。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10047,7 +10021,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這樣對心臟真的很不好妳知道嗎？」"
+				"「這樣對心臟真的很不好你知道嗎？」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				1
@@ -10073,10 +10047,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呵呵，所以你們來找我，是想要重建月藍文明"
+				"「呵呵，所以你們來找我，是想要重建月藍文"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"需要我的幫助嗎？」"
+				"明需要我的幫助嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -10120,10 +10094,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是這樣的．．．我們的世界現在正在遭受"
+				"「是這樣的．．．我們的世界現在可能遭受未"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"未知勢力的威脅。」"
+				"知勢力的威脅。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -10162,10 +10136,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是為了重建月藍文明，而是保護現在的"
+				"「不是為了重建月藍文明，而是保護現在的世"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"世界嗎？」"
+				"界嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -10223,10 +10197,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\{\\{咳咳！\\}\\}我現在在跟你說認真的！"
+				"「\\{\\{咳咳！\\}\\}我現在在跟你說認真的！不要"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不要鬧！」"
+				"鬧！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -10282,10 +10256,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以阿妮姬，就算我沒想重建月藍文明，"
+				"「所以阿妮姬，就算我沒想重建月藍文明，你"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳也願意把你的力量借給我嗎？」"
+				"也願意把你的力量借給我嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				1,
@@ -10338,10 +10312,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟現在的我也早就死透了，只是對你的思念"
+				"「畢竟現在的我也早就死透了，只是對你的思"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"讓我的靈魂還停留在這裡而已。」"
+				"念讓我的靈魂還停留在這裡而已。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -10353,7 +10327,7 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以一定沒辦法像當年那樣替你打頭陣了。」"
+				"「所以一定沒辦法像當年那樣替你橫掃千軍了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -10371,6 +10345,18 @@
 				1,
 				8,
 				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_AENIJI",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"阿妮姬"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這樣啊．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -10394,10 +10380,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「條件？是什麼條件呢？如果我們能辦到"
+				"「條件？是什麼條件呢？如果我們能辦到的話"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的話。」"
+				"．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -10487,10 +10473,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯，既然霍恩把那只錶託付給妳，就表示"
+				"「沒錯，既然霍恩把那只錶託付給妳．．．就"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"今後我得聽妳的指揮。」"
+				"表示今後我得聽妳的指揮。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -10552,10 +10538,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\n[3]大哥．．．小鈴看起來有點可憐耶，"
+				"「\\n[3]大哥．．．小鈴看起來有點可憐耶，你"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你有沒有什麼30秒學會交際舞的書籍可以給她"
+				"有沒有什麼30秒學會交際舞的書籍可以給她"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"啊？」"
@@ -10866,7 +10852,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「應該可以成為我茶餘飯後的消遣。」"
+				"「應該可以成為我茶餘飯後的消遣回憶。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic5","volume":90,"pitch":100,"pan":0}
@@ -10920,10 +10906,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「來吧，阿妮姬小姐！我準備好了，隨時都"
+				"「來吧，阿妮姬小姐！我準備好了，隨時都可"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可以開始！」"
+				"以開始！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -11094,7 +11080,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呼、呼、呼！怎麼樣啊！」"
+				"「呼．．．呼．．．呼！怎麼樣啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -11103,7 +11089,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"居然跳到天亮了，有沒有搞錯！？"
+				"居然跳到天亮了．．．有沒有搞錯！？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -11115,10 +11101,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呵，這不是也能做到嗎？那妳剛剛是在"
+				"「呵，這不是也能做到嗎？那妳剛剛是在怕什"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"怕什麼？」"
+				"麼？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -11208,10 +11194,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯哼！跳得很好喔！不輸給我當年獻舞給"
+				"「嗯哼！跳得很好喔！不輸給我當年獻舞給霍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"霍恩的時候呢。」"
+				"恩的時候呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -11223,10 +11209,13 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令當年還和我說過，說如果有機會想介紹我"
+				"「達令當年還和我說過．．．說如果有機會想"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"和阿妮姬小姐認識，和妳學學怎麼跳舞。」"
+				"介紹我和阿妮姬小姐認識，和妳學學怎麼跳舞"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -11291,10 +11280,10 @@
 				"阿妮姬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哎呀，都是那麼久以前的事情了，早就該"
+				"「哎呀，都是那麼久以前的事情了，早就該放"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"放下啦。」"
+				"下啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_AENIJI",
@@ -11309,7 +11298,7 @@
 				"「那麼按照約定，請多指教啦，霍恩的後代，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，\\n[2]小妹妹、我的新戰友們。」"
+				"，\\n[2]小姐、我的新戰友們。」"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				3,
@@ -11437,7 +11426,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是個奇妙的旅程。」"
+				"「真是個奇妙的旅程．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -11449,7 +11438,7 @@
 				"\\n[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不曉得阿妮姬小姐多強呢。」"
+				"「不曉得阿妮姬小姐多強呢．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
