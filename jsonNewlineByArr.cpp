@@ -25,12 +25,17 @@ vector<char> newlined(const char *s,const size_t sz,const PrecondType &exactInar
 	vector<char> rtv;
 	int c;
 	int diffstat[3][256]={0};
+	int formatChars[256]={0};
 	int stat=0;
 	diffstat[0]['"']=1;
 	diffstat[1]['"']=-1;
 	diffstat[1]['\\']=1;
 	for(unsigned x=0;x!=256;++x) diffstat[2][x]=-1;
 	// 0: not in str ; 1: in str ; 2: in str && backslash
+	formatChars['\t']=1;
+	formatChars['\n']=1;
+	formatChars['\r']=1;
+	formatChars[' ']=1;
 	
 	unsigned lv_obj=0,lv_arr=0;
 	auto is_precondPass=[](unsigned lv_arr,const PrecondType &exactInarr)->bool{
@@ -53,6 +58,7 @@ vector<char> newlined(const char *s,const size_t sz,const PrecondType &exactInar
 			case '\n':
 			case '\r':
 			case ' ':{
+				// formatChars
 				rtv.pop_back();
 			}break;
 			case ',':{
@@ -71,8 +77,9 @@ vector<char> newlined(const char *s,const size_t sz,const PrecondType &exactInar
 			}break;
 			case ']':{
 				if(!lv.size()) return {};
-				if(rtv.size()>=2 && rtv[rtv.size()-2]!='\n' && is_precondPass(lv_arr,exactInarr)){
-					rtv.pop_back();
+				if(rtv.size()>=1 && is_precondPass(lv_arr,exactInarr)){
+					rtv.pop_back(); // ']'
+					while(rtv.size() && formatChars[rtv.back()&0xFF]) rtv.pop_back();
 					push_newline(rtv);
 					for(unsigned _=lv_arr;--_;) rtv.push_back('\t');
 					rtv.push_back(']');
