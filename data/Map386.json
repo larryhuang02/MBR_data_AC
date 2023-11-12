@@ -2365,10 +2365,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「咦！？這具骸骨的懷裡．．．好像有一件布？"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"」"
+				"「咦！？這具骸骨的懷裡，好像有一塊布？」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -2789,7 +2786,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「你們．．．是怎了？？？」"
+				"「你們．．．幹嘛，幹嘛離我這麼遠？」"
 			]},
 			{"code":213,"indent":2,"parameters":[
 				7,
@@ -2845,7 +2842,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「怎麼會有這麼骯髒的事物！」"
+				"「怎麼會有這麼骯髒的東西！」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_11_01",
@@ -2891,7 +2888,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「請把那內褲丟掉．．．」"
+				"「請把那條內褲丟掉．．．」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_02_1",
@@ -3003,10 +3000,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「從亡靈船長身上拿了這個後，它們全部都動"
+				"「從亡靈船長身上拿了這個後，它們全部都"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"起來了。」"
+				"動起來了。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -3018,10 +3015,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「而且經過這麼久，這內褲照理說早就破掉了"
+				"「而且經過這麼久，這內褲照理說早就破掉"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"．．．」"
+				"了。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -3048,10 +3045,25 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「雖然外型奇怪，但怕它真的是什麼秘寶．．．"
+				"「雖然外型奇怪，但我怕它真的是什麼"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"」"
+				"秘寶。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「如果它真的是什麼寶貝，我們把它丟在這裡"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"不是太浪費了嗎？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_02_1",
@@ -3099,7 +3111,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「算了．．．姑且相信你．．．」"
+				"「算了．．．姑且相信你。」"
 			]},
 			{"code":205,"indent":2,"parameters":[
 				9,

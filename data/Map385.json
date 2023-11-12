@@ -4872,7 +4872,7 @@
 				"依佛利特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「居然有人來到這熾熱之地．．．」"
+				"「居然有人肯來這熾熱之地。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_08iWpmB",
@@ -4884,7 +4884,22 @@
 				"依佛利特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼？莫非想借用火煉爐？」"
+				"「來這裡借用火煉爐的，大多都是龍族、"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獸族，本尊還是第一次見到人族。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_08iWpmB",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"依佛利特"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「怎麼？難道你們也想借用火煉爐？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4923,10 +4938,82 @@
 				"依佛利特"
 			]},
 			{"code":401,"indent":0,"parameters":[
+				"「其他種族有一些沒辦法靠自己處理的寶石，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就會來找本尊借這火煉爐。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「是的，我們想借用火煉爐，不知道您是否能"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"借我們使用。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_08iWpmB",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"依佛利特"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然是第一次借給人族使用，但不管誰來用，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"使用方法都大同小異。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_08iWpmB",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"依佛利特"
+			]},
+			{"code":401,"indent":0,"parameters":[
 				"「不過，你們得先跟本尊比劃比劃，證明你們"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"有資格使用它。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸？要打架？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Monster_08iWpmB",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"依佛利特"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「本尊得確認你們是否有那個資格使用它，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"要是沒那個能力，隨便借給你們也只會壞事。」"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -4952,7 +5039,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「請賜教！」"
+				"「好！請賜教！」"
 			]},
 			{"code":108,"indent":1,"parameters":[
 				"開關22＝召喚小兵"
@@ -5027,7 +5114,10 @@
 				"依佛利特"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不錯不錯，你們很有資格使用它～」"
+				"「不錯不錯，比起龍族，你們也不遑多讓，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"你們很有資格使用它。」"
 			]},
 			{"code":221,"indent":1,"parameters":[
 			]},
@@ -5128,7 +5218,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「說是融合寶石．．．問題是該怎麼融？」"
+				"「說是融合寶石，問題是該怎麼融？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -5140,13 +5230,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「似乎是．．．"
+				"「應該只要把\\ni[592]、\\ni[593]、\\ni[594]、\\ni[595]、"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"把\\ni[592]、\\ni[593]、\\ni[594]、\\ni[595]、\\ni[596]、"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"各一顆扔進去就好．．．」"
+				"\\ni[596]、各一顆扔進去就好．．．吧？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -5170,10 +5257,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「好像知道，但老實說人家不知道為什麼知道"
+				"「好像知道，但老實說人家不知道為什麼"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"．．．」"
+				"知道。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -5205,10 +5292,13 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"這個地方．．．似乎能融合寶石，有什麼寶石"
+				"這個地方，溫度這麼高，能拿來融合什麼？"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"必須融合的嗎？"
+				"記得好像聽說過硬度很高的寶石得靠高溫來融化"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"才可以加工。"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -5732,13 +5822,6 @@
 				0,
 				0,
 				7
-			]},
-			{"code":122,"indent":2,"parameters":[
-				43,
-				43,
-				0,
-				0,
-				4
 			]},
 			{"code":115,"indent":2,"parameters":[
 			]},
