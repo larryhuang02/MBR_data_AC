@@ -6708,10 +6708,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「奇怪，這上面寫什麼鬼畫符啊？看都看不懂"
+				"「奇怪，這上面寫什麼鬼畫符啊？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"看都看不懂。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6883,7 +6883,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「上面寫著．．．\\C[3]擁有月藍法器之人啊，集到"
+				"「上面寫著．．．\\C[3]擁有月藍法器之人啊，集齊"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"六大神獸後，展示於吾面前，吾將給予汝試煉。\\C[0]」"
@@ -6898,10 +6898,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[3]通過試煉證明自身後，吾將再次與汝並肩作"
+				"「\\C[3]通過試煉證明自身後，吾將再次與汝並肩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"戰。\\C[0]」"
+				"作戰。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -6913,32 +6913,15 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「看樣子．．．當\\C[2]學到了六個召喚獸之後，"
+				"「看起來，它是要我們\\C[2]收回了六個召喚獸之後，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"再來這邊調查\\C[0]．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				5,
-				8,
-				true
+				"再來這邊調查\\C[0]。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				1,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"展示六個召喚獸．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"石碑上居然有這麼巧的內容？"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				428,
@@ -7032,10 +7015,10 @@
 				2
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"\\N[67]與石碑產生了共鳴，要召喚此地的守護"
+				"\\N[67]與石碑產生了共鳴，要召喚此地的"
 			]},
 			{"code":401,"indent":6,"parameters":[
-				"獸嗎？"
+				"守護獸嗎？"
 			]},
 			{"code":102,"indent":6,"parameters":[
 				[
@@ -7177,18 +7160,6 @@
 				1,
 				true
 			]},
-			{"code":101,"indent":7,"parameters":[
-				"BLR_07_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":7,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":7,"parameters":[
-				"「那個．．．請問妳是．．．？」"
-			]},
 			{"code":213,"indent":7,"parameters":[
 				1,
 				8,
@@ -7204,7 +7175,25 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「吾乃光之女武神，正在尋找繼承者。」"
+				"「吾乃光之女武神，乃是月藍王霍恩指派，"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"負責統領眾召喚獸的女武神。」"
+			]},
+			{"code":101,"indent":7,"parameters":[
+				"BLR_Valkyrja_Face",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"女武神"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"「於數千年前，月藍王霍恩將吾留存於此，"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"靜待他的後人的到來。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_Valkyrja_Face",
@@ -7216,10 +7205,10 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「千幻石碑替吾帶來繼承者，但唯有獲得吾之"
+				"「但唯有獲得吾之認可，汝才能成為吾之"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"認可，汝才能成為吾的繼承者。」"
+				"繼承者。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_Valkyrja_Face",
@@ -7231,10 +7220,10 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「若能單打戰勝吾，則吾會遵守使命，與汝"
+				"「若能單打戰勝吾，則吾會遵守使命，"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"一同並肩作戰。」"
+				"與汝一同並肩作戰。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_07_1",
@@ -7249,7 +7238,7 @@
 				"「也就是說．．．必須要戰勝妳來獲得妳的"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"認可嗎．．．」"
+				"認可嗎？」"
 			]},
 			{"code":205,"indent":7,"parameters":[
 				1,
@@ -7307,10 +7296,7 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「汝的羽翼未豐．．．吾特准汝可攜帶一名幫"
-			]},
-			{"code":401,"indent":7,"parameters":[
-				"手。」"
+				"「汝的羽翼未豐，吾特准汝可攜帶一名幫手。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_07_1",
@@ -7319,13 +7305,10 @@
 				2
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"太好了．．．剛剛想說單挑．．．"
+				"太好了，剛剛想說單挑．．．讓人家一個法師"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"讓人家一個法師跟她單挑，會不會太過分了點"
-			]},
-			{"code":401,"indent":7,"parameters":[
-				"？"
+				"跟她單挑，會不會太過分了點？"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_07_1",
@@ -7334,10 +7317,10 @@
 				2
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"不過．．．既然可以帶一個幫手．．．"
+				"不過，既然可以帶一個幫手，那請誰來幫忙"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"那請誰來幫忙好呢．．．"
+				"好呢？"
 			]},
 			{"code":221,"indent":7,"parameters":[
 			]},
@@ -8045,7 +8028,7 @@
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_11_01",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -8053,7 +8036,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「總覺得．．．這女武神有點放水．．．」"
+				"「她是不是沒有認真？」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_01_1",
@@ -8065,7 +8048,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「是啊．．．沒大絕招沒經驗沒金錢的．．．」"
+				"「是啊，沒大絕招沒經驗沒金錢的。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_01_1",
@@ -8137,13 +8120,40 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「人家才不要繼續待在這無聊到死的地方！"
+				"「你們以為待在這幾千年很有趣嗎？我才不要"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"放眼望去不是樹木就是石頭，我又不是在玩"
+				"繼續待在這無聊到死的地方！」"
+			]},
+			{"code":101,"indent":7,"parameters":[
+				"BLR_Valkyrja_Face",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"女武神"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"「放眼望去不是樹木就是石頭，我又不是在玩"
 			]},
 			{"code":401,"indent":7,"parameters":[
 				"岩石模擬器！」"
+			]},
+			{"code":101,"indent":7,"parameters":[
+				"BLR_Valkyrja_Face",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"女武神"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"「要不是霍恩那個渾蛋說什麼一定要試煉才能"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"把我帶走！你們以為我想打啊？」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_01_1",
@@ -8158,31 +8168,31 @@
 				"「呃．．．怎麼說話的態度都變了？」"
 			]},
 			{"code":101,"indent":7,"parameters":[
-				"BLR_Valkyrja_Face",
-				4,
+				"BLR_03_1",
+				8,
 				0,
 				2
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"女武神"
+				"\\N[3]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「人家才不要繼續裝文謅謅的講話，又難講又"
+				"「大概憋很久了吧？少年，天使小姐不也是"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"難想。」"
+				"憋了五千年才見到你的嗎？」"
 			]},
 			{"code":101,"indent":7,"parameters":[
-				"BLR_Valkyrja_Face",
-				3,
+				"BLR_01_1",
+				5,
 				0,
 				2
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"女武神"
+				"\\N[1]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「出去玩出去玩！！！人家要粗乃玩！！！」"
+				"「．．．．．．」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_07_1",
@@ -8194,7 +8204,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「所以原來妳有大絕招．．．」"
+				"「所以原來妳有大絕招。」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_Valkyrja_Face",
@@ -8206,10 +8216,13 @@
 				"女武神"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「當然有大招！你們找個倒楣的哥布林或"
+				"「當然有了，不然妳以為我怎麼統領其他"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"史萊姆試刀不就知道了！」"
+				"召喚獸的？你們找個倒楣的哥布林或史萊姆"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"試刀不就知道了！」"
 			]},
 			{"code":101,"indent":7,"parameters":[
 				"BLR_Valkyrja_Face",
@@ -8281,7 +8294,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":7,"parameters":[
-				"「原來是強迫中獎的概念．．．」"
+				"「原來是強迫中獎的概念。」"
 			]},
 			{"code":203,"indent":7,"parameters":[
 				4,

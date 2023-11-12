@@ -3117,16 +3117,33 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\N[2]好感度不足．．．"
+				"\\N[2]好感度不足。"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				2,
+				true
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
-				7,
+				1,
 				1,
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"呃．．．怎麼辦．．．"
+				"欸？盒子好像鬆鬆的。"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				3,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"看來不用那麼多愛心也能直接打開嘛。"
 			]},
 			{"code":102,"indent":2,"parameters":[
 				[
@@ -3156,10 +3173,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"獲得了"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"愛之長袍-攸特專用"
+				"獲得了愛之長袍-攸特專用。"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				-1,
@@ -3197,7 +3211,7 @@
 				"\\{我還是先去嘗試增加娟的好感"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"好了．．．"
+				"好了！"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
