@@ -5847,7 +5847,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「痛死了．．．」"
+				"「痛死了。」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -5873,10 +5873,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「少年．．．都已經這個時候了，確定還要讓"
+				"「少年，都已經這個時候了，確定還要讓大哥"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"大哥來嗎？」"
+				"來嗎？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_02_1",
@@ -5914,7 +5914,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我懶的走．．．」"
+				"「我懶的走。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_03_1",
@@ -8247,10 +8247,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說．．．這台好像壞了．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"底部有個大破洞．．．」"
+				"「這台機器好像壞了，底部有個大破洞。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8270,7 +8267,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對了！或許可以拿來利用！？」"
+				"「對了！或許可以拿來利用一下！」"
 			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
@@ -8316,7 +8313,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「偽裝啊！這裡的走道上有那麼多衛兵」"
+				"「偽裝啊！這裡的走道上有那麼多衛兵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8328,10 +8325,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「把自己偽裝成一台扭蛋機，就不會被發現了"
+				"「把自己偽裝成一台扭蛋機，就不會被發現"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -8343,7 +8340,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．這裡的衛兵有這麼傻？」"
+				"「．．．這裡的衛兵有這麼傻？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8355,7 +8352,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「老實說大哥也覺得太鬧了．．．」"
+				"「老實說大哥也覺得太鬧了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -8367,10 +8364,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但這裡都擺了這台東西，或許有一試的可能"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「但或許有一試的可能。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
