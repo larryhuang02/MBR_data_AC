@@ -14926,7 +14926,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．似乎是在城堡內了．．．」"
+				"「嗯，我們應該是在城堡內了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -14938,7 +14938,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯．．．這裡宮殿的花園．．．」"
+				"「沒錯，這裡是皇宮裡的露天花園。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -14950,7 +14950,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真的混進來了．．．」"
+				"「真的混進來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -14984,7 +14984,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「話說．．．這該不會是陷阱吧？」"
+				"「．．．這該不會是陷阱吧？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -15147,10 +15147,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧！達令，人家偵測過．．．"
+				"「放心吧！達令，人家偵測過，除了我們，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"除了我們，周遭只有一人，沒有大量伏兵。」"
+				"周遭只有一人，沒有大量伏兵。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -15315,7 +15315,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是．．．是你！」"
+				"「是你！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -15332,7 +15332,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好久不見啊，\\N[7]小姐．．．」"
+				"「好久不見了，\\N[7]小姐。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15344,7 +15344,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「輕浮少年、姬偶．．．」"
+				"「輕浮少年、姬偶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -15370,7 +15370,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還有．．．很久不見了啊．．．詭雷．．．」"
+				"「還有．．．很久不見了啊，詭雷。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -15382,10 +15382,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是啊．．．自從黃金城一役之後，就再也"
+				"「是啊，自從黃金城之後，就再也沒見過面"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"沒見過面了．．．」"
+				"了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
@@ -15463,10 +15463,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如如小姐妳做事習慣按部就班，會盡量"
+				"「如如妳做事習慣按部就班，會盡量做出"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"做出事前規劃來降低風險。」"
+				"事前規劃來降低風險。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -15498,7 +15498,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"欸，有這樣趁機偷戳人的嗎？？？"
+				"欸，有這樣趁機偷戳人的嗎？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -15521,7 +15521,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
+				"BLR_11_02",
 				2,
 				0,
 				2
@@ -15530,7 +15530,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此，所以你也假裝不知道這一切，"
+				"「原來如此，所以你就假裝不知道這一切，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"默默的一起行動了？」"
@@ -15545,10 +15545,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟就算我們有辦法對抗異界的兵隊，也"
+				"「畢竟就算我們有辦法對抗異界的兵隊，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不可能跟整個皇宮的兵隊戰鬥。」"
+				"也不可能跟整個皇宮的兵隊戰鬥。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
@@ -15582,23 +15582,6 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
 			]},
-			{"code":213,"indent":0,"parameters":[
-				10,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Tuoer",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"拖爾"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「內應．．．嗎？」"
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
 				6,
@@ -15609,10 +15592,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但請不要誤會了！我終究是效忠瑪姆主母"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"！」"
+				"「請不要誤會！我終究是效忠瑪姆主母！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15641,34 +15621,15 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那師傅．．．你協助我們混進來．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				10,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「終究是有什麼目的嗎？」"
+				"「師傅，你為什麼要協助我們？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Tuoer",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"拖爾"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我想知道．．．究竟發生什麼事情？」"
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15680,7 +15641,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「瑪姆主母為什麼將少主妳除名．．．」"
+				"「我想知道，瑪姆主母為什麼將少主妳除名。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15692,10 +15653,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而前陣子去了一趟元素大陸後，回來後就把"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"自己鎖在了王座廳．．．」"
+				"「瑪姆主母為什麼將少主妳除名。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15707,7 +15665,22 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還特別叮囑任何人不能進去．．．」"
+				"「前陣子，主母去了一趟元素大陸後，回來後"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就把自己鎖在了王座廳。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Tuoer",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"拖爾"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「還特別叮囑任何人不能進去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15719,7 +15692,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我想知道．．．究竟發生了什麼事情．．．」"
+				"「我想知道，真相到底是什麼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15766,7 +15739,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「師傅．．．事情就是這樣．．．」"
+				"「師傅，事情就是這樣。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -15788,7 +15761,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器已經被主母獲得了？」"
+				"「主母終於獲得四大神器了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15800,7 +15773,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但神使操控了瑪姆大人？」"
+				"「但神使操控了主母？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15812,7 +15785,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就是這樣！師傅！」"
+				"「就是這樣！師傅。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15824,10 +15797,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「母后需要我們幫助！我不能讓神使篡奪了"
+				"「母后需要我們幫助！我不能讓神使侵占"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"母后的身軀！」"
+				"母后的身體！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15839,10 +15812,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「神使已經說了．．．"
+				"「神使已經說了，七天後將會摧毀整個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"七天後將會摧毀整個元素大陸。」"
+				"元素大陸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15871,7 +15844,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一派胡言．．．」"
+				"「一派胡言。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -15978,10 +15951,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也因為妳擅自放走了風鈴鈴小姐，主母判斷"
+				"「因為妳擅自放走了風鈴鈴小姐，主母判斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妳有離異之心，所以暫時將妳除名．．．」"
+				"妳有離異之心，所以暫時將妳除名。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -15993,10 +15966,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也因為除名這件事情略有奇怪，所以師傅"
+				"「因為除名這件事情非同小可，所以師傅才想"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"才想找妳來問話。」"
+				"找妳來問話。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16008,7 +15981,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「僅此而已．．．」"
+				"「僅此而已。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -16038,7 +16011,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{「重點是！」"
+				"「重點是！少主。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -16055,7 +16028,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少主．．．妳說的這些，可有任何證據？」"
+				"「妳說的這些，可有任何證據？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -16087,10 +16060,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「別忘記師傅我是什麼身份．．．我乃黑妖"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「別忘記師傅的身份，我是黑暗妖精。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16102,7 +16072,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「爾虞我詐的環境，師傅比妳看的多太多了！」"
+				"「爾虞我詐的世界，師傅看得比妳多得多了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -16119,7 +16089,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請少主設身處地想一想．．．」"
+				"「不是師傅不想相信妳，但這實在太過匪夷"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"所思。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16131,7 +16104,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「自己的女兒未經許可，放走人犯．．．」"
+				"「請少主設身處地想一想。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16143,7 +16116,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還離家出走好一陣子。」"
+				"「自己的女兒未經許可，放走人犯，還離家出走"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"好一陣子。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16155,7 +16131,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「現在回家了，卻帶著一群人．．．」"
+				"「好不容易回家了，卻帶著一群人，是過去和"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"異界有過衝突得一群人，說自己有問題。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16167,19 +16146,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說自己有毛病．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Tuoer",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"拖爾"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「還想要拿走，自己畢生目標的神器．．．」"
+				"「還想要拿走，自己畢生目標的神器。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16234,7 +16201,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但！你也有懷疑．．．對吧？」"
+				"「但！你也起疑心了，對吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16246,10 +16213,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「否則．．．你就不會放我們進來，而是呼叫"
+				"「否則，你就不會放我們進來，而是呼叫衛兵"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"衛兵了對吧！」"
+				"了。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				10,
@@ -16291,7 +16258,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之．．．」"
+				"「總之，我不信任你們。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16303,10 +16270,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我不相信你們！尤其是你這詭雷攸特，明明"
+				"「尤其是你，詭雷攸特，明明有實力，卻欺瞞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有實力，卻欺瞞了我們好久。」"
+				"我們。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16335,10 +16302,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但同樣的．．．我也無法認定．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"你們說的是假話．．．」"
+				"「但同樣的，我也無法認定你們說的是假話。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16350,7 +16314,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我認識的少主，不像是在說謊．．．」"
+				"「我認識的少主，雖然行為偏執，但對夥伴，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不會說謊。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -16411,7 +16378,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「鎖住王座廳的兩把鑰匙．．．」"
+				"「鎖住王座廳的兩把鑰匙。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16423,22 +16390,10 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一把在餐廳倉庫．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_Tuoer",
-				1,
-				0,
-				2
+				"「一把在餐廳倉庫，一把放在某間客房的魔像"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"拖爾"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「一把不知道放在客房的哪尊魔像身上了．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"」"
+				"身上。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
@@ -16450,7 +16405,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哎呀～大概是我不小心用掉的吧～」"
+				"「大概是我不小心掉在哪裡的吧。」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				8,
@@ -16484,7 +16439,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -16492,7 +16447,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「另外．．．城堡內有不少巡邏的衛兵．．．」"
+				"「城堡內有不少巡邏的衛兵．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -16530,7 +16485,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Tuoer",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -16538,7 +16493,7 @@
 				"拖爾"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「自己做好偽裝，小心被發現啊～」"
+				"「自己做好偽裝，小心別被發現。」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -16570,7 +16525,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明在幫我們．．．卻又不承認．．．」"
+				"「明明在幫我們．．．卻又不承認。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16582,7 +16537,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「恐怕他的內心也很糾結吧．．．」"
+				"「恐怕他的內心也很糾結吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
@@ -16638,10 +16593,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一邊是自己敬愛的主母、一邊是自己一手帶"
+				"「一邊是自己敬愛的主母、一邊是自己一手"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大的徒兒。」"
+				"帶大的學生。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16653,10 +16608,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他大概也不知道該怎麼面對，所以兩不幫吧"
+				"「他大概也不知道該怎麼面對，所以兩不相幫"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -16668,7 +16623,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是的．．．一定要搞這麼麻煩嗎？」"
+				"「真是的，一定要搞這麼麻煩嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16680,7 +16635,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「罷了，至少他願意幫忙。」"
+				"「我們應該慶幸，至少他願意幫忙。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -16732,10 +16687,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一把鑰匙在\\C[2]餐廳的倉庫\\C[0]．．．"
+				"「一把鑰匙在\\C[2]餐廳的倉庫\\C[0]，一把在\\C[2]客房的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一把在\\C[2]客房的某個魔像\\C[0]上．．．」"
+				"某個魔像\\C[0]上。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16747,7 +16702,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過他還提到了巡邏的護衛．．．」"
+				"「不過他還提到了巡邏的護衛。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -16759,10 +16714,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．畢竟城堡內都是他們的人，隨便"
+				"「嗯，畢竟城堡內都是他們的人，隨便走動"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"走動都會被發現。」"
+				"都會被發現。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
