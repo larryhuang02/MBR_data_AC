@@ -3434,7 +3434,7 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？居然有人類飛的進來！？」"
+				"「嗯？人類？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Nature",
@@ -3446,10 +3446,10 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本座在此不知多少年了，居然還可以看到"
+				"「居然能來到這神之居所，是使用了什麼神奇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人類．．．」"
+				"的道具嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Nature",
@@ -3461,10 +3461,10 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「能夠來到此地．．．看的出來是本領不小的"
+				"「在千年前，也有人類建造高塔想要一窺神的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"人類．．．」"
+				"世界，真是懷念啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Nature",
@@ -3476,7 +3476,52 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「有興趣．．．跟本座交手嗎？」"
+				"「我乃千手之神，宣告汝等吾之名號，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"至高者。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"千手之神"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「神明乃神族之力，能夠來到此地，看的出來"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你們應該是人類中的強者。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"千手之神"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你們來到此處，是為了弒神，或是想從至高者"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的手中獲得何物？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"千手之神"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不論何者，展現你的力量吧。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Load2","volume":90,"pitch":100,"pan":0}
@@ -3585,7 +3630,10 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「有趣有趣！居然有人能夠打贏本座！」"
+				"「有趣有趣！眾志成城，能擊敗本座，真是"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"了不起！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Nature",
@@ -3597,7 +3645,10 @@
 				"千手之神"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「那麼．．．這個獎勵就贈與你們吧．．．」"
+				"「人類中的強者啊，你們已經證明了自己的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"價值，就讓吾傳授你們至高者的祕法吧！」"
 			]},
 			{"code":212,"indent":1,"parameters":[
 				-1,
@@ -3614,7 +3665,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"這是什麼光．．．一股力量湧了進來．．．"
+				"這是什麼光．．．一股力量湧了進來。"
 			]},
 			{"code":212,"indent":1,"parameters":[
 				-1,
