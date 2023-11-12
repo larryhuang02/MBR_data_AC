@@ -2429,7 +2429,7 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯？居然有人類進來了！？」"
+				"「喔？居然有人類來到這。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Nature_MZ",
@@ -2441,7 +2441,25 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「莫非是來挑戰本王？」"
+				"「距離太陽這麼近的地方，對你們人類而言"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"應該很難受吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"太陽之王"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我乃太陽之王，操縱太陽之力，手持日陽之槍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"與聖盾之王？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -2450,7 +2468,34 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這大神．．．感覺不太好惹．．．"
+				"這大神．．．感覺不太好惹。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"太陽之王"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你們是為了太陽之環而來的嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Nature_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"太陽之王"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「是的話，就拔刀吧，讓我看看你們的實力，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"有沒有資格帶走它。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Load2","volume":90,"pitch":100,"pan":0}
@@ -2465,7 +2510,7 @@
 				"小提示："
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"本世界王具有極大的破壞力！沒有完全的準備千萬別貿然"
+				"世界王具有極大的破壞力！沒有完全的準備千萬別貿然"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"挑戰！"
@@ -2565,7 +2610,7 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「居然能打贏本王，厲害～」"
+				"「居然能打贏本王，厲害。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Nature_MZ",
@@ -2577,7 +2622,7 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．看樣子這東西終於可以認主了。」"
+				"「嗯，看樣子這東西終於可以認主了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Nature_MZ",
@@ -2589,7 +2634,7 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「寶藏贈與英雄，相信你們不會埋沒它的！」"
+				"「寶藏贈與勇者，相信你們不會埋沒它的！」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -2637,7 +2682,7 @@
 				"太陽之王"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妥善使用吧。」"
+				"「太陽之環蘊含了太陽的力量，妥善使用吧。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
