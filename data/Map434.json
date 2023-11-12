@@ -14659,18 +14659,6 @@
 				180
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這個是．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				2,
 				0,
@@ -14692,7 +14680,7 @@
 				"\\n[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我們這樣過去．．．會不會有問題？」"
+				"「我們這樣過去，會不會有問題？」"
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -14799,13 +14787,13 @@
 				"\\n[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「除非我被列入通緝名單．．．"
+				"「除非我被列入通緝名單，不然我們的樣子跟"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不然我們的樣子跟異界一般的人民差不多，"
+				"異界一般的人民差不多，只要繳交通行費就可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"只要繳交通行費就可以進去．．．」"
+				"進去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -14817,14 +14805,11 @@
 				"\\n[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「況且就算被通緝．．．剛好趁機打聽情報"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「如果真的被通緝了，我們就另外想辦法。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
-				9,
+				2,
 				0,
 				2
 			]},
@@ -14832,37 +14817,14 @@
 				"\\n[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大不了大鬧一場！最好一路殺進王都！"
+				"「雖然我很擔心母后，但要是想直接闖進去，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"讓神使知道本小姐也不是好惹的！」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				false
-			]},
-			{"code":213,"indent":0,"parameters":[
-				9,
-				8,
-				false
-			]},
-			{"code":213,"indent":0,"parameters":[
-				7,
-				8,
-				false
-			]},
-			{"code":213,"indent":0,"parameters":[
-				8,
-				8,
-				true
+				"搞不好會弄巧成拙。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				8,
+				0,
 				0,
 				2
 			]},
@@ -14870,7 +14832,7 @@
 				"\\n[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是簡單直接的方針啊．．．」"
+				"「嗯，我們隨機應變吧。」"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
@@ -15387,7 +15349,7 @@
 				"佐佐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這好像是．．．」"
+				"「欸！？是．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_General_female",
@@ -15433,10 +15395,7 @@
 				"佐佐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少主．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"瑪姆大人才剛下達最新的命令．．．」"
+				"「少主，瑪姆大人才剛下達最新的命令。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_General_female",
@@ -15460,7 +15419,7 @@
 				"佐佐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「甚至不惜格殺毋論．．．」"
+				"「如果反抗，格殺勿論。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -15477,7 +15436,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是嗎．．．」"
+				"「是嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Wolf","volume":90,"pitch":100,"pan":0}
@@ -15538,10 +15497,10 @@
 				"佑佑"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少主，屬下不希望得罪您，請您束手就擒吧"
+				"「少主，屬下不希望得罪您，請您束手就擒"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -15553,7 +15512,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是嗎？那就來試看看吧！」"
+				"「是嗎？那就試看看吧！」"
 			]},
 			{"code":121,"indent":0,"parameters":[
 				21,
@@ -15701,10 +15660,10 @@
 				"佑佑"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少主，屬下也是奉命行事．．．"
+				"「少主，屬下也是奉命行事，請您見．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"請您見．．．諒．．．」"
+				"諒．．．」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -15756,7 +15715,7 @@
 				"\\C[5]聲音"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「城門口那邊有打鬥聲！」"
+				"「城門口那邊有好像有人鬧事！」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -15804,7 +15763,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不好．．．打鬥聲把其他衛兵引來了！」"
+				"「不好！聲音把其他衛兵引來了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16106,7 +16065,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好險．．．沒有被發現．．．」"
+				"「好險，幸好我們跑得快。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16118,7 +16077,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然那些追兵並非打不過．．．但最好還是"
+				"「雖然那些追兵我們不是打不贏，但最好還是"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"避開無謂的戰鬥。」"
@@ -16252,7 +16211,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「愚蠢．．．」"
+				"「愚蠢。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -16278,7 +16237,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				0,
+				11,
 				0,
 				0
 			]},
@@ -16286,10 +16245,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我只是在想．．．沒能夠一路殺進去，實在"
+				"「我只是在想，沒能夠一路殺進去，實在是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是太可惜了．．．」"
+				"太可惜了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -16301,7 +16260,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這麼愛殺嗎．．．」"
+				"「剛剛不是才說要見機行事？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -16313,10 +16272,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．如果不一路殺進去，恐怕不太好"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"進去了．．．」"
+				"「不過搞成這樣，恐怕不太好進去了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16328,10 +16284,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如如小姐，難道沒有什麼密道通往皇宮的嗎"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"「如如，難道沒有什麼密道可以直通皇宮嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -16343,10 +16296,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是阿．．．我記得中世紀好像都會安排一些"
+				"「是啊，我記得奇幻世界的城堡好像都會安排"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"密道的說．．．」"
+				"一些密道的說。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -16548,7 +16501,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這是．．．信嗎？」"
+				"「這是．．．信？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -16613,7 +16566,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如如．．．怎麼回事？」"
+				"「怎麼回事？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -16630,10 +16583,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「有一封信．．．信裡面有提到．．．"
+				"「有一封信，信裡面有提到．．．可以透過"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可以透過下水道、潛入皇宮的辦法．．．」"
+				"下水道、潛入皇宮的辦法。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -16680,7 +16633,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「想要睡覺就有人送枕頭過來了？？？」"
+				"「想要睡覺就有人送枕頭過來了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -16707,10 +16660,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「慢著．．．如如小姐，這信怎麼來的？是妳"
+				"「慢著，如如，這信怎麼來的？是妳在宮中的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在宮中的朋友幫的忙？」"
+				"朋友幫的忙？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16744,7 +16697,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抱歉，他沒有寫署名．．．」"
+				"「他沒有寫署名。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -16756,7 +16709,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．我相信他，絕對沒問題！」"
+				"「不過，我相信他，絕對沒問題！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				7,
@@ -16773,7 +16726,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒有屬名嗎．．．」"
+				"「沒有屬名嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -16797,7 +16750,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以．．．接下來呢？」"
+				"「所以，我們接下來去找下水道？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -16825,25 +16778,16 @@
 				120
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				2,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"怎麼可能沒有屬名．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"若沒有簽名我豈會隨便相信他．．．"
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
 				2,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但．．．"
+				"怎麼可能沒有屬名，若沒有簽名我怎麼可能"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"隨便相信他。"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -16855,10 +16799,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"謝謝你．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"師傅．．．"
+				"謝謝你，師傅。"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120
@@ -17258,7 +17199,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"先找到下水道入口再說．．．"
+				"先找到下水道入口再說。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17297,7 +17238,7 @@
 				"妖精商人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「姊姊去辦手續，應該不要緊吧．．．」"
+				"「姊姊去辦手續，應該不要緊吧？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17328,10 +17269,10 @@
 				"妖精商人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我沒事，在辦手續時屋外聽到好大的打鬥聲"
+				"「我沒事，在辦手續時屋外聽到好大的打鬥聲，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，不過暴徒被打跑了。」"
+				"不過暴徒被打跑了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17459,10 +17400,10 @@
 				"奇物商人"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「你有興趣？都是很罕見的道具喔！"
+				"「你有興趣？都是很罕見的道具喔！別問我是"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"別問本蛇妖怎麼買到的！這是商人的秘密！」"
+				"怎麼買到的！這是商人的秘密！」"
 			]},
 			{"code":302,"indent":1,"parameters":[
 				0,
@@ -17702,7 +17643,7 @@
 				"老婦人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「與魔物共生的社會，真的有比較好嗎．．．」"
+				"「與魔物共生的社會，真的有比較好嗎？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17761,10 +17702,10 @@
 				"老婦人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真懷念啊，想不到跟老頭居然結婚了50幾年"
+				"「真懷念啊，想不到跟老頭居然結婚了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"50幾年．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17938,10 +17879,10 @@
 				"妖精商人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我沒事，在辦手續時屋外聽到好大的打鬥聲"
+				"「我沒事，在辦手續時屋外聽到好大的打鬥聲，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，不過暴徒被打跑了。」"
+				"不過暴徒被打跑了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
