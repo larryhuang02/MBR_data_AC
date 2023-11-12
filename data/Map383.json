@@ -2425,7 +2425,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「千變萬化～五花八門～變化莫測～」"
+				"「千變萬化～五花八門～變化莫測～鬼出電入"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_MZ",
@@ -2437,55 +2440,7 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在這人跡罕至之處，居然有人類造訪，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"還真是稀客。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「本大仙在這閒雲野鶴，也許久未曾見過外面"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"的風景。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「本大仙最近也嫌這山洞道觀有些無趣，正想"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"出去走走。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「就當作是出山前的運動，你們願意陪本大仙"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"鬆鬆筋骨嗎？」"
+				"「居然有冒險者想挑戰本大仙？放馬過來吧！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Load2","volume":90,"pitch":100,"pan":0}
@@ -2500,7 +2455,7 @@
 				"小提示："
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"世界王具有極特殊的戰鬥模式！沒有完全準備千萬別貿然"
+				"本世界王具有極特殊的戰鬥模式！沒有完全準備千萬別貿然"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"挑戰！"
@@ -2585,10 +2540,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「哈哈哈，痛快，果然不可閉門造車，人類真的"
+				"「本大仙居然輸了．．．人類真的是不能小看"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"是不能小看。」"
+				"。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -2612,7 +2567,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「大仙你這麼厲害，願意助我們一臂之力嗎？」"
+				"「話說大仙願意助我們一臂之力嗎？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -2627,7 +2582,7 @@
 				"「這世界恐怕會遭到另一個勢力的入侵，我們"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"需要更多人的幫助。」"
+				"需要收集各種戰力．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_MZ",
@@ -2639,10 +2594,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這就不了，本大仙自由慣了，不願意被你們"
+				"「不了，本大仙自由慣了，不願意被你們拘束"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"拘束著。」"
+				"著。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_MZ",
@@ -2654,10 +2609,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過，我倒是能給你們些幫助，既然你們都能"
+				"「不過．．．既然你們都能打贏三成功力的我"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"打贏三成功力的我，本仙也應該表示些什麼。」"
+				"，本仙也應該表示些什麼．．．」"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				0,
@@ -2674,13 +2629,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這樣吧，本大仙最擅長元素術法，如果你們"
+				"「這樣吧，如果你們收集了多種元素．．．"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"能收集各種元素，本仙就使用祕法、將多種元素"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"合而為一。」"
+				"本仙就用融合之力、將多種元素合而為一。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_MZ",
@@ -2692,7 +2644,7 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這東西，應該能給你們不少幫助吧？」"
+				"「相信這東西對你們的幫助一定會很大！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -2701,7 +2653,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"代表著多種元素的東西嗎？"
+				"代表著多種元素的東西嗎．．．"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -2750,7 +2702,7 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如何？收集了些什麼要讓我處理嗎？」"
+				"「如何？有什麼可以讓大仙我處理的嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -2759,10 +2711,13 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"多種元素戒指，按照圖書館記載，應該總共"
+				"多種元素戒指．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有八種，不過記得\\C[2]要先脫下來\\C[0]。"
+				"按照圖書館記載，應該有八種戒指．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不過記得\\C[2]要先脫下來\\C[0]．．．"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -2863,7 +2818,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"戒指有缺的樣子。"
+				"戒指有缺的樣子．．．"
 			]},
 			{"code":115,"indent":1,"parameters":[
 			]},
@@ -2883,7 +2838,7 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯？妳說想要把這些戒指融合？」"
+				"「嗯？想要把這些戒指融合？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_07_1",
@@ -2895,22 +2850,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「是的，這些戒指單獨使用都比較侷限，想說"
+				"「是的．．．這些戒指單獨使用都比較侷限，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"大仙有沒有辦法把它們融合呢？」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「呵，妳這小妮子，是在小看本大仙嗎？」"
+				"想說有沒有融合的可能呢？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Monster_MZ",
@@ -2923,21 +2866,6 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「有意思，本仙試看看吧！」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「本大仙千年的道行，要是連這區區戒指都"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"沒辦法處理，那我可無地自處呢。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
@@ -3101,47 +3029,6 @@
 			{"code":230,"indent":1,"parameters":[
 				30
 			]},
-			{"code":244,"indent":1,"parameters":[
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「嗯～這戒指富含著八種元素之力，大仙我"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"很滿意。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Monster_MZ",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"千變妖狐"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「拿去吧，小心使用，千萬別弄丟啦！」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_07_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「謝謝大仙。」"
-			]},
 			{"code":212,"indent":1,"parameters":[
 				1,
 				499,
@@ -3165,6 +3052,35 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"獲得\\na[859]。"
+			]},
+			{"code":244,"indent":1,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Monster_MZ",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"千變妖狐"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「嗯～富含著八種元素之力．．．"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"大仙我很滿意。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Monster_MZ",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"千變妖狐"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「小心使用，千萬別弄丟啦！」"
 			]},
 			{"code":123,"indent":1,"parameters":[
 				"B",
@@ -3197,10 +3113,10 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯～這戒指富含著八種元素之力，大仙我"
+				"「嗯～富含著八種元素之力．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"很滿意。」"
+				"大仙我很滿意。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster_MZ",
@@ -3212,19 +3128,7 @@
 				"千變妖狐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「拿去吧，小心使用，千萬別弄丟啦！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_07_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[7]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「謝謝大仙。」"
+				"「小心使用，千萬別弄丟啦！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

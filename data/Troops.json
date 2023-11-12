@@ -238,13 +238,25 @@
 	{"id":24,"members":[
 		{"enemyId":15,"x":138,"y":379,"hidden":false}
 	],"name":"維皮單挑獸人","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":7,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["BLR_01_1",9,0,0]},
-			{"code":401,"indent":0,"parameters":["\\N[1]"]},
-			{"code":401,"indent":0,"parameters":["「大哥，我們有話好談怎麼樣！？」"]},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":7,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":101,"indent":0,"parameters":["Monster",2,0,0]},
 			{"code":401,"indent":0,"parameters":["獸人"]},
-			{"code":401,"indent":0,"parameters":["「哼，現在求饒晚了！」"]},
+			{"code":401,"indent":0,"parameters":["「嗯？這個軟趴趴的拳頭是什麼？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",8,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[1]"]},
+			{"code":401,"indent":0,"parameters":["「哼！我只是沒吃早餐～是讓你三分而已！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",8,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[1]"]},
+			{"code":401,"indent":0,"parameters":["「再吵．．．讓你見識砂鍋大的拳頭！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":95,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":7,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_01_1",14,1,0]},
+			{"code":401,"indent":0,"parameters":["奇怪．．．這是怎麼回事？"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",14,1,0]},
+			{"code":401,"indent":0,"parameters":["我應該．．．揮出全力了才是．．．"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",14,1,0]},
+			{"code":401,"indent":0,"parameters":["為什麼．．．牠這麼硬？"]},
 			{"code":122,"indent":0,"parameters":[15,15,1,0,1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
@@ -252,8 +264,6 @@
 			{"code":101,"indent":0,"parameters":["Monster",2,0,0]},
 			{"code":401,"indent":0,"parameters":["獸人"]},
 			{"code":401,"indent":0,"parameters":["「我真訝異！你居然有這樣的實力．．．」"]},
-			{"code":101,"indent":0,"parameters":["BLR_01_1",9,1,0]},
-			{"code":401,"indent":0,"parameters":["要命，快不行了．．．"]},
 			{"code":122,"indent":0,"parameters":[15,15,1,0,1]},
 			{"code":121,"indent":0,"parameters":[21,21,0]},
 			{"code":340,"indent":0,"parameters":[]},

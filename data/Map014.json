@@ -2809,7 +2809,7 @@
 				"時空錯亂(峭壁下沒遇到風鈴鈴後)"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -2856,8 +2856,8 @@
 				{"code":25,"indent":null}
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -2907,7 +2907,7 @@
 				"時空錯亂(峭壁下沒遇到風鈴鈴後)"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -2954,8 +2954,8 @@
 				{"code":25,"indent":null}
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -2972,8 +2972,8 @@
 				"發現．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
-				1,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3019,7 +3019,7 @@
 				"$gameSystem._hideSQSQuestArrow = 1;"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3089,7 +3089,7 @@
 				{"code":25,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				1,
 				0,
 				2
@@ -3116,8 +3116,8 @@
 				"的酒，想問問您這邊有沒有多。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3139,8 +3139,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3166,8 +3166,8 @@
 				"的．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3178,8 +3178,8 @@
 				"「呵呵呵，有個妻管嚴也真辛苦．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3205,8 +3205,8 @@
 				"一瓶啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -3233,8 +3233,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3265,8 +3265,8 @@
 				"「怎、怎麼了嗎？這樣盯著我看．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3280,8 +3280,8 @@
 				"你有點不夠意思。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3292,8 +3292,8 @@
 				"「來點好玩的怎麼樣？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3316,8 +3316,8 @@
 				"「好玩的？什麼好玩的？是新遊戲喔？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3340,8 +3340,8 @@
 				"「要幫什麼忙啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				1,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3354,9 +3354,29 @@
 			{"code":401,"indent":0,"parameters":[
 				"在房子外旁建了一個有趣的小機關。」"
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				2,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咦？村長什麼時候有這興趣了？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我居然都不知道？"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3370,8 +3390,8 @@
 				"拿到終點的鑰匙。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3402,8 +3422,8 @@
 				"「突然有種不好的預感．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3434,8 +3454,8 @@
 				"「欸！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3446,7 +3466,7 @@
 				"「快點去吧，別磨蹭了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3497,7 +3517,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"SF_People1","direction":8,"pattern":1,"characterIndex":6},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3549,8 +3569,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				4,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3593,8 +3613,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				4,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3616,8 +3636,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				6,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -3628,8 +3648,8 @@
 				"「喔．．．是攸特剛剛給你的那本書啊．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -3712,7 +3732,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":false,"image":{"tileId":0,"characterName":"SF_People1","direction":8,"pattern":1,"characterIndex":6},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3748,7 +3768,7 @@
 				1
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3784,7 +3804,7 @@
 				"「您好。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -3802,8 +3822,8 @@
 				"方式呀～」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -3840,8 +3860,8 @@
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -3943,6 +3963,41 @@
 			{"code":401,"indent":0,"parameters":[
 				"「沒！我沒事！」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟我是獵戶之子，這等小傷抹點口水"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就好了。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				5,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MainNPCs5",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"村長夫人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「少貧嘴了，雖然你是王媽扶養的，但你的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{心魔\\}，婆婆又豈會不知道？」"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
@@ -3965,6 +4020,30 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"沒用．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「明明．．．明明我都全力的朝牠攻擊了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但總覺得．．．手腳異常的沉重。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				5,
@@ -4039,6 +4118,34 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「也對，我知道了！」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				11,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哼！下次再遇到獸人，我一定要揍掉牠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"三顆黃牙！」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4205,8 +4312,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				5,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -4229,8 +4336,8 @@
 				"「多虧村長奶奶幫我治療，已經不怎麼痛了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4273,7 +4380,7 @@
 				"「那個村長，這位是．．．？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -4344,7 +4451,7 @@
 				"「嚮導？太世山洞？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -4368,8 +4475,8 @@
 				"「距離村子好一段距離的那個山洞．．．？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4383,8 +4490,8 @@
 				"發現深處好像有太古文獻的遺跡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				3,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4410,8 +4517,8 @@
 				"「好朋友？是指攸特大哥嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				4,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4425,8 +4532,8 @@
 				"不少，像煉金術還有機關術等等．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				1,
 				0,
 				2
 			]},
@@ -4457,8 +4564,8 @@
 				"我差點成為爛番茄原來是他害的．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4507,7 +4614,7 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -4561,8 +4668,8 @@
 				"吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				1,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4628,8 +4735,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -4643,8 +4750,8 @@
 				"了，以後別沒事再亂翻人家衣櫃。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				6,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -4655,8 +4762,8 @@
 				"「你有幾條命都不夠死知道嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				2,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
@@ -4687,7 +4794,7 @@
 				"「故作神秘．．．反正我也沒有很感興趣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -4760,8 +4867,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				6,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -4785,7 +4892,7 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
+				"BLR_MainNPCs5",
 				0,
 				0,
 				2
@@ -4985,8 +5092,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				4,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -5035,8 +5142,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				7,
+				"BLR_MainNPCs5",
+				2,
 				0,
 				2
 			]},
@@ -5047,8 +5154,8 @@
 				"「好吧，既然你們都沒關係，那自己小心吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"sf_people1_7a-mv",
-				5,
+				"BLR_MainNPCs5",
+				0,
 				0,
 				2
 			]},
