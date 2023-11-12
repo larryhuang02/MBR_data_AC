@@ -22555,8 +22555,8 @@
 				"SQSM.AddQuest(\"Mouse_chap01\")"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22587,8 +22587,8 @@
 				"「出了什麼事了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22625,8 +22625,8 @@
 				"「拜託，農婦還會怕老鼠．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22850,8 +22850,8 @@
 				"「看吧，就說是小事一樁。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22862,8 +22862,8 @@
 				"「太好了！真是多虧你了！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22874,8 +22874,8 @@
 				"「那隻老鼠實在是好可怕～謝謝你。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22901,7 +22901,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"獲得雞蛋10顆。"
+				"獲得\\ni[256]10顆。"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"Mouse_chap01\", 1);"
@@ -22945,8 +22945,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":304,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22976,8 +22976,8 @@
 				"「對了，聽說馬大叔在找我，妳知道他在哪嗎？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -22999,8 +22999,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":19},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23026,8 +23026,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23050,8 +23050,8 @@
 				"「小蜜阿姨好啊～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23086,8 +23086,8 @@
 				"「如何？最近田活還順利嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23098,8 +23098,8 @@
 				"「嗯．．．就是每天那樣．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23122,8 +23122,8 @@
 				"「辛苦了．．．需要我幫忙嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23160,8 +23160,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -23238,8 +23238,8 @@
 	{"id":15,"name":"村長夫人","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23264,8 +23264,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23294,8 +23294,8 @@
 				"「這怎麼好意思～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23353,8 +23353,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23378,8 +23378,8 @@
 				"時空錯亂(峭壁下沒遇到風鈴鈴後)"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23407,8 +23407,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23426,8 +23426,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23462,8 +23462,8 @@
 				"「這是啥？看起來好危險。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23474,8 +23474,8 @@
 				"「這是一個魔法商人推銷的產品。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -23514,8 +23514,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"C","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":7},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -26328,7 +26328,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"已在\\n[317]登陸情報！"
+				"已在\\c[6]\\ni[317]\\c[0]登陸情報！"
 			]},
 			{"code":121,"indent":2,"parameters":[
 				441,
@@ -31245,8 +31245,8 @@
 				"「呀！有獸人跑來村子了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -31267,8 +31267,8 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -31301,8 +31301,8 @@
 				"「我、我知道了，男丁嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -31411,8 +31411,8 @@
 				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -31423,8 +31423,8 @@
 				"「維、維皮，獸人．．．怎麼辦怎麼辦！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -31565,8 +31565,8 @@
 				4
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -31595,8 +31595,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -31803,8 +31803,8 @@
 				"「他還活著！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -32286,8 +32286,8 @@
 				"站不起來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				5,
+				"BLR_MainNPCs5",
+				4,
 				0,
 				2
 			]},
@@ -32648,8 +32648,8 @@
 				"「哎呀．．．維皮你也太狼狽了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -32678,8 +32678,8 @@
 				"說不定我會看上你喔～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -32757,8 +32757,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -32796,8 +32796,8 @@
 				"「敢欺負我們家維皮，膽子不小啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -32814,8 +32814,8 @@
 				"不討厭～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -32829,8 +32829,8 @@
 				"豎脊肌、腹斜肌．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				14,
 				0,
 				2
 			]},
@@ -32869,8 +32869,8 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -32949,8 +32949,8 @@
 				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -33233,8 +33233,8 @@
 				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -33638,8 +33638,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -33660,8 +33660,8 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -33681,8 +33681,8 @@
 				"\\.．\\.．\\.．\\.．\\.．\\.．\\."
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -33696,8 +33696,8 @@
 				"治療。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				7,
+				"BLR_MainNPCs5",
+				8,
 				0,
 				2
 			]},
@@ -37103,7 +37103,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"已在\\n[317]登陸情報！"
+				"已在\\c[6]\\ni[317]\\c[0]登陸情報！"
 			]},
 			{"code":121,"indent":2,"parameters":[
 				442,

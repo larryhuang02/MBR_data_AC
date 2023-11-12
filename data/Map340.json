@@ -2770,10 +2770,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年，你和這個人認識嗎？他怎麼看起來有"
+				"「少年，你和這個人認識嗎？他怎麼看起來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"點眼熟？」"
+				"有點眼熟？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -2795,7 +2795,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔，他是我一個朋友啦．．．」"
+				"「喔，他是我一個朋友啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -2807,10 +2807,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「朋友？可是我怎麼看他好像對你很憤怒的樣"
+				"「朋友？可是我怎麼看他好像對你很憤怒的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"子？」"
+				"樣子？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -2830,10 +2830,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我之前不小心．．．害到他，所以他現在很"
+				"「我之前不小心．．．害到他，所以他現在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"生氣。」"
+				"很生氣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -2845,7 +2845,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此．．．你要好好跟他道歉才行。」"
+				"「你要好好跟他道歉才行啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -2857,7 +2857,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．我知道啦．．．」"
+				"「嗯，我知道啦。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -2891,7 +2891,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我不是故意的啦！您就大人有大量原諒我吧！」"
+				"「我不是故意的啦！您就大人有大量原諒我"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -2930,10 +2933,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我被那個黑頭髮的一拳打斷了三根肋骨，那"
+				"「我被那個黑頭髮的一拳打斷了三根肋骨，那個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"個藍髮女僕放的光魔法差點要了我的老命。」"
+				"藍髮女僕放的光魔法差點要了我的老命。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				0,
@@ -2950,10 +2953,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我有領教過茶鴦美眉的魔法．．．真的很抱"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"歉．．．」"
+				"「我有領教過茶鴦美眉的魔法，真的很抱歉。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -2985,7 +2985,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼！那次受的傷還沒恢復，現在只好在這裡"
+				"「哼！那次受的傷還沒好，現在只好在這裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"療傷．．．」"
@@ -3000,10 +3000,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且．．．這裡偶爾會有女孩子來洗澡，在"
+				"「而且，這裡偶爾會有女孩子來洗澡，在這裡"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這裡多看一點健康的，傷才會好得比較快啊！」"
+				"多看一點健康的，傷才會好得比較快啊！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -3103,7 +3103,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還是哈瑞大哥，你需要什麼藥，我去找給你。」"
+				"「還是哈瑞大哥，你需要什麼藥，我去"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"找給你。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -3202,7 +3205,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「算你這小子還算有點良心。」"
+				"「算你這小子還有點良心。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -3243,7 +3246,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．」"
+				"「不過。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -3444,7 +3447,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．意外．．．是意外．．．」"
+				"「那個，意外．．．是意外．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3471,7 +3474,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等我醒來時，我已經爬到咖啡廳二樓了．．．」"
+				"「等我醒來時，我已經爬到咖啡廳二樓了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3507,10 +3510,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「結果你這傢伙講那麼好聽．．．還不是沒辦"
+				"「結果你這傢伙講那麼好聽，還不是沒辦法"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"法放棄．．．」"
+				"放棄。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -3527,7 +3530,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊哈．．．對不起．．．」"
+				"「啊哈．．．對不起。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -3795,10 +3798,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「最近我和認識的冒險者交換情報的時候發現"
+				"「最近我和認識的冒險者交換情報的時候發現，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，那把刀可不是什麼凡品！」"
+				"那把刀可不是什麼凡品！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -3825,10 +3828,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是這個意思，我說的是，那把刀．．．它"
+				"「不是這個意思，我說的是，那把刀．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還可以變得更強。」"
+				"它還可以變得更強。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -3875,7 +3878,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「陳杰那傢伙之前告訴我，這把刀是一把魔刀。」"
+				"「陳杰那傢伙之前告訴我，這把刀是一把"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔刀。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
@@ -4001,10 +4007,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「尤其是對女性的\\C[2]丁字褲\\C[0]．．．特別情有獨鍾"
+				"「尤其是對女性的\\C[2]丁字褲\\C[0]特別情有獨鍾，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．是一把色色的魔刀對吧？」"
+				"是一把色色的魔刀對吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4016,10 +4022,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這什麼怪刀啊！？居然要用女用內衣褲去摩"
+				"「這什麼怪刀啊！？居然要用女用內衣褲去"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"擦它．．．」"
+				"摩擦它．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4031,10 +4037,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小子．．．你身上．．．這些好貨應該不少"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"吧？」"
+				"「小子，你身上這些好東西應該不少吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4046,7 +4049,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哪有．．．」"
+				"「哪有。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4058,10 +4061,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了，別裝了，否則咱們『風流偷香賊』流"
+				"「好了，別裝了，否則咱們『風流偷香賊』"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"派，可要沒落了。」"
+				"流派，可要沒落了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -4078,7 +4081,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"那是什麼鬼．．．而且我也沒說要加入吧？"
+				"那是什麼鬼？而且我也沒說要加入吧？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4093,7 +4096,7 @@
 				"「這把魔刀也是很挑的，什麼剛拆封的內褲、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"老太婆的內衣什麼的它可是不要的。」"
+				"老太婆的內衣什麼的它可看不上眼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4105,10 +4108,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我等下幫你看看，你身上有沒有可用的材料"
+				"「我等下幫你看看，你身上有沒有可用的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4363,10 +4366,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「沒有．．．你身上的這些普通貨色．．．這"
+				"「沒有，你身上的這些普通貨色，這把刀都"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"把刀都不感興趣。」"
+				"不感興趣。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -4398,10 +4401,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．它酷愛丁字褲．．．而且還不是"
+				"「嗯．．．它酷愛丁字褲，而且還不是一般"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"一般村女村婦用的那種．．．」"
+				"村女村婦用的那種。」"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				2,
@@ -4423,10 +4426,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我有個小道消息．．．有一個\\C[2]紅髮貴族敗類\\C[0]，"
+				"「我有個小道消息，有一個\\C[2]叫做妖修的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"似乎有收集這種東西的癖好．．．」"
+				"紅髮貴族敗類\\C[0]，似乎有收集這種東西的癖好。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs",
@@ -4441,10 +4444,10 @@
 				"「只是他偽裝的很好，給人只有花天酒地外加"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"跟\\C[2]一群混混打手\\C[0]鬼混的負面感，不太會讓人聯"
+				"跟\\C[2]一群混混打手\\C[0]鬼混的負面印象，所以不太有人"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"想到這方面。」"
+				"猜的到他有這種特殊癖好。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs",
@@ -4502,7 +4505,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．小子．．．」"
+				"「不過．．．小子。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4514,7 +4517,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請前輩幫忙．．．不表示些什麼？」"
+				"「請前輩幫忙，不表示些什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4526,7 +4529,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．所以哈瑞哥是要錢嗎？」"
+				"「呃，所以哈瑞哥是要錢嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs",
@@ -4828,10 +4831,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「雖然沒有任何花俏的花紋，看起來有點樸素"
+				"「雖然沒有任何花俏的花紋，看起來有點"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"樸素．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -4843,10 +4846,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不過，嗯～這股香味．．．還有這個尺寸"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"「不過，嗯～這股香味，還有這個尺寸．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -4885,10 +4885,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「那時候我還只是個小屁孩而已，喜歡上隔壁"
+				"「那時候我還只是個小屁孩而已，喜歡上隔壁的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"的鄰居大姐姐。」"
+				"鄰居大姐姐。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -4900,10 +4900,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「只可惜啊，被她發現我把她的內褲戴在頭上"
+				"「只可惜啊，被她發現我把她的內褲戴在頭上，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"我就被一輩子禁止去她家玩了。」"
+				"就被一輩子禁止去她家玩了。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -4956,10 +4956,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「哈哈，你給我的這件不錯喔，老子就幫你處"
+				"「哈哈，你給我的這件不錯喔，老子就幫你處理"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"理這把刀吧。」"
+				"這把刀吧。」"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -4975,7 +4975,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -5041,10 +5041,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你居然敢給我這種，乳臭未乾小鬼頭的內衣"
+				"「你居然敢給我這種，乳臭未乾小鬼頭的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"內衣！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -5083,10 +5083,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「成年女子有成年女子的韻味，小孩子也有小"
+				"「成年女子有成年女子的韻味，小孩子也有"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"孩子的醍醐味。」"
+				"小孩子的醍醐味。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5128,10 +5128,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你想像一下，胸前那個貓咪開口，要是給巨"
+				"「你想像一下，胸前那個貓咪開口，要是給"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"乳娘穿的話，你把手伸進去那叫天堂啊。」"
+				"巨乳娘穿的話，你把手伸進去那才叫天堂啊。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5158,10 +5158,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你其他朋友？是會被銬起來的那種朋友，還"
+				"「你其他朋友？是會被銬起來的那種朋友，還是"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"是已經在王都監牢裡面過得很舒服的朋友？」"
+				"已經在王都監牢裡面過得很舒服的朋友？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5188,10 +5188,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你給我的這件不錯喔，老子就幫你處理這把"
+				"「你給我的這件不錯喔，老子就幫你處理這把刀"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"刀吧。」"
+				"吧。」"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -5207,7 +5207,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -5276,7 +5276,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「幹、幹嗎這麼驚訝？」"
+				"「幹、幹嘛這麼驚訝？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5288,10 +5288,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我第一次看到．．．這麼乾淨．．．純潔無"
+				"「我第一次看到，這麼乾淨．．．純潔無瑕的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"瑕的內褲．．．」"
+				"內褲．．．」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -5323,10 +5323,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「普通的內褲．．．或多或少都會沾有一點分"
+				"「普通的內褲，或多或少都會沾有一點分泌物"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"泌物或是排泄物．．．」"
+				"或是排泄物．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5338,10 +5338,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「這些東西如果沒有洗乾淨，很容易沉澱在內"
+				"「這些東西如果沒有洗乾淨，很容易沉澱在內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"褲裡面變成頑垢．．．」"
+				"裡面變成頑垢．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5356,7 +5356,7 @@
 				"「如果比較不拘小節的女性，她用的內褲甚至"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"還有可能沾點洗不乾淨的血漬．．．」"
+				"還有可能沾點洗不乾淨的血漬。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5368,10 +5368,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「它整體的設計給人一種純潔無瑕的無垢感"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"「它整體的設計給人一種純潔無瑕的無垢感。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5383,10 +5380,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不是全新品這麼簡單．．．它具有用過的痕跡"
+				"「不是全新品這麼簡單．．．它有用過的痕跡，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"，更難能可貴的是，沒有在上面留下一點髒污！」"
+				"更難能可貴的是，沒有在上面留下一點髒污！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5398,10 +5395,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「這條內褲．．．甚至可以說是．．．女神的"
+				"「這條內褲，甚至可以說是．．．女神的內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"內褲也不為過！」"
+				"也不為過！」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -5433,10 +5430,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「世界上居然還有如此純潔的內褲．．．我哈"
+				"「世界上居然還有如此純潔的內褲．．．"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"瑞．．．果然還是見識太淺薄了！」"
+				"我哈瑞，果然還是見識太淺薄了！」"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				2,
@@ -5495,7 +5492,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -5575,10 +5572,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我可是內心掙扎了很久，才把我最中意的內"
+				"「我可是內心掙扎了很久，才把我最中意的內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"褲給你，你可不要辜負我啊！哈瑞哥。」"
+				"給你，你可不要辜負我啊！哈瑞哥。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -5598,10 +5595,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「臭小子，我當然知道，老子剛剛只是太震驚"
+				"「臭小子，我當然知道，老子剛剛只是太震驚了"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"了而已，沒有想要佔你便宜。」"
+				"而已，沒有想要佔你便宜。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5613,7 +5610,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我從未見過如此下流無恥又如此糟糕的內褲！」"
+				"「我從未見過如此下流無恥又糟糕的內褲！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -5687,10 +5684,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「最糟糕最糟糕，也只是偷一些尋常的未洗衣"
+				"「最糟糕最糟糕，也只是偷一些尋常的未洗衣物"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"物而已。」"
+				"而已。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5702,10 +5699,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「但是這件內褲！它．．．不但是做那檔事才"
+				"「但是這件內褲！它．．．不但是做那檔事才會"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"會穿上的決勝內褲。」"
+				"穿上的決勝內褲。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5749,7 +5746,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「而且他長那樣．．．應該很容易騙到內褲吧？」"
+				"「嗯．．．他長那樣，應該很容易騙到內褲"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"吧？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -5819,10 +5819,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「自己體會吧，小子，我可不想讓這款遊戲變"
+				"「自己體會吧，小子，我可不想讓這款遊戲變成"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"成兒少不宜的遊戲。」"
+				"兒少不宜的遊戲。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -5879,7 +5879,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -5906,10 +5906,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「罷了．．．你身上也沒幾件，免費幫你．．．"
+				"「罷了，你身上也沒幾件，免費幫你，不跟你"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"不跟你計較了。」"
+				"計較了。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -6259,7 +6259,7 @@
 				"「真是骯髒的刀．．．這個鬼點子到底是誰想"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的．．．」"
+				"的？」"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				42,
@@ -6448,7 +6448,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「我的天啊！？你是從哪裡找到這種東西的！？」"
+				"「我的天啊！？你是從哪裡找到這種東西"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"的！？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -6460,10 +6463,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「就．．．打倒一個骷髏頭的海盜船長，它藏"
+				"「就．．．打倒一個骷髏頭的海盜船長，它藏在"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"在懷裡的東西。」"
+				"懷裡的東西。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -6475,7 +6478,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「我想說跟你形容的東西很像就拿來給你看看。」"
+				"「我想說跟你形容的東西很像就拿來給你"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"看看。」"
 			]},
 			{"code":213,"indent":2,"parameters":[
 				0,
@@ -6492,10 +6498,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「就是它沒錯，你終於找到可以完全激發那把"
+				"「就是它沒錯，你終於找到可以完全激發那把刀"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"刀全部潛力的東西了！」"
+				"全部潛力的東西了！」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_MainNPCs",
@@ -6536,10 +6542,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你別說了，你不覺得我身後有幾道非常銳利"
+				"「你別說了，你不覺得我身後有幾道非常銳利的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"的視線嗎？」"
+				"視線嗎？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -6551,10 +6557,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你知道我為了說服我的夥伴們留下這件生理"
+				"「你知道我為了說服我的夥伴們留下這件"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"褲，費了多大的力氣嗎？」"
+				"生理褲，費了多大的力氣嗎？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -6566,10 +6572,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「他們都當我是心理變態！要不是為了這把色"
+				"「他們都當我是心理變態！要不是為了這把"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"鬼刀．．．」"
+				"色鬼刀．．．」"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				-1,
@@ -6613,7 +6619,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「達令．．．雖然人家很想相信你，但是．．．」"
+				"「達令，雖然人家很想相信你，但是．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_07_1",
@@ -6637,10 +6643,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「放心吧少年，大哥從來沒懷疑過你，唯一懷"
+				"「放心吧少年，大哥從來沒懷疑過你，唯一"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"疑過的只有你的性向而已。」"
+				"懷疑過的只有你的性向而已。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_11_01",
@@ -6728,7 +6734,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「老樣子，再給我一條那些可愛女僕的內褲吧。」"
+				"「老樣子，再給我一條那些可愛女僕的內褲"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"吧。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -6805,7 +6814,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不過要找到能幫你的人就不知道要搞多久了。」"
+				"「不過要找到能幫你的人就不知道要搞多久"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"了。」"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				-1,
@@ -6822,7 +6834,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「可．．．可惡！好啦！成交！」"
+				"「可、可惡！好啦！成交！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -6849,7 +6861,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「好啦好啦！是我對不起你，但是不准再要囉！」"
+				"「好啦好啦！是我對不起你，但是不准再要"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"囉！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -6961,7 +6976,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「呃．．．我好像把它賣了．．．」"
+				"「呃．．．我好像把它賣了。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -7036,10 +7051,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「好奇問一下，這詭異的刀．．．就愛丁字褲"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"嗎？」"
+				"「好奇問一下，這詭異的色刀就愛丁字褲嗎？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs",
@@ -7051,10 +7063,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「其實不光丁字褲，如果有更沒有下限的東西"
+				"「其實不光丁字褲，如果有更沒有下限的東西，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"，聽說會再更進化。」"
+				"聽說會再更進化。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_MainNPCs",
@@ -7066,10 +7078,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「例如帶有血的更好，可以完全的強化這把刀"
+				"「例如帶有血的更好，可以完全的強化"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"．．．」"
+				"這把刀．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -7078,10 +7090,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"最後一句話讓我感覺很不妙．．．似乎是很糟"
+				"最後一句話讓我感覺很不妙．．．似乎是很糟糕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"糕的東西．．．"
+				"的東西？"
 			]},
 			{"code":123,"indent":1,"parameters":[
 				"A",
@@ -7132,7 +7144,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「刀呢？\\nw[19]去哪了？」"
+				"「刀呢？\\nw[20]去哪了？」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -7152,7 +7164,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「呃．．．我好像把它賣了．．．」"
+				"「呃．．．我好像把它賣了。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -7241,7 +7253,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「呃．．．我好像把它賣了．．．」"
+				"「呃．．．我好像把它賣了。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -7442,10 +7454,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「雖然沒有任何花俏的花紋，看起來有點樸素"
+				"「雖然沒有任何花俏的花紋，看起來有點"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"樸素．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7457,10 +7469,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不過，嗯～這股香味．．．還有這個尺寸"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"「不過，嗯～這股香味，還有這個尺寸．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7499,10 +7508,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「那時候我還只是個小屁孩而已，喜歡上隔壁"
+				"「那時候我還只是個小屁孩而已，喜歡上隔壁的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"的鄰居大姐姐。」"
+				"鄰居大姐姐。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7514,10 +7523,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「只可惜啊，被她發現我把她的內褲戴在頭上"
+				"「只可惜啊，被她發現我把她的內褲戴在頭上，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"我就被一輩子禁止去她家玩了。」"
+				"就被一輩子禁止去她家玩了。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -7570,10 +7579,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「哈哈，你給我的這件不錯喔，老子就幫你處"
+				"「哈哈，你給我的這件不錯喔，老子就幫你處理"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"理這把刀吧。」"
+				"這把刀吧。」"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -7589,7 +7598,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -7655,10 +7664,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你居然敢給我這種，乳臭未乾小鬼頭的內衣"
+				"「你居然敢給我這種，乳臭未乾小鬼頭的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"內衣！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -7697,10 +7706,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「成年女子有成年女子的韻味，小孩子也有小"
+				"「成年女子有成年女子的韻味，小孩子也有"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"孩子的醍醐味。」"
+				"小孩子的醍醐味。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7742,10 +7751,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你想像一下，胸前那個貓咪開口，要是給巨"
+				"「你想像一下，胸前那個貓咪開口，要是給"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"乳娘穿的話，你把手伸進去那叫天堂啊。」"
+				"巨乳娘穿的話，你把手伸進去那才叫天堂啊。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7772,10 +7781,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你其他朋友？是會被銬起來的那種朋友，還"
+				"「你其他朋友？是會被銬起來的那種朋友，還是"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"是已經在王都監牢裡面過得很舒服的朋友？」"
+				"已經在王都監牢裡面過得很舒服的朋友？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7802,10 +7811,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你給我的這件不錯喔，老子就幫你處理這把"
+				"「你給我的這件不錯喔，老子就幫你處理這把刀"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"刀吧。」"
+				"吧。」"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -7821,7 +7830,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -7890,7 +7899,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「幹、幹嗎這麼驚訝？」"
+				"「幹、幹嘛這麼驚訝？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7902,10 +7911,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我第一次看到．．．這麼乾淨．．．純潔無"
+				"「我第一次看到，這麼乾淨．．．純潔無瑕的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"瑕的內褲．．．」"
+				"內褲．．．」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -7937,10 +7946,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「普通的內褲．．．或多或少都會沾有一點分"
+				"「普通的內褲，或多或少都會沾有一點分泌物"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"泌物或是排泄物．．．」"
+				"或是排泄物．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7952,10 +7961,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「這些東西如果沒有洗乾淨，很容易沉澱在內"
+				"「這些東西如果沒有洗乾淨，很容易沉澱在內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"褲裡面變成頑垢．．．」"
+				"裡面變成頑垢．．．」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7970,7 +7979,7 @@
 				"「如果比較不拘小節的女性，她用的內褲甚至"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"還有可能沾點洗不乾淨的血漬．．．」"
+				"還有可能沾點洗不乾淨的血漬。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7982,10 +7991,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「它整體的設計給人一種純潔無瑕的無垢感"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"．．．」"
+				"「它整體的設計給人一種純潔無瑕的無垢感。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -7997,10 +8003,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不是全新品這麼簡單．．．它具有用過的痕跡"
+				"「不是全新品這麼簡單．．．它有用過的痕跡，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"，更難能可貴的是，沒有在上面留下一點髒污！」"
+				"更難能可貴的是，沒有在上面留下一點髒污！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -8012,10 +8018,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「這條內褲．．．甚至可以說是．．．女神的"
+				"「這條內褲，甚至可以說是．．．女神的內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"內褲也不為過！」"
+				"也不為過！」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8047,10 +8053,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「世界上居然還有如此純潔的內褲．．．我哈"
+				"「世界上居然還有如此純潔的內褲．．．"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"瑞．．．果然還是見識太淺薄了！」"
+				"我哈瑞，果然還是見識太淺薄了！」"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				2,
@@ -8109,7 +8115,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -8189,10 +8195,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我可是內心掙扎了很久，才把我最中意的內"
+				"「我可是內心掙扎了很久，才把我最中意的內褲"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"褲給你，你可不要辜負我啊！哈瑞哥。」"
+				"給你，你可不要辜負我啊！哈瑞哥。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -8212,10 +8218,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「臭小子，我當然知道，老子剛剛只是太震驚"
+				"「臭小子，我當然知道，老子剛剛只是太震驚了"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"了而已，沒有想要佔你便宜。」"
+				"而已，沒有想要佔你便宜。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -8227,7 +8233,7 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「我從未見過如此下流無恥又如此糟糕的內褲！」"
+				"「我從未見過如此下流無恥又糟糕的內褲！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -8301,10 +8307,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「最糟糕最糟糕，也只是偷一些尋常的未洗衣"
+				"「最糟糕最糟糕，也只是偷一些尋常的未洗衣物"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"物而已。」"
+				"而已。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -8316,10 +8322,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「但是這件內褲！它．．．不但是做那檔事才"
+				"「但是這件內褲！它．．．不但是做那檔事才會"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"會穿上的決勝內褲。」"
+				"穿上的決勝內褲。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -8363,7 +8369,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「而且他長那樣．．．應該很容易騙到內褲吧？」"
+				"「嗯．．．他長那樣，應該很容易騙到內褲"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"吧？」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_MainNPCs",
@@ -8433,10 +8442,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「自己體會吧，小子，我可不想讓這款遊戲變"
+				"「自己體會吧，小子，我可不想讓這款遊戲變成"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"成兒少不宜的遊戲。」"
+				"兒少不宜的遊戲。」"
 			]},
 			{"code":250,"indent":3,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -8493,7 +8502,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"包包內沒有這件．．．"
+				"包包內沒有這件。"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"underwear"
@@ -8625,10 +8634,7 @@
 				"\\n[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年．．．說實話大哥站在旁邊看也有點"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「少年，說實話大哥站在旁邊看也有點．．．」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -8903,7 +8909,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得\\nw[20]。"
+				"獲得\\nw[21]。"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -9050,10 +9056,13 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家也有感受到，想不到這泉水魔法力這麼"
+				"「人家也有感受到，想不到這泉水蘊含的魔力"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"強，居然不會魔法的維皮哥哥也能感受到。」"
+				"這麼強，居然連不會魔法的維皮哥哥也感覺得"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"到。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -9080,10 +9089,13 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「據說這泉水能夠將金屬製品復原，不論是變"
+				"「據說這泉水能夠將金屬製品復原，不論是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的有多糟糕的劍，都可以用這個泉水復原。」"
+				"鏽蝕得有多糟糕的武器，都可以用這個泉水"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"復原。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
@@ -9102,10 +9114,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"金屬製品．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"背包內有什麼特別的武器或裝備．．．"
+				"金屬製品？背包內有什麼特別的武器或裝備，"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"可以嘗試看看的嗎？"
@@ -9313,10 +9322,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"金屬製品．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"背包內有什麼特別的武器或裝備．．．"
+				"金屬製品？背包內有什麼特別的武器或裝備，"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"可以嘗試看看的嗎？"
@@ -9422,10 +9428,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「你什麼時候懂鍛造了，大哥居然不知道．．．"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"」"
+				"「你什麼時候懂鍛造了，大哥居然不知道。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",

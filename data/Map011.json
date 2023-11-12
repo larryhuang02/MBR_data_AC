@@ -2401,8 +2401,8 @@
 	{"id":2,"name":"櫃台小姐","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":3},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				12,
 				0,
 				2
 			]},
@@ -2451,8 +2451,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":19},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":3},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				12,
 				0,
 				2
 			]},
@@ -2501,8 +2501,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":3},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -2528,8 +2528,8 @@
 				"「怎麼可能，我在外面可是呼風喚雨的呢！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				15,
 				0,
 				2
 			]},
@@ -2719,8 +2719,8 @@
 				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				13,
 				0,
 				2
 			]},
@@ -2895,8 +2895,8 @@
 				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				13,
 				0,
 				2
 			]},
@@ -2968,8 +2968,8 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				12,
 				0,
 				2
 			]},
@@ -3027,8 +3027,8 @@
 				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				3,
+				"BLR_MainNPCs5",
+				13,
 				0,
 				2
 			]},
@@ -3335,7 +3335,7 @@
 				"「咦？難道你是．．．之前闖進村裡的那隻"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獸人？我以為你被做成獸人鞭了呢！」"
+				"獸人？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Monster",

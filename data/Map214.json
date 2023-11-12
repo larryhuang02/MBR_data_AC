@@ -3923,7 +3923,10 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這位勇士，你已經報名了比賽，現在出去視同棄權喔．．．」"
+				"「這位先生，你已經報名了比賽，現在出去"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"視同棄權喔。」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -6365,7 +6368,7 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「最後一隊伍了．．．沒有對手資訊！」"
+				"「最後一個隊伍了．．．沒有對手資訊！」"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"home"
@@ -6421,7 +6424,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．這是發生什麼事情了？」"
+				"「這．．．為什麼一個人也沒有？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_rabbitgirl",
@@ -6433,7 +6436,7 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．沒想到他們4人居然都沒到場．．．」"
+				"「呃．．．沒想到他們四個人居然都沒到場。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_rabbitgirl",
@@ -6445,7 +6448,7 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只給我留下一張菜單．．．實在是．．．」"
+				"「只給我留下一張菜單，實在是．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6466,10 +6469,10 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之．．．對方棄權，這場最後的比賽就判"
+				"「總之，對方棄權了，這場最後的比賽就判"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你們獲勝．．．」"
+				"你們獲勝。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_rabbitgirl",
@@ -6520,7 +6523,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等等．．．美女，我不接受這種結果。」"
+				"「等等，美女，我不能接受這種結果。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6559,7 +6562,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你知道對手4人去哪了嗎？」"
+				"「妳知道我們的對手人去哪了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_rabbitgirl",
@@ -6571,7 +6574,7 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只有留一張菜單．．．其他訊息都沒留下」"
+				"「他們只有留一張菜單，其他訊息都沒留下。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6618,7 +6621,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那間．．．好像是\\C[3]王都\\C[2]南街區\\C[0]新開的"
+				"「那間店，我記得好像是\\C[3]王都\\C[2]南街區\\C[0]新開的"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"麵館．．．」"
@@ -6872,7 +6875,7 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「最後一隊伍了．．．沒有對手資訊！」"
+				"「最後一個隊伍了．．．沒有對手資訊！」"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"home"
@@ -6970,7 +6973,10 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇！已經沒有其他對手了，你們實在太厲害了。」"
+				"「哇！已經沒有其他對手了，你們實在太厲害"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_rabbitgirl",
@@ -6982,7 +6988,10 @@
 				"櫃台女郎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「挑戰獲得的獎品，希望對冠軍大大們有所幫助喔！」"
+				"「挑戰獲得的獎品，希望對冠軍大大們"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"有所幫助喔！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

@@ -6112,10 +6112,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「歡迎來到第4屆鎧家麵線大胃王大賽，"
+				"「歡迎來到第四屆鎧家麵線大胃王大賽，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我是主播店員A。」"
+				"我是臨時招聘的賽報主播店員A。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				27,
@@ -6184,7 +6184,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇．．．好可愛的評審。」"
+				"「哇，好可愛的評審。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -6264,13 +6264,13 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為一直存在著內定的疑雲．．．"
+				"「因為據說鎧家麵線一直存在著大衛王比賽"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"睽違已久的鎧家麵線大胃王比賽終於"
+				"的內定疑雲，我在卡姆城也有所耳聞，店長"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"再次開始．．．」"
+				"鎧特為了證明自己的清白。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Evil",
@@ -6282,7 +6282,22 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那麼．．．讓我們依序介紹參賽者吧！」"
+				"「決定在王都重新出發，再次舉辦了睽違已久"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的鎧家麵線大胃王比賽。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Evil",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"店員A"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那麼，讓我們依序介紹參賽者吧！」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"變數21=時間(幀數)"
@@ -6317,10 +6332,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「首先是第一位選手．．．"
+				"「首先是第一位選手，卡姆城大胃王協會的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"卡姆城大胃王協會的明星選手，路人甲。」"
+				"明星選手，路人甲！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Sailors",
@@ -6344,10 +6359,10 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大家可能不知道，前陣子在我的故鄉卡姆城"
+				"「大家可能不知道，前陣子在我的故鄉卡姆城，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，也舉辦過了一場大胃王比賽。」"
+				"也舉辦過了一場大胃王比賽。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				8,
@@ -6363,13 +6378,22 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「但很不幸的．．．我輸了。"
+				"「但很不幸的．．．我輸了。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Sailors",
+				2,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"但經歷上次卡姆城的失敗之後．．．我又進行"
+				"路人甲"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"了地獄式死亡特訓。」"
+				"「但經歷上次卡姆城的失敗之後，我痛定思痛，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"進行了地獄式死亡特訓。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Recolor_Sailors",
@@ -6434,10 +6458,13 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當聽到重辦比賽時，他可是馬不停蹄．．．"
+				"「當聽到要舉辦鎧家麵線大衛王比賽時，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"立刻按下M鈕輸入座標直接飛來我們這參加。」"
+				"他可是馬不停蹄，立刻按下M鈕輸入座標直接"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"飛來我們這參加。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Sailors",
@@ -6469,10 +6496,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"啥鬼！？那不是debug模式的功能嗎？"
+				"啥鬼？那不是debug模式的功能嗎？你是怎麼"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你是怎麼使用的！！？？"
+				"使用的！？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_01",
@@ -6531,10 +6558,10 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「路人甲的風格是屬於穩紮穩打，"
+				"「路人甲的大胃王風格是屬於穩紮穩打，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"用熟練的\\C[2]0.8秒吃一盤\\C[0]吃法稱霸卡姆城，"
+				"用熟練的\\C[2]0.8秒吃一盤的\\C[0]吃法稱霸卡姆城，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"最近學會的超級大胃王藍也是不可小覷。」"
@@ -6549,10 +6576,10 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過似乎是練習過度．．．導致\\C[2]胃容量有"
+				"「不過他似乎是練習過度，導致\\C[2]胃容量容易"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上限\\C[0]，希望不會對他的參賽造成負擔．．．」"
+				"抵達上限\\C[0]，希望不會對他的參賽造成負擔。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Evil",
@@ -6648,7 +6675,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"怎麼變成智障了？？？"
+				"怎麼變成智障了？"
 			]},
 			{"code":244,"indent":1,"parameters":[
 			]},
@@ -6685,7 +6712,7 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「呃．．．這位選手好像出了點意外．．．」"
+				"「呃．．．這位選手好像出了點意外。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"1lee",
@@ -6697,10 +6724,13 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這我調查到．．．聽說這選手參賽前被兩隻"
+				"「關於這個．．．前幾天我調查到，聽說"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"母猩猩襲擊了．．．」"
+				"毅茶祀選手參賽前，為了店裡的營收，被王都"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"有名的兩位肌肉貴婦襲擊了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"1lee",
@@ -6712,7 +6742,7 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「才讓他現在變成腦死狀態．．．」"
+				"「才讓他現在變成腦死狀態。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid04",
@@ -6725,6 +6755,57 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「．．．」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid05",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"茶鴦"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「是不是不應該把哥哥推來參加比賽啊？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid02",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"夢"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「讓茶祀在家好好休息會不會比較好呢？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid03",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"潼恩"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「可是我們都答應人家了，放鴿子很失禮吧？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"雪葉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「還不都怪你們，沒事把神秘女僕裝寫上去，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"也不知道那個笨蛋什麼時候會清醒。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -6804,13 +6885,19 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"我怎麼來參加這種活動了，"
+				"我又吃的不多，幹嘛來參加這種活動？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid04",
+				2,
+				1,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"要不是鎧特答應我會煮黃金蛇龍麵幫助我"
+				"要不是鎧特答應我用蛇肉當藥引，煮黃金蛇龍麵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"重振雄風，我才不想來參加呢。"
+				"幫助我重振雄風，我才不想來參加呢。"
 			]},
 			{"code":108,"indent":1,"parameters":[
 				"變數21=時間(幀數)"
@@ -6836,6 +6923,57 @@
 				258
 			]},
 			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid05",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"茶鴦"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「哥哥！加油加油喔！贏了的話晚上我幫你"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"搥背。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid02",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"夢"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「茶祀！加油！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid03",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"潼恩"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「可不要丟我們的臉啊，至少給我吃二十份。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_SaintessMaid01",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"雪葉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「為了你下半身的幸福，好好努力吧。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"1lee",
 				1,
 				0,
@@ -6848,10 +6986,10 @@
 				"「毅茶祀選手曾在某次飲酒大賽中創下一分鐘"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"喝下46杯米酒的大紀錄，其聖痕技能御子天星"
+				"喝下46杯精靈酒的大紀錄，並且據說擁有神奇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"能在\\C[2]一瞬間吃掉一整桌食物\\C[0]。」"
+				"的能力能在\\C[2]一瞬間吃掉一整桌食物\\C[0]。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"1lee",
@@ -6863,10 +7001,10 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「同樣也是這次比賽的奪冠熱門，"
+				"「同樣也是這次比賽的奪冠熱門，不知道能不能"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"不知道能不能扳倒大賽三連霸的綾瀨選手。」"
+				"扳倒大賽三連霸的綾瀨選手。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Evil",
@@ -6878,10 +7016,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「哇，這次比賽真的呈現亂戰狀態，"
+				"「哇，這次比賽真的呈現亂戰狀態，無論是誰贏"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"無論是誰贏都不奇怪呢。」"
+				"都不奇怪呢。」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -6924,10 +7062,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「現在看到是這場大賽的黑馬，擊倒了女魔頭，"
+				"「現在看到是這場大賽的黑馬，擊倒了襲擊王都"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"阻止王都被毀滅．．．」"
+				"的魔女阻止王都被毀滅。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Evil",
@@ -6954,10 +7092,10 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「大家好，我是\\n[1]，我會打倒綾瀨"
+				"「大家好，我是\\n[1]，我會打倒綾瀨成為"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"成為這屆冠軍的。」"
+				"這屆冠軍的。」"
 			]},
 			{"code":108,"indent":1,"parameters":[
 				"變數21=時間(幀數)"
@@ -7067,10 +7205,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「現在看到是這場大賽的黑馬，擊倒了女魔頭，"
+				"「現在看到是這場大賽的黑馬，擊倒了襲擊王都"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"阻止王都被毀滅．．．」"
+				"的魔女阻止王都被毀滅。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Evil",
@@ -7149,7 +7287,7 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「那麼．．．大家掌聲歡迎他吧！」"
+				"「那麼，大家掌聲歡迎他！」"
 			]},
 			{"code":243,"indent":1,"parameters":[
 			]},
@@ -7212,10 +7350,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「唉呀，維皮選手的加油團還沒到場嗎？沒想"
+				"「唉呀，維皮選手的加油團還沒到場嗎？沒想到"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"到維皮選手是孤身一人到場。」"
+				"維皮選手是孤身一人到場。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Evil",
@@ -7230,7 +7368,7 @@
 				"「單身三十年練成的邊緣立場，人越少越強的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"被動技能．．．」"
+				"被動技能？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Evil",
@@ -7531,7 +7669,7 @@
 				"鎧特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少少的吃一點．．．」"
+				"「少少的吃一點？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -7543,7 +7681,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「完全不想理她．．．」"
+				"「完全不想理她。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"伊爾絲",
@@ -7555,7 +7693,7 @@
 				"伊爾絲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「比賽似乎快要開始了．．．」"
+				"「比賽似乎快要開始了。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -7816,7 +7954,22 @@
 				"鎧特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「神啊～再多給我一點時間吧．．．」"
+				"「每次辦這個活動都忙的要死，可是為了洗刷"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"汙名又不能不辦。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"鎧特",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鎧特"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「神啊～再多給我一點時間吧！」"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"變數21=時間(幀數)"
@@ -7851,10 +8004,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好的，我們工作人員非常忙碌，"
+				"「好的，我們工作人員非常忙碌，看得出來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"看得出來鎧老闆對新鮮現做的堅持。」"
+				"鎧老闆對新鮮現做的堅持。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"1lee",
@@ -7869,7 +8022,7 @@
 				"「綾瀨選手吃東西非常按照自己的步調，速度"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可說是毫不起眼．．．」"
+				"可說是毫不起眼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"1lee",
@@ -7884,7 +8037,7 @@
 				"「但在比賽\\C[2]尾盤\\C[0]使出的\\C[2]爆擊流速度爆發\\C[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"可以讓人看到什麼叫食如狂風．．．」"
+				"可以讓人看到什麼叫食如狂風！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"1lee",
@@ -7911,10 +8064,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「本屆大賽真是精彩，有別於以往一面倒的戰力"
+				"「本屆大賽真是精彩，有別於以往一面倒的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"差，這次戰力非常平衡。」"
+				"戰力差，這次戰力非常平衡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Evil",
@@ -7926,7 +8079,7 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那有關選手的介紹就到此為止，"
+				"「那有關選手的介紹就到此為止，接下來我們就"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"準備進入鎧家麵線第四屆大胃王大賽。」"
@@ -8068,10 +8221,7 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那麼．．．比賽即將開始，大夥做好準備啊"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"！」"
+				"「那麼，比賽即將開始，請大家做好準備！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -8251,10 +8401,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"太好了，沒想到會是維皮勝出，"
+				"太好了，沒想到會是維皮勝出，這樣鎧家麵線"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"這樣鎧家麵線的生意就有所改善了．．．"
+				"的生意就有所改善了。"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -8307,13 +8457,13 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"慘了，外面又會以為這次比賽是內定大賽"
+				"慘了，外面又會以為這次比賽是內定大賽了，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"了，沒想到另外邀請路人甲、茶祀當保險"
+				"沒想到另外邀請路人甲、茶祀當保險還是不敵"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"還是不敵綾瀨啊．．．"
+				"綾瀨啊．．．"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"鎧特",
@@ -8322,10 +8472,10 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"這下生意難做了．．．"
+				"這下生意難做了，該把店改名成鎧家遊樂場"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"該把店改名成鎧家遊樂場了嗎．．．"
+				"了嗎？"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -8351,10 +8501,10 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這就是卡姆城最強男人的實力嗎，"
+				"「這就是卡姆城最強男人的實力嗎，以些許差距"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"以些許差距擊敗了其他三人，得到了這屆冠軍。」"
+				"擊敗了其他三人，得到了這屆冠軍。」"
 			]},
 			{"code":205,"indent":1,"parameters":[
 				26,
@@ -8381,7 +8531,7 @@
 				"太好了，如果能靠他奪冠讓鎧家麵線多幾位"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"女性客人也不錯．．．"
+				"女性客人也不錯。"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -8407,10 +8557,13 @@
 				"店員A"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「毅茶祀選手，靠著閃耀的御子天星，"
+				"「毅茶祀選手，發出了隱藏的力量，全身"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"將餐桌上的食物一網打盡，擊敗了綾瀨選手。」"
+				"散發出光輝，將餐桌上的食物一網打盡，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"擊敗了綾瀨選手！」"
 			]},
 			{"code":205,"indent":1,"parameters":[
 				26,
@@ -8437,13 +8590,25 @@
 				"鎧特"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「茶祀！你做得好！你跟我約好能讓男人"
+				"「茶祀！你太棒了！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"鎧特",
+				2,
+				0,
+				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"一柱擎天，女人坐地能吸土，一夜99次都"
+				"鎧特"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"不累治療陽痿黃金蛇龍麵家庭號已經準備好了。」"
+				"「你跟我約好的，能讓男人一柱擎天，女人"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"坐地能吸土，一夜九十九次都不累治療陽痿"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"黃金蛇龍麵家庭號已經準備好了。」"
 			]},
 			{"code":205,"indent":1,"parameters":[
 				3,
@@ -8473,7 +8638,10 @@
 				"茶祀"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「鎧特！你這小子！你想讓我社會性死亡是嗎！」"
+				"「鎧特！給我閉嘴！就算夢他們在王都張貼了"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"廣告牆，也不許你這麼大聲說出來！」"
 			]},
 			{"code":230,"indent":1,"parameters":[
 				60
@@ -8504,7 +8672,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"真的假的．．．女僕餐廳的老闆居然不舉．．．\\|\\|\\^\""
+				"\\TXTCENTER:\"真的假的，女僕餐廳的老闆居然不舉？\\|\\|\\^\""
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"　　　　　　　　　　"
@@ -8554,20 +8722,38 @@
 			{"code":401,"indent":1,"parameters":[
 				"　　　　　　　　　　"
 			]},
+			{"code":213,"indent":1,"parameters":[
+				3,
+				8,
+				true
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				3,
+				7,
+				true
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Magic5","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				3,
+				5,
+				true
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid04",
-				5,
-				0,
+				3,
+				1,
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"茶祀"
+				"鎧特．．．今晚我吃完你的麵以後，你的人生"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\{「不是！這是汙衊！！！"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"這是赤裸裸的汙衊！！！」"
+				"就走到盡頭了。"
 			]},
 			{"code":246,"indent":1,"parameters":[
 				3

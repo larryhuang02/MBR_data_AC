@@ -69118,7 +69118,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不曉得人在不在．．．」"
+				"「不曉得人在不在。」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -69309,7 +69309,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！我們在鄉南村遇到．．．對吧！」"
+				"「啊！我們在鄉南村遇到過．．．對吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -69381,7 +69381,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此．．．」"
+				"「原來如此。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69393,10 +69393,10 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過．．．兄弟，你來的很不是時候，"
+				"「不過．．．你來的很不是時候，鎧特正出去"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"鎧特正出去打食材，麵館公休中。」"
+				"打食材，麵館公休中。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69475,10 +69475,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一定是綾瀨啦！把表格給成了麵館的菜單"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「一定是綾瀨啦！把表格給成了麵館的菜單。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69502,10 +69499,10 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抱歉啊，我這就去找他們，請你們再稍等片"
+				"「抱歉啊，我這就去找他們，請你們再稍等"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"刻。」"
+				"片刻。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -69534,7 +69531,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這怎麼好意思．．．」"
+				"「這怎麼好意思。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -69549,7 +69546,7 @@
 				"「早點找齊大家早點比賽，我想看看最強的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"隊伍是怎麼樣的等級呢！」"
+				"隊伍的實力到底有多強呢！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69561,10 +69558,10 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嘿嘿！我對我們幾個有自信，保證不會讓你"
+				"「嘿嘿！我對我們幾個有自信，保證不會讓你們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"們失望的！」"
+				"失望的！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				122,
@@ -69581,7 +69578,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好吧．．．不然我們分頭進行。」"
+				"「好吧，不然我們分頭進行。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69609,7 +69606,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				0,
+				15,
 				0,
 				2
 			]},
@@ -69617,7 +69614,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔？聽起來是一個美女？」"
+				"「喔？她漂亮嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69629,7 +69626,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是不是美女不知道，但小心她的蠻力．．．」"
+				"「是不是美女不知道，但小心她的蠻力。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69653,7 +69650,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「另外兩位夥伴，由我去找吧」"
+				"「另外兩位夥伴，由我去找吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69665,10 +69662,10 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「鎧特在王都下水道收集食材，綾瀨雖然愛亂"
+				"「鎧特在王都下水道收集食材，綾瀨雖然"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"跑，但我大概知道她在哪。」"
+				"愛亂跑，但我大概知道她在哪。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -69685,10 +69682,10 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"下水道收集食材！？"
+				"下水道收集食材！？我是不是聽到了什麼"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我是不是聽到了什麼可怕的發言！？"
+				"可怕的發言！？"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"攸藍",
@@ -69700,10 +69697,7 @@
 				"攸藍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我們就分頭進行吧，找到人後再回武鬥場"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"見！」"
+				"「那我們就分頭進行吧，找到人後武鬥場見！」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -69805,7 +69799,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這就去墓塚找那位叫伊爾絲的女神官吧！"
+				"趕緊去墓塚找那位叫伊爾絲的女神官吧！"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -70883,7 +70877,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「請問伯父是有什麼事情要私下講嗎？」"
+				"「請問伯父，是有什麼事情要私下講嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				130,
@@ -70932,7 +70926,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「什．．．什麼？」"
+				"「什、什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -70944,10 +70938,10 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「拙劣的演技，隔壁那一桌根本沒在吃飯盯著"
+				"「嘁！拙劣的演技，隔壁那一桌根本沒在吃飯，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我們看的客人．．．」"
+				"直勾勾的盯著我們，你當我傻啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -70959,7 +70953,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很明顯你只是鎮宇叫來幫忙的對吧。」"
+				"「很明顯你只是鎮宇叫來幫忙的對吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -70988,7 +70982,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過謝謝你來配合我女兒演這齣戲．．．」"
+				"「不過謝謝你來配合我女兒演這齣戲。」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -71003,7 +70997,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「果然．．．還是被您發現了啊。」"
+				"「果然，還是被您發現了啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71024,7 +71018,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"最好是偵探啦．．．"
+				"最好是偵探啦。"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				130,
@@ -71056,7 +71050,10 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特，你的過去相當的罕見．．．」"
+				"「攸特，你的過去我稍微調查過了，你的經歷，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不一般啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71071,10 +71068,7 @@
 				"「有傳聞你遊走在不同城鎮中販賣藥劑維生，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也有情報證明你曾出現在當年的荒星島過"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"也有情報證明你曾出現在當年的荒星島過。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -71094,10 +71088,10 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但身份是盜取古代遺物的犯罪集團，"
+				"「你來歷成謎，唯一能證明你的身份，是盜取"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[51]的成員之一．．．」"
+				"古代遺物的犯罪集團，\\N[51]的成員之一。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71190,7 +71184,10 @@
 				"「在鎮宇小的時候，我的太太就去世了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"之後我就一個大男人把女兒給帶大．．．」"
+				"之後我就一個大男人一把屎一把尿的把她給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"帶大。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71229,10 +71226,10 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「在今天的飯局，我頓時注意到．．．"
+				"「在今天的飯局，我頓時注意到，她已經長大"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"她已經長大了。」"
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71244,7 +71241,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就算再怎麼捨不得女兒，她現在已經長到"
+				"「就算再怎麼捨不得女兒，她現在也已經長到"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"足以獨立自主的年紀了。」"
@@ -71274,10 +71271,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「終究．．．也到了該放開孩子的時候了吧"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"「終究．．．也到了該放開孩子的時候了吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71345,10 +71339,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「今天就把這次見面當作是一場預演吧．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"」"
+				"「今天就把這次見面當作是一場預演吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71360,17 +71351,34 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「托你的福，有了不錯的練習機會，"
+				"「托你的福，有了不錯的練習機會。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MrLi",
+				7,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這下她帶真正的男朋友來時，"
+				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我應該是可以妥善應對了。」"
+				"「未來她如果帶真正的男朋友來見我時，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我應該是能忍住殺意，不會想一刀宰了他了。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				131,
+				7,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				1,
+				8,
 				0,
 				2
 			]},
@@ -71378,7 +71386,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來如此．．．」"
+				"「原來如此。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71390,10 +71398,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過，伯父，"
+				"「不過，伯父，李鎮宇會這樣做，我認為"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"李鎮宇會這樣做我認為不僅僅是因為討厭相親。」"
+				"不僅僅是因為討厭相親。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71417,7 +71425,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也許鎮宇是不想要伯父擔心她吧。」"
+				"「也許她是不想要伯父擔心吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71429,7 +71437,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為她也察覺到伯父在擔心她吧．．．」"
+				"「因為她也察覺到伯父在擔心她吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71441,10 +71449,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以她想證明自己的婚事等等事情．．．"
+				"「所以她想證明自己的婚事等等事情，即使"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"即使不靠伯父幫忙也能自己打理好．．．」"
+				"不靠伯父幫忙也能自己打理好。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71473,11 +71481,50 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，或與你是對的。」"
+				"「嗯，或許你是對的。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":212,"indent":0,"parameters":[
+				131,
+				485,
+				false
+			]},
+			{"code":205,"indent":0,"parameters":[
+				131,
+				{"list":[
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+					],"indent":null},
+					{"code":14,"parameters":[
+						0,
+						0
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					0
+				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
-				5,
+				2,
 				0,
 				2
 			]},
@@ -71485,7 +71532,22 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不錯嘛．．．小子，突然覺得你也不錯。」"
+				"「哈哈哈！不錯嘛，小子，突然覺得你也"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不錯。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「伯父，你手勁好大。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71497,7 +71559,25 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如何？不如就請你當鎮宇真正的男朋友吧？」"
+				"「你這傢伙，少來了，那一下不過就拍死隻"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"蒼蠅，要拍痛你，不可能。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MrLi",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"李完了"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如何？不如你就當鎮宇真正的男朋友吧？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"如果是你的話，我也可以放心。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -71517,7 +71597,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「伯父．．．你在說什麼呢？」"
+				"「伯父，你在說什麼？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71529,10 +71609,10 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「撇除鎮宇瞎掰的那一堆謊話，看的出來你是"
+				"「撇除鎮宇瞎掰的那一堆謊話，看的出來你是個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"個很成熟且穩重的人。」"
+				"既成熟且穩重的人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71576,7 +71656,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「謝謝伯父的吉言，不過恕我無法答應。」"
+				"「伯父，你過譽了，不過恕我無法答應。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71588,7 +71668,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「畢竟我的內心，已經被一個身影給占領了。」"
+				"「畢竟我的內心，還有另一個人，在等著我。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -71600,10 +71680,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「況且．．．我還有我的使命，並不是兒女"
+				"「況且，我還有我的使命，並不是兒女情長的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"情長的時機。」"
+				"時候。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71615,7 +71695,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是嗎．．．也罷，像你這樣有故事的人，"
+				"「是嗎．．．好吧，像你這樣有故事的人，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"應該把事業看的比家庭重吧。」"
@@ -71635,7 +71715,7 @@
 				"李完了"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我先走了，謝謝你們的請客。」"
+				"「那我先走了，謝謝你們請客。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MrLi",
@@ -71778,7 +71858,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":3,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":387,"variableValid":true,"variableValue":9},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
