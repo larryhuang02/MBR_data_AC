@@ -1950,6 +1950,36 @@
 				"「是有點累，但還過得去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟．．．我在追蹤野獸的時候，也是常常"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這樣沒睡覺的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「少年！你錯了！打獵是打獵、旅行是旅行，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"兩者的經驗不能混為一談。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				2,
 				0,
@@ -1984,6 +2014,21 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「若你真的走到很累，要紮營時卻遇到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔物群來襲，那你該怎麼辦？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
 				1,
 				0,
 				2
@@ -1996,7 +2041,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				3,
+				0,
 				0,
 				2
 			]},
@@ -2004,7 +2049,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「知道了，聽大哥的就對了！」"
+				"「原來如此．．．那就聽大哥的！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,

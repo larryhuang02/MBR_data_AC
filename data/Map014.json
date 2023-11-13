@@ -4045,6 +4045,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"「但總覺得．．．手腳異常的沉重。」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「好像塞了十幾個鉛塊一樣。」"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				5,
 				8,
@@ -5184,7 +5196,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得9:1烏龍茶3瓶。"
+				"獲得\\ni[257]3瓶。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

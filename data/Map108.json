@@ -17885,7 +17885,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				1,
+				13,
 				0,
 				2
 			]},
@@ -17893,10 +17893,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喔．．．攸特大哥，你真的都沒有什麼想問"
+				"「對了．．．攸特大哥，我有點好奇。"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的嗎？」"
+				"你真的都沒有什麼想問的嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -18010,8 +18010,89 @@
 				"「我本來都已經放棄了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_05_1",
+				"BLR_01_1",
+				3,
 				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「沒想到占卜師卻說，人多的地方可以再遇到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"妹妹。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然我沒去過王都，但那邊．．．應該是"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"人最多的城市吧！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我一定！要把小蘆找出來！！！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「小蘆？莫非是你妹妹的名字？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯！當時我年紀還小，但我記得爸媽都叫她"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小蘆或者蘆兒。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然線索不多！但總是個希望！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_05_1",
+				1,
 				0,
 				2
 			]},
@@ -18019,10 +18100,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「占卜師不是都說了嗎？她還活著，不要老是"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"哭喪著一張臉的。」"
+				"「期待你們能夠找到彼此。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -18040,20 +18118,20 @@
 				"遇見她的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_05_1",
-				1,
+				"BLR_03_1",
+				7,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[5]"
+				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「笑一個啊！還是嘻皮笑臉的比較適合你！」"
+				"「嗯～大哥也先給你獻上祝福。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				0,
+				3,
 				0,
 				2
 			]},
@@ -18061,7 +18139,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「謝謝，我沒事的。」"
+				"「嗯！謝謝你們！」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -21570,6 +21648,88 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「是嗎！太好了！！！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那．．．我要去哪？我要去哪才能見到她呢"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"PeopleMZ_02",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"占卜師"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯．．．這部分雖然結果沒有顯示的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"很明確。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"PeopleMZ_02",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"占卜師"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但．．．你只要前往人很多的大城市，就有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機會遇到她。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"人很多的地方．．．莫非是王都！？"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				4,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「太好了！真的是太好了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_02",

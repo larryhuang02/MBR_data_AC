@@ -2715,7 +2715,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":14},
-	{"id":210,"animationId":133,"description":"「爆裂屬性」雙攻+250、雙防、幸運+200、速度+100，命中\n+100%，對敵方全體造成多次攻擊傷害並附加多種狀態異常。","etypeId":1,"traits":[
+	{"id":210,"animationId":133,"description":"「物理+魔法&爆裂屬性」雙攻+250、雙防、幸運+200、速度+100，\n命中+100%，對敵方全體造成多次無視防禦傷害並附加多種狀態異常。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":12,"value":0},
 		{"code":22,"dataId":0,"value":1}

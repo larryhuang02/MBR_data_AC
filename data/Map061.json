@@ -11130,18 +11130,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「是嗎？終於可以休息了．．．」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				15,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\}「真希望村裡有按摩院．．．小姐姐不穿衣服的更好！」"
-			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
 				{"list":[
@@ -11272,6 +11260,18 @@
 				12,
 				1,
 				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				9,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"喂！我隨口亂說，居然當真！？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"娟究竟在想什麼啊．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",

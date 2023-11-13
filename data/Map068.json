@@ -8459,17 +8459,32 @@
 			{"code":401,"indent":0,"parameters":[
 				"「在大陸上闖蕩，也是一個很棒的修練方式。」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「況且．．．少年，你不是還有收集書籍的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"使命嗎？」"
+			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
-				3,
+				7,
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				3,
+				7,
 				0,
 				0
 			]},
@@ -8477,7 +8492,42 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「也是！既然都出來了，乾脆就繼續旅行吧！」"
+				"「大哥！你很不厚道喔！哪壺不開提哪壺啊！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「況且．．．都發生這樣的事情了，誰還有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"心思去找書籍？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不過說的也是！既然都出來了，乾脆就繼續"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"旅行吧！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",

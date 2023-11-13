@@ -34441,7 +34441,7 @@
 				21,
 				0,
 				0,
-				60
+				120
 			]},
 			{"code":122,"indent":1,"parameters":[
 				22,
@@ -34544,12 +34544,50 @@
 			{"code":401,"indent":1,"parameters":[
 				"可以考慮搬來卡姆城這裡。」"
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Magic12_A","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					255,
+					255,
+					170
+				],
+				60,
+				false
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				1,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\TXTCENTER:\"\\C[2]嗚．．．\\C[0]\"\\|\\|\\^"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"　　　　　　　　　　"
+			]},
 			{"code":122,"indent":1,"parameters":[
 				21,
 				21,
 				0,
 				0,
-				60
+				15
 			]},
 			{"code":122,"indent":1,"parameters":[
 				22,
@@ -34561,8 +34599,37 @@
 			{"code":117,"indent":1,"parameters":[
 				258
 			]},
-			{"code":230,"indent":1,"parameters":[
-				60
+			{"code":223,"indent":1,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				true
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				9,
+				1,
+				0
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"怎麼．．．有女孩子在哭！"
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":205,"indent":1,"parameters":[
 				-1,
@@ -34576,7 +34643,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
-				3,
+				9,
 				0,
 				0
 			]},
@@ -34584,10 +34651,59 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「走吧，大哥！反正閒著沒事，我們\\C[2]去看看"
+				"「大哥？你聽到了嗎？有女孩子在哭！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_03_1",
+				11,
+				0,
+				0
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\C[0]那間屋子好了！」"
+				"\\N[3]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「嗯？少年你在說什麼！？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				0
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「空屋啊！那間空屋有女生在哭！」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				41,
+				2,
+				true
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				12,
+				0,
+				0
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「別廢話了！大哥！也許有人需要幫助！"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"我們\\C[2]去看看\\C[0]那間屋子好了！」"
 			]},
 			{"code":205,"indent":1,"parameters":[
 				41,
