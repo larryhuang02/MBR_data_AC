@@ -1,4 +1,4 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
+{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"40 Something is born_MV","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
 ],"encounterStep":30,"height":30,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":6,"width":30,"data":[
 	0,
 	0,
@@ -2027,7 +2027,7 @@
 	0,
 	0,
 	243,
-	0,
+	244,
 	0,
 	0,
 	0,
@@ -2927,7 +2927,7 @@
 	0,
 	0,
 	129,
-	244,
+	433,
 	0,
 	0,
 	225,
@@ -2981,7 +2981,7 @@
 	0,
 	0,
 	0,
-	0,
+	497,
 	0,
 	0,
 	0,
@@ -5403,7 +5403,7 @@
 ],"events":[
 	null,
 	{"id":1,"name":"EV001","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_2","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -5419,10 +5419,10 @@
 			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":14,"y":7},
 	{"id":2,"name":"EV002","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":2,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_2","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -5438,10 +5438,10 @@
 			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":13,"y":7},
 	{"id":3,"name":"EV003","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":2,"pattern":1,"characterIndex":2},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_2","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -5457,10 +5457,10 @@
 			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":15,"y":7},
 	{"id":4,"name":"EV004","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":2,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_2","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -5476,10 +5476,10 @@
 			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":18,"y":7},
 	{"id":5,"name":"EV005","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":2,"pattern":1,"characterIndex":5},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_2","direction":2,"pattern":1,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -5495,7 +5495,7 @@
 			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":19,"y":7},
 	{"id":6,"name":"BACKUP","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_studio_01","direction":8,"pattern":1,"characterIndex":5},"list":[
@@ -5884,6 +5884,11 @@
 			{"code":655,"indent":0,"parameters":[
 				"++$gameMap._events[8]._y;"
 			]},
+			{"code":212,"indent":0,"parameters":[
+				7,
+				1,
+				false
+			]},
 			{"code":230,"indent":0,"parameters":[
 				5
 			]},
@@ -5901,6 +5906,11 @@
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"--$gameMap._events[9]._x;"
+			]},
+			{"code":212,"indent":0,"parameters":[
+				7,
+				1,
+				false
 			]},
 			{"code":230,"indent":0,"parameters":[
 				5
@@ -6116,7 +6126,7 @@
 			{"code":1,"indent":null},
 			{"code":44,"parameters":[
 				{"name":"Wind4","volume":100,"pitch":100,"pan":0}
-			],"indent":null},
+			],"indent":0},
 			{"code":14,"parameters":[
 				0,
 				4
@@ -6225,6 +6235,102 @@
 			{"code":401,"indent":0,"parameters":[
 				"「大家好，我是咕咕咕，夥伴們都叫我鴿子。」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我是在月藍團隊組建起來一陣子以後加入"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"團隊的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「據攸藍所說，我是為了填補為了課業忙碌的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鎧特的位置才被他找上。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我一開始以為攸藍是藉著天使的名義"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"招搖撞騙，直到他拿了他們製作到一半的遊戲"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"進度給我看，我才相信他。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當時我自己的獨立遊戲『謳歌的聖女』正好"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"製造到尾聲了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「於是想說＂啊，以前也玩過天使的遊戲呢，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那不如我也來盡一份心力，幫老人完成他的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"夢想吧＂。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「於是就這樣，我加入了月藍團隊，成為了團隊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"裡面另外一個做事件的人。」"
+			]},
 			{"code":118,"indent":0,"parameters":[
 				"start"
 			]},
@@ -6232,7 +6338,7 @@
 				[
 					"在團隊內的職責",
 					"鴿子寫給大家的話",
-					"旁邊那一堆是？",
+					"旁邊一大堆是？",
 					"離開"
 				],
 				2,
@@ -6243,18 +6349,6 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"在團隊內的職責"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_studio_AC",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"作者"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．這次讓咕咕咕自己回答吧？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6284,10 +6378,10 @@
 				"「基本上就是哪裡有需要我就去哪裡幫忙的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"雜工，除了戰鬥動畫以外的東西我應該都包了"
+				"雜工，除了戰鬥動畫和畫ＣＧ、立繪以外的東西"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"，哈哈哈。」"
+				"我應該都包了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6299,10 +6393,109 @@
 				"咕咕咕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「如如線、四聖獸洞穴迷宮、及四戀楚歌"
+				"「天使劇情的文本我進行了相當大量的修改，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"咖啡廳就是我的傑作。」"
+				"因為天使初版的實在．．．不能說很好。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「如果有喜歡舊版天使味的玩家，只能跟你說"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"聲抱歉了。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「在天使製作主線的同時，我就負責充實有關"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"額外劇情的部分，和後續額外任務與事件。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「在劇情上，如如和大陽、風鈴鈴之間的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"對手戲、開頭的月藍大戰、妖精森林、太空船、"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"七大召喚獸、長腿、金甌等等都是我的傑作。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「在小遊戲上，雪北村的雪球大戰、勇者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"鬥光頭、四聖獸的迷宮、如如線的謎題、高嶺"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"荒地的謎題、舊書攤也有我的身影。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「可以說你看到的全新事件，全新額外劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"大部分都是由我一肩扛起。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「在這邊也要感謝牙籤、黃金、柏林的鼎力"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"協助，如果沒有他們的話，我想像中的效果就"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"沒辦法實現，真的很感謝他們。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6317,7 +6510,10 @@
 				"「不知道各位覺得四聖獸塔的難度如何呢？"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"四戀楚歌咖啡廳的劇情有沒有讓你會心一笑？」"
+				"天使當初還因為太難把它調的簡單，可惡的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"天使蛋糕！你自己就可以做很難！這是歧視！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6329,10 +6525,13 @@
 				"咕咕咕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「如如線的劇情有沒有讓你落淚呢？如果"
+				"「四戀楚歌咖啡廳的劇情有沒有讓你會心"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"喜歡的話就太好了。」"
+				"一笑呢？長腿的照片和七大召喚獸的劇情，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"有沒有讓這個世界觀更加完整呢？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6344,25 +6543,13 @@
 				"咕咕咕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我是在獨立製作完自己的遊戲之後被攸藍"
+				"「如如線的劇情有沒有讓你落淚呢？品涵和"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"抓來協助天使的月1re。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_Pigeon",
-				0,
-				0,
-				2
+				"風鈴鈴、如如之間的故事有沒有勾起你的同情心"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"咕咕咕"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「當初攸藍找我的時候我還以為他是以天使的"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"名義在騙人呢，但沒想到居然會是真的。」"
+				"呢？如果你們喜歡的話就太好了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6377,10 +6564,260 @@
 				"「很榮幸能夠跟童年遊戲的作者一起完成這款"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"作品，製作的過程中真的很辛苦，但是如果你"
+				"作品，製作的過程中真的非常辛苦，但是如果"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"們能喜歡那我的努力就有意義。」"
+				"你們能喜歡那我的努力就有意義。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「如果能夠因為我的努力而回流，讓謳歌的聖女"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"能被更多人看見就更好了。」"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"start"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"鴿子寫給大家的話"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「下面這些，幾乎都是我做月藍的時候得到的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"痛苦，想抱怨的事情。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「如果不想聽抱怨的話，可以直接按Ｆ５離開"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"沒關係，哈哈哈。」"
+			]},
+			{"code":105,"indent":1,"parameters":[
+				1,
+				false
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「當初不是只跟我說做如如線就好 為什麼又要我做那麼多"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"東西！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「幹為什麼劇情感覺比舊月一還水，不行我受不了了，"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"不改我對不起玩家。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「想清楚再寫天使！不然我又要補破洞！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「要改的東西也太多了吧？我要死了。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「為什麼我還要請特休來做月藍啊，太苦了吧．．．」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「不是，這個劇情邏輯有問題啊！為什麼上一秒還在說"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"我弄丟了媽媽的藍寶石，下一秒就要我陪你玩遊戲，這關聯"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"在哪裡？」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"\\STRIKETHROUGHSTART「為什麼異界結局可以寫的那麼好，前面寫成這樣？你是不是"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"找人代筆！」\\STRIKETHROUGHEND"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「什麼道具說明，寫的要死要活，花了一堆力氣結果效果"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"不怎麼樣，下次不做了。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「神秘故事給我做到一半就跑，然後讓我收拾這個爛攤子，"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"我真的會宰了你，這故事跟月藍根本沒任何關係，我要整個"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"打掉重作！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「加入月藍讓我學到了很多事，不要途中加入一開始沒有"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"規劃好的團隊，有些人能閃就閃，不要幫他太多，免得被他"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"整碗端走，不要太拚，免得心裡不平衡。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「幹你娘大便RPGMAKERMV不要再給我閃退了。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「要是沒閃退，2022過年的時候早就上市了。」"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"start"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"旁邊一大堆是？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「那是我的獨立遊戲『謳歌的聖女』裡的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"主人公與女主角們。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「為了做出獨樹一格的房間，稍微做了一些"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"基礎的事件動作。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「在王都篇發傳單的女僕少女，以及第九章時"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"開放的四戀楚歌咖啡廳，裡面的角色通通都是"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"謳歌的聖女中的主要人物。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「如果各位覺得，主線的文本讓你還算滿意。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「咖啡廳的大家都很可愛，如如與大陽還有"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"風鈴鈴之間的愛恨情仇、七大聖獸與妖精森林"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的故事裡面其中一個你很非常喜歡的話。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
@@ -6421,28 +6858,13 @@
 				"咕咕咕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「如果各位喜歡RPG遊戲的話，也歡迎各位可"
+				"「請各位一定要玩玩看＂謳歌的聖女＂，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"以來玩玩看我製作的遊戲『謳歌的聖女』。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_Pigeon",
-				0,
-				0,
-				2
+				"在巴哈姆特RPG製作大師版上有相關討論版，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"咕咕咕"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「在王都篇發傳單的女僕少女，以及第九章時"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"開放的四戀楚歌咖啡廳，裡面的角色通通都是"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"謳歌的聖女中的主要人物。」"
+				"並且提供了試玩版本。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6457,83 +6879,7 @@
 				"「它是一款飽含了我製作熱情的劇情向中長篇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"RPG，請各位一定要玩玩看。」"
-			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":235,"indent":1,"parameters":[
-				1
-			]},
-			{"code":119,"indent":1,"parameters":[
-				"start"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"鴿子寫給大家的話"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_studio_AC",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"作者"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「以下的內容．．．是咕咕咕寫的話，"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"請自行觀賞。」"
-			]},
-			{"code":105,"indent":1,"parameters":[
-				1,
-				false
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「當初不是只跟我說做如如線就好 為什麼又要我做其他東"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"西。」"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				""
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「幹為什麼劇情感覺比舊月一還水 不行我受不了了。」"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「謝謝天使蛋糕對我造成的職業傷害。」"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				""
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「什麼道具說明 寫的要死要活結果效果不怎麼樣 下次不做"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"了。」"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				""
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「幹你娘大便RPGMAKERMV不要再給我閃退了。」"
-			]},
-			{"code":405,"indent":1,"parameters":[
-				"「要是沒閃退 2023過年的時候早就上市了。」"
-			]},
-			{"code":119,"indent":1,"parameters":[
-				"start"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				2,
-				"旁邊那一堆是？"
+				"RPG遊戲，請各位一定要玩玩看。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6545,7 +6891,31 @@
 				"咕咕咕"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嗯．．．自己想像。」"
+				"「如果試玩喜歡的話，歡迎到STEAM上面購買"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"獲得完整的遊戲體驗，只需要三杯手搖飲的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"價格就可以將它帶回家。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「你的支持是我繼續創作好玩遊戲的最大動力，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"謝謝大家。」"
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -6566,5 +6936,418 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
-	],"x":16,"y":8}
+	],"x":16,"y":8},
+	{"id":21,"name":"EV021","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"上面寫著『月藍傳奇２廢棄草案』。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是否要進行翻閱？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"是",
+					"否"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"是"
+			]},
+			{"code":242,"indent":1,"parameters":[
+				3
+			]},
+			{"code":230,"indent":1,"parameters":[
+				60
+			]},
+			{"code":221,"indent":1,"parameters":[
+			]},
+			{"code":135,"indent":1,"parameters":[
+				0
+			]},
+			{"code":230,"indent":1,"parameters":[
+				60
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_save(2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_clearCurrent();"
+			]},
+			{"code":129,"indent":1,"parameters":[
+				49,
+				0,
+				false
+			]},
+			{"code":201,"indent":1,"parameters":[
+				0,
+				578,
+				11,
+				6,
+				4,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"否"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
+	],"x":12,"y":7},
+	{"id":22,"name":"EV022","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"書櫃上那些沒營養的資料你都可以隨便翻，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那是我無聊的時候做來消遣的產物。"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"還有一些絕無城預計使用的自製動畫。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":11,"y":9},
+	{"id":23,"name":"EV023","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"上面寫著，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"『咕咕咕製作，預計使用戰鬥動畫與惡搞用戰鬥動畫』。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是否要進行翻閱？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"是",
+					"否"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"是"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"超級友情雷電斬",
+					"連續中心腳",
+					"夢的戰鬥動畫",
+					"雪葉的戰鬥動畫"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"超級友情雷電斬"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":230,"indent":2,"parameters":[
+				60
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._interpreter.setWaitMode('video');"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid04.mp4\");"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"連續中心腳"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":230,"indent":2,"parameters":[
+				60
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._interpreter.setWaitMode('video');"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid03.mp4\");"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				2,
+				"夢的戰鬥動畫"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":230,"indent":2,"parameters":[
+				60
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._interpreter.setWaitMode('video');"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid02.mp4\");"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				3,
+				"雪葉的戰鬥動畫"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":230,"indent":2,"parameters":[
+				60
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._interpreter.setWaitMode('video');"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid01.mp4\");"
+			]},
+			{"code":223,"indent":2,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"否"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
+	],"x":11,"y":7},
+	{"id":24,"name":"EV024","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"點此可進入『謳歌的聖女』相關介面。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是否要進入？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"是",
+					"否"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"是"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"進入RPG製作大師版『謳歌的聖女』討論區",
+					"進入Steam商店頁面『謳歌的聖女』",
+					"進入youtube宣傳影片『謳歌的聖女』"
+				],
+				-2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"進入RPG製作大師版『謳歌的聖女』討論區"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"document.ce('a').sa('href',\"https://forum.gamer.com.tw/C.php?bsn=4918&snA=30503\").sa('target','_blank').click();"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"進入Steam商店頁面『謳歌的聖女』"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"document.ce('a').sa('href',\"https://store.steampowered.com/app/2345660/_/\").sa('target','_blank').click();"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				2,
+				"進入youtube宣傳影片『謳歌的聖女』"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"document.ce('a').sa('href',\"https://www.youtube.com/watch?v=TeS_nxf-mk8\").sa('target','_blank').click();"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":403,"indent":1,"parameters":[
+				6,
+				null
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"否"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
+	],"x":17,"y":7}
 ]}

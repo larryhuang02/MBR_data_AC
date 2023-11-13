@@ -4781,10 +4781,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我也不知道我為什麼被安排來看管圖書館"
+				"「我也不知道我為什麼被安排來看管圖書館，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"，難道天神不知道這樣是雇用非法童工嗎？」"
+				"難道天神不知道這樣是雇用非法童工嗎？」"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				0,
@@ -4801,7 +4801,7 @@
 				"黃金"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「總之．．．你有什麼事情嗎？」"
+				"「總之，你有什麼事情嗎？」"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -4875,13 +4875,13 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「\\nw[210]．．．"
+				"「\\nw[210]，月藍傳奇1的經典神兵，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"月藍傳奇1的經典神兵，具有攻擊敵方全體6下"
+				"具有攻擊敵方全體6下的暴力輸出，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"的暴力輸出，此外還附帶多種狀態異常。」"
+				"此外還附帶多種狀態異常。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4893,13 +4893,13 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「這武器是由"
+				"「這武器是由刀神兵\\nw[21]、"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"刀神兵\\nw[21]、劍神兵\\nw[50]、"
+				"劍神兵\\nw[50]、杖\\nw[170]、"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"杖\\nw[170]、\\na[893]融合而成。」"
+				"\\na[893]融合而成。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4911,10 +4911,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「因為會損失其他裝備來換得\\N[1]"
+				"「因為會損失其他裝備來換得\\N[1]專用的"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"專用的頂級武器，如何取捨自己思考吧！」"
+				"頂級武器，如何取捨自己思考吧！」"
 			]},
 			{"code":213,"indent":3,"parameters":[
 				0,
@@ -4931,10 +4931,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「另外．．．其實還有一個方法可以直接獲得"
+				"「另外，其實還有一個方法可以直接獲得這個"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"這神兵，但目前還不能告訴你，嘻嘻～」"
+				"神兵，但目前還不能告訴你，嘻嘻～」"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"01"
@@ -4955,13 +4955,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「刀神兵\\nw[21]．．．"
+				"「刀神兵\\nw[21]，前後必須經過下列"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"前後必須經過下列流程才能取得，自己記好啊"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"！」"
+				"流程才能取得，自己記好啊！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4976,10 +4973,10 @@
 				"「1.於鄉南村公佈欄撕下榜單，進行偷內衣"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"比賽、並且要20件全偷到手．．．"
+				"比賽、並且要20件全偷到手，可以得到"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"可以得到\\nw[19]。」"
+				"\\nw[19]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5117,13 +5114,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「劍神兵\\nw[50]．．．"
+				"「劍神兵\\nw[50]，前後必須經過下列"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"前後必須經過下列流程才能取得，自己記好啊"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"！」"
+				"流程才能取得，自己記好啊！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5135,13 +5129,13 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「1.進入泉晨鎮東邊的海底隧道，在進入山"
+				"「1.進入泉晨鎮東邊的海底隧道，在進入山洞"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"洞的第一張地圖，到最右上方處密室（有密道"
+				"的第一張地圖，到最右上方處密室（有密道），"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"），限時拔劍取得\\nw[48]。」"
+				"限時拔劍取得\\nw[48]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5153,10 +5147,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「2.到達西村西邊的鑄劍泉，"
+				"「2.到達西村西邊的鑄劍泉，將\\nw[48]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"將\\nw[48]投入水中獲得\\nw[49]。」"
+				"投入水中獲得\\nw[49]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5168,10 +5162,7 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「3.到王都北邊的龍之谷，開啟龍王的委託"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"。」"
+				"「3.到王都北邊的龍之谷，開啟龍王的委託。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5225,13 +5216,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「杖神兵\\nw[170]．．．"
+				"「杖神兵\\nw[170]，前後必須經過下列"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"前後必須經過下列流程才能取得，自己記好啊"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"！」"
+				"流程才能取得，自己記好啊！」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5258,13 +5246,13 @@
 				"黃金"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「2.進入王都右方墓塚，進入山壁後的"
+				"「2.進入王都右方墓塚，進入山壁後的第一個"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"第一個地圖，鑽進地圖左上角(假墓碑可穿透)"
+				"地圖，鑽進地圖左上角(假墓碑可穿透)，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"，\\nw[168]。」"
+				"\\nw[168]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5445,10 +5433,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「本作最強的飾品\\na[859]．．．"
+				"「本作最強的飾品\\na[859]，原本於"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"原產於月2才登場，這次特別於remake重製"
+				"月2才登場，這次特別於remake重製"
 			]},
 			{"code":401,"indent":4,"parameters":[
 				"出來。」"
@@ -5793,10 +5781,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「另外．．．其實召喚獸的秘密還不僅如此，"
+				"「另外，其實召喚獸的秘密還不僅如此，但目前"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"但目前還不能告訴你，嘻嘻～」"
+				"還不能告訴你，嘻嘻～」"
 			]},
 			{"code":119,"indent":5,"parameters":[
 				"03"
@@ -5835,10 +5823,10 @@
 				"「\\is[161]"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"在凱鐵支畝村礦坑深處完成相關劇情即可習得"
+				"在凱鐵支畝村礦坑深處完成相關劇情即可"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"。」"
+				"習得。」"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5913,13 +5901,10 @@
 				"黃金"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「習得方式也很簡單．．．只要打敗世界王"
+				"「習得方式也很簡單，只要打敗世界王千手之神"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"千手之神就好，但前提是你要打的過，嘻嘻嘻"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"。」"
+				"就好，但前提是你要打的過，嘻嘻嘻。」"
 			]},
 			{"code":119,"indent":5,"parameters":[
 				"03"
