@@ -4250,7 +4250,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				14,
+				12,
 				0,
 				2
 			]},
@@ -4258,7 +4258,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我、我該怎麼辦．．．要跑嗎？要跑嗎！？」"
+				"「．．．」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -4790,7 +4790,60 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特大哥沒有騙我，火焰斬，真的很強。」"
+				"「火焰斬，真的很強。」"
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				120,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"太\\.好\\.了\\.．\\.．\\.．\\.\\|\\|\\^\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"爸\\.爸\\.，\\.我\\.終\\.於\\.．\\.．\\.．\\.做\\.到\\.了\\.．\\.．\\.．\"\\|\\|\\|\\^"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
+				true
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30

@@ -3462,6 +3462,18 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然跟你認識不久，但大哥好歹閱人無數。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
 				0,
 				0,
 				2
@@ -3491,6 +3503,23 @@
 				"沒那個膽子，大概只會躲得遠遠的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「大哥說的沒錯吧？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				13,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				5,
 				0,
@@ -3512,10 +3541,222 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你應該只是為了掩飾心中的不安，自己隨便"
+				"「你突然講了那麼不合時宜的話。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"轉移注意力吧？」"
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你應該只是為了掩飾心中的不安，隨便開個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"話題轉移注意力吧？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「居然真被你看出來了，難道考古學也有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"教人看面相？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當然沒有，我只是沒事就喜歡看看書而已。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「既然你都猜到了，我也就不瞞你了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「的確．．．其實我真的蠻擔心的。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「自從王大媽收留我後，我就很少離開最果之"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"雨村了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「在那個邊境小村，別說地方官了，連有點"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"權勢的貴族都不會去那裡。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「王大媽從小也教我，不要跟這些人起"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"爭執。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可現在卻被這樣有權勢的地方官追殺．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果是我自己．．．大不了爛命一條。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「但．．．王大媽呢？村長爺爺呢？馬大叔"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"馬大嬸他們呢？。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				14,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果因為我的事情，還得他們受到牽連，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我該如何面對大家．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				14,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「想到這裡，就讓我不由得擔心起來。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				4,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				4,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -3633,6 +3874,11 @@
 			{"code":401,"indent":0,"parameters":[
 				"也就沒事了。」"
 			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				5,
@@ -3643,7 +3889,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大哥你這麼說，我就放心了。」"
+				"「太好了．．．大哥你這麼說，我就放心了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4038,6 +4284,24 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"．．．．．．"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				7,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

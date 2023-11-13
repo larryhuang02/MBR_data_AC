@@ -24861,12 +24861,6 @@
 				8,
 				true
 			]},
-			{"code":108,"indent":0,"parameters":[
-				"維皮存疑是因為"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"風鈴鈴明顯是王都考古團的人，但她似乎不認識攸特"
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				1,
@@ -24877,53 +24871,17 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特大哥，有件事情我有點好奇．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				0,
-				0,
-				2
+				"「攸特大哥，關於前往王都的事情，我在想"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
+				"要不要緩一緩？」"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"「怎麼了？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我們明明只是為了增廣見聞而旅行，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"一路觀賞各個城鎮的風土美景．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「可是現在因為危險而封鎖了關所，為什麼"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"一定要冒著危險前往王都？」"
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				14,
-				8,
+				1,
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
@@ -24936,14 +24894,26 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「少年，你不是說過危險正適合鍛鍊嗎？"
+				"「少年，你不是想要去找你失散多年的妹妹"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"怎麼突然打退堂鼓了？」"
+				"嗎？怎麼突然打退堂鼓了？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「難道你不想她了？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				5,
+				12,
 				0,
 				2
 			]},
@@ -24951,7 +24921,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我的確是這麼說過沒錯．．．」"
+				"「想！我當然想她！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -24968,26 +24938,14 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但我沒想到一路上居然會遇到這麼多危險，"
+				"「但你也聽到了，因為蜥蜴人的關係，關所都"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"都是我意料之外的．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．後悔了？」"
+				"封起來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				1,
+				13,
 				0,
 				2
 			]},
@@ -24995,10 +24953,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我沒有後悔．．．只是我覺得．．．應該"
+				"「我覺得．．．不能只考慮我跟你的目標，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"要好好考慮一下大家的安全。」"
+				"應該要好好考慮一下大家的安全。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -25262,7 +25220,19 @@
 				"「所以我當然希望她能夠和我一起回到總部，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"協助我們不是嗎？」"
+				"來協助我們。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而你也想去找失散的親人，不是嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
