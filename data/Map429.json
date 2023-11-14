@@ -8134,10 +8134,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我能感受到．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"我正沐浴在粉紅色的聖光之下．．．"
+				"我能感受到，我正沐浴在粉紅色的聖光之下。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -8146,10 +8143,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"正在洗滌我那．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"汙穢骯髒的靈魂．．．"
+				"裡面一定有我要找的東西！"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -8231,10 +8225,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「嘶～～～這沁人心脾的香氣．．．絕對是Ｄ"
+				"「嘶～～～這沁人心脾的香氣，絕對是Ｄ罩杯"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"罩杯以上雄偉的尺寸．．．」"
+				"以上雄偉的尺寸．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -8246,10 +8240,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「這件內衣應該是夢的吧．．．太好了，趕快"
+				"「這件內衣應該是夢姐姐的吧？太好了，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"收好。」"
+				"趕快收好。」"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				-1,
@@ -8266,10 +8260,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過洗衣籃裡面怎麼只有這一件內衣呢．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"．」"
+				"「不過洗衣籃裡面怎麼只有這一件內衣呢？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -8281,10 +8272,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「\\C[2]我再四處找找看吧！說不定又會有什麼新的發"
+				"「\\C[2]我再四處找找看吧！說不定又會有什麼新的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"現呢！\\C[0]」"
+				"發現！\\C[0]」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Move6","volume":90,"pitch":100,"pan":0}
@@ -8388,10 +8379,10 @@
 				"「現在只拿到了夢的內衣，應該\\C[2]還有三件\\C[0]等著"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"我去尋寶，全部都到手以後就趕快從\\C[2]身後的窗"
+				"我去尋寶，全部都到手以後就趕快從\\C[2]身後的窗戶"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"戶\\C[0]溜了吧！\\C[0]」"
+				"\\C[0]溜了吧！\\C[0]」"
 			]},
 			{"code":205,"indent":1,"parameters":[
 				-1,
@@ -10281,6 +10272,25 @@
 			{"code":401,"indent":0,"parameters":[
 				"金屬製的苦無，但不知道為什麼尖端是鈍的。"
 			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":530,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"櫃子裡面放著很多新奇的東西，包裝上寫著跳跳糖，還有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"金屬製的苦無，但不知道為什麼尖端是鈍的。"
+			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
 				33,
@@ -11512,10 +11522,10 @@
 				"哈瑞"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「哈哈！這種程度的高度對我來說根本不是什"
+				"「哈哈！這種程度的高度對我來說根本不是"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"麼問題！」"
+				"什麼問題！」"
 			]},
 			{"code":250,"indent":4,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -11854,10 +11864,7 @@
 				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"還沒找到最重要的東西，怎麼可以空手而回呢"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"！"
+				"還沒找到最重要的東西，怎麼可以空手而回呢！"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -11874,10 +11881,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"還沒找到最重要的東西，怎麼可以空手而回呢"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"！"
+				"還沒找到最重要的東西，怎麼可以空手而回呢！"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -11894,10 +11898,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"還沒找到最重要的東西，怎麼可以空手而回呢"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"！"
+				"還沒找到最重要的東西，怎麼可以空手而回呢！"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -11914,10 +11915,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"還沒找到最重要的東西，怎麼可以空手而回呢"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"！"
+				"還沒找到最重要的東西，怎麼可以空手而回呢！"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
