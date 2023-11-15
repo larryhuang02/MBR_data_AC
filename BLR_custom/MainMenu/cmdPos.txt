@@ -1,0 +1,17 @@
+
+cmdw=48
+padx=23
+pady=12
+
+namex=408
+namey=75
+namew=256
+nameh=32
+namedx=0
+namedy=-200
+
+goldx=132
+goldy=533
+goldw=148
+goldh=32
+golda=right

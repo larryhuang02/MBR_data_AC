@@ -1,0 +1,129 @@
+﻿{
+"_comments":[
+"types: back label button numBar switch"
+],
+"consts":{
+"imgRoot":"BLR_custom/Scene_Options/",
+"imgBar":"move.png",
+"imgBarCursor":"button.png",
+"label":{"height":39},
+"numBar":{"height":39},
+"switch":{"height":39},
+"button":{"width":202},
+"textWidth":234,
+"scrollBarDx":16,
+"scrollBarWidth":404,
+"numBarAnchor":{"x":1,"y":0.5},
+"numBarMax":100,
+"switchWidth":128,
+"switchAnchor":{"x":1,"y":0.5},
+"switchButtons":{
+"selected":{"img":"button-ok.png"},
+"unselected":{"img":"button-cancel.png"}
+},
+"switchTexts":{
+"on":{"img":"on.png"},
+"off":{"img":"off.png"}
+},
+"_dummy":0
+},
+"layout":[
+	{"type":"setorigin","x":26,"y":21},
+	{
+		"type":"back",
+		"x":0,
+		"y":0,
+		"img":"frame.png"
+	},
+	{"type":"setorigin","dx":40,"dy":44},
+	{"type":"setorigin","dy":-1},
+	{
+		"type":"label",
+		"x":0,
+		"y":0,
+		"img":"bar01.png"
+	},
+	{"type":"setorigin","dy":16},
+	{
+		"type":"numBar",
+		"img":"bgm.png",
+		"_key":"bgmVolume",
+		"_comment":"bgm"
+	},
+	{
+		"type":"numBar",
+		"img":"bgs.png",
+		"_key":"bgsVolume",
+		"_comment":"bgs"
+	},
+	{
+		"type":"numBar",
+		"img":"SE.png",
+		"_key":"seVolume",
+		"_comment":"se"
+	},
+	{
+		"type":"numBar",
+		"img":"ME.png",
+		"_key":"meVolume",
+		"_comment":"me"
+	},
+	{
+		"type":"numBar",
+		"img":"Other.png",
+		"_key":"Volume-選單內降低bgm音量",
+		"_comment":"選單降低BGM"
+	},
+	{"type":"setorigin","dy":-1},
+	{
+		"type":"label",
+		"x":0,
+		"y":0,
+		"img":"bar02.png"
+	},
+	{"type":"setorigin","dy":16},
+	{
+		"type":"switch",
+		"switches":["on","off"],
+		"img":"Rem.png",
+		"_key":"commandRemember",
+		"_comment":"命令記住"
+	},
+	{
+		"type":"switch",
+		"switches":["on","off"],
+		"img":"eqi.png",
+		"_key":"newThingFirst",
+		"_comment":"put top if new"
+	},
+	{"type":"setorigin","dy":-1},
+	{
+		"type":"label",
+		"x":0,
+		"y":0,
+		"img":"bar03.png"
+	},
+	{"type":"setorigin","dy":4},
+	{"type":"setorigin","x":128},
+	{
+		"type":"button",
+		"img":"bsafe.png",
+		"_key":"key-edtSaveName",
+		"_comment":"改標記"
+	},
+	{
+		"type":"button",
+		"img":"bload.png",
+		"_key":"key-loadLocal",
+		"_comment":"load file"
+	},
+	{
+		"type":"button",
+		"img":"bext.png",
+		"_key":"key-saveLocal",
+		"_comment":"export"
+	},
+	{}
+],
+"_dummy":0
+}
