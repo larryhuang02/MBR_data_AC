@@ -1078,7 +1078,7 @@
 		{"code":14,"dataId":52,"value":1},
 		{"code":14,"dataId":53,"value":1},
 		{"code":14,"dataId":146,"value":1}
-	],"iconIndex":168,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"太陽神狀態全消除","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"太陽神狀態全消除","note":"<field>\n<狀態新增變化ra:{\"33\":{\"移除\":[239],\"加入\":[33]},\"34\":{\"移除\":[239],\"加入\":[34]},\"35\":{\"移除\":[239],\"加入\":[35]},\"36\":{\"移除\":[239],\"加入\":[36]},\"52\":{\"移除\":[239],\"加入\":[52]},\"53\":{\"移除\":[239],\"加入\":[53]},\"146\":{\"移除\":[239],\"加入\":[146]}}>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":240,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
 		{"code":21,"dataId":2,"value":2},
 		{"code":21,"dataId":4,"value":2},
