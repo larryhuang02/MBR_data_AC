@@ -144,18 +144,17 @@
 		10,
 		0
 	],"price":3000},
-	{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":13,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+50，速度+15，但施展技能後，\n裝備者也會損失同等於技能MP消耗量的HP。","etypeId":3,"traits":[
+	],"iconIndex":285,"name":"饗宴魔環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors13.txt>\n<技能消耗MP時額外依照消耗比例額外消耗HP:1>","params":[
 		0,
 		0,
+		50,
 		0,
+		50,
 		0,
-		0,
-		0,
-		0,
+		15,
 		0
-	],"price":0},
+	],"price":5000},
 	{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -4184,18 +4183,17 @@
 		0,
 		0
 	],"price":0},
-	{"id":351,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":351,"atypeId":12,"description":"「法系衣服」防禦+40、魔防+60，裝備後使用恢復道具、\n復活道具，有機率能爆擊。","etypeId":4,"traits":[
+	],"iconIndex":139,"name":"魔藥法袍","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,3],[0,4],[0,5],[0,6] ]>","params":[
 		0,
 		0,
 		0,
+		40,
 		0,
-		0,
-		0,
+		60,
 		0,
 		0
-	],"price":0},
+	],"price":5000},
 	{"id":352,"atypeId":12,"description":"「法系衣服」防禦、魔防+50，小幅增加斬、突、鈍、光元素\n抗性，中幅降低自身火、冰、暗元素抗性","etypeId":4,"traits":[
 		{"code":11,"dataId":1,"value":0.9},
 		{"code":11,"dataId":2,"value":0.9},
@@ -7403,18 +7401,20 @@
 		0,
 		0
 	],"price":10000},
-	{"id":618,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":618,"atypeId":21,"description":"「兼用副手」全能力+5，中幅提高土元素抗性\n可使用技能【\\ns[442]】","etypeId":2,"traits":[
+		{"code":11,"dataId":8,"value":0.7},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":442,"value":1}
+	],"iconIndex":144,"name":"梅杜莎手環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors618.txt>","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0},
+		5,
+		5,
+		5,
+		5,
+		5,
+		5
+	],"price":2000},
 	{"id":619,"atypeId":21,"description":"「兼用副手」迴避、魔迴+35%，可自動恢復TP(中)","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0.35},
 		{"code":22,"dataId":4,"value":0.35},
@@ -10264,10 +10264,12 @@
 		0,
 		0
 	],"price":0},
-	{"id":851,"atypeId":31,"description":"「兼用飾品」大幅提高火元素抗性、免疫著火、燃燒\n物攻+60","etypeId":5,"traits":[
+	{"id":851,"atypeId":31,"description":"「兼用飾品」大幅提高火元素抗性、免疫著火、燃燒\n物攻+60，可使用技能【\\ns[447]】","etypeId":5,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1},
-		{"code":11,"dataId":4,"value":0.5}
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":447,"value":1}
 	],"iconIndex":145,"name":"火之戒指","note":"四聖獸洞穴\n<道具額外文字檔:BLR_custom/detail/Armors/Armors851.txt>","params":[
 		0,
 		0,
@@ -10277,10 +10279,12 @@
 		0,
 		0,
 		0
-	],"price":2},
-	{"id":852,"atypeId":31,"description":"「兼用飾品」大幅提高雷元素抗性、免疫麻痺\n魔攻+60","etypeId":5,"traits":[
+	],"price":0},
+	{"id":852,"atypeId":31,"description":"「兼用飾品」大幅提高雷元素抗性、免疫麻痺\n魔攻+60，可使用技能【\\ns[448]】","etypeId":5,"traits":[
 		{"code":14,"dataId":19,"value":1},
-		{"code":11,"dataId":5,"value":0.5}
+		{"code":11,"dataId":5,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":448,"value":1}
 	],"iconIndex":145,"name":"雷之戒指","note":"四聖獸洞穴\n<道具額外文字檔:BLR_custom/detail/Armors/Armors852.txt>","params":[
 		0,
 		0,
@@ -10290,10 +10294,12 @@
 		0,
 		0,
 		0
-	],"price":2},
-	{"id":853,"atypeId":31,"description":"「兼用飾品」大幅提高冰元素抗性、免疫結冰\n魔防+100","etypeId":5,"traits":[
+	],"price":0},
+	{"id":853,"atypeId":31,"description":"「兼用飾品」大幅提高冰元素抗性、免疫結冰\n魔防+100，可使用技能【\\ns[449]】","etypeId":5,"traits":[
 		{"code":14,"dataId":16,"value":1},
-		{"code":11,"dataId":6,"value":0.5}
+		{"code":11,"dataId":6,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":449,"value":1}
 	],"iconIndex":145,"name":"冰之戒指","note":"四聖獸洞穴\n<道具額外文字檔:BLR_custom/detail/Armors/Armors853.txt>","params":[
 		0,
 		0,
@@ -10303,10 +10309,12 @@
 		100,
 		0,
 		0
-	],"price":2},
-	{"id":854,"atypeId":31,"description":"「兼用飾品」大幅提高風元素抗性、免疫流血\n速度+60","etypeId":5,"traits":[
+	],"price":0},
+	{"id":854,"atypeId":31,"description":"「兼用飾品」大幅提高風元素抗性、免疫流血\n速度+60，可使用技能【\\ns[450]】","etypeId":5,"traits":[
 		{"code":14,"dataId":17,"value":1},
-		{"code":11,"dataId":7,"value":0.5}
+		{"code":11,"dataId":7,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":450,"value":1}
 	],"iconIndex":145,"name":"風之戒指","note":"四聖獸洞穴\n<道具額外文字檔:BLR_custom/detail/Armors/Armors854.txt>","params":[
 		0,
 		0,
@@ -10316,10 +10324,12 @@
 		0,
 		60,
 		0
-	],"price":2},
-	{"id":855,"atypeId":31,"description":"「兼用飾品」大幅提高土元素抗性、免疫石化\n物防+100","etypeId":5,"traits":[
+	],"price":0},
+	{"id":855,"atypeId":31,"description":"「兼用飾品」大幅提高土元素抗性、免疫石化\n物防+100，可使用技能【\\ns[451]】","etypeId":5,"traits":[
 		{"code":14,"dataId":18,"value":1},
-		{"code":11,"dataId":8,"value":0.5}
+		{"code":11,"dataId":8,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":451,"value":1}
 	],"iconIndex":145,"name":"土之戒指","note":"\n<道具額外文字檔:BLR_custom/detail/Armors/Armors855.txt>","params":[
 		0,
 		0,
@@ -10329,10 +10339,12 @@
 		0,
 		0,
 		0
-	],"price":2},
-	{"id":856,"atypeId":31,"description":"「兼用飾品」大幅提高水元素抗性、免疫潮濕\n幸運+100","etypeId":5,"traits":[
+	],"price":0},
+	{"id":856,"atypeId":31,"description":"「兼用飾品」大幅提高水元素抗性、免疫潮濕\n幸運+100，可使用技能【\\ns[452]】","etypeId":5,"traits":[
 		{"code":14,"dataId":15,"value":1},
-		{"code":11,"dataId":9,"value":0.5}
+		{"code":11,"dataId":9,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":452,"value":1}
 	],"iconIndex":145,"name":"水之戒指","note":"小葵\n<道具額外文字檔:BLR_custom/detail/Armors/Armors856.txt>","params":[
 		0,
 		0,
@@ -10342,10 +10354,12 @@
 		0,
 		0,
 		100
-	],"price":2},
-	{"id":857,"atypeId":31,"description":"「兼用飾品」大幅提高光元素抗性、免疫混亂\nHP上限+150","etypeId":5,"traits":[
+	],"price":0},
+	{"id":857,"atypeId":31,"description":"「兼用飾品」大幅提高光元素抗性、免疫混亂\nHP上限+150，可使用技能【\\ns[453]】","etypeId":5,"traits":[
 		{"code":14,"dataId":10,"value":1},
-		{"code":11,"dataId":10,"value":0.5}
+		{"code":11,"dataId":10,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":453,"value":1}
 	],"iconIndex":145,"name":"光之戒指","note":"風鈴鈴\n<道具額外文字檔:BLR_custom/detail/Armors/Armors857.txt>","params":[
 		150,
 		0,
@@ -10355,10 +10369,12 @@
 		0,
 		0,
 		0
-	],"price":2},
-	{"id":858,"atypeId":31,"description":"「兼用飾品」大幅提高暗元素抗性、免疫沉默\nMP上限+150","etypeId":5,"traits":[
+	],"price":0},
+	{"id":858,"atypeId":31,"description":"「兼用飾品」大幅提高暗元素抗性、免疫沉默\nMP上限+150，可使用技能【\\ns[454]】","etypeId":5,"traits":[
 		{"code":14,"dataId":11,"value":1},
-		{"code":11,"dataId":11,"value":0.5}
+		{"code":11,"dataId":11,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":454,"value":1}
 	],"iconIndex":145,"name":"暗之戒指","note":"下水道\n<道具額外文字檔:BLR_custom/detail/Armors/Armors858.txt>","params":[
 		0,
 		150,
@@ -10368,8 +10384,8 @@
 		0,
 		0,
 		0
-	],"price":2},
-	{"id":859,"atypeId":31,"description":"「兼用飾品」八戒指合而為一，可大幅提高八種元素抗性，\n免疫全狀態異常，大幅提升HP、MP上限、全能力","etypeId":5,"traits":[
+	],"price":0},
+	{"id":859,"atypeId":31,"description":"「兼用飾品」大幅提高八種元素抗性，免疫全狀態異常，\n大幅提升HP、MP上限、全能力，可使用八種【戒指技能】","etypeId":5,"traits":[
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -10391,7 +10407,16 @@
 		{"code":11,"dataId":8,"value":0.5},
 		{"code":11,"dataId":9,"value":0.5},
 		{"code":11,"dataId":10,"value":0.5},
-		{"code":11,"dataId":11,"value":0.5}
+		{"code":11,"dataId":11,"value":0.5},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":447,"value":1},
+		{"code":43,"dataId":448,"value":1},
+		{"code":43,"dataId":449,"value":1},
+		{"code":43,"dataId":450,"value":1},
+		{"code":43,"dataId":451,"value":1},
+		{"code":43,"dataId":452,"value":1},
+		{"code":43,"dataId":453,"value":1},
+		{"code":43,"dataId":454,"value":1}
 	],"iconIndex":145,"name":"元素戒指","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors859.txt>","params":[
 		150,
 		150,
@@ -10401,7 +10426,7 @@
 		100,
 		60,
 		100
-	],"price":2},
+	],"price":0},
 	{"id":860,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -12308,7 +12333,7 @@
 	],"price":3000},
 	{"id":1007,"atypeId":37,"description":"「\\N[31]專用」繪製了雷霆符文的煉金道具，能夠提高煉製藥\n劑的變異機率，免疫麻痺、造成的雷、爆裂屬性傷害小幅提升。","etypeId":2,"traits":[
 		{"code":14,"dataId":19,"value":1}
-	],"iconIndex":323,"name":"閃之調製瓶","note":"<屬性傷害倍率:[[5,1.10]]>\n<屬性傷害倍率:[[12,1.10]]>","params":[
+	],"iconIndex":323,"name":"閃之調製瓶","note":"<屬性傷害倍率:[[5,1.10],[12,1.10]]>","params":[
 		0,
 		0,
 		0,

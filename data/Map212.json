@@ -26295,7 +26295,7 @@
 				"「你這幾天飯都沒吃好，覺也沒睡好，一直在"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"想著天使小姐的事情。」"
+				"到處奔波，還掛心著天使小姐的事情。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -26652,7 +26652,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				5,
+				1,
 				0,
 				2
 			]},
@@ -26660,10 +26660,209 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等天使小姐的身體好了後，我們就繼續冒險"
+				"「對了．．．說到這，小蘆的情況如何？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"吧！」"
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「有打聽到你妹妹的下落嗎？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				36,
+				7,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「別提了．．．根本找不到！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				37,
+				1,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「找不到？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				36,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				13,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯．．．我到各個酒店打聽、在街上詢問"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"路人，茉莉也有派人調查。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可是．．．哪裡都找不到小蘆的蹤跡，唯一"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"找到的、也就是我們全家遇襲那個事件。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我們全家遇襲之後，小蘆就像是人間蒸發，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"城鎮的戶口文本都沒有她的蹤跡。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「加上．．．我除了知道她叫小蘆、跟她的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"長相外，幾乎沒有其他有用的線索了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果她還活著，現在也長大了，我大概也"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"認不出來了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「唉～說什麼會找到她，算命的根本就在"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"騙人！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				37,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「唉．．．大哥也不知道該說什麼，這世界"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"大海茫茫，要找一個十多年沒見面的人，的確"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"很困難。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				37,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果是這樣，等天使小姐的身體好了後，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"要不要繼續旅行，一起去\\N[55]看看？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -26720,7 +26919,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你該不會以為冒險這樣就結束了吧？」"
+				"「你該不會以為旅行這樣就結束了吧？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -26810,7 +27009,10 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如何，有興趣之後一起去\\N[55]看看嗎？」"
+				"「如何，要不要一起去\\N[55]看看，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"說不定可以找到你妹妹的線索？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				36,
@@ -26819,7 +27021,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				1,
+				2,
 				0,
 				2
 			]},
@@ -26827,7 +27029,10 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這問題，等娟醒來後再討論吧。」"
+				"「唉．．．老實說我不太抱希望了，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這問題等娟醒來後再討論吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27786,7 +27991,7 @@
 				"「等娟的身體好了以後，他打算帶我們繼續往"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[55]旅行。」"
+				"\\N[55]，去打探我妹妹的事情。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27928,17 +28133,79 @@
 			{"code":401,"indent":0,"parameters":[
 				"「呃．．．這麼說也是。」"
 			]},
+			{"code":213,"indent":0,"parameters":[
+				36,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				36,
+				8,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				0,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
+				"雖然有點可惜，但是這也是沒辦法的事情吧。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				1,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然有點可惜，但是這也是沒辦法的事情。」"
+				"畢竟雷娜大美女也有自己的生活．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我總不好意思一直綁的她，讓她來陪我找那個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"虛無飄渺的妹妹吧？"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"只能．．．祝福她了。"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				38,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_05_1",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"抱歉喔，小色鬼．．．雖然姐姐很想陪你"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"一起前往。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_05_1",
+				9,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但是船．．．那個是老娘的天敵啊．．．"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				38,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -27954,12 +28221,20 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
-				1,
+				8,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不過啊．．．等確定了再跟你們說吧．．．"
+				"畢竟姐姐的年齡也不小了，得趕快把握機會"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"才行．．．"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				38,
+				11,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -28961,7 +29236,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				7,
+				3,
 				0,
 				1
 			]},
@@ -28969,7 +29244,10 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　　　　隔日．．．\\|\\|\\^"
+				"\\TXTCENTER:\"隔日．．．\"\\|\\|\\^"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				10,
