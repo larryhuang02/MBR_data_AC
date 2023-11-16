@@ -7413,6 +7413,9 @@
 				"if(evt._created && !(evt._cloneCnt>=evt._cloneCntMax)){ evt._cloneCntMax=64; evt._cloneCnt|=0; ++evt._cloneCnt; for(let x=0,arr=evt._created,xs=arr.length;x!==xs;++x) evts[arr[x]]._opacity=(evt._cloneCnt/evt._cloneCntMax)*255; }"
 			]},
 			{"code":655,"indent":0,"parameters":[
+				"if(evt._created) for(let x=0,arr=evt._created,xs=arr.length;x!==xs;++x) if(Math.random()<0.015625) evts[arr[x]].turnTowardPlayer();"
+			]},
+			{"code":655,"indent":0,"parameters":[
 				"}"
 			]},
 			{"code":0,"indent":0,"parameters":[
