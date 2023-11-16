@@ -64110,6 +64110,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"摔下去的話後果不堪設想！\\c[0]」"
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -66188,5 +66191,6 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":40,"y":24}
+	],"x":40,"y":24},
+	null
 ]}

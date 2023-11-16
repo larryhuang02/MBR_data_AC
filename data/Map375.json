@@ -91620,6 +91620,9 @@
 	],"x":83,"y":54},
 	{"id":513,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
