@@ -1,0 +1,7 @@
+﻿img\pictures\TK4.png
+img\pictures\TK4_villagers.png
+
+
+img\sv_actors\SV_Helen.png
+img\sv_actors\Actor2_4.png
+

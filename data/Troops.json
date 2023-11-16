@@ -15,10 +15,7 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":577,"x":165,"y":360,"hidden":false},
-		{"enemyId":578,"x":360,"y":295,"hidden":false},
-		{"enemyId":579,"x":336,"y":444,"hidden":false}
-	],"name":"TEST","pages":[
+	],"name":"","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}

@@ -1,4 +1,4 @@
-{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"1神秘洞","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
+{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"1神秘洞","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
 ],"encounterStep":30,"height":34,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"MT_parallaxes_Mountains_Star","parallaxShow":true,"parallaxSx":0,"parallaxSy":3,"scrollType":0,"specifyBattleback":false,"tilesetId":6,"width":118,"data":[
 	0,
 	0,
@@ -24127,6 +24127,8 @@
 				10,
 				2,
 				0
+			]},
+			{"code":244,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

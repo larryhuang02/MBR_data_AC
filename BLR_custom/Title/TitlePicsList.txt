@@ -1,0 +1,38 @@
+﻿Title_BLR01
+
+
+Title_BLR02
+#
+cond.遊戲進度 >= 98
+
+Title_BLR03
+#
+cond.遊戲進度 >= 54
+
+Title_BLR04
+#
+cond.遊戲進度 >= 1000
+
+Title_BLR05
+#
+cond.遊戲進度 >= 570
+
+Title_BLR06
+#
+cond.遊戲進度 >= 70
+
+Title_BLR07
+#
+cond.遊戲進度 >= 291
+
+Title_BLR08
+#
+cond.遊戲進度 >= 453
+
+Title_BLR09
+#
+cond.遊戲進度 >= 763
+
+Title_BLR10
+#
+cond.遊戲進度 >= 715

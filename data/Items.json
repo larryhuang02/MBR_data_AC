@@ -2211,12 +2211,12 @@
 	],"hitType":2,"iconIndex":208,"itypeId":1,"name":"懶散粉末","note":"<speed:20000>","occasion":1,"price":1500,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
 	{"id":842,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":843,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":844,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":845,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":843,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的光明教設立初衷與所有教義內容的手冊，\n書背上寫著，如果對光明教有興趣，請洽冒險者公會奇羅。","effects":[
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"光明教宣傳手冊","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":844,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的所有煉金術知識，裡面寫的內容根本就不像\n是30秒內能夠讀完的，估計只是噱頭吧。","effects":[
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"30秒內參透煉金術","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":845,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的元素大陸風土民情的書籍，可以藉由它\n一窺元素大陸的所有人文地理。","effects":[
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"元素大陸風土民情","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":846,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"紀載了高深煉金術的單頁筆記，將它內化消化以後能大幅\n提高魔法與煉金的能力。","effects":[
 	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賢者之章","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":847,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"在怪物競技場成為冠軍獲得的證明，是用來進化巨人誓言\n，讓其成為最強裝備的素材。","effects":[

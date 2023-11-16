@@ -4537,6 +4537,9 @@
 				8,
 				0
 			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"40 Something is born_MV","volume":50,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[

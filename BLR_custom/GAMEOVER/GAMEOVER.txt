@@ -1,0 +1,52 @@
+﻿
+# 井字號開頭是註解，會讓上下相鄰列變成同一組，井字號後會被無視。無視後的空行仍算一行，並且不作為下列所指分隔符號。
+# 整個txt以連續1或多個空列作為分隔符號，分成多組，分隔後未達4列者會被無視。
+
+# 標題或說明。無視註解(包含井字號)後若為空列(只剩下tab或空白)，則無視此組。
+# 每圖幾幀。用井字號使該列成為空列則使用預設值，預設值=1。
+# 會變成候選者的條件。使用 javascript 的 eval ，故可直接輸入 js ，另可參考 title 。用井字號使該列成為空列則使用預設值，預設值=true。
+# 隨機出現時的權重，負不計且不會被選到。用井字號使該列成為空列則使用預設值，預設值=1。
+# 幀額外設定這圖幾幀，預設用上面的每圖幾幀 |圖1路徑
+# 幀額外設定這圖幾幀，預設用上面的每圖幾幀|圖2路徑
+# 圖3路徑
+# ...
+
+# 格式說明
+# 第一行:純標題，內容沒有任何影響
+# 第二行:全域幀數(IF不換圖片，使用#or1，IF要換圖片，則輸入數字)
+# 第三行:顯示條件(讀JS格式)，IF無條件顯示，則輸入#or輸入true
+# 第四~N行:顯示每張圖片的路徑，格式(X|路徑)(X=出現幀數，IF這裡沒填，時間則改讀"全域幀數"；|是分隔號，如果有填入此，則X至少要填1，不然X會判定為0；路徑=圖片位置)
+
+GameOver01
+#
+cond.遊戲進度 <= 97
+5
+img/system/GameOver01_01.png
+
+
+GameOver02
+12
+cond.遊戲進度 >= 98
+5
+img/system/GameOver02_01.png
+img/system/GameOver02_02.png
+img/system/GameOver02_03.png
+img/system/GameOver02_04.png
+img/system/GameOver02_05.png
+img/system/GameOver02_06.png
+img/system/GameOver02_07.png
+img/system/GameOver02_08.png
+img/system/GameOver02_09.png
+
+
+GameOver03
+#
+cond.遊戲進度 >= 1121
+1
+img/system/GameOver03_01.png
+
+
+# 理論上這組會被無視
+# 預設
+# 預設
+#連路徑都寫註解(會被挖掉)。

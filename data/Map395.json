@@ -1,4 +1,4 @@
-{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"40 Something is born_MV","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
+{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"40 Something is born_MV","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
 ],"encounterStep":30,"height":30,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":6,"width":50,"data":[
 	0,
 	0,
@@ -5220,7 +5220,7 @@
 	0,
 	0,
 	0,
-	198,
+	0,
 	198,
 	177,
 	177,
@@ -5270,7 +5270,7 @@
 	0,
 	128,
 	0,
-	206,
+	505,
 	206,
 	185,
 	185,
@@ -9116,6 +9116,11 @@
 				8,
 				0
 			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"1神秘洞","volume":50,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -9392,6 +9397,11 @@
 				8,
 				2,
 				0
+			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"Town5","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -10397,5 +10407,271 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
 	],"x":16,"y":14},
-	null
+	{"id":32,"name":"EV032","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這裡是音樂點播器，請問你要播放哪首BGM？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"※此處的BGM均由小鹿進行重配過"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"指定編號進行點播",
+					"恢復為房間預設BGM",
+					"離開"
+				],
+				2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"指定編號進行點播"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"請輸入編號01~編號11"
+			]},
+			{"code":103,"indent":1,"parameters":[
+				21,
+				2
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				1,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"1神秘洞","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				2,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"1開頭問題測驗","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				3,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"1龍之谷","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				4,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"Liveliness","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				5,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"Vehicle_1_2","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				6,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"Vehicle_2_2","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				7,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"Vehicle_3_2","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				8,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"妖精1","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				9,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"村3","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				10,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"迷宮1","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				11,
+				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"魔王","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				21,
+				0,
+				12,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"沒有這首！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"恢復為房間預設BGM"
+			]},
+			{"code":241,"indent":1,"parameters":[
+				{"name":"40 Something is born_MV","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":16,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":17,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":18,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":19,"indent":null},
+			{"code":15,"parameters":[
+				10
+			],"indent":null},
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":20,"y":15}
 ]}

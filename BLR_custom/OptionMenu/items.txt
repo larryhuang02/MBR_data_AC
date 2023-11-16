@@ -1,0 +1,21 @@
+﻿每一個選項都有其"symbol"，該"symbol"不與其他人重複，相當於選項的id。
+此txt的每一行都是一個"symbol"，讓選項選單可以依據每一行從前到最後的順序來讓選項。
+如果找不到如此的"symbol"，則什麼事都不會發生。
+
+// 聲音
+bgmVolume
+bgsVolume
+meVolume
+seVolume
+Volume-選單內降低bgm音量
+
+// 戰鬥
+commandRemember
+
+// 背包
+newThingFirst
+
+// 存檔
+key-edtSaveName
+key-loadLocal
+key-saveLocal
