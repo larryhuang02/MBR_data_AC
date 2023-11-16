@@ -8471,7 +8471,7 @@
 				"賞金獵人A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呃．．．那鬼哭神嚎的是什麼歌啊．．．」"
+				"「呃．．．那鬼哭神嚎的是什麼歌啊？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8496,10 +8496,10 @@
 				"賞金獵人A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「上一首的揭化發，不得不說旋律還挺有趣的"
+				"「上一首的揭化發，不得不說旋律還挺有趣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"的。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8636,10 +8636,10 @@
 				"酒保"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「金菲士、咖啡馬丁尼、邁泰．．．"
+				"「金菲士、咖啡馬丁尼、邁泰．．．每個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"每個都令人著迷。」"
+				"都令人著迷。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8661,7 +8661,10 @@
 				"酒保"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他媽的，哪家的小鬼跑來這裡喝酒啊！」"
+				"「誰家的小孩跑來這裡喝酒啊！我不能賣酒給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小孩子！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Butlers",
@@ -8676,22 +8679,7 @@
 				"「算命師說我今早會遇到真命天女，不可能是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這乳臭未乾的小ㄚ頭吧！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Butlers",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"酒保"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我會被大家用『看垃圾的表情』對待的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"她吧？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8713,7 +8701,7 @@
 				"酒保"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我．．．我是無辜的！」"
+				"「我、我是無辜的！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -10884,7 +10872,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				3500
+				7000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -10896,7 +10909,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了3500\\g。"
+				"獲得了7000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
@@ -11501,7 +11514,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				3500
+				7000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -11513,7 +11551,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了3500\\g。"
+				"獲得了7000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
@@ -11628,7 +11666,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				3500
+				7000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -11640,7 +11703,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了3500\\g。"
+				"獲得了7000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
@@ -11718,7 +11781,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				5000
+				10000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -11730,7 +11818,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了5000\\g。"
+				"獲得了10000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"B",
@@ -11844,7 +11932,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				10000
+				20000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -11856,7 +11969,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了10000\\g。"
+				"獲得了20000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"C",
@@ -12132,7 +12245,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				3500
+				7000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -12144,7 +12282,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了3500\\g。"
+				"獲得了7000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
@@ -12259,7 +12397,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				5000
+				10000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -12271,7 +12434,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了5000\\g。"
+				"獲得了10000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"B",
@@ -12386,7 +12549,32 @@
 			{"code":125,"indent":2,"parameters":[
 				0,
 				0,
-				10000
+				20000
+			]},
+			{"code":126,"indent":2,"parameters":[
+				304,
+				0,
+				0,
+				5
+			]},
+			{"code":122,"indent":2,"parameters":[
+				434,
+				434,
+				1,
+				0,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得了5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -12398,11 +12586,100 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得了10000\\g。"
+				"獲得了20000\\g。"
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"C",
 				0
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				574,
+				1
+			]},
+			{"code":111,"indent":1,"parameters":[
+				2,
+				"A",
+				0
+			]},
+			{"code":111,"indent":2,"parameters":[
+				2,
+				"B",
+				0
+			]},
+			{"code":111,"indent":3,"parameters":[
+				2,
+				"C",
+				0
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_KIRO",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"奇羅"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"「哇！雖然早就知道你們很厲害，但沒想到你們"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"居然能把那些棘手的任務處理掉。」"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_KIRO",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"奇羅"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"「這個是會長說要感謝你們的功勞，送你們的"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"勳章。」"
+			]},
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":4,"parameters":[
+				847,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"獲得了\\ni[847]。"
+			]},
+			{"code":121,"indent":4,"parameters":[
+				574,
+				574,
+				0
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -12626,7 +12903,7 @@
 				"「關於你昨天勾引我家小姐的事情，我想跟你"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"聊一聊．．．」"
+				"聊一聊。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -13240,7 +13517,33 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
 	],"x":41,"y":1},
-	null,
+	{"id":24,"name":"EV039(同EV014)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":17},"directionFix":false,"image":{"tileId":0,"characterName":"PeopleMZ_03","direction":6,"pattern":1,"characterIndex":6},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"第二天白天"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"PeopleMZ_03",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人甲"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯，聽說裝備店裡做了新的飾品，好像能夠"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"有效減少藥水的消耗，等等去看看好了。」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":39,"y":19},
 	{"id":25,"name":"阻擋格０１","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -15365,7 +15668,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：3500\\G"
+				"【報酬】：7000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ｂ＋"
@@ -15439,7 +15742,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：3500\\G"
+				"【報酬】：7000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ｂ＋"
@@ -15491,7 +15794,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：5000\\G"
+				"【報酬】：10000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ａ"
@@ -15565,7 +15868,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：5000\\G"
+				"【報酬】：10000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ａ"
@@ -15617,7 +15920,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：10000\\G"
+				"【報酬】：20000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ｓ"
@@ -15703,7 +16006,7 @@
 				"\\C[21]【委託人】：冒險者公會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"【報酬】：10000\\G"
+				"【報酬】：20000\\G、5個\\ni[304]、1點技能天賦點。"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"【難易度】：Ｓ"
@@ -15860,10 +16163,10 @@
 				"賞金獵人C"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「找失蹤的小狗小貓，賞金獵人怎麼拿來這樣"
+				"「找失蹤的小狗小貓，賞金獵人果然最常做的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"用？」"
+				"事情還是打雜啊。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15897,7 +16200,7 @@
 				"賞金獵人A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼才100金幣而已．．．」"
+				"「怎麼才100金幣而已。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15941,10 +16244,10 @@
 				"賞金獵人B"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幫裸體老奶奶洗澡．．．"
+				"「幫裸體老奶奶洗澡．．．下次這種任務"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"下次這種任務千萬別找我！」"
+				"千萬別找我！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15966,13 +16269,10 @@
 				"賞金獵人B"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幫裸體老爺爺洗澡．．．"
+				"「幫裸體老爺爺洗澡．．．這工作雖然也是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這工作雖然也是很屎缺，但總比上次的好多了"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"很屎缺，但總比上次的好多了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16040,10 +16340,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「想不到我玉面飛龍皮褒骨．．．"
+				"「想不到我玉面飛龍皮褒骨，終於能吃到飯了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"終於要吃到飯了，嗚嗚嗚．．．」"
+				"嗚嗚嗚。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16062,10 +16362,303 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":22,"y":7},
-	null,
-	null,
-	null,
-	null,
+	{"id":42,"name":"EV039(同EV014)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":17},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Generals 2","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"第二天白天"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Generals 2",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人乙"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「最近公會賣的藥水越來越貴了，希望再過一段"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"時間價格可以降下來。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Generals 2",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人乙"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「最進聽說古菌森林的魔物好像會掉藥草，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"好像還不少，還是我也找個煉金術師合作呢？」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":36,"y":20},
+	{"id":43,"name":"EV039(同EV014)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":36},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Evil Generals M","direction":4,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"第二天白天"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Evil Generals M",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人丙"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「真是個不輕鬆的世界啊，雖然狩獵魔物賺的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不少，但是消耗也大。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Evil Generals M",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人丙"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不知道未來的世道會不會變的比較親切。」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":42,"y":19},
+	{"id":44,"name":"EV039(同EV014)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":36},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Ninjas","direction":4,"pattern":1,"characterIndex":6},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"第二天白天"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人丁"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「裝備店強化裝備好貴啊，比起強化裝備，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"還是多準備一點藥水好了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人丁"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟裝備提升的沒有很明顯，但是藥水"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"卻很重要，裝備還是有餘韻再強化好了。」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":30,"y":19},
+	{"id":45,"name":"EV045","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":575,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":36},"directionFix":false,"image":{"tileId":531,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"第三天白天"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				2,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「\\NI[843]？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Maids",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"廚娘"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊，\\N[31]先生，你好啊。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Maids",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"廚娘"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這個是奇羅先生放在這裡，說是可以給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冒險者們自由翻閱的手冊。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「只是教義而已，意外的很厚一本啊。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Maids",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"廚娘"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果攸特先生感興趣的話可以拿走沒關係，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"奇羅先生還有好多本放在這呢。」"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				575,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_31_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"對了，舊書交換的那位小姐不知道對這本書"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"有沒有興趣。"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_31_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「好吧，那我就拿走了，替我和奇羅說聲"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"謝謝。」"
+			]},
+			{"code":126,"indent":1,"parameters":[
+				843,
+				0,
+				0,
+				1
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"獲得了\\NI[843]。"
+			]},
+			{"code":123,"indent":1,"parameters":[
+				"A",
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_31_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「沒關係，我沒有什麼興趣。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":7,"y":8},
 	null,
 	null,
 	null,

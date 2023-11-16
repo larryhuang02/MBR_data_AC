@@ -5611,6 +5611,21 @@
 				"櫃台小姐"
 			]},
 			{"code":401,"indent":0,"parameters":[
+				"「啊對了對了，差點忘了，這是你的冠軍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獎品。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Bunny Girls",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":0,"parameters":[
 				"「呵呵，不過啊，雖然你已經成為冠軍了，還是"
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -5644,7 +5659,7 @@
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":126,"indent":0,"parameters":[
-				847,
+				848,
 				0,
 				0,
 				1
@@ -5663,7 +5678,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得了冠軍之證、1點技能天賦點。"
+				"獲得了\\ni[848]、1點技能天賦點。"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				436,
