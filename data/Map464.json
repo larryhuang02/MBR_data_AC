@@ -4716,17 +4716,8 @@
 	],"x":11,"y":29},
 	{"id":2,"name":"EV002","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_studio_01","direction":2,"pattern":1,"characterIndex":2},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"BLR_studio_GOLD",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"金髮小正太"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「？」"
+			{"code":355,"indent":0,"parameters":[
+				"$gameVariables.setValue(21,this._eventId);"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_studio_GOLD",
@@ -4735,10 +4726,16 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"金髮小正太"
+				"\\F[金髮小正太]？"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊～別理我，請自己隨意看看。」"
+				"\\F[金髮小正太]啊！別理我，請自己隨意看看。"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -4761,15 +4758,15 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「我是黃金，是月藍傳奇remake的主程式。」"
+				"\\F[黃金]我是黃金，是月藍傳奇remake的主程式。"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				0,
 				8,
-				true
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				4
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_GOLD",
@@ -4778,18 +4775,21 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"黃金"
+				"\\F[黃金]我也不知道我為什麼會被安排來看管圖書館，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我也不知道我為什麼被安排來看管圖書館，"
+				"難道天神不知道這樣是雇用非法童工嗎？"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"難道天神不知道這樣是雇用非法童工嗎？」"
+				"而且現實中我根本沒顧過圖書館。"
 			]},
 			{"code":213,"indent":1,"parameters":[
 				0,
 				8,
-				true
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				4
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_GOLD",
@@ -4798,10 +4798,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「總之，你有什麼事情嗎？」"
+				"\\F[黃金]總之，你有什麼事情嗎？"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -4824,10 +4821,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"「機密資料？你想知道什麼資料？」"
+				"\\F[黃金]機密資料？你想知道什麼資料？"
 			]},
 			{"code":118,"indent":2,"parameters":[
 				"01"
@@ -4841,7 +4835,7 @@
 					"其他頂級裝備情報",
 					"離開"
 				],
-				-1,
+				5,
 				0,
 				2,
 				0
@@ -4852,18 +4846,27 @@
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]難道你是新玩家，不知道月藍傳奇的經典裝備？"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「莫非你是新玩家，不曉得月藍傳奇的經典"
+				"沒關係，我也是！"
+			]},
+			{"code":250,"indent":3,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"神兵？」"
+				"\\F[黃金]我看看ㄛ"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4872,16 +4875,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「\\nw[210]:"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「\\nw[210]，月藍傳奇1的經典神兵，"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"具有攻擊敵方全體6下的暴力輸出，"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"此外還附帶多種狀態異常。」"
+				"月藍傳奇1的經典神兵，具有攻擊敵方全體6下的暴力輸出，此外還附帶多種狀態異常。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4890,16 +4887,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「這武器是由刀神兵\\nw[21]、"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"劍神兵\\nw[50]、杖\\nw[170]、"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\na[893]融合而成。」"
+				"\\F[黃金]「這武器是由：刀神兵\\nw[21]、劍神兵\\nw[50]、杖\\nw[170]、\\na[893]融合而成。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4908,33 +4896,53 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「因為會損失其他裝備來換得\\N[1]專用的頂級武器，如何取捨自己思考吧！」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「因為會損失其他裝備來換得\\N[1]專用的"
+				"\\F[黃金]天神給的書上是這麼寫的！"
 			]},
-			{"code":401,"indent":3,"parameters":[
-				"頂級武器，如何取捨自己思考吧！」"
+			{"code":230,"indent":3,"parameters":[
+				44
 			]},
 			{"code":213,"indent":3,"parameters":[
 				0,
 				8,
-				true
+				false
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]另外，其實還有一個方法可以直接獲得這東西，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「另外，其實還有一個方法可以直接獲得這個"
+				"但目前還不能告訴你，嘿嘿～"
 			]},
-			{"code":401,"indent":3,"parameters":[
-				"神兵，但目前還不能告訴你，嘻嘻～」"
+			{"code":111,"indent":3,"parameters":[
+				8,
+				352
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]當然也可以用我的魔法書直接變出來！"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"01"
@@ -4945,38 +4953,17 @@
 				1,
 				"刀神兵情報"
 			]},
+			{"code":250,"indent":3,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「刀神兵\\nw[21]，前後必須經過下列"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"流程才能取得，自己記好啊！」"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「1.於鄉南村公佈欄撕下榜單，進行偷內衣"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"比賽、並且要20件全偷到手，可以得到"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\nw[19]。」"
+				"\\F[黃金]我看看ㄛ"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -4985,10 +4972,34 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「刀神兵\\nw[21]："
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「2.在凱鐵支畝村武器店跟妖修對話，"
+				"必須經過下列流程才能取得，自己記好啊！」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\F[黃金]「1. 於鄉南村公佈欄撕下榜單，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"進行偷內衣比賽、並且要 20 件全偷到手，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"可以得到\\nw[19]。」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\F[黃金]「2. 在凱鐵支畝村武器店跟妖修對話，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"開啟相關任務線。」"
@@ -5000,10 +5011,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「3.在王都酒店跟他進行戰鬥並獲勝。」"
+				"\\F[黃金]「3. 在王都酒店跟他進行戰鬥並獲勝。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5012,10 +5020,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「4.在雪北村酒店跟他進行戰鬥並獲勝。」"
+				"\\F[黃金]「4. 在雪北村酒店跟他進行戰鬥並獲勝。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5024,13 +5029,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「5. 到雪北村王老虎家觸發劇情，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「5.到雪北村王老虎家觸發劇情，獲得"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\na[624]。」"
+				"獲得\\na[624]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5039,16 +5041,13 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「6. 到王都北街區的四戀❦楚歌咖啡廳"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「6.到王都北街區的四戀❦楚歌咖啡廳與"
+				"與哈瑞對話，離開咖啡廳後翻進二樓"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"哈瑞對話，離開咖啡廳後翻進二樓偷出四件"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"內衣。」"
+				"偷出四件內衣。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5057,10 +5056,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「7.到達西村西邊的鑄劍泉跟哈瑞對話，"
+				"\\F[黃金]「7. 到達西村西邊的鑄劍泉跟哈瑞對話，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"合成\\nw[20]。」"
@@ -5072,13 +5068,13 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「8. 持有飛空艇後，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「8.持有飛空艇後，到卡姆城的左方山上的"
+				"到卡姆城的左方山上的洞穴內，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"洞穴內，打敗亡靈船長獲得生理褲。」"
+				"打敗亡靈船長獲得生理褲。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5087,16 +5083,25 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「9.到達西村西邊的鑄劍泉跟哈瑞對話，"
+				"\\F[黃金]「9. 到達西村西邊的鑄劍泉跟哈瑞對話，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"合成\\nw[21]。」"
 			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\F[黃金]\\STRIKETHROUGHSTART所以哈瑞是變ㄊ\\STRIKETHROUGHEND\\TXTFONTSIZE\"96\""
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\EVALJSCODE\"$gameMap._events[$gameVariables.value(21)].jump(0,0)\" \\AUDIO_SE\"Jump1|75|150\" \\TXTCENTER:\"我是說\"\\^"
+			]},
 			{"code":119,"indent":3,"parameters":[
-				"01"
+				"01紙條"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -5104,20 +5109,8 @@
 				2,
 				"劍神兵情報"
 			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「劍神兵\\nw[50]，前後必須經過下列"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"流程才能取得，自己記好啊！」"
+			{"code":250,"indent":3,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5126,13 +5119,34 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]我看看ㄛ"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「1.進入泉晨鎮東邊的海底隧道，在進入山洞"
+				"\\F[黃金]「劍神兵\\nw[50]："
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"的第一張地圖，到最右上方處密室（有密道），"
+				"必須經過下列流程才能取得，自己記好啊！」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\F[黃金]「1. 進入泉晨鎮東邊的海底隧道，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"在進入山洞的第一張地圖，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"到最右上方處密室（有密道），"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"限時拔劍取得\\nw[48]。」"
@@ -5144,13 +5158,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「2. 到達西村西邊的鑄劍泉，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「2.到達西村西邊的鑄劍泉，將\\nw[48]"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"投入水中獲得\\nw[49]。」"
+				"將\\nw[48]投入水中獲得\\nw[49]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5159,10 +5170,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「3.到王都北邊的龍之谷，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「3.到王都北邊的龍之谷，開啟龍王的委託。」"
+				"開啟龍王的委託。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5171,13 +5182,13 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「4. 持有飛空艇後，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「4.持有飛空艇後，從龍之谷另一個入口"
+				"從龍之谷另一個入口進入後半部，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"進入後半部，打敗深處的邪龍並回報龍王，"
+				"打敗深處的邪龍並回報龍王，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"獲得\\ni[485]。」"
@@ -5189,16 +5200,13 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「5.到達西村西邊的鑄劍泉，"
+				"\\F[黃金]「5. 到達西村西邊的鑄劍泉，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"合成\\nw[50]。」"
 			]},
 			{"code":119,"indent":3,"parameters":[
-				"01"
+				"01紙條"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -5206,20 +5214,8 @@
 				3,
 				"杖神兵情報"
 			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「杖神兵\\nw[170]，前後必須經過下列"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"流程才能取得，自己記好啊！」"
+			{"code":250,"indent":3,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5228,13 +5224,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「1.進入黃金城頂樓，開啟梅杜莎的寶箱"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"，密碼110220120，獲得\\ni[438]。」"
+				"\\F[黃金]我看看ㄛ"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5243,13 +5233,40 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「杖神兵\\nw[170]："
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「2.進入王都右方墓塚，進入山壁後的第一個"
+				"必須經過下列流程才能取得，自己記好啊！」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"地圖，鑽進地圖左上角(假墓碑可穿透)，"
+				"\\F[黃金]「1. 進入黃金城頂樓，開啟梅杜莎的寶箱，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"輸入密碼110220120，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"獲得\\ni[438]。」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\F[黃金]「2. 進入王都右方墓塚，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"進入山壁後的第一個地圖，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"鑽進地圖左上角(假墓碑可穿透)，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"\\nw[168]。」"
@@ -5261,10 +5278,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「3.進入達西村附近的神祇遺跡地下迷宮，"
+				"\\F[黃金]「3. 進入達西村附近的神祇遺跡地下迷宮，"
 			]},
 			{"code":401,"indent":3,"parameters":[
 				"通過地圖右上角的箭頭迷陣，進入密室。」"
@@ -5276,13 +5290,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「4. 消耗上述材料，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「4.消耗上述材料，在密室合成"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\nw[169]。」"
+				"在密室合成\\nw[169]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5291,13 +5302,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「5. 持有飛空艇後，到鄉南村東南邊的火煉爐，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「5.持有飛空艇後，到鄉南村東南邊的"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"火煉爐，打敗依佛利特。」"
+				"打敗依佛利特。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5306,10 +5314,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「6. 於火煉爐投入各式寶石，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「6.於火煉爐投入各式寶石，合成\\ni[465]。」"
+				"合成\\ni[465]。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
@@ -5318,16 +5326,13 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]「7. 重新回到神祇遺跡密室，"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「7.重新回到神祇遺跡密室，合成"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\nw[170]。」"
+				"合成\\nw[170]。」"
 			]},
 			{"code":119,"indent":3,"parameters":[
-				"01"
+				"01紙條"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -5340,15 +5345,15 @@
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"黃金"
+				"\\F[黃金]你還想知道什麼？"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「你想知道什麼裝備？」"
+				"反正我會直接念天神給ㄉ書！"
 			]},
 			{"code":102,"indent":3,"parameters":[
 				[
@@ -5366,23 +5371,8 @@
 				0,
 				"遊戲最終鎧甲"
 			]},
-			{"code":101,"indent":4,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"「最終鎧甲\\na[378]、\\na[410]，為本作"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"最強的兩件衣服，限定\\N[1]、\\N[2]"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"才能裝備。」"
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":4,"parameters":[
 				"BLR_studio_GOLD",
@@ -5391,13 +5381,7 @@
 				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"「取得也很單純，持有飛空艇後，到雪北村"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"西邊山上的洞穴內即可取得。」"
+				"\\F[黃金]我看看ㄛ"
 			]},
 			{"code":101,"indent":4,"parameters":[
 				"BLR_studio_GOLD",
@@ -5406,13 +5390,58 @@
 				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"黃金"
+				"\\F[黃金]「最終鎧甲\\na[378]、\\na[410]："
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「假如好感度不足，到王都賭場多賭一些"
+				"為本作最強的兩件衣服，"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"\\ni[308]就沒問題囉。」"
+				"限定\\N[1]、\\N[2]才能裝備。」"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]「取得也很單純，持有飛空艇後，"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"到雪北村西邊山上的洞穴內即可取得。」"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]「假如好感度不足，到王都賭場"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"多賭一些\\ni[308]就沒問題囉。」"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]誒？\\.\\EVALJSCODE\"$gameMap._events[$gameVariables.value(21)].jump(0,0)\" \\AUDIO_SE\"Jump1|75|150\""
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"天神怎麼叫小孩唸「多賭一些」？"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]該說真不愧是靠賽遊戲嗎？"
 			]},
 			{"code":119,"indent":4,"parameters":[
 				"02"
@@ -5423,23 +5452,8 @@
 				1,
 				"遊戲最終飾品"
 			]},
-			{"code":101,"indent":4,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"「本作最強的飾品\\na[859]，原本於"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"月2才登場，這次特別於remake重製"
-			]},
-			{"code":401,"indent":4,"parameters":[
-				"出來。」"
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":4,"parameters":[
 				"BLR_studio_GOLD",
@@ -5448,13 +5462,34 @@
 				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"黃金"
+				"\\F[黃金]我看看ㄛ"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「持有飛空艇後，到王都東北山上的洞穴內，"
+				"\\F[黃金]「本作最強的飾品\\na[859]："
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"擊敗千變妖狐，並且持有八種元素相關的戒指"
+				"原產於月2才登場，"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"這次特別於remake重製出來。」"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]「持有飛空艇後，到王都東北山上的洞穴內，"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"擊敗千變妖狐，並且持有八種元素相關的戒指，"
 			]},
 			{"code":401,"indent":4,"parameters":[
 				"即可合成。」"
@@ -5473,17 +5508,8 @@
 				0,
 				"八種元素相關戒指在哪？"
 			]},
-			{"code":101,"indent":5,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[851]可在朱雀洞內獲得。」"
+			{"code":250,"indent":5,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5492,97 +5518,58 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[852]可在青龍洞內獲得。」"
+				"\\F[黃金]我看看ㄛ"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[853]可在玄武洞內獲得。」"
+				"\\F[黃金]誒？一個個分開念？天神你認真？"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]還是一次列出來吧？"
 			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[854]可在白虎洞內獲得。」"
+			{"code":230,"indent":5,"parameters":[
+				1
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"$gameSystem._messageRows_bak=$gameSystem._messageRows;"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"$gameSystem._messageRows=9;"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"$gameMessage.add(\"\\\\SETUSEORIGIN\\\\na[851]可在朱雀洞內獲得。\\n\\\\na[852]可在青龍洞內獲得。\\n\\\\na[853]可在玄武洞內獲得。\\n\\\\na[854]可在白虎洞內獲得。\\n\\\\na[855]完成召喚獸-冰之賽維爾相關任務，即可獲得。\\n\\\\na[856]，你不可能沒拿到吧？\\\\N[8]入隊即可獲得。\\n\\\\na[857]，你不可能沒拿到吧？\\\\N[7]入隊即可獲得。\\n\\\\na[858]可在王都下水道獲得。下水道的鑰匙透過王都餐廳的蟑螂洞事件、並且遇到巨大蟑螂小乖後即可獲得。\");"
+			]},
+			{"code":230,"indent":5,"parameters":[
+				1
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]出界什麼的不要在意！"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\na[855]完成召喚獸-冰之賽維爾相關任務，"
+				"\\{不然你要按八次確認！\\{八次誒！\\|\\TXTFONTSIZE\"96\""
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"即可獲得。」"
+				"\\TXTCENTER:\"八次！\" \\EVALJSCODE\"$gameMap._events[$gameVariables.value(21)].requestAnimation(37)\""
 			]},
-			{"code":101,"indent":5,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[856]，你不可能沒拿到吧？"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"\\N[8]入隊即可獲得。」"
-			]},
-			{"code":101,"indent":5,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[857]，你不可能沒拿到吧？"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"\\N[7]入隊即可獲得。」"
-			]},
-			{"code":101,"indent":5,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\na[858]可在王都下水道獲得。"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"下水道的鑰匙透過王都餐廳的蟑螂洞事件、"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"並且遇到巨大蟑螂小乖後即可獲得。」"
+			{"code":355,"indent":5,"parameters":[
+				"$gameSystem._messageRows=$gameSystem._messageRows_bak;"
 			]},
 			{"code":119,"indent":5,"parameters":[
 				"02"
@@ -5606,8 +5593,17 @@
 				2,
 				"關於\\N[7]的額外法術"
 			]},
-			{"code":118,"indent":4,"parameters":[
-				"03"
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]我看看ㄛ\\."
 			]},
 			{"code":101,"indent":4,"parameters":[
 				"BLR_studio_GOLD",
@@ -5616,16 +5612,34 @@
 				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"黃金"
+				"\\F[黃金]「不曉得你體會到了沒？"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「不曉得你體會到了沒？"
+				"本作\\N[7]雖然無法取得技能之心，"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"本作\\N[7]雖然無法取得技能之心，但會學到"
+				"但會學到很多很多的技能。」"
+			]},
+			{"code":118,"indent":4,"parameters":[
+				"03"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"很多很多的技能。」"
+				"\\F[黃金]書上是這樣說ㄉ！"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\N[7]\\UNDERLINESTART「會學到很多很多的技能。」\\UNDERLINEEND"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"看起來有選項列的那些。"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\STRIKETHROUGHSTART\\UNDERLINESTART離開\\UNDERLINEEND不是技能，\\STRIKETHROUGHEND不要誤會！"
 			]},
 			{"code":102,"indent":4,"parameters":[
 				[
@@ -5643,6 +5657,18 @@
 				0,
 				"七大召喚術"
 			]},
+			{"code":250,"indent":5,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\F[黃金]我看看ㄛ\\."
+			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
 				0,
@@ -5650,10 +5676,7 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[150]"
+				"\\F[黃金]「\\is[150]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"這不解釋了，你不可能沒有。」"
@@ -5665,13 +5688,10 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「\\is[151]："
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\is[151]"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"在酒店打聽到情報，跟從遊歷世界的神秘商人"
+				"在酒店打聽到情報，向遊歷世界的神秘商人"
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"購買\\ni[490]即可習得。」"
@@ -5683,10 +5703,7 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[152]"
+				"\\F[黃金]「\\is[152]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"在雪北村一帶打聽到情報，在雪山山麓遇到"
@@ -5701,16 +5718,13 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「\\is[153]："
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\is[153]"
+				"攜帶從泉晨鎮金歐法師烤出頂級肉品，"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"攜帶從泉晨鎮金歐法師烤出頂級肉品，在高嶺"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"荒地完成風狼任務即可習得。」"
+				"在高嶺荒地完成風狼任務即可習得。」"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5719,10 +5733,7 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[154]"
+				"\\F[黃金]「\\is[154]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"在酒店打聽到情報，透過飛空艇到凱鐵支畝村"
@@ -5737,10 +5748,7 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[155]"
+				"\\F[黃金]「\\is[155]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"在酒店打聽到情報，進入海底隧道擊敗海龍"
@@ -5755,21 +5763,16 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「\\is[157]："
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\is[157]"
+				"蒐集好上述所有召喚獸，"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"蒐集好上述所有召喚獸，透過飛空艇到中央"
+				"透過飛空艇到中央大陸的雜草森林處，"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"大陸的雜草森林處完成相關考驗即可習得。」"
-			]},
-			{"code":213,"indent":5,"parameters":[
-				0,
-				8,
-				true
+				"完成相關考驗即可習得。」"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5778,13 +5781,30 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「另外．．．其實召喚獸的秘密還不僅如此，"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「另外，其實召喚獸的秘密還不僅如此，但目前"
+				"但目前還不能告訴你，嘻嘻～」"
+			]},
+			{"code":213,"indent":5,"parameters":[
+				0,
+				8,
+				false
+			]},
+			{"code":230,"indent":5,"parameters":[
+				44
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"還不能告訴你，嘻嘻～」"
+				"\\F[黃金]太長啦！\\."
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"而且天神都幾歲的人了，還在那邊用「嘻嘻～」"
 			]},
 			{"code":119,"indent":5,"parameters":[
 				"03"
@@ -5795,38 +5815,17 @@
 				1,
 				"三小增援術"
 			]},
+			{"code":250,"indent":5,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
-				0,
+				1,
 				0,
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「除了七大召喚術，\\N[7]還可習得三招"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"物理輸出相關的技能．．．」"
-			]},
-			{"code":101,"indent":5,"parameters":[
-				"BLR_studio_GOLD",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[161]"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"在凱鐵支畝村礦坑深處完成相關劇情即可"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"習得。」"
+				"\\F[黃金]我看看ㄛ\\."
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5835,10 +5834,34 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「除了七大召喚術，\\N[7]還可習得三招"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\is[162]"
+				"物理輸出相關的技能。」"
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\F[黃金]「\\is[161]："
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"在凱鐵支畝村礦坑深處，"
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"完成相關劇情即可習得。」"
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\F[黃金]「\\is[162]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"嗯．．．流程有點複雜，但簡單說跟武鬥場、"
@@ -5853,10 +5876,7 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"「\\is[163]"
+				"\\F[黃金]「\\is[163]："
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"持有飛空艇後，到達西村北邊山上的洞穴內，"
@@ -5873,6 +5893,18 @@
 				2,
 				"神之祝福"
 			]},
+			{"code":250,"indent":5,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\F[黃金]我看看ㄛ\\."
+			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
 				0,
@@ -5880,16 +5912,13 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「\\is[147]："
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「\\is[147]"
+				"最強的輔助技！"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"最強的輔助技！可以提升己方全體能力Buff與"
-			]},
-			{"code":401,"indent":5,"parameters":[
-				"恢復生命。」"
+				"可以提升己方全體能力Buff與恢復生命。」"
 			]},
 			{"code":101,"indent":5,"parameters":[
 				"BLR_studio_GOLD",
@@ -5898,13 +5927,30 @@
 				2
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"黃金"
+				"\\F[黃金]「習得方式也很簡單．．．"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"「習得方式也很簡單，只要打敗世界王千手之神"
+				"只要打敗世界王千手之神就好，"
 			]},
 			{"code":401,"indent":5,"parameters":[
-				"就好，但前提是你要打的過，嘻嘻嘻。」"
+				"但前提是你要打的過，嘻嘻嘻。」"
+			]},
+			{"code":213,"indent":5,"parameters":[
+				0,
+				8,
+				false
+			]},
+			{"code":230,"indent":5,"parameters":[
+				44
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"\\F[黃金]天神都幾歲的人了，還在那邊用「嘻嘻～」"
 			]},
 			{"code":119,"indent":5,"parameters":[
 				"03"
@@ -5980,12 +6026,64 @@
 			{"code":118,"indent":0,"parameters":[
 				"END"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameVariables.setValue(21,0);"
+			]},
+			{"code":115,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"反正有用到就對ㄌ"
+			]},
+			{"code":212,"indent":0,"parameters":[
+				0,
+				37,
+				false
+			]},
+			{"code":118,"indent":0,"parameters":[
+				"01紙條"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\F[黃金]天神給的紙條是這麼寫的！"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\F[黃金]紙條上寫的內容比書的一頁還要長，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"完全沒有什麼問題！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"不要誤會！"
+			]},
+			{"code":119,"indent":0,"parameters":[
+				"01"
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
+		],"moveFrequency":5,"moveRoute":{"list":[
+			{"code":45,"parameters":[
+				"this.moveStraight(((Math.random()<0.5)<<1)+4);"
+			],"indent":null},
+			{"code":45,"parameters":[
+				"this._direction=2;"
+			],"indent":null},
+			{"code":45,"parameters":[
+				"this._waitCount=Math.random()*64+64;"
+			],"indent":null},
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":true,"wait":false},"moveSpeed":3,"moveType":3,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":11,"y":13},
 	{"id":3,"name":"EV003","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1155},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
@@ -5998,11 +6096,203 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":13,"y":25},
-	null,
-	null,
-	null,
-	null,
-	null,
+	{"id":4,"name":"EV004","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"@NULLTRIGGER"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"擋住用ㄉ"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":14,"y":13},
+	{"id":5,"name":"EV005","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"// 書架啥都沒"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"{ let evtId=6,mp=$gameMap,evt=mp._events[evtId]; for(let x=1;x!==15;++x) mp.cpevt(evtId,evt.x+x,evt.y); }"
+			]},
+			{"code":214,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":3,"walkAnime":false}
+	],"x":11,"y":10},
+	{"id":6,"name":"EV006","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"什麼都沒有\""
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":4,"y":5},
+	{"id":7,"name":"EV007","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\UNDERLINESTART\\TXTCENTER:\"《如何學寫程式》\"\\UNDERLINEEND"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTRIGHT:\"要閱讀嗎？\""
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"Yes",
+					"No"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"Yes"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"練習練習再練習。練習的時候，要想著："
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"如何讓時間複雜度更低，並且寫得更短，又容易修改。"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"在執行時間 1~2 秒的情況下沒人會在意 1~2 倍的常數時間，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"除了奇怪的寫韌體相關的產業。"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\{\\TXTCENTER:\"看英文的討論區找答案，不要看中文的。\""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\{\\TXTCENTER:\"Stack Overflow 是你的好選擇。\""
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"No"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
+	],"x":6,"y":19},
+	{"id":8,"name":"EV008","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\UNDERLINESTART\\TXTCENTER:\"《如何寫 RMMV 插件》\"\\UNDERLINEEND"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTRIGHT:\"要閱讀嗎？\""
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"Yes",
+					"No"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"Yes"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"1. 學會 javascript 語法"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"2. 把整個 RMMV 的程式碼看不順眼的都改一遍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"3. 學習 RMMV 插件的註解格式"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"4. 先讀完上面橘色那本"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"No"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
+	],"x":6,"y":20},
 	null,
 	null,
 	null,
