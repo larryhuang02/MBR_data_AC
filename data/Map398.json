@@ -2464,7 +2464,7 @@
 	0,
 	0,
 	0,
-	178,
+	0,
 	0,
 	0,
 	0,
@@ -3564,7 +3564,7 @@
 	0,
 	0,
 	0,
-	135,
+	178,
 	0,
 	0,
 	0,
@@ -3618,7 +3618,7 @@
 	0,
 	0,
 	0,
-	225,
+	0,
 	186,
 	0,
 	0,
@@ -3666,9 +3666,57 @@
 	0,
 	0,
 	0,
-	0,
+	225,
 	153,
 	141,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
 	0,
 	0,
 	0,
@@ -3682,54 +3730,6 @@
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	183,
-	183,
-	183,
-	183,
-	183,
 	0,
 	0,
 	0,
@@ -6696,6 +6696,30 @@
 			{"code":655,"indent":0,"parameters":[
 				"} }"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let evt=$gameMap._events[this._eventId];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(typeof require==='function'){ try{"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				" evt._plyrUsrName=evt._plyrUsrName||require(\"os\").userInfo().username+'，';"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}catch(e){"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"} }else evt._plyrUsrName=String.fromCharCode(0x200B);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameVariables.setValue(22,evt._plyrUsrName);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameVariables.setValue(23,this._eventId);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_studio_GOLD",
 				1,
@@ -6703,13 +6727,13 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\F[黃金]「\\V[21]」"
+				"\\F[黃金]\\V[21]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\EVALJSCODE\"$gameVariables.setValue(21,'還想要知道什麼嗎？');\""
+				"\\EVALJSCODE\"$gameVariables.setValue(21,(Math.random()<0.5?$gameVariables.value(22):'')+'還想要知道什麼嗎？');\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\EVALJSCODE\"{ let evt=$gameMap._events[2]; for(let z=4;z--;){ const idx=(z*$dataMap.height+evt.y)*$dataMap.width+evt.x; if($dataMap.data[idx]===153){ evt._tInfo=[idx,$dataMap.data[idx],]; $dataMap.data[idx]=155; const tm=SceneManager._scene._spriteset._tilemap; tm._needsRepaint=true; tm.refresh(); } } }\""
+				"\\EVALJSCODE\"{ let evt=$gameMap._events[$gameVariables.value(23)]; for(let z=4;z--;){ const idx=(z*$dataMap.height+evt.y)*$dataMap.width+evt.x; if($dataMap.data[idx]===153){ evt._tInfo=[idx,$dataMap.data[idx],]; $dataMap.data[idx]=155; const tm=SceneManager._scene._spriteset._tilemap; tm._needsRepaint=true; tm.refresh(); } } }\""
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -6866,6 +6890,9 @@
 				"「其實我在加入團隊之前根本沒玩過月藍傳奇。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
+				"「不用專屬名稱框， NPC 講話還要再加引號，到底誰想的？」"
+			]},
+			{"code":405,"indent":1,"parameters":[
 				"「可惡，又在亂省工！」"
 			]},
 			{"code":405,"indent":1,"parameters":[
@@ -6875,7 +6902,10 @@
 				"「 json 檔案換行不對就自己用工具換啊！」"
 			]},
 			{"code":405,"indent":1,"parameters":[
-				"「都用 windows 幾年ㄌ還不會知道要顯示副檔名。」"
+				"「講 3 年了竟然還沒去學！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「都用 Windows 幾年ㄌ還不會知道要顯示副檔名。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
 				"「想挖角我ㄉ想清楚ㄛ。」"
@@ -6887,13 +6917,19 @@
 				"「怎麼會有人跟我說因為影片超過 100MB 所以不能轉檔？那個人需不需要看醫生？」"
 			]},
 			{"code":405,"indent":1,"parameters":[
-				"「我都是用 windows 內建ㄉ記事本打插件ㄉ。」"
+				"「我都是用 Windows 內建ㄉ記事本打插件ㄉ，」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「但不是用 Windows 11 更新過的記事本。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
 				"「開啟 DevTools 來玩 月Re 也別有一番風味喔。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
-				"「這個地圖的左邊是攸藍ㄉ房間。」"
+				"「玩月re不就是要開 DevTools 嗎？」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「ㄅ知道為什麼，這個地圖的左邊是攸藍ㄉ房間。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
 				"「月藍專屬插件在以下網址: https://github.com/aaaaagold/MoonBlueRemake_mainJsPlugin」"
@@ -6923,7 +6959,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\F[黃金]「要複製剛剛捲過去的文字嗎？」"
+				"\\F[黃金]要複製剛剛捲過去的文字嗎？"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -6949,7 +6985,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\F[黃金]「複製好ㄌ。」"
+				"\\F[黃金]複製好ㄌ。"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_studio_GOLD",
@@ -6958,7 +6994,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\F[黃金]「沒複製到一定是權限ㄉ問題，ㄅ要找我修。」"
+				"\\F[黃金]沒複製到一定是權限ㄉ問題，ㄅ要找我修。"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_studio_GOLD",
@@ -6967,7 +7003,7 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\F[黃金]「找個能夠貼上文字的地方按 Ctrl-V 吧！」"
+				"\\F[黃金]找個能夠貼上文字的地方按 Ctrl-V 吧！"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -7015,6 +7051,9 @@
 				4,
 				"我要怎麼過去"
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"this._tttt=$dataItems.findIndex(obj=>obj&&obj.name.indexOf(\"黃金ㄉ魔法書\")>=0); $gameVariables.setValue(22,(this._aaaa=(this._tttt>=0 && !$gameParty.hasItem($dataItems[this._tttt])))?\"無法開啟也別擔心，給你有重點功能的魔法書。\":String.fromCharCode(0x200B));"
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_GOLD",
 				1,
@@ -7022,7 +7061,13 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\F[黃金]按下 F12 開啟 DevTools 自己想辦法"
+				"\\F[黃金]按下 F12 開啟 DevTools 自己想辦法。"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\V[22]"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"if(this._aaaa) $gameParty.gainItem($dataItems[this._tttt],1); this._tttt=this._aaaa=undefined;"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"$gameSystem._黃金toldState|=0; $gameSystem._黃金toldState+=$gameSystem._黃金toldState<3;"
@@ -7045,6 +7090,9 @@
 			{"code":401,"indent":1,"parameters":[
 				"你當我是誰？"
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem._黃金toldState|=0; $gameSystem._黃金toldState+=$gameSystem._黃金toldState<4;"
+			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":403,"indent":0,"parameters":[
@@ -7056,6 +7104,13 @@
 			{"code":404,"indent":0,"parameters":[
 			]},
 			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				0
+			]},
+			{"code":122,"indent":0,"parameters":[
 				21,
 				21,
 				0,
@@ -7063,7 +7118,14 @@
 				0
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"{ let evt=$gameMap._events[2]; if(evt._tInfo); $dataMap.data[evt._tInfo[0]]=evt._tInfo[1]; }"
+				"{ let evt=$gameMap._events[$gameVariables.value(23)]; if(evt._tInfo) $dataMap.data[evt._tInfo[0]]=evt._tInfo[1]; }"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				23,
+				23,
+				0,
+				0,
+				0
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -7347,11 +7409,73 @@
 			{"code":355,"indent":0,"parameters":[
 				"{ let M=64,self=$gameMap._events[5],scl=SceneManager._scene._chr2sp.get(self).scale; self._ctr|=0; scl.y=scl.x=Math.sin(++self._ctr/M*Math.PI)*2+1; self._ctr%=M; }"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let mp=$gameMap,evts=mp._events,ref=evts[2],evt=evts[this._eventId],p=$gamePlayer;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let s=evt._plyrLocSet; if(!s) s=evt._plyrLocSet=[];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(evt._plyrXLast!==p.x||evt._plyrYLast!==p.y){"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"evt._plyrXLast=p.x;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"evt._plyrYLast=p.y;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"s.uniquePush(p.x+','+p.y);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if($gameSystem._黃金toldState>=4&&mp._interpreter&&mp._interpreter._eventId===ref._eventId&&!evt._created){ evt._created=[]; for(let x0=p.x-5,x1=p.x+5,y0=p.y-5,y1=p.y+5,y=y0;y<=y1;++y){ for(let x=x0;x<=x1;++x){ if(!s.uniqueHas(x+','+y)&&!mp.eventsXyNt(x,y).length){ let i=mp.cpevt(ref._eventId,x,y); evt._created.push(i); evts[i]._direction=2; } } } }"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(evt._created && !(evt._cloneCnt>=evt._cloneCntMax)){ evt._cloneCntMax=64; evt._cloneCnt|=0; ++evt._cloneCnt; for(let x=0,arr=evt._created,xs=arr.length;x!==xs;++x) evts[arr[x]]._opacity=(evt._cloneCnt/evt._cloneCntMax)*255; }"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(evt._created) for(let x=0,arr=evt._created,xs=arr.length;x!==xs;++x) if(Math.random()<0.015625) evts[arr[x]].turnTowardPlayer();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":4,"walkAnime":false}
-	],"x":42,"y":3}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":false}
+	],"x":39,"y":11},
+	{"id":7,"name":"EV007","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":183,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"{ let evtId=this._eventId,mp=$gameMap,evts=mp._events,evt=evts[evtId]; if(!evt._src){ for(let x=0;x!=5;++x){ let t=evts[mp.cpevt(evtId,evt.x+x,evt.y)]; t._starting=t._trigger=null; t._src=evtId; } } }"
+			]},
+			{"code":214,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":3,"walkAnime":false}
+	],"x":40,"y":7},
+	{"id":8,"name":"EV008","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"@NULLTRIGGER"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"避免擋到螢幕用ㄉ"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":37,"y":5}
 ]}
