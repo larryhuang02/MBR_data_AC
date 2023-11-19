@@ -6327,8 +6327,8 @@
 	2278,
 	1554,
 	1554,
-	2274,
-	2260,
+	2283,
+	2262,
 	2260,
 	2241,
 	2240,
@@ -6427,8 +6427,8 @@
 	1554,
 	1554,
 	1554,
+	1554,
 	2256,
-	2240,
 	2240,
 	2240,
 	2240,
@@ -6526,9 +6526,9 @@
 	1554,
 	2274,
 	2260,
-	2260,
-	2241,
-	2240,
+	2276,
+	1554,
+	2256,
 	2240,
 	2240,
 	2240,
@@ -6626,9 +6626,9 @@
 	2274,
 	2241,
 	2240,
-	2244,
-	2268,
-	2268,
+	2264,
+	1554,
+	2280,
 	2268,
 	2268,
 	2248,
@@ -66512,21 +66512,6 @@
 				283,
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Load2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"※小提示"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"此處無法自由存檔，但可\\C[2]點擊路上的神像\\C[0]進行存檔。"
-			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -71395,6 +71380,21 @@
 	],"x":83,"y":73},
 	{"id":151,"name":"EV151","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
+			{"code":212,"indent":0,"parameters":[
+				-1,
+				42,
+				false
+			]},
+			{"code":122,"indent":0,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				25000
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":352,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
@@ -71505,60 +71505,26 @@
 	],"x":1,"y":0},
 	{"id":154,"name":"BUBBLE","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":229,"variableValid":true,"variableValue":1},"directionFix":true,"image":{"tileId":0,"characterName":"$BigBubble","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				0,
-				4,
-				0
-			]},
-			{"code":355,"indent":1,"parameters":[
+			{"code":355,"indent":0,"parameters":[
 				"{ const evt=$gameMap._events[this._eventId],p=$gamePlayer,chr2sp=SceneManager._scene._chr2sp;"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"evt._x=evt._realX=p._realX;"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"evt._y=evt._realY=p._realY-(chr2sp.get(p).height>>1)/$gameMap.tileHeight();"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"const sp=SceneManager._scene._chr2sp.get(evt);"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"const scale=sp.scale; scale.x=scale.y=(25000 + $gameVariables.value(231))/50000;"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"const anchor=sp.anchor; anchor.y=0.5;"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":0,"parameters":[
 				"}"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const evt=$gameMap._events[this._eventId],p=$gamePlayer,chr2sp=SceneManager._scene._chr2sp;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"evt._x=evt._realX=p._realX;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"evt._y=evt._realY=p._realY-(chr2sp.get(p).height>>1)/$gameMap.tileHeight();"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"const sp=SceneManager._scene._chr2sp.get(evt);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"const scale=sp.scale; scale.x=scale.y=(10000 + $gameVariables.value(231))/50000;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"const anchor=sp.anchor; anchor.y=0.5;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"}"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -71569,32 +71535,12 @@
 	],"x":0,"y":109},
 	{"id":155,"name":"初始護盾/時間扣血","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":283,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":229,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				0,
-				4,
-				0
-			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":122,"indent":0,"parameters":[
 				231,
 				231,
 				0,
 				0,
 				25000
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":122,"indent":1,"parameters":[
-				231,
-				231,
-				0,
-				0,
-				40000
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
@@ -71638,7 +71584,10 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"2.每次\\C[2]重新進入朱雀洞\\C[6]時，水泡力場的魔力值會重新\\C[2]刷新\\C[6]！"
+				"2.每次\\C[2]重新進入朱雀洞\\C[6]或點擊\\C[2]神像時\\C[6]時，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"水泡力場的魔力值會重新\\C[2]刷新\\C[6]！"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -73879,6 +73828,21 @@
 	],"x":93,"y":9},
 	{"id":196,"name":"EV196","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
+			{"code":212,"indent":0,"parameters":[
+				-1,
+				42,
+				false
+			]},
+			{"code":122,"indent":0,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				25000
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":352,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
@@ -74076,5 +74040,102 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":1,"walkAnime":false}
 	],"x":62,"y":103},
-	null
+	{"id":200,"name":"EV200","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
+			{"code":212,"indent":0,"parameters":[
+				-1,
+				42,
+				false
+			]},
+			{"code":122,"indent":0,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				25000
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":30,"y":67},
+	{"id":201,"name":"EV201","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
+			{"code":212,"indent":0,"parameters":[
+				-1,
+				42,
+				false
+			]},
+			{"code":122,"indent":0,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				25000
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":87,"y":43},
+	{"id":202,"name":"EV202","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Other2","direction":2,"pattern":0,"characterIndex":4},"list":[
+			{"code":212,"indent":0,"parameters":[
+				-1,
+				42,
+				false
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				4,
+				0
+			]},
+			{"code":122,"indent":1,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				25000
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":122,"indent":1,"parameters":[
+				231,
+				231,
+				0,
+				0,
+				40000
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":56,"y":51}
 ]}

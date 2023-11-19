@@ -6178,11 +6178,11 @@
 			{"code":101,"indent":0,"parameters":["",7,0,0]},
 			{"code":401,"indent":0,"parameters":["龍王"]},
 			{"code":401,"indent":0,"parameters":["「就跟孤切磋10回合吧！」"]},
-			{"code":121,"indent":0,"parameters":[21,21,0]},
+			{"code":121,"indent":0,"parameters":[25,25,0]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":3,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":121,"indent":0,"parameters":[21,21,1]},
+			{"code":121,"indent":0,"parameters":[25,25,1]},
 			{"code":121,"indent":0,"parameters":[22,22,0]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
@@ -7431,10 +7431,10 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":121,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_QueenElf",0,0,0]},
 			{"code":401,"indent":0,"parameters":["妖精女王"]},
-			{"code":401,"indent":0,"parameters":["「既然是切磋，那麼，就律定３０回合吧！」"]},
+			{"code":401,"indent":0,"parameters":["「既然是切磋，那麼，就律定30回合吧！」"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[1]"]},
-			{"code":401,"indent":0,"parameters":["「好！３０回合！」"]},
+			{"code":401,"indent":0,"parameters":["「好！30回合！」"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
 			{"code":401,"indent":0,"parameters":["既然是切磋，那\\C[2]不論輸贏\\C[0]應該都沒影響．．．"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
@@ -7545,13 +7545,13 @@
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":15,"turnB":0,"turnEnding":true,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_01_1",7,1,0]},
-			{"code":401,"indent":0,"parameters":["不知不覺地已經過了１５回合了．．．"]},
+			{"code":401,"indent":0,"parameters":["不知不覺地已經過了15回合了．．．"]},
 			{"code":401,"indent":0,"parameters":["剩一半的時間．．．"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":25,"turnB":0,"turnEnding":true,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_01_1",7,1,0]},
-			{"code":401,"indent":0,"parameters":["最後５回合．．．加油～"]},
+			{"code":401,"indent":0,"parameters":["最後5回合．．．加油～"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":30,"turnB":0,"turnEnding":true,"turnValid":true},"list":[
@@ -13704,7 +13704,6 @@
 			{"code":401,"indent":0,"parameters":["晨"]},
 			{"code":401,"indent":0,"parameters":["「好，那就讓鬧劇早點結束吧！」"]},
 			{"code":339,"indent":0,"parameters":[0,0,551,0]},
-			{"code":355,"indent":0,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
 			{"code":401,"indent":0,"parameters":["那個，是他上次在跨海大橋上用過的魔法．．．"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},

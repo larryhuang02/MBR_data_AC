@@ -6942,6 +6942,18 @@
 	],"x":0,"y":3},
 	{"id":7,"name":"EV007","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":264,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1100},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":121,"indent":0,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				1,
