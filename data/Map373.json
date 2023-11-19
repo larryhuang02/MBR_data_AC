@@ -7721,7 +7721,10 @@
 				"瑪姆"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「余可不記得，余什麼時候有小孩了。」"
+				"「余可不記得，什麼時候有妳這樣子的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小孩了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}

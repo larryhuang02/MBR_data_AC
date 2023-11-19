@@ -400740,16 +400740,61 @@
 	],"x":19,"y":166},
 	{"id":93,"name":"EV093","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":291},"directionFix":false,"image":{"tileId":0,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":250,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				1,
+				201,
+				0,
+				6,
+				1
+			]},
+			{"code":250,"indent":1,"parameters":[
 				{"name":"Move10","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":201,"indent":0,"parameters":[
+			{"code":201,"indent":1,"parameters":[
 				0,
 				344,
 				2,
 				35,
 				2,
 				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Saint2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":35,"indent":null},
+					{"code":13,"indent":null},
+					{"code":36,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":true,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":35,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":13,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"一股奇怪的魔力將你推開了！"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

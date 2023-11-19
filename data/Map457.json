@@ -5604,6 +5604,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"「女王姐姐～」"
 			]},
+			{"code":108,"indent":0,"parameters":[
+				"備註："
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"女王不是安特"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"安特是守護神，類似觀音菩薩"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"女王是妖精族的首領，類似總統"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_QueenElf",
 				0,
@@ -5617,7 +5629,7 @@
 				"「人類旅行者，歡迎你們來到妖精村，我是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妖精女王安特。」"
+				"妖精女王。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				5,
@@ -6402,7 +6414,7 @@
 				"「雖然現在那樣的時代已經過去了，但還是有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"許多人類會將白精靈們當作稀有動物看待。」"
+				"許多人類會將白妖精們當作稀有動物看待。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_QueenElf",

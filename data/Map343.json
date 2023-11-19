@@ -5312,7 +5312,7 @@
 				false
 			]},
 			{"code":241,"indent":2,"parameters":[
-				{"name":"m-art_ForceOfWill","volume":30,"pitch":100,"pan":0}
+				{"name":"m-art_ForceOfWill","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":205,"indent":2,"parameters":[
 				22,
@@ -9353,7 +9353,7 @@
 				{"name":"Monster4","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"m-art_ForceOfWill","volume":30,"pitch":100,"pan":0}
+				{"name":"m-art_ForceOfWill","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",

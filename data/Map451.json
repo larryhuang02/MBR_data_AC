@@ -3732,7 +3732,7 @@
 	339,
 	336,
 	264,
-	338,
+	258,
 	264,
 	264,
 	258,
@@ -3889,7 +3889,7 @@
 	454,
 	264,
 	264,
-	338,
+	258,
 	296,
 	0,
 	99,
@@ -5112,7 +5112,7 @@
 	469,
 	470,
 	337,
-	175,
+	338,
 	339,
 	337,
 	338,
@@ -5269,7 +5269,7 @@
 	307,
 	336,
 	337,
-	175,
+	338,
 	309,
 	297,
 	298,
@@ -11183,6 +11183,13 @@
 				"送給你們。」"
 			]},
 			{"code":127,"indent":3,"parameters":[
+				10,
+				1,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":3,"parameters":[
 				25,
 				0,
 				0,
@@ -11199,7 +11206,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"獲得了妖精的嘆息。"
+				"失去\\nw[10]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"獲得\\nw[25]"
 			]},
 			{"code":355,"indent":3,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 1);"
@@ -11358,6 +11368,13 @@
 				"是我打的長劍裡面最好的一把，送給你們。」"
 			]},
 			{"code":127,"indent":3,"parameters":[
+				39,
+				1,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":3,"parameters":[
 				57,
 				0,
 				0,
@@ -11374,7 +11391,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"獲得了妖精的回音。"
+				"失去\\nw[39]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"獲得\\nw[57]"
 			]},
 			{"code":355,"indent":3,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 2);"
@@ -11545,6 +11565,13 @@
 				"法杖，但也可以當成武器來施法喔！」"
 			]},
 			{"code":127,"indent":3,"parameters":[
+				163,
+				1,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":3,"parameters":[
 				175,
 				0,
 				0,
@@ -11561,7 +11588,10 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"獲得了妖精的餽贈。"
+				"失去\\nw[163]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"獲得\\nw[175]"
 			]},
 			{"code":355,"indent":3,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 3);"

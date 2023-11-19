@@ -1806,7 +1806,7 @@
 	0,
 	0,
 	0,
-	265,
+	0,
 	0,
 	0,
 	0,
@@ -3344,7 +3344,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":11,"y":6},
 	{"id":7,"name":"EV007","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"PeopleMZ_04","direction":2,"pattern":1,"characterIndex":6},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_LongLeg","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameSystem._hideSQSQuestArrow = 1"
 			]},
@@ -3947,7 +3947,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"PeopleMZ_04","direction":2,"pattern":1,"characterIndex":6},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_LongLeg","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_04",
 				6,
@@ -6648,7 +6648,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":440,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"PeopleMZ_04","direction":2,"pattern":1,"characterIndex":6},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":440,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_LongLeg","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameSystem._hideSQSQuestArrow = 1"
 			]},
@@ -7024,7 +7024,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":440,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"PeopleMZ_04","direction":2,"pattern":1,"characterIndex":6},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":440,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"$BLR_LongLeg","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_04",
 				6,
