@@ -101527,50 +101527,101 @@
 			{"code":408,"indent":0,"parameters":[
 				"融合出聖寶石，變數43=4"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				6,
-				0,
-				2
+			{"code":111,"indent":0,"parameters":[
+				8,
+				465
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「若我們能夠帶來聖寶石，或許可以見識到"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"神蹟吧？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":101,"indent":1,"parameters":[
 				"BLR_03_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[3]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「相傳聖寶石並凡品，而是只有經過\\C[2]無盡之火"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"的淬鍊\\C[0]，才有可能將多顆寶石淬鍊為聖寶石。」"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"聖寶石．．．我們不正好有一顆嗎？"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"趕快來試看看吧！"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				43,
+				43,
+				0,
+				0,
+				4
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「若我們能夠帶來聖寶石，或許可以見識到"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"神蹟吧？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_03_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「相傳聖寶石並凡品，而是只有經過\\C[2]無盡之火"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的淬鍊\\C[0]，才有可能將多顆寶石淬鍊為聖寶石。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_03_1",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[3]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「若哪天我們有幸運遇到具有無盡之火的地方"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"，或許有機會重塑這寶石吧。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

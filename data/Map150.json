@@ -3066,7 +3066,51 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":10,"y":12},
 	{"id":16,"name":"偷窺維皮","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"2000_Actor_float","direction":2,"pattern":1,"characterIndex":2},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":2},"list":[
+			{"code":111,"indent":0,"parameters":[
+				4,
+				1,
+				5,
+				378
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"有愛之鎧"
+			]},
+			{"code":203,"indent":1,"parameters":[
+				48,
+				0,
+				8,
+				8,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"沒愛之鎧"
+			]},
+			{"code":203,"indent":1,"parameters":[
+				47,
+				0,
+				8,
+				8,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"因為NPC是透明的，要位移一格，不然演出會錯位"
+			]},
+			{"code":203,"indent":0,"parameters":[
+				16,
+				0,
+				8,
+				7,
+				8
+			]},
 			{"code":281,"indent":0,"parameters":[
 				1
 			]},
@@ -3970,11 +4014,45 @@
 				0,
 				0
 			]},
+			{"code":111,"indent":0,"parameters":[
+				4,
+				1,
+				5,
+				378
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"有愛之鎧"
+			]},
+			{"code":203,"indent":1,"parameters":[
+				48,
+				0,
+				12,
+				18,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"沒愛之鎧"
+			]},
+			{"code":203,"indent":1,"parameters":[
+				47,
+				0,
+				12,
+				18,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":203,"indent":0,"parameters":[
 				16,
 				0,
 				12,
-				18,
+				17,
 				0
 			]},
 			{"code":203,"indent":0,"parameters":[
@@ -4336,6 +4414,48 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
+				1,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你們都是駐守礦坑的軍人對吧？不覺得繼續"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"待在礦坑又枯燥又沉悶嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				1,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「要不要找一找一些認識的弟兄，一起加入"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[50]呢？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Soldiers",
+				0,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"礦坑衛兵Ａ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「考古團．．．那同樣不是很無聊？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
 				2,
 				0,
 				0
@@ -4344,7 +4464,10 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家從王國軍內徵調了一根鐵管子。」"
+				"「並不會唷！人家從王國軍內徵調了一根"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵管子，你們可以陪同我一起出任務！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -4782,6 +4905,20 @@
 				0,
 				0
 			]},
+			{"code":203,"indent":0,"parameters":[
+				48,
+				0,
+				0,
+				0,
+				0
+			]},
+			{"code":203,"indent":0,"parameters":[
+				47,
+				0,
+				0,
+				0,
+				0
+			]},
 			{"code":122,"indent":0,"parameters":[
 				220,
 				220,
@@ -4828,13 +4965,13 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":3,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":11},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Actor_WeiPi","direction":2,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":11},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":20},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -5308,5 +5445,51 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":15,"y":15}
+	],"x":15,"y":15},
+	{"id":47,"name":"偷窺維皮(一般)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"2000_Actor_float","direction":2,"pattern":1,"characterIndex":2},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":5,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":11},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Actor_WeiPi","direction":2,"pattern":1,"characterIndex":1},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":20},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":5,"y":0},
+	{"id":48,"name":"偷窺維皮(愛之鎧)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"2000_Actor_float","direction":8,"pattern":1,"characterIndex":2},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":5,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":11},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Actor_WeiPi","direction":2,"pattern":1,"characterIndex":1},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":220,"variableValid":true,"variableValue":20},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":6,"y":0}
 ]}
