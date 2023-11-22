@@ -17540,30 +17540,30 @@
 			{"code":401,"indent":1,"parameters":[
 				"「我這有些可樂，大家分了吧。」"
 			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"",
-				15,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"失去所有\\ni[73]"
-			]},
-			{"code":126,"indent":1,"parameters":[
-				73,
-				1,
-				0,
-				99
-			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
 				21,
 				0,
 				6,
 				1
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"失去\\ni[73]6罐"
+			]},
+			{"code":126,"indent":2,"parameters":[
+				73,
+				1,
+				0,
+				6
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -17575,7 +17575,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「還好有6罐以上，夠大家喝。」"
+				"「還好有6罐，夠大家喝。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"Recolor_Soldiers",
@@ -17611,6 +17611,24 @@
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"失去所有\\ni[73]"
+			]},
+			{"code":126,"indent":2,"parameters":[
+				73,
+				1,
+				0,
+				5
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
@@ -17706,7 +17724,7 @@
 				"\\TXTCENTER:\"於是．．．維皮與眾士兵們．．．\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"度過了愉快的30分鐘．．．　　\"\\|\\|\\|\\^"
+				"\\TXTCENTER:\"度過了愉快的30分鐘．．．　　　\"\\|\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"

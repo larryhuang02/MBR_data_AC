@@ -2772,7 +2772,7 @@
 	{"id":797,"animationId":524,"damage":{"critical":true,"elementId":1,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"發動攻擊後，觸發798追擊，次數=1+死人數","effects":[
 		{"code":21,"dataId":17,"value1":0.75,"value2":0},
 		{"code":44,"dataId":134,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"咬住","note":"<speed:20000>\n<applyGlobal_javascript:$gameTemp.追擊技能id=798>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":1,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"咬住","note":"<speed:20000>\n<applyGlobal_javascript:$gameTemp.追擊技能id=798>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 8\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":798,"animationId":509,"damage":{"critical":true,"elementId":1,"formula":"50 + b.isStateAffected(17) * 300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"有流血傷害提升","effects":[
 		{"code":32,"dataId":3,"value1":3,"value2":0}
 	],"hitType":1,"iconIndex":1233,"message1":"","message2":"","mpCost":0,"name":"撕咬傷口","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
