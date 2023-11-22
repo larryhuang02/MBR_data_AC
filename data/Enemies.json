@@ -10683,7 +10683,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"2000艾力克斯","note":"<Sideview battler: SF_Actor3_7>\n<Sideview Weapon: 1>\n","params":[
+	],"gold":0,"name":"2000艾力克斯","note":"<Sideview battler: ./SF_Actor3_7>\n<Sideview Weapon: 1>\n","params":[
 		12500,
 		5000,
 		450,
@@ -10744,7 +10744,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"小中田","note":"<Sideview battler: SF_Actor3_7>\n<Sideview Weapon: 1>","params":[
+	],"gold":0,"name":"小中田","note":"<Sideview battler: ./SF_Actor3_7>\n<Sideview Weapon: 1>","params":[
 		15000,
 		5000,
 		400,
@@ -10806,7 +10806,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"艾力克斯","note":"<Sideview battler: SF_Actor3_7>\n<Sideview Weapon: 1>\n<addcond:{\"switches\":[5],\"lines\":[4]}>\n<addcond:{\"switches\":[4],\"lines\":[5]}>","params":[
+	],"gold":0,"name":"艾力克斯","note":"<Sideview battler: ./SF_Actor3_7>\n<Sideview Weapon: 1>\n<addcond:{\"switches\":[5],\"lines\":[4]}>\n<addcond:{\"switches\":[4],\"lines\":[5]}>","params":[
 		25000,
 		5000,
 		10,
@@ -10868,7 +10868,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"MV艾力克斯","note":"<Sideview battler: SF_Actor3_7>\n<Sideview Weapon: 2>\n","params":[
+	],"gold":0,"name":"MV艾力克斯","note":"<Sideview battler: ./SF_Actor3_7>\n<Sideview Weapon: 2>\n","params":[
 		10000,
 		5000,
 		300,
