@@ -34666,279 +34666,364 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				0,
+				528,
+				0
+			]},
+			{"code":111,"indent":2,"parameters":[
+				0,
 				522,
 				0
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
+				"BLR_SaintessMaid01",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"雪葉"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"「看完以後心得如何啊，維皮哥？」"
+			]},
+			{"code":250,"indent":3,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":3,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"「為了賺錢生活，辛苦店長了。」"
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_SaintessMaid01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"雪葉"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"「唉，一群笨蛋，玩過頭了吧？現在店裡少了"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"一個人力，要開始忙起來囉。」"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"BLR_SaintessMaid01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"雪葉"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"「你不是已經看過了嗎？」"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":2,"parameters":[
+				0,
+				522,
+				0
+			]},
+			{"code":250,"indent":3,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				7,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				4,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「要在這間店消費五千萬也太難了吧！？」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「嘻嘻，其實啊，五千萬是我們一起決定的。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「五千萬只是我們的期望值啦，錢當然是越多"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"越好不是嗎？」"
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				7,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				5,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「就算是這樣，要在這裡消費滿五千萬也太難"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"了吧？」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				7,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「感覺就算每天都來這吃飯，吃到過世都沒辦法"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"花到五千萬。」"
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				0,
 				3,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「哈哈哈，我想也是。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				7,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「既然都知道沒辦法達成，為什麼還要放那個"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"兌換獎勵上去啊？」"
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				0,
 				8,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「神秘女僕裝的主意，其實是姐姐們在聊天的"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"時候，提起往事想到的主意。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「當時大家也覺得挺有趣的，除了茶祀以外。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「雖然大家都知道很難辦到，不過．．．」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「因為少數服從多數，所以這個品項還是"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"寫上去了。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「茶鴦姐姐為了這一天準備了好多服裝呢。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				3,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「但是都沒有人能夠有足夠的點數兌換這個"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"獎項。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「所以這個品項至今都保留在上面。」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid01",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"雪葉"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「\\C[2]不過最近聽說好像有客人興致勃勃的想要換"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"這個品項，不知道是不是真的呢？\\C[0]」"
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				1,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				4,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「！？」"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				4,
 				1,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"這間咖啡廳的人也太會玩了吧！？"
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				11,
 				1,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"說的那麼神祕，我都好奇了。"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -35615,57 +35700,70 @@
 			{"code":401,"indent":2,"parameters":[
 				"虧我嗎？」"
 			]},
-			{"code":205,"indent":2,"parameters":[
+			{"code":111,"indent":2,"parameters":[
+				0,
+				528,
+				0
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":205,"indent":3,"parameters":[
 				1,
 				{"list":[
 					{"code":16,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
-			{"code":505,"indent":2,"parameters":[
+			{"code":505,"indent":3,"parameters":[
 				{"code":16,"indent":null}
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				1,
 				6,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid04",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"茶祀"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「咳咳！」"
 			]},
-			{"code":205,"indent":2,"parameters":[
+			{"code":205,"indent":3,"parameters":[
 				1,
 				{"list":[
 					{"code":17,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
-			{"code":505,"indent":2,"parameters":[
+			{"code":505,"indent":3,"parameters":[
 				{"code":17,"indent":null}
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_SaintessMaid03",
 				3,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"潼恩"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「你看？」"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_SaintessMaid03",
