@@ -15056,220 +15056,44 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":10,"y":7},
-	{"id":4,"name":"主線","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1213},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				2,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				1,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"地上那是什麼東西？"
-			]},
-			{"code":355,"indent":0,"parameters":[
-				"$gamePlayer.moveToLoc(66,0,1,8,4)"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
+	{"id":4,"name":"EV004","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Computer","volume":90,"pitch":100,"pan":0}
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Flash3","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":0,"parameters":[
-				[
-					255,
-					255,
-					255,
-					170
-				],
-				60,
-				false
-			]},
-			{"code":203,"indent":0,"parameters":[
-				69,
+			{"code":126,"indent":0,"parameters":[
+				154,
 				0,
-				19,
-				28,
-				2
-			]},
-			{"code":230,"indent":0,"parameters":[
-				30
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				1,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				7,
 				0,
 				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「哇靠！！大哥！？」"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				7,
+				0,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「咳．．．咳．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"少年，大哥猜你應該嚇到了吧？」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「地上這個東西．．．是一種留聲器，能夠紀錄好大哥"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"事先錄製好的聲音跟影像。」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「是大哥我跟冰月借的。」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你這一路上，都會看到這種留聲機，記得撿起來看啊！」\\|\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Flash3","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":0,"parameters":[
-				[
-					255,
-					255,
-					255,
-					170
-				],
-				60,
-				false
-			]},
-			{"code":203,"indent":0,"parameters":[
-				69,
-				0,
-				48,
-				50,
-				2
-			]},
-			{"code":122,"indent":0,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1219
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"落下1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				7,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「啥啊！原來是這樣．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「大哥在搞什麼，這麼神秘．．．」"
-			]},
-			{"code":122,"indent":0,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1220
+				"獲得\\ni[154]2瓶。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1220},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":28,"y":27},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":8,"y":26},
 	{"id":5,"name":"EV005","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Sandobject01b","direction":6,"pattern":1,"characterIndex":3},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -15978,60 +15802,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":true,"through":false,"trigger":0,"walkAnime":false}
 	],"x":18,"y":38},
 	{"id":66,"name":"EV066","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1219},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":19,"y":31},
-	{"id":67,"name":"EV067","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":2,"pattern":1,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				0,
-				{"list":[
-					{"code":36},
-					{"code":17},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":18},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
@@ -16040,10 +15811,10 @@
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":126,"indent":0,"parameters":[
-				215,
+				190,
 				0,
 				0,
-				1
+				2
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -16052,53 +15823,186 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[215]。"
+				"獲得\\ni[190]2瓶。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":8,"pattern":1,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":25,"y":33},
-	{"id":68,"name":"地塊檢查","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1212},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"$gameMap.regionId($gamePlayer.x,$gamePlayer.y)===1"
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":25,"y":18},
+	{"id":67,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
 			]},
-			{"code":122,"indent":1,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1213
+			{"code":408,"indent":0,"parameters":[
+				""
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
 			]},
-			{"code":412,"indent":0,"parameters":[
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				255
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1213},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":27,"y":27},
+	],"x":0,"y":50},
+	{"id":68,"name":"怪追人事件","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"// ==== ==== ===="
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"設定區"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.小怪模板id = 67;"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.threshold_dist = 5; // 地圖格數"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.小怪變更速度 = 4; // 好快ㄛ"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"設定區結束"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"// ==== ==== ===="
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.trgt = $gameMap._events[$gameTemp.小怪模板id]; "
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.threshold_dist2=$gameTemp.threshold_dist*$gameTemp.threshold_dist;"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameMap._interpreter.isRunning() || !$gameTemp.trgt"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"劇情演出"
+			]},
+			{"code":408,"indent":1,"parameters":[
+				"或"
+			]},
+			{"code":408,"indent":1,"parameters":[
+				"不存在ㄉ事件"
+			]},
+			{"code":408,"indent":1,"parameters":[
+				""
+			]},
+			{"code":408,"indent":1,"parameters":[
+				"不判斷避免爛掉"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.self = $gameMap._events[this._eventId].tmp=$gameMap._events[this._eventId].tmp||function(){};"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"if(!$gameTemp.self._last) $gameTemp.self._last=[];"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"if(!$gameTemp.self.root) $gameTemp.self.root={};"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"if(!$gameTemp.self.root.f_filter) $gameTemp.self.root.f_filter = evt=>evt && evt!==$gameTemp.trgt && evt.characterIndex()===$gameTemp.trgt.characterIndex() && evt.characterName()===$gameTemp.trgt.characterName() ;"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"if(!$gameTemp.self.root.mobs) $gameTemp.self.root.mobs=$gameMap._events.filter($gameTemp.self.root.f_filter);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"for(let arr=$gameTemp.self.root.mobs,x=arr.length;x--;) if(arr[x]._erased){ if(x+1===arr.length) arr.pop(); else{ arr[x]=arr[arr.length-1]; arr.pop(); } }"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"!$gameTemp.self.root.f_forEach"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp.self.root.f_forEach = evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(evt.dist2_r($gamePlayer)<$gameTemp.threshold_dist2){"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._tracing){ evt._tracing=1; evt.requestBalloon(1); }"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveType=2;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveSpeed=$gameTemp.小怪變更速度;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveFrequency=6;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}else{ evt._tracing=0;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveType=1;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveSpeed=$gameTemp.trgt._moveSpeed;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._moveFrequency=$gameTemp.trgt._moveFrequency;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"} "
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"};"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.self.root.mobs.forEach($gameTemp.self.root.f_forEach);"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":4,"walkAnime":false}
+	],"x":1,"y":50},
 	{"id":69,"name":"攸特影子","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Yuter_MV01","direction":8,"pattern":1,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -16219,800 +16123,88 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":true,"through":false,"trigger":0,"walkAnime":false}
 	],"x":43,"y":6},
-	{"id":73,"name":"EV073","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+	{"id":73,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
 			{"code":108,"indent":0,"parameters":[
-				"少年．．．放眼四周．．．"
+				"判斷依據：使用的圖片(12格一組視為同一個)"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"這裡的環境．．．給你什麼樣的感覺？"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"孤島沙漠的地底下．．．"
+				""
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"弱肉強食的世界．．．"
+				"改變行為後的事件，在還原時，"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"這個地方．．．對大哥來說．．．"
+				"會還原成該事件設定的速度與頻率"
 			]},
-			{"code":408,"indent":0,"parameters":[
-				"卻是永生無法忘記的地方．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"這個地方．．．埋葬著大哥的夢想．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥．．．也曾經有著像你們一樣"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"有著生死至交的好夥伴．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－碼頭"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"你曾經問過大哥．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"為什麼．．．願意這樣子跟著你們旅行．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"跟著你旅行，讓大哥．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"重新喚醒了塵封的記憶．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"不知道．．．你是否還記得．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"在埋葬了娜娜美小姐後．．．大哥說了什麼？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥這麼容易放棄使命嗎？"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"還記得我們在泉晨鎮時的遭遇嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"還記得我們在休憩之泉，重新見面的時候的情景嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"Ｒ－ＭＯＶＩＥ"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥狠狠的揍了你一拳．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"你知道大哥為什麼要揍你嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"知道為什麼大哥說你居然還有種出現嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"你真的以為大哥是因為你的態度，才揍你一拳嗎？"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"還記得我們在鄉南村時，得知慶次的消息嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－知道慶次死掉"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"至今還是無頭公案對吧．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"真的是如此嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－泉晨鎮夜晚"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－心臟粉碎"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－大哥，你揍人好痛"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"你現在知道，為什麼大哥要穿著一件不合身的衣服嗎？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"那是因為．．．為了包裹不符合煉金師的身形．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"其實這一路上．．．大哥一直在隱藏實力"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"並且．．．默默的幫你排除萬難．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"是的．．．慶次是大哥殺的，因為他干擾了我的計畫．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"一路上若有個官兵在，真的很礙事．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"而天使小姐的失蹤是個意外．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"雷娜小姐的酒量太好，當夜我也被灌醉了．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"導致她遇到了危險．．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"慶幸．．．大哥在市民卡上做上記號，才沒有跟丟。"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"也還好，剛拿到市民卡時，大哥馬上就做上記號"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"這個地方．．．荒星島，是在大陸的東北邊．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"必須像這樣，搭乘私家船才能來到這"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"附近最近的的都市，就是王都，抵達王都後．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥就迫切的需要一艘船，不論是私家船．．．或者劫船都好．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－國王要賞船"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－碼頭緊張"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－大哥氣到發抖"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"少年．．．大哥都說到這了．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥真正的目的，你應該猜的到了吧？"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－王國旅行、天使小姐跟著"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"ＲＭＯＶＩＥ－我要船、荒星島大陸距離王都最近"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"你應該猜到了吧．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"大哥最終的目的，就是帶天使小姐來到這．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"必須是活著的天使小姐．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"為的．．．就是為了救活另一人．．．"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"如果不想要天使小姐出事，大哥在下面等你．．．"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"－－－－－－－－－－－－－－－－－－－－－－－－－"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"後續謎題解答"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"維皮是蘋維後代"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"悠特時間快到了"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"時間寶珠、３００年、所以靈魂學找不到"
+			{"code":117,"indent":0,"parameters":[
+				255
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":31,"y":24},
-	{"id":74,"name":"EV074","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1222},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1253},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":7},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":17,"y":28},
+	{"id":74,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
 			{"code":108,"indent":0,"parameters":[
-				"演戲用"
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				255
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1255},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":43,"y":11},
-	{"id":75,"name":"地塊檢查","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1220},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"$gameMap.regionId($gamePlayer.x,$gamePlayer.y)===2"
-			]},
-			{"code":122,"indent":1,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1221
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1221},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":47,"y":12},
-	{"id":76,"name":"主線","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1221},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":242,"indent":0,"parameters":[
-				40
-			]},
-			{"code":355,"indent":0,"parameters":[
-				"$gamePlayer.moveToLoc(74,0,1,8,4)"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Computer","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Flash3","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":0,"parameters":[
-				[
-					255,
-					255,
-					255,
-					170
-				],
-				60,
-				false
-			]},
-			{"code":203,"indent":0,"parameters":[
-				69,
-				0,
-				43,
-				9,
-				2
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「少年．．．放眼四周．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這裡的環境．．．給你什麼樣的感覺？」\\|\\|\\|\\^"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":17,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":16,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這裡是荒星島．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"在元素大陸王都東北方的偏遠孤島沙漠．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「平常船隻不會靠近，最近的城鎮也是遙遠的王都。」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「同時．．．這裡也是一個弱肉強食、孕育著強大魔物的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"世界．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「而這個地方．．．對大哥來說．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「卻是一個永遠無法遺忘的地方．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「哈哈，不過放心，在你們來之前，大哥已經把島上跟地道"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"內的魔物給消滅掉了。」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你就放心的前進吧，用不著擔心。」\\|\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Flash3","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":0,"parameters":[
-				[
-					255,
-					255,
-					255,
-					170
-				],
-				60,
-				false
-			]},
-			{"code":203,"indent":0,"parameters":[
-				69,
-				0,
-				48,
-				50,
-				2
-			]},
-			{"code":122,"indent":0,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1222
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				13,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"強大的魔物？被大哥一人幹掉？"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				9,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大哥這麼厲害的嗎？"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1222},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1253},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":223,"indent":0,"parameters":[
-				[
-					34,
-					-34,
-					-68,
-					170
-				],
-				1,
-				true
-			]},
-			{"code":203,"indent":0,"parameters":[
-				69,
-				0,
-				43,
-				9,
-				2
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「少年．．．放眼四周．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這裡的環境．．．給你什麼樣的感覺？」\\|\\|\\|\\^"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":17,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":16,"indent":null},
-					{"code":15,"parameters":[
-						30
-					],"indent":null},
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這裡是荒星島．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"在元素大陸王都東北方的偏遠孤島沙漠．．．」\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[3]聲音"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「平常船隻不會靠近，最近的城鎮也是遙遠的王都。」\\|\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Magic12_A","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":0,"parameters":[
-				[
-					255,
-					255,
-					255,
-					170
-				],
-				60,
-				false
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					0,
-					0,
-					0,
-					0
-				],
-				1,
-				true
-			]},
-			{"code":122,"indent":0,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				1255
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				473,
-				121,
-				107,
-				8,
-				2
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1255},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":48,"y":12},
+	],"x":11,"y":24},
+	null,
+	null,
 	{"id":77,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\ni[303]暫時移除！"
-			]},
-			{"code":126,"indent":0,"parameters":[
-				303,
-				1,
-				0,
-				1
-			]},
-			{"code":129,"indent":0,"parameters":[
-				2,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				3,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				7,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				11,
-				1,
-				false
-			]},
-			{"code":318,"indent":0,"parameters":[
-				0,
-				1,
-				1,
-				40
-			]},
-			{"code":318,"indent":0,"parameters":[
-				0,
-				1,
-				1,
-				41
-			]},
-			{"code":318,"indent":0,"parameters":[
-				0,
-				1,
-				1,
-				42
-			]},
-			{"code":318,"indent":0,"parameters":[
-				0,
-				1,
-				1,
-				43
-			]},
-			{"code":126,"indent":0,"parameters":[
-				303,
-				1,
-				0,
-				1
-			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"怒","volume":50,"pitch":100,"pan":0}
+				{"name":"m-art_Abyss","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
@@ -17048,11 +16240,11 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇．．．想不到裡面這麼暗．．．」"
+				"「哇，裡面好黑喔。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				1,
+				"BLR_03_1",
+				6,
 				0,
 				2
 			]},
@@ -17060,11 +16252,14 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不曉得大哥在準備什麼小遊戲．．．」"
+				"「異世界轉生卡車陣在深處等你啊，少年，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"加油！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				7,
+				4,
 				0,
 				2
 			]},
@@ -17072,14 +16267,14 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不會真的是什麼異世界轉生卡車陣吧．．．」"
+				"「你不說話沒人把你當啞巴！」"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				10,
 				10,
 				0,
 				0,
-				1212
+				1215
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17087,7 +16282,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1212},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1215},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -17095,158 +16290,158 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":33,"y":41},
-	{"id":78,"name":"EV078","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":2,"pattern":1,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+	{"id":78,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
 			]},
-			{"code":205,"indent":0,"parameters":[
-				0,
-				{"list":[
-					{"code":36},
-					{"code":17},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":18},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
+			{"code":408,"indent":0,"parameters":[
+				""
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36}
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17}
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":126,"indent":0,"parameters":[
-				214,
-				0,
-				0,
-				1
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[214]。"
+			{"code":117,"indent":0,"parameters":[
+				255
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":8,"pattern":1,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":20,"y":9},
-	{"id":79,"name":"EV079","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":2,"pattern":1,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":20,"y":18},
+	{"id":79,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
 			]},
-			{"code":205,"indent":0,"parameters":[
-				0,
-				{"list":[
-					{"code":36},
-					{"code":17},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":18},
-					{"code":15,"parameters":[
-						3
-					]},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
+			{"code":408,"indent":0,"parameters":[
+				""
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36}
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17}
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				]}
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":126,"indent":0,"parameters":[
-				261,
-				0,
-				0,
-				1
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[261]。"
+			{"code":117,"indent":0,"parameters":[
+				255
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"!Chest","direction":8,"pattern":1,"tileId":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":6,"y":16},
-	null,
-	null,
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":35,"y":20},
+	{"id":80,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				255
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":32,"y":8},
+	{"id":81,"name":"沙漠沙蟲敵人用","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_02","direction":2,"pattern":1,"characterIndex":5},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				255
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":19,"y":6},
 	null,
 	null,
 	null,
