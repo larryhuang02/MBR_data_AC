@@ -10564,13 +10564,10 @@
 				"$gameTemp.choiceEnables = "
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"[($gameParty._gold >= 900000000000),"
+				"[false,"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				" true];"
-			]},
-			{"code":118,"indent":0,"parameters":[
-				"impossible"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -10585,12 +10582,6 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"不行，果然還是我自己上吧！"
-			]},
-			{"code":108,"indent":1,"parameters":[
-				"防呆"
-			]},
-			{"code":119,"indent":1,"parameters":[
-				"impossible"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
