@@ -20781,6 +20781,28 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":205,"indent":0,"parameters":[
+				79,
+				{"list":[
+					{"code":45,"parameters":[
+						"{ let arr=[]; for(x=2;x<=8;x+=2) if(this._direction!==x) arr.push(x); this._direction=arr.rnd1(); }"
+					],"indent":null},
+					{"code":45,"parameters":[
+						"this._waitCount=Math.random()*64+16;"
+					],"indent":null},
+					{"code":0}
+				],"repeat":true,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"{ let arr=[]; for(x=2;x<=8;x+=2) if(this._direction!==x) arr.push(x); this._direction=arr.rnd1(); }"
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"this._waitCount=Math.random()*64+16;"
+				],"indent":null}
+			]},
 			{"code":230,"indent":0,"parameters":[
 				30
 			]},
@@ -21130,6 +21152,16 @@
 				],
 				1,
 				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				79,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -21943,6 +21975,9 @@
 				],
 				1,
 				true
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.animationOptions_setRotate(0);"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
