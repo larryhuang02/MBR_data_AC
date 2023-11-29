@@ -99728,6 +99728,11 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Dive","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":323,"indent":0,"parameters":[
+				0,
+				"Vehicle_MZ",
+				7
+			]},
 			{"code":202,"indent":0,"parameters":[
 				0,
 				0,
