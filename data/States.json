@@ -774,10 +774,12 @@
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"心理測驗-酒神","note":"<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":156,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":43,"dataId":46,"value":1},
-		{"code":43,"dataId":49,"value":1}
+		{"code":43,"dataId":49,"value":1},
+		{"code":43,"dataId":50,"value":1}
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮轉職C","note":"<附魔類型:1C>\n<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":157,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-		{"code":43,"dataId":49,"value":1}
+		{"code":43,"dataId":49,"value":1},
+		{"code":43,"dataId":50,"value":1}
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮轉職A","note":"<附魔類型:1A>\n<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":158,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":43,"dataId":46,"value":1}

@@ -9665,20 +9665,37 @@
 		],"span":1}
 	]},
 	{"id":297,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":578,"x":318,"y":331,"hidden":false},
+		{"enemyId":578,"x":198,"y":433,"hidden":false}
+	],"name":"裂牙龍*2(主線)","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":298,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":579,"x":357,"y":343,"hidden":false},
+		{"enemyId":579,"x":255,"y":444,"hidden":false},
+		{"enemyId":579,"x":114,"y":358,"hidden":false}
+	],"name":"荒星狼*3(主線)","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":299,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":580,"x":432,"y":320,"hidden":false},
+		{"enemyId":580,"x":368,"y":400,"hidden":false},
+		{"enemyId":580,"x":288,"y":444,"hidden":false},
+		{"enemyId":580,"x":208,"y":320,"hidden":false},
+		{"enemyId":580,"x":128,"y":368,"hidden":false},
+		{"enemyId":580,"x":80,"y":444,"hidden":false}
+	],"name":"荒星砂蟲*6(主線)","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75,\"5\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},

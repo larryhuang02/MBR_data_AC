@@ -1,4 +1,4 @@
-{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"m-art_SekhetHetspet","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
+{"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"m-art_SekhetHetspet","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"荒星島","encounterList":[
 ],"encounterStep":30,"height":70,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":20,"width":65,"data":[
 	2816,
 	2816,
@@ -18821,6 +18821,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19011,6 +19012,7 @@
 	0,
 	0,
 	0,
+	4,
 	0,
 	0,
 	0,
@@ -19075,6 +19077,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19308,6 +19311,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19372,6 +19376,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19436,6 +19441,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19500,6 +19506,7 @@
 	0,
 	0,
 	0,
+	1,
 	0,
 	0,
 	0,
@@ -19511,6 +19518,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19534,6 +19542,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19598,6 +19607,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19662,6 +19672,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19692,6 +19703,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -19725,6 +19737,7 @@
 	0,
 	0,
 	0,
+	1,
 	0,
 	0,
 	0,
@@ -19755,6 +19768,7 @@
 	0,
 	0,
 	0,
+	1,
 	0,
 	0,
 	0,
@@ -22248,6 +22262,7 @@
 	0,
 	0,
 	0,
+	1,
 	0,
 	0,
 	0,
@@ -22286,6 +22301,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -22350,6 +22366,7 @@
 	0,
 	0,
 	0,
+	1,
 	0,
 	0,
 	0,
@@ -22376,6 +22393,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -22440,6 +22458,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -22568,6 +22587,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -22680,27 +22700,7 @@
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
+	5,
 	0,
 	0,
 	0,
@@ -27304,6 +27304,11 @@
 	null,
 	{"id":1,"name":"EV001","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":121,"indent":0,"parameters":[
+				323,
+				323,
+				0
+			]},
 			{"code":201,"indent":0,"parameters":[
 				0,
 				404,
@@ -27350,6 +27355,9 @@
 				2,
 				15,
 				4
+			]},
+			{"code":230,"indent":0,"parameters":[
+				90
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27498,7 +27506,7 @@
 			{"code":213,"indent":0,"parameters":[
 				6,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27534,7 +27542,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[3]哥哥，你跟我說的那個『奪命隕石陣』，"
+				"「\\N[3]哥哥，你跟我說的那個『轉生卡車陣』，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"該不會．．．」"
@@ -27560,7 +27568,7 @@
 			{"code":213,"indent":0,"parameters":[
 				6,
 				1,
-				false
+				true
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -27606,10 +27614,25 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈？奪命隕石陣！？欸，這件事怎麼都沒人"
+				"「哈？轉生卡車陣？雖然我不知道什麼是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"告訴我，這裡有那種東西！？」"
+				"卡車，但總覺得不太妙。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				4,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸，這件事怎麼都沒人告訴我，這裡有那種"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"東西！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -27622,6 +27645,36 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「要是告訴你的話，你還願意乖乖跟我來嗎？」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				2,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				3,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				4,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				6,
@@ -27659,8 +27712,8 @@
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
-				6,
-				false
+				13,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27682,6 +27735,16 @@
 				8,
 				false
 			]},
+			{"code":213,"indent":0,"parameters":[
+				4,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				8,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				3,
@@ -27694,6 +27757,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"「就算我們想回去．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				6,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
 				3,
@@ -27705,6 +27778,11 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「這裡會開船的人只有病鬼而已。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				6,
+				13,
+				true
 			]},
 			{"code":205,"indent":0,"parameters":[
 				4,
@@ -27744,7 +27822,7 @@
 			{"code":213,"indent":0,"parameters":[
 				4,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -27757,6 +27835,14 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「從頭開始學的話，大概只要．．．三個月？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				6,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -27777,6 +27863,46 @@
 				5,
 				3,
 				false
+			]},
+			{"code":205,"indent":0,"parameters":[
+				4,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				6,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				2,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				3,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -27863,7 +27989,139 @@
 				0,
 				1211
 			]},
+			{"code":314,"indent":0,"parameters":[
+				0,
+				0
+			]},
+			{"code":129,"indent":0,"parameters":[
+				1,
+				1,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				2,
+				1,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				3,
+				1,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				7,
+				1,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				11,
+				1,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				1,
+				0,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				7,
+				0,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				11,
+				0,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				2,
+				0,
+				false
+			]},
+			{"code":129,"indent":0,"parameters":[
+				3,
+				0,
+				false
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				44,
+				0
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"重置"
+			]},
+			{"code":318,"indent":1,"parameters":[
+				0,
+				1,
+				1,
+				40
+			]},
+			{"code":318,"indent":1,"parameters":[
+				0,
+				1,
+				1,
+				41
+			]},
+			{"code":318,"indent":1,"parameters":[
+				0,
+				1,
+				1,
+				42
+			]},
+			{"code":318,"indent":1,"parameters":[
+				0,
+				1,
+				1,
+				43
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"學到"
+			]},
+			{"code":318,"indent":1,"parameters":[
+				0,
+				1,
+				0,
+				40
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]※小提示"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重新獲得\\ni[303]。"
+			]},
+			{"code":126,"indent":0,"parameters":[
+				303,
+				0,
+				0,
+				1
+			]},
+			{"code":314,"indent":0,"parameters":[
+				0,
+				0
+			]},
 			{"code":222,"indent":0,"parameters":[
+			]},
+			{"code":121,"indent":0,"parameters":[
+				323,
+				323,
+				1
+			]},
+			{"code":281,"indent":0,"parameters":[
+				0
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28010,23 +28268,13 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":60,"y":69},
+	],"x":64,"y":69},
 	{"id":8,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28034,30 +28282,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":33,"y":57},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":51,"y":51},
 	{"id":9,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28065,30 +28303,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":13,"y":58},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":18,"y":50},
 	{"id":10,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28096,30 +28324,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":7,"y":50},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":44,"y":41},
 	{"id":11,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28127,30 +28345,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":18,"y":50},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":11,"y":56},
 	{"id":12,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28158,30 +28366,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":41,"y":60},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":36,"y":48},
 	{"id":13,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28189,30 +28387,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":35,"y":48},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":57,"y":19},
 	{"id":14,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28220,30 +28408,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":51,"y":51},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":33,"y":20},
 	{"id":15,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28251,61 +28429,58 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":43,"y":41},
-	{"id":16,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":12,"y":9},
+	{"id":16,"name":"EV016","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
 			]},
-			{"code":408,"indent":0,"parameters":[
-				""
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
+			{"code":126,"indent":0,"parameters":[
+				124,
+				0,
+				0,
+				2
 			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
 			]},
-			{"code":117,"indent":0,"parameters":[
-				252
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[124]2瓶。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":58,"y":33},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":3,"y":39},
 	{"id":17,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
 			{"code":117,"indent":0,"parameters":[
-				252
+				262
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -28313,140 +28488,20 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":53,"y":19},
-	{"id":18,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
-			{"code":117,"indent":0,"parameters":[
-				252
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":37,"y":19},
-	{"id":19,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
-			{"code":117,"indent":0,"parameters":[
-				252
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":24,"y":26},
-	{"id":20,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
-			{"code":117,"indent":0,"parameters":[
-				252
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":8,"y":17},
-	{"id":21,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1211},"directionFix":false,"image":{"tileId":0,"characterName":"$Dinosaur","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"判斷依據：使用的圖片(12格一組視為同一個)"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				""
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"改變行為後的事件，在還原時，"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"會還原成該事件設定的速度與頻率"
-			]},
-			{"code":117,"indent":0,"parameters":[
-				252
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":1277},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":0,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":12,"y":8},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true}
+	],"x":8,"y":18},
+	null,
+	null,
+	null,
+	null,
 	{"id":22,"name":"怪追人事件","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"// ==== ==== ===="
 			]},
@@ -28570,45 +28625,8 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":4,"walkAnime":false}
-	],"x":59,"y":69},
-	{"id":23,"name":"EV023","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":126,"indent":0,"parameters":[
-				215,
-				0,
-				0,
-				1
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[215]。"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":56,"y":50},
+	],"x":63,"y":69},
+	null,
 	{"id":24,"name":"EV024","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":123,"indent":0,"parameters":[
@@ -28647,44 +28665,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":23,"y":47},
-	{"id":25,"name":"EV025","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":2,"pattern":1,"characterIndex":6},"list":[
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":126,"indent":0,"parameters":[
-				6,
-				0,
-				0,
-				3
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[3]3瓶。"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":8,"pattern":1,"characterIndex":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":3,"y":39},
+	null,
 	{"id":26,"name":"EV026","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":250,"indent":0,"parameters":[

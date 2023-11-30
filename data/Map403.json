@@ -19186,6 +19186,31 @@
 	],"x":18,"y":22},
 	{"id":7,"name":"EV007","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"到了隔天．．．\\|\\|\\|\\^\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				120,
+				true
+			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"m-art_SkyInPuddle","volume":50,"pitch":100,"pan":0}
 			]},
@@ -19497,7 +19522,7 @@
 			{"code":213,"indent":0,"parameters":[
 				3,
 				11,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -19606,6 +19631,9 @@
 				2,
 				8,
 				true
+			]},
+			{"code":281,"indent":0,"parameters":[
+				1
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,

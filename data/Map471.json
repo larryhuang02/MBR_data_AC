@@ -10096,7 +10096,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10144,23 +10144,8 @@
 				3
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				9,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「\\N[3]大哥\\.．\\.．\\.．\\.\\|你不會\\.．\\.．\\.．\\.\\|」"
-			]},
-			{"code":241,"indent":0,"parameters":[
-				{"name":"沙漠戰鬥","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				6,
+				7,
 				0,
 				2
 			]},
@@ -10168,25 +10153,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧！摔不死人的！這次神威不在，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"就讓我來\\.．\\.．\\.．\\.」\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「勇氣秘傳-番茄忍者！」"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
+				"「深坑嗎．．．看樣子果然是這裡了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				20,
@@ -10228,22 +10195,16 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「看是要成為從容不迫的忍者，還是摔成"
+				"「這次神威不在，就讓我來\\.．\\.．\\.．\\.」\\|\\^"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"爛番茄。」"
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_03_1",
-				6,
-				0,
-				2
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[3]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「按住↑按鈕，保持住平衡，慢慢往下滑。」"
+			{"code":241,"indent":0,"parameters":[
+				{"name":"沙漠戰鬥","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -10255,10 +10216,220 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「接著使用你的←→鍵，不疾不徐的閃避周邊"
+				"「勇氣秘傳-異世界勇者！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"飛來的碎石。」"
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「1.相當\\C[2]和藹可親\\C[0]的平衡遊戲，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"看是要成為從容不迫的大師，還是被卡車輾過"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"穿越到異世界成為勇者，全看你的平衡之手。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「2.按住\\I[1632]保持住平衡，抓住繩子往下滑。"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"接著使用\\I[1634]\\I[1635]，不疾不徐的閃避周邊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"駛來的卡車。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「3.最後就是這個是\\C[2]一命通關\\C[0]的遊戲！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"人生只有一次機會．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「大致上就是這樣。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				3,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「修但幾勒～」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「抓著繩子往下滑．．．然後還要避開四周"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"駛來的卡車．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「原來卡車會飛！？？？？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個．．．大哥！你手上這書哪來的！？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當然是跟神威借的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「好了！上吧！少年！這個最後的小遊戲可是"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"結合了眾神的期望，你可不能落跑啊！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				7,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我可以說投降輸一半？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「沒事的．．．就算真的被卡車輾過，說不定"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你就可以穿越到另一個異世界。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「開啟全新的遊戲篇章．．．月紅傳奇！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_03_1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「玩家一定會很興奮的！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Monster1","volume":90,"pitch":100,"pan":0}
@@ -10306,6 +10477,16 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":17,"indent":null}
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				2,
@@ -10331,7 +10512,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「摔爛了記得吱一聲，我才知道要幫你收屍。」"
+				"「被輾過時記得吱一聲，我才知道要幫你收屍。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
@@ -10340,16 +10521,6 @@
 				-1,
 				7,
 				true
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -10516,6 +10687,104 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈，放心吧，大哥也不是吃素的。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				7,
+				{"list":[
+					{"code":15,"parameters":[
+						30
+					],"indent":null},
+					{"code":37,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					30
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":35,"indent":null},
+					{"code":1,"indent":null},
+					{"code":36,"indent":null},
+					{"code":3,"indent":null},
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":35,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				3,
+				{"list":[
+					{"code":45,"parameters":[
+						"this.turnTowardCharacter($gameMap._events[7])"
+					],"indent":null},
+					{"code":0}
+				],"repeat":true,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"this.turnTowardCharacter($gameMap._events[7])"
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				20,
+				{"list":[
+					{"code":45,"parameters":[
+						"this.turnTowardCharacter($gameMap._events[7])"
+					],"indent":null},
+					{"code":0}
+				],"repeat":true,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"this.turnTowardCharacter($gameMap._events[7])"
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				21,
+				{"list":[
+					{"code":45,"parameters":[
+						"this.turnTowardCharacter($gameMap._events[7])"
+					],"indent":null},
+					{"code":0}
+				],"repeat":true,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"this.turnTowardCharacter($gameMap._events[7])"
+				],"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				5,
@@ -10546,7 +10815,32 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":205,"indent":0,"parameters":[
+				7,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
 			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":230,"indent":0,"parameters":[
+				120
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Bow4","volume":90,"pitch":100,"pan":0}
@@ -10608,10 +10902,41 @@
 				{"name":"Bow4","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":1,"parameters":[
+				30
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					0,
+					0,
+					255
+				],
+				30,
+				false
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Bow5_A","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"落下2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				5,
+				1,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\TXTCENTER:\"\\{\\{啊！\"\\^"
+			]},
+			{"code":230,"indent":1,"parameters":[
 				60
 			]},
 			{"code":250,"indent":1,"parameters":[
-				{"name":"Bow4","volume":90,"pitch":100,"pan":0}
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":1,"parameters":[
 				60
@@ -10626,7 +10951,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"\\C[2]攸特大哥！攸特大哥！\"\\|\\|\\|\\^"
+				"\\TXTCENTER:\"\\C[2]攸特大哥！攸特大哥！\"\\|\\|\\^"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -10638,7 +10963,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"\\C[31]欸，那個病鬼不會真的摔死了吧？\"\\|\\|\\|\\^"
+				"\\TXTCENTER:\"\\C[31]欸，那個病鬼不會真的摔死了吧？\"\\|\\|\\^"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -10650,7 +10975,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"\\C[20]我、我們快點下去看看！\"\\|\\|\\|\\^"
+				"\\TXTCENTER:\"\\C[20]我、我們快點下去看看！\"\\|\\|\\^"
 			]},
 			{"code":230,"indent":1,"parameters":[
 				60
