@@ -966,7 +966,7 @@
 	],"hitType":0,"iconIndex":423,"itypeId":1,"name":"天真海風","note":"<sortingKey:300.03>\n<speed:20000>\n<maxStack:10>\n使用刺激的氣泡水與甜蜜的楓糖調製而成的飲料，清涼的味\n道中包含著濃情蜜意。\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":324,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"(Math.random()<0.5 ? b._tp=Math.min(b._tp*2,b.maxTp()) : b._tp=0); 0;","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n使用後一翻兩瞪眼，將現有TP變成兩倍、或者TP歸0。","effects":[
 	],"hitType":0,"iconIndex":425,"itypeId":1,"name":"湛藍雙子","note":"<sortingKey:300.02>\n<speed:20000>\n<maxStack:10>\n<道具額外文字檔:BLR_custom/detail/item/Items324.txt>","occasion":1,"price":15000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":325,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n我方單體HP回復1點，「爆擊率+50%」持續1次行動。","effects":[
+	{"id":325,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n我方單體HP回復1點，「爆擊率+75%」持續1次行動。","effects":[
 		{"code":21,"dataId":262,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"溫柔之夜","note":"<sortingKey:300.04>\n<speed:20000>\n<maxStack:10>\n\n<道具額外文字檔:BLR_custom/detail/item/Items325.txt>","occasion":1,"price":20000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":326,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，我方單體HP回復1點，\n「中幅提升斬、刺、鈍屬抗性」持續7次行動","effects":[
