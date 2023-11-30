@@ -10429,7 +10429,7 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"指定編號進行點播",
+					"選擇BGM",
 					"恢復為房間預設BGM",
 					"離開"
 				],
@@ -10440,7 +10440,61 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"指定編號進行點播"
+				"選擇BGM"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._selBgms鹿List=$gameTemp._selBgms鹿List||["
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"\"1神秘洞\", \"1開頭問題測驗\", \"1龍之谷\","
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"\"Liveliness\","
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"\"Vehicle_1_2\", \"Vehicle_2_2\", \"Vehicle_3_2\","
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"\"妖精1\", \"村3\", \"迷宮1\", \"魔王\","
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"];"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._selBgm鹿=undefined;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"{ const cmd102={code:102,indent:0,parameters:[['離開'],0,0,2,0]};"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"const cmds=this._tmpPartialList=[cmd102,{\"code\":402,\"indent\":0,parameters:[0,'離開']},{code:0,indent:1,parameters:[]},];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"const arr=$gameTemp._selBgms鹿List.sort().map(name=>name.replace(/\\.(ogg|m4a)$/g,''));"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"for(let x=0,xs=arr.length;x!==xs;++x){ const name=arr[x];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" "
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" cmds.push({code:402,indent:0,parameters:[x+1,name]},{code:355,indent:1,parameters:['$gameTemp._selBgm鹿='+JSON.stringify(arr[x])+';',]},{code:0,indent:1,parameters:[]},);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" cmd102.parameters[0].push(name);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"cmds.push({code:404,indent:0,parameters:[]},{code:355,indent:0,parameters:['if($gameTemp._selBgm鹿){ let bgm=$dataMap.bgm,tmp=JSON.parse(JSON.stringify(bgm)); if(bgm.name_bak===undefined) bgm.name_bak=bgm.name; tmp.name=bgm.name=$gameTemp._selBgm鹿; AudioManager.playBgm(tmp); }']},{code:0,indent:0,parameters:[]});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"選BGM"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -10650,6 +10704,32 @@
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":115,"indent":0,"parameters":[
+			]},
+			{"code":118,"indent":0,"parameters":[
+				"選BGM"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"從這邊起，往下不要加東西"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"加東西會讓清單蓋錯位置"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"this._list.length=this._index+4; for(let x=0,arr=this._tmpPartialList,xs=arr.length;x!==xs;++x) this._list.push(arr[x]);"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"請選擇想聽的 BGM 。\""
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
