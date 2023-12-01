@@ -27979,6 +27979,12 @@
 			{"code":211,"indent":0,"parameters":[
 				1
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameParty._actors.slice().reverse().forEach(i=>$gameParty.removeActor(i));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"[1,11,3,2,7].forEach(i=>$gameParty.addActor(i));"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
