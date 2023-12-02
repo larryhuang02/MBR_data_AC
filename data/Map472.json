@@ -15458,6 +15458,9 @@
 			{"code":108,"indent":0,"parameters":[
 				"攸特第二次戰鬥"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SceneManager.resumeBattle();"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sword6_A","volume":100,"pitch":90,"pan":0}
 			]},
@@ -16338,6 +16341,9 @@
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"攸特第三次戰鬥"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SceneManager.resumeBattle();"
 			]},
 			{"code":212,"indent":0,"parameters":[
 				67,

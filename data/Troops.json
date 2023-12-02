@@ -12082,7 +12082,15 @@
 	]},
 	{"id":333,"members":[
 		{"enemyId":542,"x":150,"y":349,"hidden":false}
-	],"name":"攸特","pages":[
+	],"name":"攸特(戰2,皮單挑)","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":108,"indent":0,"parameters":["這是戰鬥中離"]},
+			{"code":355,"indent":0,"parameters":["SceneManager.pauseBattleAndGotoMap();"]},
+			{"code":108,"indent":0,"parameters":[""]},
+			{"code":108,"indent":0,"parameters":["這是從地圖回來上次的戰鬥繼續打"]},
+			{"code":355,"indent":0,"parameters":["SceneManager.resumeBattle();"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["開關２１＝大招"]},
 			{"code":408,"indent":0,"parameters":["開關２２、２３＝招式解鎖"]},
@@ -12443,7 +12451,7 @@
 	]},
 	{"id":335,"members":[
 		{"enemyId":542,"x":150,"y":349,"hidden":false}
-	],"name":"攸特","pages":[
+	],"name":"攸特(戰1,團戰)","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["開關２１＝大招"]},
 			{"code":408,"indent":0,"parameters":["開關２２、２３＝招式解鎖"]},
