@@ -400026,6 +400026,39 @@
 				"這樣就可以一起旅行了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「然後這是BGM選擇器，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"要服務就要完整對吧！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				778,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[778]。"
+			]},
+			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
 				14,
 				0,
@@ -400036,6 +400069,21 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「不用掃把就可以在天上飛，ＧＧ好棒呢！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_07_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[7]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「沒想到還能選音樂聽，服務也太好了吧！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"ＧＧ真的好棒！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
