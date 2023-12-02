@@ -12094,18 +12094,10 @@
 			{"code":108,"indent":0,"parameters":["開場給狀態"]},
 			{"code":333,"indent":0,"parameters":[0,0,5]},
 			{"code":313,"indent":0,"parameters":[0,1,0,343]},
-			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
-			{"code":401,"indent":0,"parameters":["攸特哥哥．．．"]},
-			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
-			{"code":401,"indent":0,"parameters":["為什麼會變成這個樣子？"]},
-			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
-			{"code":401,"indent":0,"parameters":["難道真的沒有別的辦法了嗎？"]},
-			{"code":101,"indent":0,"parameters":["BLR_07_2",1,1,0]},
-			{"code":401,"indent":0,"parameters":["一定要變成這樣才行嗎？"]},
-			{"code":101,"indent":0,"parameters":["BLR_11_01",11,0,0]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[11]"]},
-			{"code":401,"indent":0,"parameters":["「喂！\\N[1]，這背骨仔是來真的，"]},
-			{"code":401,"indent":0,"parameters":["你信誓旦旦的講了那麼多，可不准死在這裡！」"]},
+			{"code":401,"indent":0,"parameters":["「喂！\\N[1]，這背骨仔是來真的，你信誓旦旦"]},
+			{"code":401,"indent":0,"parameters":["講了那麼多，可不准死在這裡！」"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
@@ -12450,10 +12442,80 @@
 		],"span":1}
 	]},
 	{"id":335,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":542,"x":150,"y":349,"hidden":false}
+	],"name":"攸特","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["開關２１＝大招"]},
+			{"code":408,"indent":0,"parameters":["開關２２、２３＝招式解鎖"]},
+			{"code":408,"indent":0,"parameters":["開關２４＝發動變身"]},
+			{"code":408,"indent":0,"parameters":["開關２９＝神仙茶使用後提示"]},
+			{"code":408,"indent":0,"parameters":["開關３０＝是否會用神仙茶"]},
+			{"code":408,"indent":0,"parameters":["變數４０＝神仙茶剩幾瓶"]},
+			{"code":108,"indent":0,"parameters":["開關２８＝滅世奔雷提示"]},
+			{"code":108,"indent":0,"parameters":["開場給狀態"]},
+			{"code":333,"indent":0,"parameters":[0,0,5]},
+			{"code":313,"indent":0,"parameters":[0,1,0,343]},
+			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
+			{"code":401,"indent":0,"parameters":["攸特哥哥．．．"]},
+			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
+			{"code":401,"indent":0,"parameters":["為什麼會變成這個樣子？"]},
+			{"code":101,"indent":0,"parameters":["BLR_07_1",10,1,0]},
+			{"code":401,"indent":0,"parameters":["難道真的沒有別的辦法了嗎？"]},
+			{"code":101,"indent":0,"parameters":["BLR_07_2",1,1,0]},
+			{"code":401,"indent":0,"parameters":["一定要變成這樣才行嗎？"]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",15,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「喂！\\N[1]，不要再心存幻想了！你也知道"]},
+			{"code":401,"indent":0,"parameters":["這傢伙是怎樣的人，你猶豫會害死自己！」"]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":111,"indent":0,"parameters":[0,4,0]},
+			{"code":333,"indent":1,"parameters":[0,0,51]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":30,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_12_1",7,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[3]"]},
+			{"code":401,"indent":0,"parameters":["「三對一，果然還是有點吃力。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「怎麼回事！？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「病鬼，你做了什麼？為什麼我們對你造成"]},
+			{"code":401,"indent":0,"parameters":["的傷全都消失了！？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_12_1",3,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[3]"]},
+			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":30,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_11_01",4,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「居然不只能施展一次嗎？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",4,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「喂！破麻，有什麼看家本領通通使出來！"]},
+			{"code":401,"indent":0,"parameters":["既然這傢伙\\C[2]那招不只能放一次，搞不好就還會有"]},
+			{"code":401,"indent":0,"parameters":["第二次、第三次！\\C[0]」"]},
+			{"code":101,"indent":0,"parameters":["BLR_07_1",10,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「喂！\\N[1]，你到底還要猶豫多久！？"]},
+			{"code":401,"indent":0,"parameters":["你再不幫忙，我們都要被他弄死了！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_12_1",3,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[3]"]},
+			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",10,0,0]},
+			{"code":401,"indent":0,"parameters":["\\N[1]"]},
+			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1}
 	]},
 	{"id":336,"members":[
 		{"enemyId":525,"x":201,"y":271,"hidden":false}
