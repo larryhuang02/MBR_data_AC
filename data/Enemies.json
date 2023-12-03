@@ -24143,7 +24143,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":100000,"name":"青龍","note":"<alter:{\"cond\":4,\"atk\":1100,\"mat\":1100,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":300,\"hp\":100000,\"mp\":9999}>\n<addcond:{\"switches\":[23],\"lines\":[4]}>","params":[
+	],"gold":100000,"name":"青龍","note":"<alter:{\"cond\":4,\"atk\":1100,\"mat\":1100,\"def\":700,\"mdf\":700,\"agi\":600,\"luk\":300,\"hp\":100000,\"mp\":9999}>\n<addcond:{\"switches\":[23],\"lines\":[4]}>\n<unlimitedBuffAffected>","params":[
 		100000,
 		9999,
 		800,
