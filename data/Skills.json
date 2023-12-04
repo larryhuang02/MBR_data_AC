@@ -143,7 +143,7 @@
 		{"code":21,"dataId":14,"value1":0.3,"value2":0},
 		{"code":21,"dataId":16,"value1":0.3,"value2":0}
 	],"hitType":1,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"兩極波動","note":"<道具額外文字檔:BLR_custom/detail/skill/Skills49.txt>\n<addEle:4,6>\n<speed:20000>\n<darkenCutin>\n<altColor:3>\n<Action Cutin Picture: TK1>\n<Action Cutin Scale: 0.8>\n<Action Cutin Forced Offset Y: -50>\n<Action Cutin Hue: 0>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines6>\n</action cutin>\n<whole action>\neval: $gameSystem._bhud_visible=false;\nchange background: change 9527,33,0.75,\"img/pictures/Speedlines6.png\",true,true,-48,0,1,2\nopacity user: 0%, 20\nwait for opacity\naction animation\nwait: 5\nANIMATION 345: enemies\naffect effect level: 0.5\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 20\naction effect\nwait: 30\naffect effect level: 2\naction effect\nwait: 50\neval: $gameSystem._bhud_visible=true;\nchange background: clear 9527 , 30\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":20,"successRate":100,"tpCost":80,"tpGain":0},
-	{"id":50,"animationId":342,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"給予自己「物攻、速度上升5階」持續5次行動。","effects":[
+	{"id":50,"animationId":878,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"給予自己「物攻、速度上升5階」持續5次行動。","effects":[
 		{"code":31,"dataId":2,"value1":5,"value2":0},
 		{"code":31,"dataId":2,"value1":5,"value2":0},
 		{"code":31,"dataId":2,"value1":5,"value2":0},
@@ -154,7 +154,7 @@
 		{"code":31,"dataId":6,"value1":5,"value2":0},
 		{"code":31,"dataId":6,"value1":5,"value2":0},
 		{"code":31,"dataId":6,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"極限爆發","note":"<道具額外文字檔:BLR_custom/detail/skill/Skills50.txt>\n<speed:20000>\n<sortingKey:48.01>\n<altColor:2>\n<target action>\naction animation\nwait: 60\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":2000,"stypeId":20,"successRate":100,"tpCost":15,"tpGain":1},
+	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"極限爆發","note":"<道具額外文字檔:BLR_custom/detail/skill/Skills50.txt>\n<speed:20000>\n<altColor:2>\n<target action>\naction animation\nwait: 60\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":2000,"stypeId":20,"successRate":100,"tpCost":15,"tpGain":0},
 	{"id":51,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"-天使蛋糕-","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":52,"animationId":152,"damage":{"critical":true,"elementId":1,"formula":"40 + ( a.atk / 2 - b.def / 3 ) ","type":1,"variance":20},"description":"「物理&斬、水屬性」斬擊的同時綻放的水花爆破\n給予敵方單體攻擊傷害。","effects":[
@@ -2562,15 +2562,12 @@
 	],"hitType":2,"iconIndex":71,"message1":"","message2":"","mpCost":0,"name":"暗黑絕重波","note":"<speed:20000>\n<whole action>\naction animation\nwait: 40\nANIMATION 882: target\nwait: 36\naction effect\nwait: 80\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":737,"animationId":510,"damage":{"critical":false,"elementId":0,"formula":"b.mmp","type":4,"variance":0},"description":"","effects":[
 	],"hitType":0,"iconIndex":440,"message1":"攻擊！","message2":"","mpCost":0,"name":"魔力之茶","note":"<speed:20000>\n<target action>\naction animation\nwait: 4\naction effect\nwait: 30\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":738,"animationId":510,"damage":{"critical":false,"elementId":0,"formula":"b.mmp","type":0,"variance":0},"description":"","effects":[
-		{"code":11,"dataId":0,"value1":1,"value2":0},
-		{"code":12,"dataId":0,"value1":1,"value2":0},
-		{"code":44,"dataId":29,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":447,"message1":"攻擊！","message2":"","mpCost":0,"name":"神仙茶","note":"<speed:20000>\n<target action>\naction animation\nwait: 4\naction effect\nwait: 30\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":738,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":739,"animationId":202,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 ) ","type":1,"variance":20},"description":"敵人用","effects":[
 		{"code":21,"dataId":8,"value1":0.1,"value2":0},
 		{"code":21,"dataId":14,"value1":0.1,"value2":0},
-		{"code":44,"dataId":178,"value1":1,"value2":0}
+		{"code":44,"dataId":29,"value1":1,"value2":0}
 	],"hitType":2,"iconIndex":1505,"message1":"","message2":"","mpCost":0,"name":"死亡天使▪滅殺","note":"<speed:15000>\n<darkenCutin>\n<addEle:8>\n<altColor:3>\n<Action Cutin Picture: ../pictures/TK12>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset Y: +300>\n<Action Cutin Forced Offset X: +200>\n<Action Cutin Hue: 0>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines6>\n</action cutin>\n<whole action>\nchange background: change 9527,33,0.75,\"img/pictures/Speedlines6.png\",true,true,-48,0,1,2\neval: $gameSystem._bhud_visible=false;\nMOTION SKILL: user\naction animation\nwait: 70\nshake screen: 7, 7, 60\naffect effect level: 0.2\naction effect\nwait: 13\nANIMATION 208: target\naction effect\nwait: 13\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 100\naffect effect level: 0.5\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 13\naction effect\nwait: 10\naffect effect level: 1.0\naction effect\nwait: 10\naction effect\nwait: 10\nANIMATION 448: target\nwait: 120\naffect effect level: 5.0\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-20000||0);})>\naction effect\nchange background: clear 9527 , 30\neval: $gameSystem._bhud_visible=true;\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":14,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":6,"successRate":90,"tpCost":0,"tpGain":0},
 	{"id":740,"animationId":163,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"敵人用","effects":[
 		{"code":21,"dataId":344,"value1":1,"value2":0}

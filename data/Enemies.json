@@ -23573,17 +23573,12 @@
 		10
 	],"meta":{"alter":"{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":800,\"mdf\":800,\"agi\":400,\"luk\":400,\"hp\":100000,\"mp\":9999}"}},
 	{"id":542,"actions":[
-		{"conditionParam1":0,"conditionParam2":0.5,"conditionType":2,"rating":9,"skillId":738},
 		{"conditionParam1":0,"conditionParam2":0.35,"conditionType":3,"rating":9,"skillId":737},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":211},
 		{"conditionParam1":22,"conditionParam2":0,"conditionType":6,"rating":3,"skillId":203},
 		{"conditionParam1":22,"conditionParam2":0,"conditionType":6,"rating":3,"skillId":204},
 		{"conditionParam1":23,"conditionParam2":0,"conditionType":6,"rating":3,"skillId":205},
-		{"conditionParam1":23,"conditionParam2":0,"conditionType":6,"rating":3,"skillId":741},
-		{"conditionParam1":344,"conditionParam2":0,"conditionType":4,"rating":3,"skillId":207},
-		{"conditionParam1":344,"conditionParam2":0,"conditionType":4,"rating":3,"skillId":208},
-		{"conditionParam1":21,"conditionParam2":0,"conditionType":6,"rating":6,"skillId":740},
-		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":739}
+		{"conditionParam1":23,"conditionParam2":0,"conditionType":6,"rating":3,"skillId":741}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"kind":0,"dataId":0,"denominator":1},
 		{"kind":0,"dataId":0,"denominator":1},
@@ -23607,6 +23602,7 @@
 		{"code":11,"dataId":10,"value":0.5},
 		{"code":11,"dataId":11,"value":0.5},
 		{"code":11,"dataId":12,"value":0.5},
+		{"code":14,"dataId":1,"value":1},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -23641,16 +23637,15 @@
 	{"id":543,"actions":[
 		{"conditionParam1":0,"conditionParam2":0.35,"conditionType":3,"rating":9,"skillId":737},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":211},
-		{"conditionParam1":0,"conditionParam2":3,"conditionType":1,"rating":3,"skillId":741},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":207},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":3,"skillId":208},
 		{"conditionParam1":21,"conditionParam2":0,"conditionType":6,"rating":6,"skillId":615},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":739}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"kind":1,"dataId":80,"denominator":1},
-		{"kind":1,"dataId":80,"denominator":1},
-		{"kind":1,"dataId":215,"denominator":1}
-	],"exp":70000,"traits":[
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":1}
+	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1.3},
 		{"code":22,"dataId":2,"value":0.05},
 		{"code":22,"dataId":3,"value":0.5},
@@ -23669,6 +23664,7 @@
 		{"code":11,"dataId":10,"value":0.5},
 		{"code":11,"dataId":11,"value":0.5},
 		{"code":11,"dataId":12,"value":0.5},
+		{"code":14,"dataId":1,"value":1},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -23690,7 +23686,7 @@
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":50000,"name":"攸特","note":"<Sideview battler: 真攸特2>\n<alter:{\"cond\":4,\"atk\":900,\"mat\":800,\"def\":650,\"mdf\":650,\"agi\":700,\"luk\":900,\"hp\":30000,\"mp\":1000}>\n\n","params":[
+	],"gold":0,"name":"攸特","note":"<Sideview battler: 真攸特2>\n<alter:{\"cond\":4,\"atk\":900,\"mat\":800,\"def\":650,\"mdf\":650,\"agi\":700,\"luk\":900,\"hp\":30000,\"mp\":1000}>\n\n","params":[
 		25000,
 		1000,
 		750,
