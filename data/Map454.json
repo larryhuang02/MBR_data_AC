@@ -1,5 +1,5 @@
 {"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"未知森林","encounterList":[
-],"encounterStep":30,"height":55,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":47,"width":60,"data":[
+],"encounterStep":30,"height":55,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":11,"width":60,"data":[
 	0,
 	0,
 	0,
@@ -9111,15 +9111,15 @@
 	21,
 	0,
 	364,
-	364,
-	364,
-	364,
-	364,
-	364,
-	364,
-	364,
-	364,
-	364,
+	372,
+	372,
+	372,
+	372,
+	372,
+	372,
+	372,
+	372,
+	372,
 	21,
 	21,
 	21,
@@ -10735,7 +10735,7 @@
 	356,
 	356,
 	356,
-	0,
+	364,
 	356,
 	356,
 	356,
@@ -10795,7 +10795,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -10855,7 +10855,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -10915,7 +10915,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -10975,7 +10975,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11035,10 +11035,10 @@
 	364,
 	364,
 	364,
-	0,
-	0,
-	0,
-	0,
+	364,
+	364,
+	364,
+	364,
 	364,
 	364,
 	364,
@@ -11098,7 +11098,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11158,7 +11158,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11218,7 +11218,7 @@
 	374,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11278,7 +11278,7 @@
 	363,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11338,7 +11338,7 @@
 	363,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11398,7 +11398,7 @@
 	363,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11458,7 +11458,7 @@
 	363,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11518,7 +11518,7 @@
 	366,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11578,7 +11578,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11638,7 +11638,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11698,7 +11698,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11758,7 +11758,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11818,7 +11818,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11878,7 +11878,7 @@
 	374,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11938,7 +11938,7 @@
 	332,
 	374,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -11998,7 +11998,7 @@
 	302,
 	332,
 	374,
-	0,
+	364,
 	364,
 	372,
 	372,
@@ -12058,7 +12058,7 @@
 	15,
 	299,
 	363,
-	0,
+	364,
 	364,
 	308,
 	308,
@@ -12118,7 +12118,7 @@
 	284,
 	286,
 	363,
-	0,
+	364,
 	364,
 	316,
 	316,
@@ -12178,7 +12178,7 @@
 	356,
 	356,
 	366,
-	0,
+	364,
 	364,
 	0,
 	0,
@@ -12238,7 +12238,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	364,
 	0,
 	0,
@@ -12289,16 +12289,16 @@
 	363,
 	364,
 	364,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
+	364,
+	364,
+	364,
+	364,
+	364,
+	364,
+	364,
+	364,
+	364,
+	364,
 	364,
 	0,
 	0,
@@ -12349,7 +12349,7 @@
 	363,
 	364,
 	364,
-	0,
+	364,
 	364,
 	364,
 	364,
@@ -12409,17 +12409,17 @@
 	366,
 	364,
 	364,
-	0,
+	364,
 	283,
-	310,
-	287,
-	284,
-	284,
-	284,
-	284,
-	284,
-	284,
-	284,
+	320,
+	320,
+	320,
+	320,
+	320,
+	320,
+	320,
+	320,
+	320,
 	356,
 	356,
 	356,
@@ -12469,7 +12469,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	333,
 	342,
 	342,
@@ -12529,7 +12529,7 @@
 	364,
 	364,
 	364,
-	0,
+	364,
 	335,
 	0,
 	188,
@@ -12589,7 +12589,7 @@
 	372,
 	374,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -12649,7 +12649,7 @@
 	342,
 	363,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -12709,7 +12709,7 @@
 	299,
 	363,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -12769,7 +12769,7 @@
 	299,
 	363,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -12829,7 +12829,7 @@
 	299,
 	363,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -12889,7 +12889,7 @@
 	355,
 	366,
 	364,
-	0,
+	364,
 	335,
 	0,
 	0,
@@ -20187,452 +20187,76 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":50,"y":51},
 	{"id":13,"name":"EV013","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Skiing_Stop","volume":90,"pitch":120,"pan":0}
+				{"name":"Skiing_Stop","volume":90,"pitch":150,"pan":0}
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":1,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":55,"y":13},
 	{"id":14,"name":"EV014","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":14},
-	{"id":15,"name":"EV015","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":15},
-	{"id":16,"name":"EV016","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":16},
-	{"id":17,"name":"EV017","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":17},
-	{"id":18,"name":"EV018","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":18},
-	{"id":19,"name":"EV019","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":56,"y":18},
-	{"id":20,"name":"EV020","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":57,"y":18},
-	{"id":21,"name":"EV021","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":18},
-	{"id":22,"name":"EV022","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":19},
-	{"id":23,"name":"EV023","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":20},
-	{"id":24,"name":"EV024","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":21},
-	{"id":25,"name":"EV025","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":22},
-	{"id":26,"name":"EV026","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":23},
-	{"id":27,"name":"EV027","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":24},
-	{"id":28,"name":"EV028","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":25},
-	{"id":29,"name":"EV029","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":26},
-	{"id":30,"name":"EV030","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":27},
-	{"id":31,"name":"EV031","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":28},
-	{"id":32,"name":"EV032","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":29},
-	{"id":33,"name":"EV033","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":30},
-	{"id":34,"name":"EV034","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":31},
-	{"id":35,"name":"EV035","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":32},
-	{"id":36,"name":"EV036","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":33},
-	{"id":37,"name":"EV037","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":34},
-	{"id":38,"name":"EV038","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":35},
-	{"id":39,"name":"EV039","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":36},
-	{"id":40,"name":"EV040","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":37},
-	{"id":41,"name":"EV041","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":38},
-	{"id":42,"name":"EV042","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":58,"y":39},
-	{"id":43,"name":"EV043","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":57,"y":39},
-	{"id":44,"name":"EV044","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":56,"y":39},
-	{"id":45,"name":"EV045","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":55,"y":39},
-	{"id":46,"name":"EV046","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":54,"y":39},
-	{"id":47,"name":"EV047","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":53,"y":39},
-	{"id":48,"name":"EV048","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":52,"y":39},
-	{"id":49,"name":"EV049","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":51,"y":39},
-	{"id":50,"name":"EV050","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":50,"y":39},
-	{"id":51,"name":"EV051","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":39},
-	{"id":52,"name":"EV052","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":40},
-	{"id":53,"name":"EV053","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":41},
-	{"id":54,"name":"EV054","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":375,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":42},
-	{"id":55,"name":"EV055","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":43},
-	{"id":56,"name":"EV056","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":44},
-	{"id":57,"name":"EV057","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":45},
-	{"id":58,"name":"EV058","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":46},
-	{"id":59,"name":"EV059","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":47},
-	{"id":60,"name":"EV060","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":365,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":49,"y":48},
-	{"id":61,"name":"EV061","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":364,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Skiing_Stop","volume":90,"pitch":120,"pan":0}
+				{"name":"Skiing_Stop","volume":90,"pitch":150,"pan":0}
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":1,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":49},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
 	null,
 	null,
 	null,
