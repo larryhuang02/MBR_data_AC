@@ -1,4 +1,4 @@
-{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2003日光村落","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"最果之雨村","encounterList":[
+﻿{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2003日光村落","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"最果之雨村","encounterList":[
 ],"encounterStep":30,"height":50,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":7,"width":70,"data":[
 	2902,
 	2832,
@@ -21634,22 +21634,22 @@
 	],"x":34,"y":49},
 	{"id":8,"name":"EV008","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":true,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
 				10,
 				0,
 				2,
 				2
+			]},
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":4,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":true,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":4,"indent":null}
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -21672,6 +21672,70 @@
 				0,
 				4,
 				2
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._tmparr=$gameActors._data[1].weapons();"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				10,
+				10,
+				0,
+				0,
+				5
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"{ let evt=$gameMap._events[this._eventId]; evt.refresh(); evt.start(); }"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"MainQuest_chap01\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":115,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":4,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":true,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._tmparr=$gameParty.weapons();"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"至少先把武器拿在手上吧？"
+			]},
+			{"code":115,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -28327,6 +28391,60 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"先\\C[3]回房間\\C[0]去找個武器再出發吧！"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._tmparr=$gameActors._data[1].weapons().filter(x=>x);"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n畢竟現在就拿著\\\\iw[\"+$gameTemp._tmparr[0].id+\"]了。\";"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"(will be replaced)"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._tmparr=$gameParty.weapons().filter(x=>x);"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n把帶在身上的\\\\iw[\"+$gameTemp._tmparr[0].id+\"]裝備起來就好。\";"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"(will be replaced)"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":122,"indent":0,"parameters":[
 				10,

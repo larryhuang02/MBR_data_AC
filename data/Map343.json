@@ -12895,14 +12895,14 @@
 			{"code":101,"indent":1,"parameters":[
 				"BLR_03_1",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\N[3]"
+				"雖然還不敢肯定．．．"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「例如．．．天使小姐的\\nw[49]。」"
+				"但天使小姐的\\nw[49]或許可以。"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_03_1",

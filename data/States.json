@@ -240,7 +240,7 @@
 		{"code":44,"dataId":194,"value":1},
 		{"code":44,"dataId":272,"value":1},
 		{"code":21,"dataId":5,"value":3}
-	],"iconIndex":1550,"maxTurns":6,"message1":"","message2":"","message3":"","message4":"","minTurns":6,"motion":0,"name":"漆黑之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1550,"maxTurns":7,"message1":"","message2":"","message3":"","message4":"","minTurns":7,"motion":0,"name":"漆黑之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":45,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
 		{"code":22,"dataId":4,"value":0.15}
 	],"iconIndex":82,"maxTurns":10,"message1":"","message2":"","message3":"","message4":"","minTurns":10,"motion":0,"name":"魔法迴避戲法","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
@@ -710,7 +710,7 @@
 		{"code":44,"dataId":194,"value":1},
 		{"code":44,"dataId":272,"value":1},
 		{"code":21,"dataId":5,"value":3}
-	],"iconIndex":1537,"maxTurns":6,"message1":"","message2":"","message3":"","message4":"","minTurns":6,"motion":0,"name":"奧元之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1537,"maxTurns":7,"message1":"","message2":"","message3":"","message4":"","minTurns":7,"motion":0,"name":"奧元之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":139,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":43,"dataId":420,"value":1}
 	],"iconIndex":1531,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"放電上身","note":"","overlay":0,"priority":1,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
@@ -726,7 +726,7 @@
 		{"code":44,"dataId":194,"value":1},
 		{"code":44,"dataId":272,"value":1},
 		{"code":21,"dataId":5,"value":3}
-	],"iconIndex":1548,"maxTurns":6,"message1":"","message2":"","message3":"","message4":"","minTurns":6,"motion":0,"name":"終極之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1548,"maxTurns":7,"message1":"","message2":"","message3":"","message4":"","minTurns":7,"motion":0,"name":"終極之魔女","note":"<loopAni:265>\n<alt_sv:SV_Carolsp>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":141,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":1647,"maxTurns":99,"message1":"","message2":"","message3":"","message4":"","minTurns":99,"motion":0,"name":"下雨LV1","note":"<field>\n<屬性傷害倍率:[[4,0.75],[9,1.5]]>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":142,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
@@ -737,9 +737,9 @@
 		{"code":14,"dataId":142,"value":1}
 	],"iconIndex":1645,"maxTurns":99,"message1":"","message2":"","message3":"","message4":"","minTurns":99,"motion":0,"name":"下雨LV3","note":"<field>\n<屬性傷害倍率:[[4,0],[9,2.5]]>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":144,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25}
-	],"iconIndex":82,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"鬼影","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":4,"value":0.5}
+	],"iconIndex":82,"maxTurns":4,"message1":"","message2":"","message3":"","message4":"","minTurns":4,"motion":0,"name":"鬼影","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":145,"autoRemovalTiming":1,"chanceByDamage":100,"iconIndex":129,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"強化捨己","note":"<loopAni:273>","overlay":0,"priority":50,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":23,"dataId":0,"value":5}
 	]},
@@ -774,10 +774,12 @@
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"心理測驗-酒神","note":"<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":156,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":43,"dataId":46,"value":1},
-		{"code":43,"dataId":49,"value":1}
+		{"code":43,"dataId":49,"value":1},
+		{"code":43,"dataId":50,"value":1}
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮轉職C","note":"<附魔類型:1C>\n<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":157,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-		{"code":43,"dataId":49,"value":1}
+		{"code":43,"dataId":49,"value":1},
+		{"code":43,"dataId":50,"value":1}
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮轉職A","note":"<附魔類型:1A>\n<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":158,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":43,"dataId":46,"value":1}
@@ -1151,7 +1153,7 @@
 	{"id":261,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 	],"iconIndex":72,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"天下第一銷魂燒肉","note":"<regenHP:100,0>\n<regenMP:100,0>","overlay":0,"priority":10,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":262,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
-		{"code":22,"dataId":2,"value":0.5}
+		{"code":22,"dataId":2,"value":0.75}
 	],"iconIndex":14,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"溫柔之夜","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":263,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":22,"dataId":7,"value":0.03},

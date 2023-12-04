@@ -930,7 +930,7 @@
 	],"hitType":0,"iconIndex":190,"itypeId":1,"name":"勇者任命書","note":"<maxStack:1>\n<disabledInMaps:17,49,197,198,81,82,83,102,103,117,127,129,130,143,170,224,92,249,250,251,252,253,254,296,300,301,326,327,328,329,337,342,344,378,379,416,419,360,365,370,375,440,458,435,436,437,439,461>\n<道具額外文字檔:BLR_custom/detail/item/Items311.txt>","occasion":2,"price":100,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":312,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"兌換後可直接獲得八種能力果實各一顆，\n每次購買後，下次價格會增加。","effects":[
 	],"hitType":0,"iconIndex":206,"itypeId":1,"name":"能力果實大補帖","note":"<maxStack:1>\n<道具額外文字檔:BLR_custom/detail/item/Items312.txt>","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":313,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"「僅能在安全處使用」限換一張。可讓陸維皮習得專屬技能，\n技能依照隊伍中未出戰的第５人而有不同的效果。","effects":[
+	{"id":313,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"「僅能在安全處使用」限換一張。可讓陸維皮習得專屬技能，\n技能依照隊伍中未出戰的第５人而有不同的效果。","effects":[
 		{"code":44,"dataId":185,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"合體技密卷","note":"<maxStack:1>\n<disabledInMaps:17,49,197,198,81,82,83,102,103,117,127,129,130,143,170,224,92,249,250,251,252,253,254,296,300,301,326,327,328,329,337,342,344,378,379,416,419,360,365,370,375,440,458,435,436,437,439,461>\n<道具額外文字檔:BLR_custom/detail/item/Items313.txt>","occasion":2,"price":100,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":314,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"「僅能在安全處使用」消耗不等量的合成劑，可將2個奇蹟\n之沙合成奇蹟之水，或者2個奇蹟之水合成奇蹟神水。","effects":[
@@ -966,7 +966,7 @@
 	],"hitType":0,"iconIndex":423,"itypeId":1,"name":"天真海風","note":"<sortingKey:300.03>\n<speed:20000>\n<maxStack:10>\n使用刺激的氣泡水與甜蜜的楓糖調製而成的飲料，清涼的味\n道中包含著濃情蜜意。\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":324,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"(Math.random()<0.5 ? b._tp=Math.min(b._tp*2,b.maxTp()) : b._tp=0); 0;","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n使用後一翻兩瞪眼，將現有TP變成兩倍、或者TP歸0。","effects":[
 	],"hitType":0,"iconIndex":425,"itypeId":1,"name":"湛藍雙子","note":"<sortingKey:300.02>\n<speed:20000>\n<maxStack:10>\n<道具額外文字檔:BLR_custom/detail/item/Items324.txt>","occasion":1,"price":15000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":325,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n我方單體HP回復1點，「爆擊率+50%」持續1次行動。","effects":[
+	{"id":325,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n我方單體HP回復1點，「爆擊率+75%」持續1次行動。","effects":[
 		{"code":21,"dataId":262,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"溫柔之夜","note":"<sortingKey:300.04>\n<speed:20000>\n<maxStack:10>\n\n<道具額外文字檔:BLR_custom/detail/item/Items325.txt>","occasion":1,"price":20000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":326,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，我方單體HP回復1點，\n「中幅提升斬、刺、鈍屬抗性」持續7次行動","effects":[
@@ -1990,10 +1990,12 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":776,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":777,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":778,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":777,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"傳送水晶的製造器","effects":[
+		{"code":44,"dataId":327,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":720,"itypeId":2,"name":"傳送水晶製造器","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":778,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"遙控器","effects":[
+		{"code":44,"dataId":328,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":188,"itypeId":2,"name":"GG的飛船BGM選擇器","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":779,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":780,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

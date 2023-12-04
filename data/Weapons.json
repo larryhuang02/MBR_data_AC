@@ -2746,7 +2746,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":12,"value":0},
 		{"code":22,"dataId":0,"value":1}
-	],"iconIndex":1506,"name":"月藍戰鬥魔戒","note":"<weaponImg:Weapon_book_summons,11,1>\n<skill_id:50>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons210.txt>","params":[
+	],"iconIndex":1506,"name":"月藍戰鬥魔戒","note":"<weaponImg:Weapon_book_summons,11,1>\n<skill_id:297>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons210.txt>","params":[
 		0,
 		0,
 		250,
