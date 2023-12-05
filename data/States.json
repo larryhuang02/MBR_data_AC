@@ -1511,7 +1511,7 @@
 	{"id":343,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":21,"dataId":2,"value":0.5},
 		{"code":21,"dataId":4,"value":0.5}
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮猶豫","note":"<notClearedWhenDead>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1645,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮猶豫","note":"<notClearedWhenDead>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":344,"autoRemovalTiming":0,"chanceByDamage":20,"traits":[
 	],"iconIndex":13,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"超越力量敵人用","note":"<loopAni:268,disappear>\n","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":345,"autoRemovalTiming":0,"chanceByDamage":50,"traits":[
@@ -1548,7 +1548,14 @@
 		{"code":22,"dataId":0,"value":0.15}
 	],"iconIndex":181,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"水煮爛花椰菜","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":353,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+		{"code":21,"dataId":2,"value":1.25},
+		{"code":21,"dataId":4,"value":1.25},
+		{"code":21,"dataId":3,"value":1.25},
+		{"code":21,"dataId":5,"value":1.25},
+		{"code":21,"dataId":6,"value":1.5},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25}
+	],"iconIndex":13,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮PK真攸特用","note":"","overlay":0,"priority":20,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":354,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":355,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
