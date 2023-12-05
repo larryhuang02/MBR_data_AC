@@ -17422,6 +17422,18 @@
 				222,
 				true
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let act=new Game_Action($gameActors.actor(7));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"act.setSkill(141);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"act.apply($gameActors.actor(1));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
 			{"code":246,"indent":0,"parameters":[
 				3
 			]},
@@ -17484,14 +17496,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「大哥！你清醒一點啊！」"
-			]},
-			{"code":311,"indent":0,"parameters":[
-				0,
-				1,
-				0,
-				0,
-				9999,
-				false
 			]},
 			{"code":205,"indent":0,"parameters":[
 				67,
