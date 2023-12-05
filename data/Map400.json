@@ -15960,6 +15960,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16057,6 +16060,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16092,6 +16098,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16129,6 +16138,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16164,6 +16176,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16264,6 +16279,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16299,6 +16317,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16420,6 +16441,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16455,6 +16479,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16492,6 +16519,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16527,6 +16557,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16585,6 +16618,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16620,6 +16656,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16717,6 +16756,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16752,6 +16794,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16810,6 +16855,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16846,6 +16894,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16881,6 +16932,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17002,6 +17056,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -17038,6 +17095,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -17073,6 +17133,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17194,13 +17257,16 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":10,"y":17},
+	],"x":12,"y":17},
 	{"id":27,"name":"EV027","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":2,"pattern":0,"characterIndex":2},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -17229,6 +17295,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17573,6 +17642,9 @@
 			]},
 			{"code":235,"indent":0,"parameters":[
 				9
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -24945,6 +25017,9 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -25141,11 +25216,53 @@
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":41,"y":3}
+	],"x":41,"y":3},
+	{"id":60,"name":"EV060","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":8,"pattern":0,"characterIndex":1},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_TheSecret",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":117,"indent":0,"parameters":[
+				260
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":10,"y":17}
 ]}

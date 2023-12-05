@@ -7193,9 +7193,10 @@
 				[
 					"在團隊內的職責",
 					"攸藍寫給大家的話",
+					"觀看生活劇",
 					"離開"
 				],
-				2,
+				3,
 				0,
 				2,
 				0
@@ -7323,6 +7324,76 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
+				"觀看生活劇"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「這部片是攸藍在我們網聚時，找幾個人拍的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"真人短劇。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「劇情純屬攸藍腦洞亂編，別信以為真。」"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"觀看六分鐘生活劇",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"觀看六分鐘生活劇"
+			]},
+			{"code":243,"indent":2,"parameters":[
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":261,"indent":2,"parameters":[
+				"ED-v2-part2"
+			]},
+			{"code":244,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"start"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				3,
 				"離開"
 			]},
 			{"code":0,"indent":1,"parameters":[

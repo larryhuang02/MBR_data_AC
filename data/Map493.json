@@ -1342,6 +1342,9 @@
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":261,"indent":0,"parameters":[
 				"ED"
 			]},
