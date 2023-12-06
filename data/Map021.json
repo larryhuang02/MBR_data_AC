@@ -1,4 +1,4 @@
-﻿{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2003日光村落","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"最果之雨村","encounterList":[
+{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2003日光村落","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"最果之雨村","encounterList":[
 ],"encounterStep":30,"height":50,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":7,"width":70,"data":[
 	2902,
 	2832,
@@ -23073,6 +23073,37 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「想不到獸人就這樣被解決了．．．」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":4,"pattern":1,"characterIndex":5},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"BLR_MainNPCs5",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小蜜"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「維皮？怎麼．．．東西忘了？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「沒事，只是過來看看。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

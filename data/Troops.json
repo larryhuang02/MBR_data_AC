@@ -5908,10 +5908,6 @@
 	{"id":223,"members":[
 		{"enemyId":343,"x":222,"y":400,"hidden":false}
 	],"name":"神祇遺跡瑪姆","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":355,"indent":0,"parameters":["BattleManager.setAfterimageOn($gameTroop.members()[0]);"]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":4,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_Marme",7,0,0]},
 			{"code":401,"indent":0,"parameters":["瑪姆"]},
@@ -11865,7 +11861,6 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["開場給狀態"]},
 			{"code":333,"indent":0,"parameters":[0,0,5]},
-			{"code":355,"indent":0,"parameters":["BattleManager.setAfterimageOn($gameTroop.members()[0]);"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
@@ -11986,7 +11981,6 @@
 			{"code":111,"indent":0,"parameters":[0,26,0]},
 			{"code":242,"indent":1,"parameters":[3]},
 			{"code":223,"indent":1,"parameters":[[-255,-255,-255,0],60,true]},
-			{"code":355,"indent":1,"parameters":["BattleManager.setAfterimageOff($gameTroop.members()[0]);"]},
 			{"code":230,"indent":1,"parameters":[180]},
 			{"code":250,"indent":1,"parameters":[{"name":"Magic13_A","volume":50,"pitch":50,"pan":0}]},
 			{"code":230,"indent":1,"parameters":[120]},
@@ -12103,7 +12097,6 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":355,"indent":0,"parameters":["BattleManager.setAfterimageOn($gameTroop.members()[0]);"]},
 			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
 			{"code":401,"indent":0,"parameters":["\\N[11]"]},
 			{"code":401,"indent":0,"parameters":["「喂！\\N[1]，這背骨仔是來真的，你信誓旦旦"]},
@@ -12483,31 +12476,35 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":30,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":101,"indent":0,"parameters":["BLR_12_1",7,0,0]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「三對一，果然還是有點吃力。」"]},
-			{"code":355,"indent":0,"parameters":["{ SceneManager._scene._btlr2sp.get($gameTroop.members()[0]).startAnimation($dataAnimations[42],0,60,1,{scalex:2,scaley:2});"]},
-			{"code":655,"indent":0,"parameters":["const dst=Graphics.frameCount+64;"]},
-			{"code":655,"indent":0,"parameters":["const sc=SceneManager._scene;"]},
-			{"code":655,"indent":0,"parameters":["SceneManager.add_additionalUpdate_scene(()=>{"]},
-			{"code":655,"indent":0,"parameters":[" if(sc!==SceneManager._scene) return true; // abort"]},
-			{"code":655,"indent":0,"parameters":[" if(Graphics.frameCount<dst) return; // not yet"]},
-			{"code":655,"indent":0,"parameters":[" const btlr=$gameTroop.members()[0];"]},
-			{"code":655,"indent":0,"parameters":[" btlr._hp=btlr.mhp;  btlr._mp=btlr.mmp;"]},
-			{"code":655,"indent":0,"parameters":[" return $gameSwitches.setValue(30,1)||true; // done"]},
-			{"code":655,"indent":0,"parameters":["});"]},
-			{"code":655,"indent":0,"parameters":["}"]},
-			{"code":339,"indent":0,"parameters":[0,0,212,-2]},
-			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
-			{"code":401,"indent":0,"parameters":["\\N[11]"]},
-			{"code":401,"indent":0,"parameters":["「怎麼回事！？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,0]},
-			{"code":401,"indent":0,"parameters":["\\N[11]"]},
-			{"code":401,"indent":0,"parameters":["「病鬼，你做了什麼？為什麼我們對你造成"]},
-			{"code":401,"indent":0,"parameters":["的傷全都消失了！？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_12_1",3,0,0]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":111,"indent":0,"parameters":[0,30,1]},
+			{"code":101,"indent":1,"parameters":["BLR_12_1",7,0,0]},
+			{"code":401,"indent":1,"parameters":["\\N[3]"]},
+			{"code":401,"indent":1,"parameters":["「三對一，果然還是有點吃力。」"]},
+			{"code":355,"indent":1,"parameters":["{ SceneManager._scene._btlr2sp.get($gameTroop.members()[0]).startAnimation($dataAnimations[42],0,60,1,{scalex:2,scaley:2});"]},
+			{"code":655,"indent":1,"parameters":["const dst=Graphics.frameCount+64;"]},
+			{"code":655,"indent":1,"parameters":["const sc=SceneManager._scene;"]},
+			{"code":655,"indent":1,"parameters":["SceneManager.add_additionalUpdate_scene(()=>{"]},
+			{"code":655,"indent":1,"parameters":[" if(sc!==SceneManager._scene) return true; // abort"]},
+			{"code":655,"indent":1,"parameters":[" if(Graphics.frameCount<dst) return; // not yet"]},
+			{"code":655,"indent":1,"parameters":[" const btlr=$gameTroop.members()[0];"]},
+			{"code":655,"indent":1,"parameters":[" btlr._hp=btlr.mhp;  btlr._mp=btlr.mmp;"]},
+			{"code":655,"indent":1,"parameters":[" return $gameSwitches.setValue(30,1)||true; // done"]},
+			{"code":655,"indent":1,"parameters":["});"]},
+			{"code":655,"indent":1,"parameters":["}"]},
+			{"code":339,"indent":1,"parameters":[0,0,212,-2]},
+			{"code":101,"indent":1,"parameters":["BLR_11_01",3,0,0]},
+			{"code":401,"indent":1,"parameters":["\\N[11]"]},
+			{"code":401,"indent":1,"parameters":["「怎麼回事！？」"]},
+			{"code":101,"indent":1,"parameters":["BLR_11_01",3,0,0]},
+			{"code":401,"indent":1,"parameters":["\\N[11]"]},
+			{"code":401,"indent":1,"parameters":["「病鬼，你做了什麼？為什麼我們對你造成"]},
+			{"code":401,"indent":1,"parameters":["的傷全都消失了！？」"]},
+			{"code":101,"indent":1,"parameters":["BLR_12_1",3,0,0]},
+			{"code":401,"indent":1,"parameters":["\\N[3]"]},
+			{"code":401,"indent":1,"parameters":["「．．．．．．」"]},
+			{"code":121,"indent":1,"parameters":[30,30,0]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":30,"enemyIndex":0,"enemyValid":true,"switchId":30,"switchValid":true,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":false},"list":[

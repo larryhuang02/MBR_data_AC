@@ -9136,6 +9136,13 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":14,"variableValid":true,"variableValue":1002},"directionFix":false,"image":{"tileId":0,"characterName":"真攸特","direction":2,"pattern":1,"characterIndex":1},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":27,"y":0},
 	{"id":34,"name":"34攸特3","note":"","pages":[
@@ -14851,9 +14858,6 @@
 				0,
 				0
 			]},
-			{"code":119,"indent":0,"parameters":[
-				"SKIP"
-			]},
 			{"code":301,"indent":0,"parameters":[
 				0,
 				335,
@@ -14884,8 +14888,15 @@
 			]},
 			{"code":604,"indent":0,"parameters":[
 			]},
-			{"code":118,"indent":0,"parameters":[
-				"SKIP"
+			{"code":108,"indent":0,"parameters":[
+				"讓攸特換成脫衣版本"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1002
 			]},
 			{"code":313,"indent":0,"parameters":[
 				0,
@@ -15312,8 +15323,111 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
 			]},
-			{"code":213,"indent":0,"parameters":[
+			{"code":122,"indent":0,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1003
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"C","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":14,"variableValid":true,"variableValue":1003},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
+			{"code":122,"indent":0,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1004
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"C","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":14,"variableValid":true,"variableValue":1004},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":241,"indent":0,"parameters":[
+				{"name":"Wingless_Battle-SilverMoon_loop","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.enable_commonEventItems()"
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				472,
+				12,
+				19,
+				8,
+				0
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._displayX = 4;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameMap._displayY = 13;"
+			]},
+			{"code":203,"indent":0,"parameters":[
+				2,
+				0,
+				13,
+				12,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
+				7,
+				0,
+				13,
+				12,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
+				5,
+				0,
+				13,
+				23,
+				8
+			]},
+			{"code":203,"indent":0,"parameters":[
+				6,
+				0,
+				12,
+				22,
+				8
+			]},
+			{"code":203,"indent":0,"parameters":[
+				67,
+				0,
+				12,
+				18,
+				8
+			]},
+			{"code":203,"indent":0,"parameters":[
+				33,
+				0,
+				12,
+				15,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
 				32,
+				0,
+				29,
+				0,
+				2
+			]},
+			{"code":222,"indent":0,"parameters":[
+			]},
+			{"code":213,"indent":0,"parameters":[
+				33,
 				8,
 				true
 			]},
@@ -17422,18 +17536,6 @@
 				222,
 				true
 			]},
-			{"code":355,"indent":0,"parameters":[
-				"{ let act=new Game_Action($gameActors.actor(7));"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"act.setSkill(141);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"act.apply($gameActors.actor(1));"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"}"
-			]},
 			{"code":246,"indent":0,"parameters":[
 				3
 			]},
@@ -17496,6 +17598,14 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「大哥！你清醒一點啊！」"
+			]},
+			{"code":311,"indent":0,"parameters":[
+				0,
+				1,
+				0,
+				0,
+				9999,
+				false
 			]},
 			{"code":205,"indent":0,"parameters":[
 				67,
@@ -19050,53 +19160,40 @@
 			{"code":241,"indent":0,"parameters":[
 				{"name":"m-art_Holybell","volume":50,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				6,
+			{"code":108,"indent":0,"parameters":[
+				"配合影片播放用"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1010
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"怕影片還沒載完"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
 				1,
+				14,
+				0,
+				1011,
 				1
 			]},
-			{"code":401,"indent":0,"parameters":[
-				""
+			{"code":113,"indent":2,"parameters":[
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[20]少年，你學會火焰斬了，大哥真替你開心！\\|\\^\""
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				6,
-				1,
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":230,"indent":1,"parameters":[
 				1
 			]},
-			{"code":401,"indent":0,"parameters":[
-				""
+			{"code":0,"indent":1,"parameters":[
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[20]少年，這種在兄弟臉上灑狗糧的行為．．．\\|\\^\""
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				6,
-				1,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[20]少年，你太讓我失望了！\\|\\^\""
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				6,
-				1,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[20]少年，你們趕快去帕卡前輩家！這裡交給我！\\|\\^\""
+			{"code":413,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -19108,7 +19205,43 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[20]少年！\\|\\^\""
+				"\\TXTCENTER:\"\\C[20]少年，你學會火焰斬了，大哥真替你開心！\\|\\|\\^\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				6,
+				1,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[20]少年，這種在兄弟臉上灑狗糧的行為．．．\\|\\|\\^\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				6,
+				1,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[20]少年，你太讓我失望了！\\|\\|\\^\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				6,
+				1,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[20]少年，你們趕快去帕卡前輩家！這裡交給我！\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -19179,6 +19312,9 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"this._list[this._index+1].parameters[1]=$gameTemp.變亮幀數;"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				120
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -20062,9 +20198,12 @@
 				1,
 				353
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.animationOptions_setRotate(0);"
+			]},
 			{"code":212,"indent":0,"parameters":[
 				67,
-				41,
+				169,
 				true
 			]},
 			{"code":241,"indent":0,"parameters":[
@@ -22276,6 +22415,11 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":213,"indent":0,"parameters":[
+				79,
+				1,
+				false
+			]},
 			{"code":205,"indent":0,"parameters":[
 				79,
 				{"list":[
@@ -22351,7 +22495,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\TXTCENTER:\"\\C[2]他們不也是你珍惜的夥伴嗎！\\.\\.\\^\""
+				"\\{\\TXTCENTER:\"\\C[2]他們不也是你珍惜的夥伴嗎！\\.\\.\\.\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -22363,13 +22507,18 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[2]那魔頭戰時你復活了他們，又想取他們性命？\\.\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[2]你復活了他們，又想取他們性命？\\.\\.\\.\\^\""
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				79,
+				1,
+				false
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -22424,7 +22573,31 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[6]\\N[3]大哥，這不是你的夢想吧？\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[6]\\N[3]大哥，這不是你的夢想吧？\\.\\.\\.\\^\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[6]女魔頭戰時．．．你回溯了時間．．．\\.\\.\\.\\^\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[6]你珍惜他們．．．\\.\\.\\.\\^\""
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
@@ -22510,7 +22683,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[5]\\N[3]，我知道你很珍惜我們的羈絆．．．\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[5]\\N[3]，我知道你很珍惜我們的羈絆．．．\\.\\.\\.\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -22522,7 +22695,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[5]但是，我不希望我們成為束縛你的枷鎖！\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[5]但是，我不希望我們成為束縛你的枷鎖！\\.\\.\\.\\^\""
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
@@ -22556,7 +22729,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\TXTCENTER:\"\\C[2]我送你的禮物，不應該是用來傷害夥伴的！\\.\\.\\^\""
+				"\\{\\TXTCENTER:\"\\C[2]我送你的禮物，不應該是用來傷害夥伴的！\\.\\.\\.\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -22599,7 +22772,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\TXTCENTER:\"\\C[2]阿攸，他們也是你的夥伴吧？\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[2]阿攸，他們也是你的夥伴吧？\\.\\.\\.\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -22611,7 +22784,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\TXTCENTER:\"\\C[2]不然你怎會為了他們把寶珠能量耗盡了？\\.\\.\\.\\^\""
+				"\\TXTCENTER:\"\\C[2]不然你怎會為了他們把寶珠能量耗盡了？\\.\\.\\.\\^\""
 			]},
 			{"code":235,"indent":0,"parameters":[
 				1
@@ -22645,7 +22818,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\TXTCENTER:\"\\C[2]阿攸，你要幸福！\\.\\.\\^\""
+				"\\{\\TXTCENTER:\"\\C[2]阿攸，你要幸福！\\.\\.\\.\\^\""
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic9_B","volume":90,"pitch":150,"pan":0}
@@ -23691,21 +23864,6 @@
 				18,
 				8
 			]},
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"0"
-			]},
-			{"code":203,"indent":1,"parameters":[
-				34,
-				0,
-				12,
-				14,
-				2
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
 			{"code":203,"indent":0,"parameters":[
 				33,
 				0,
@@ -23822,7 +23980,24 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「露西，妳居然醒了！」"
+				"「露西，妳居然．．．\\{居然醒了！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_12_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[3]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「真的是．．．太好了．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				76,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_16_1",
@@ -23835,6 +24010,28 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「你．．．身．．．」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				79,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_12_1",
@@ -23853,7 +24050,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_12_1",
-				9,
+				1,
 				0,
 				2
 			]},
@@ -23861,7 +24058,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
+				"「他們是．．．」\\.\\^"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				2
@@ -24513,26 +24710,18 @@
 				2
 			]},
 			{"code":203,"indent":0,"parameters":[
+				34,
+				0,
+				12,
+				14,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
 				32,
 				0,
 				29,
 				0,
 				2
-			]},
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"0"
-			]},
-			{"code":203,"indent":1,"parameters":[
-				34,
-				0,
-				12,
-				13,
-				2
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":203,"indent":0,"parameters":[
 				78,
@@ -25494,9 +25683,6 @@
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Magic13_A","volume":50,"pitch":50,"pan":0}
-			]},
 			{"code":242,"indent":0,"parameters":[
 				3
 			]},
@@ -25519,7 +25705,7 @@
 				"　　　　　　　　　　"
 			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"39 Thinks backward_MV","volume":50,"pitch":100,"pan":0}
+				{"name":"m-art_Alraune","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":231,"indent":0,"parameters":[
 				1,
@@ -26232,7 +26418,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"大姐．．．對不起．．．還有．．．謝謝妳．．．\"\\|\\|\\^"
+				"\\C[6]\\TXTCENTER:\"大姐．．．對不起．．．還有．．．謝謝妳．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -26247,7 +26433,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"少年，一定是妳把他送到我身邊來的吧？\"\\|\\|\\^"
+				"\\C[6]\\TXTCENTER:\"少年，一定是妳把他送到我身邊來的吧？\"\\|\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -26262,7 +26448,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"你們希望我停手的願望．．．我確實收到了．．．\"\\|\\|\\^"
+				"\\C[6]\\TXTCENTER:\"你們希望我停手的願望．．．我確實收到了．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -26277,7 +26463,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"我會．．．先休息一下．．．很快．．．去找你們的．．．\"\\|\\|\\^"
+				"\\C[6]\\TXTCENTER:\"我會．．．先休息一下．．．很快．．．去找你們的．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -26504,10 +26690,10 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"隨著時間寶珠的破碎．．．　　　　　　　　　　\""
+				"\\TXTCENTER:\"隨著時間寶珠的破碎．．．　　　　　　　　　　　　\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"　在攸特身上停滯的三百年時光，快速轉動了起來．．．\"\\|\\|\\|\\|\\^"
+				"\\TXTCENTER:\"在攸特身上停滯的三百年時光，快速轉動了起來．．．\"\\|\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -26899,5 +27085,246 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
-	],"x":28,"y":4}
+	],"x":28,"y":4},
+	{"id":81,"name":"播放回憶影片用","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":14,"variableValid":true,"variableValue":1010},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"以上隨意"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot=$gameTemp._vidsRoot||document.ce('div').sa('style',Graphics._canvas.ga('style')); $gameTemp._vidsRoot.style.zIndex=4; $gameTemp._vidsRoot.style.display=\"block\"; if(!$gameTemp._vidsRoot._vids) $gameTemp._vidsRoot._vids=[];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot.width=Graphics.boxWidth; $gameTemp._vidsRoot.height=Graphics.boxHeight; document.body.ac($gameTemp._vidsRoot); Graphics.addAsGameCanvas($gameTemp._vidsRoot);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot._loadingCnt=$gameTemp._vidsRoot._loadingCnt||0;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid=$gameTemp._vidsRoot_addVid||((src,xRatio,yRatio,wRatio,hRatio,fadeInFrames,dur,fadeOutFrames,delayStartFrames)=>{ fadeInFrames|=0; dur|=0; fadeOutFrames|=0; delayStartFrames|=0;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let vid=document.ce('video'); vid.oncanplay=()=>--$gameTemp._vidsRoot._loadingCnt; $gameTemp._vidsRoot._vids.uniquePush(vid);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"++$gameTemp._vidsRoot._loadingCnt; $gameTemp._vidsRoot.ac(vid.sa('style',Graphics._canvas.ga('style')).sa('src',src));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"vid.style.inset=\"\"; vid.style.left=Number(xRatio*100)+\"%\"; vid.style.top=Number(yRatio*100)+\"%\"; vid.style.width=Number(wRatio*100)+\"%\"; vid.style.height=Number(hRatio*100)+\"%\";"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"vid.style.borderRadius=\"100%\"; let g=\"radial-gradient(#000000 50%, rgba(0,0,0,0) 62.5%)\"; vid.style.maskImage=g; vid.style.webkitMaskImage=g;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(0<fadeInFrames) vid.style.opacity=0;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"vid._fadeOutFrames=fadeOutFrames+(vid._durFrames=dur+(vid._fadeInFrames=fadeInFrames+(vid._delayFrames=delayStartFrames)));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"});"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"這裡加影片："
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"影片路徑\",x位置比例,y位置比例,寬比例,高比例,淡入幀數,播放幀數,淡出幀數,延遲動作幀數);"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"總播放時間 = 淡入幀數 + 播放幀數 + 淡出幀數 + 延遲動作幀數"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"例："
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/SLIME_A.webm\",0.5,0.5,0.25,0.25,0,240,60,0);"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"可能換個行來寫比較舒服："
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/SLIME_A.webm\","
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"0.5,0.5,0.25,0.25,"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"0,240,60,0);"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"== 以下為實際新增影片ㄉ範例 =="
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"== 可依據需求刪除 =="
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/memory01.webm\","
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"0,0,0.40,0.40,"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"60,180,60,0);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/memory03.webm\","
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"0.125,0.525,0.40,0.40,"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"60,180,60,120);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/memory02.webm\","
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"0.525,0,0.40,0.40,"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"60,180,60,240);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._vidsRoot_addVid(\"movies/memory04.webm\","
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"0.525,0.625,0.40,0.40,"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"60,180,60,360);"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"== 以上為實際新增影片ㄉ範例 =="
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"== 可依據需求刪除 =="
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameTemp._vidsRoot"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"等待影片讀取完畢"
+			]},
+			{"code":112,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":2,"parameters":[
+				12,
+				"!$gameTemp._vidsRoot._loadingCnt"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":230,"indent":2,"parameters":[
+				1
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":413,"indent":1,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"開播"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1011
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._vidsRoot_stopPlaying=false;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._vidsRoot._vids.forEach(vid=>{ vid._frm=0; !vid._delayFrames&&vid.play(); });"
+			]},
+			{"code":112,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":2,"parameters":[
+				12,
+				"$gameTemp._vidsRoot_stopPlaying || !$gameTemp._vidsRoot._vids.length"
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"$gameTemp._vidsRoot._vids.slice().forEach(vid=>$gameTemp._vidsRoot.rc(vid)._vids.uniquePop(vid));"
+			]},
+			{"code":655,"indent":3,"parameters":[
+				"$gameTemp._vidsRoot.style.display=\"none\";"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"{ let delList=[];"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"$gameTemp._vidsRoot._vids.forEach(vid=>{ const f=++vid._frm;"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"if(vid._fadeOutFrames<f){ vid.pause(); delList.push(vid); }"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"else if(vid._durFrames<f) vid.style.opacity=(vid._fadeOutFrames-f)/(vid._fadeOutFrames-vid._durFrames);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"else if(vid._fadeInFrames<f) vid.style.opacity=1;"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"else if(vid._delayFrames<f) vid.style.opacity=(f-vid._delayFrames)/(vid._fadeInFrames-vid._delayFrames);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"else if(vid._delayFrames===f) vid.play();"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"});"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"delList.forEach(vid=>$gameTemp._vidsRoot.rc(vid)._vids.uniquePop(vid));"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"}"
+			]},
+			{"code":230,"indent":2,"parameters":[
+				1
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":413,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"全部播完ㄌ"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"以下隨意"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				14,
+				14,
+				0,
+				0,
+				1012
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":14,"variableValid":true,"variableValue":1012},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":21,"y":26}
 ]}
