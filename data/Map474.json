@@ -16638,45 +16638,44 @@
 				2,
 				0
 			]},
-			{"code":314,"indent":1,"parameters":[
-				0,
-				0
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_load(2); $gamePlayer.refresh();"
 			]},
-			{"code":129,"indent":1,"parameters":[
-				49,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				1,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				7,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				11,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				2,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				3,
-				0,
-				false
+			{"code":655,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_delete(2);"
 			]},
 			{"code":135,"indent":1,"parameters":[
 				1
 			]},
-			{"code":211,"indent":1,"parameters":[
-				1
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":38,"indent":null},
+					{"code":36,"indent":null},
+					{"code":31,"indent":null},
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":40,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":31,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":40,"indent":null}
 			]},
 			{"code":222,"indent":1,"parameters":[
 			]},
@@ -16716,42 +16715,44 @@
 				2,
 				0
 			]},
-			{"code":314,"indent":1,"parameters":[
-				0,
-				0
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_load(2); $gamePlayer.refresh();"
 			]},
-			{"code":129,"indent":1,"parameters":[
-				49,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				1,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				7,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				11,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				2,
-				0,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				3,
-				0,
-				false
+			{"code":655,"indent":1,"parameters":[
+				"$gameSystem.partyMembers_delete(2);"
 			]},
 			{"code":135,"indent":1,"parameters":[
 				1
+			]},
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":38,"indent":null},
+					{"code":36,"indent":null},
+					{"code":31,"indent":null},
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":40,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":31,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":40,"indent":null}
 			]},
 			{"code":222,"indent":1,"parameters":[
 			]},

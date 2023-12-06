@@ -6885,6 +6885,36 @@
 				"並且提供了試玩版本。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"這款遊戲也在２０２３年時參加了RM遊戲設計大賽的比賽，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"獲得了勇者物語：世界樹之心的作者小風的高度評價，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"得到了客座評審獎。"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"在小風大的小屋也有相關的遊戲心得可以閱覽，如果是"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"喜愛硬核ＲＰＧ的玩家，喜歡看故事，並想要有一定的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"戰鬥體驗的話，歡迎大家嘗試看看。"
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
 				0,
 				0,
@@ -6916,6 +6946,24 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"價格就可以將它帶回家。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_Pigeon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"咕咕咕"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「啊．．．如果，你對那個贊助區也有興趣"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的話，記得要成年再贊助啊，因為小禮物的"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"額外故事，STEAM審不過去．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_Pigeon",
@@ -6964,7 +7012,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上面寫著咕咕咕認為的『月藍傳奇２廢棄草案』。"
+				"上面寫著『月藍傳奇２廢棄草案』。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -7009,50 +7057,10 @@
 			{"code":655,"indent":1,"parameters":[
 				"$gameSystem.partyMembers_clearCurrent();"
 			]},
-			{"code":121,"indent":1,"parameters":[
-				21,
-				30,
-				1
-			]},
-			{"code":122,"indent":1,"parameters":[
-				21,
-				40,
-				0,
-				0,
-				0
-			]},
-			{"code":129,"indent":1,"parameters":[
-				1,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				2,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				3,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				7,
-				1,
-				false
-			]},
-			{"code":129,"indent":1,"parameters":[
-				11,
-				1,
-				false
-			]},
 			{"code":129,"indent":1,"parameters":[
 				49,
 				0,
 				false
-			]},
-			{"code":135,"indent":1,"parameters":[
-				0
 			]},
 			{"code":201,"indent":1,"parameters":[
 				0,
