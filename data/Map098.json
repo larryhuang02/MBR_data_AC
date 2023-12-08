@@ -1521,6 +1521,30 @@
 				"\\TXTCOLOR\"rgba(200,200,200,1)\""
 			]},
 			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"你\\.不\\.在\\.的\\.日\\.子\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCOLOR\"rgba(200,200,200,1)\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"時\\.間\\.．\\.．\\.．\\.已\\.經\\.沒\\.有\\.意\\.義\\.了\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCOLOR\"rgba(200,200,200,1)\""
+			]},
+			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"你\\.離\\.開\\.前\\.保\\.證\\.過\\.的\\.．\\.．\\.．\"\\|\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
@@ -1570,54 +1594,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"我\\.會\\.靜\\.靜\\.的\\.．\\.．\\.．\\.等\\.著\\.你\\.的\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				1,
-				0
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCOLOR\"rgba(200,200,200,1)\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"你\\.不\\.在\\.的\\.日\\.子\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				1,
-				0
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCOLOR\"rgba(200,200,200,1)\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"時\\.間\\.．\\.．\\.．\\.已\\.經\\.沒\\.有\\.意\\.義\\.了\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				1,
-				0
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCOLOR\"rgba(200,200,200,1)\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"求\\.求\\.你\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				1,
-				0
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCOLOR\"rgba(200,200,200,1)\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"快\\.回\\.來\\.吧\\.．\\.．\\.．\\.\"\\|\\|\\|\\^"
 			]},
 			{"code":232,"indent":0,"parameters":[
 				1,
@@ -2895,7 +2871,7 @@
 					"大胃王",
 					"爛酒鬼",
 					"幸運之手",
-					"觀看說明"
+					"\\C[6]觀看說明\\C[0]"
 				],
 				-1,
 				-1,
@@ -3008,7 +2984,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				4,
-				"觀看說明"
+				"\\C[6]觀看說明\\C[0]"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",

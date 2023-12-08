@@ -6553,7 +6553,7 @@
 				"霍恩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小娜．．．為什麼？妳不是我的髮妻嗎？"
+				"「娜娜．．．為什麼？妳不是我的髮妻嗎？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"為什麼要這樣對我！」"
@@ -6610,7 +6610,7 @@
 				"霍恩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小娜，很抱歉。」"
+				"「娜娜，很抱歉。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Saint9","volume":90,"pitch":100,"pan":0}
@@ -7474,7 +7474,7 @@
 				"霍恩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小娜．．．．．．妳一定要逼我嗎？」"
+				"「娜娜．．．．．．妳一定要逼我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_leona",
@@ -8264,7 +8264,7 @@
 				"霍恩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小娜，我沒辦法成為你理想的伴侶．．．」"
+				"「娜娜，我沒辦法成為你理想的伴侶．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_Hawn",
@@ -8683,15 +8683,18 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				0,
+				3,
 				1,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　　　　　"
+				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　　　　　達令！！！\\.\\^"
+				"\\TXTCENTER:\"達令！！！\"\\.\\^"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
 			]},
 			{"code":232,"indent":0,"parameters":[
 				1,

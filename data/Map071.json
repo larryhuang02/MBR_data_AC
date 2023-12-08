@@ -2456,7 +2456,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":226},"directionFix":false,"image":{"tileId":0,"characterName":"!Door1","direction":2,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":226},"directionFix":true,"image":{"tileId":0,"characterName":"!Door1","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				2,
@@ -2477,6 +2477,7 @@
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
+					{"code":36,"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
 						3
@@ -2489,6 +2490,9 @@
 					{"code":37},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":17}
@@ -2542,6 +2546,7 @@
 						3
 					],"indent":0},
 					{"code":38,"indent":null},
+					{"code":35,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -2571,6 +2576,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":35,"indent":null}
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"end"
@@ -2587,6 +2595,7 @@
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
+					{"code":36,"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
 						3
@@ -2599,6 +2608,9 @@
 					{"code":37},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":17}
@@ -2652,6 +2664,7 @@
 						3
 					],"indent":0},
 					{"code":38,"indent":null},
+					{"code":35,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -2681,6 +2694,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":35,"indent":null}
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"end"
@@ -2698,7 +2714,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"!Door1","direction":2,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":true,"image":{"tileId":0,"characterName":"!Door1","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Open5","volume":50,"pitch":100,"pan":0}
 			]},
@@ -2710,6 +2726,7 @@
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
+					{"code":36,"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
 						3
@@ -2722,6 +2739,9 @@
 					{"code":37},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":17}
@@ -2778,6 +2798,7 @@
 						3
 					],"indent":0},
 					{"code":38,"indent":null},
+					{"code":35,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -2807,6 +2828,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":35,"indent":null}
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"end"
@@ -2826,6 +2850,7 @@
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
+					{"code":36,"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
 						3
@@ -2838,6 +2863,9 @@
 					{"code":37},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":17}
@@ -2894,6 +2922,7 @@
 						3
 					],"indent":0},
 					{"code":38,"indent":null},
+					{"code":35,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -2923,6 +2952,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":35,"indent":null}
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"end"

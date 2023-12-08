@@ -2409,7 +2409,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":27},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Flame15","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -2537,7 +2537,7 @@
 				"BLR_01_1",
 				13,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -2552,7 +2552,7 @@
 				"BLR_03_1",
 				1,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2567,7 +2567,7 @@
 				"BLR_03_1",
 				1,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2579,7 +2579,7 @@
 				"BLR_01_1",
 				1,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -2593,7 +2593,24 @@
 				4
 			]},
 			{"code":230,"indent":0,"parameters":[
-				120
+				60
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -2603,11 +2620,37 @@
 				1,
 				true
 			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Orcs",
 				4,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"巨魔"
@@ -2708,7 +2751,7 @@
 				"BLR_01_1",
 				9,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -2723,7 +2766,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2733,24 +2776,24 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				9,
+				7,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「別再讚嘆了！快逃吧！再看我保證我們要"
+				"「別再讚嘆了！這傢伙我沒有把握．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"成為牠的下午茶了！」"
+				"再看我怕要成為牠的下午茶了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2760,6 +2803,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"巨魔才行！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -2773,7 +2826,7 @@
 				"BLR_01_1",
 				4,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -2785,7 +2838,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2800,7 +2853,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2812,7 +2865,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2835,7 +2888,7 @@
 				"BLR_01_1",
 				5,
 				1,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"危險．．．？到我們村子來，牠應該會"
@@ -2847,7 +2900,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2858,11 +2911,21 @@
 			{"code":401,"indent":0,"parameters":[
 				"能擊倒牠！」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2874,7 +2937,7 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2889,25 +2952,69 @@
 				"BLR_03_1",
 				2,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「第二，巨魔一般都很好戰，麻煩你吸引他的"
+				"「第二，巨魔一般都很好戰，只要你站在我們"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"注意，\\c[2]專心幫我抵擋他的攻擊\\c[0]，我就能放心的"
+				"中間吸引他的注意，\\c[2]專心幫我抵擋他的攻擊\\c[0]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"支援你！」"
+				"我就能放心的支援你！」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":4,"indent":null},
+					{"code":4,"indent":null},
+					{"code":38,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「吸引．．．他的攻擊嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				3,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -2941,7 +3048,7 @@
 				false
 			]},
 			{"code":132,"indent":0,"parameters":[
-				{"name":"2000_Battle1","volume":30,"pitch":100,"pan":0}
+				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -3063,7 +3170,7 @@
 				"BLR_01_1",
 				5,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3071,27 +3178,43 @@
 			{"code":401,"indent":0,"parameters":[
 				"「呼．．．呼．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":17,"indent":null},
+					{"code":38,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				5,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「這怎麼可能？我們真的撂倒牠了。」"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
@@ -3107,7 +3230,7 @@
 				"BLR_03_1",
 				7,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3119,7 +3242,7 @@
 				"BLR_01_1",
 				15,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3131,7 +3254,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3143,7 +3266,7 @@
 				"BLR_01_1",
 				5,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3158,7 +3281,7 @@
 				"BLR_03_1",
 				7,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3176,7 +3299,7 @@
 				"BLR_01_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3191,7 +3314,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3203,7 +3326,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3218,7 +3341,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3236,7 +3359,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3251,7 +3374,7 @@
 				"BLR_01_1",
 				1,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3263,7 +3386,7 @@
 				"BLR_01_1",
 				5,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3275,7 +3398,7 @@
 				"BLR_03_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[3]"
@@ -3290,7 +3413,7 @@
 				"BLR_01_1",
 				0,
 				0,
-				2
+				0
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\N[1]"
@@ -3433,7 +3556,17 @@
 				{"code":3,"indent":null}
 			]},
 			{"code":230,"indent":0,"parameters":[
-				180
+				60
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				180,
+				false
 			]},
 			{"code":213,"indent":0,"parameters":[
 				0,
@@ -3442,59 +3575,6 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120
-			]},
-			{"code":205,"indent":0,"parameters":[
-				0,
-				{"list":[
-					{"code":2,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":2,"indent":null},
-					{"code":2,"indent":null},
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":2,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":2,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":2,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
-			{"code":213,"indent":0,"parameters":[
-				0,
-				8,
-				true
-			]},
-			{"code":230,"indent":0,"parameters":[
-				180
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
@@ -3515,6 +3595,16 @@
 				10,
 				10,
 				2
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				true
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
@@ -3768,7 +3858,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":8,"y":18},
 	{"id":8,"name":"巨魔","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_03","direction":2,"pattern":1,"characterIndex":5},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_BLR_03","direction":8,"pattern":1,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -3782,7 +3872,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
-	],"x":9,"y":9},
+	],"x":9,"y":7},
 	null,
 	{"id":10,"name":"石碑事件","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[

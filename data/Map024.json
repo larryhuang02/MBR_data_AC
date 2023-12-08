@@ -2775,7 +2775,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -2844,7 +2844,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				1,
+				0,
 				0,
 				0
 			]},
@@ -2912,7 +2912,7 @@
 				"「還有我們城裡的酒店，有不少客人都是為此"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"而來，雖然住一晚不便宜就是了。」"
+				"而來，可比這裡豪華多了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -3266,7 +3266,7 @@
 				"\\N[3]離開隊伍！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"身上的飾品已卸下！"
+				"身上的裝備已卸下！"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\|\\|\\|\\^"
@@ -3276,6 +3276,26 @@
 				1,
 				1,
 				1
+			]},
+			{"code":319,"indent":0,"parameters":[
+				3,
+				1,
+				0
+			]},
+			{"code":319,"indent":0,"parameters":[
+				3,
+				2,
+				0
+			]},
+			{"code":319,"indent":0,"parameters":[
+				3,
+				3,
+				0
+			]},
+			{"code":319,"indent":0,"parameters":[
+				3,
+				4,
+				0
 			]},
 			{"code":319,"indent":0,"parameters":[
 				3,
