@@ -21432,198 +21432,8 @@
 	],"x":21,"y":11},
 	{"id":6,"name":"EV006","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":true,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				2,
-				2
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				0,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"先去\\C[2]找王大媽\\C[0]吧，\\C[3]村子中間\\C[0]那棟就是。"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				4,
-				2
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				0,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"先\\C[3]回房間\\C[0]去找個武器再出發吧！"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				4,
-				15,
-				13,
-				0,
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Move10","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				8,
-				17,
-				156,
-				2,
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
-	],"x":36,"y":49},
-	{"id":7,"name":"EV007","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":true,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				2,
-				2
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				0,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"先去\\C[2]找王大媽\\C[0]吧，\\C[3]村子中間\\C[0]那棟就是。"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				10,
-				0,
-				4,
-				2
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				0,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"先\\C[3]回房間\\C[0]去找個武器再出發吧！"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				4,
-				15,
-				13,
-				0,
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Move10","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				8,
-				17,
-				156,
-				2,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[8].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -21632,6 +21442,18 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":34,"y":49},
+	{"id":7,"name":"EV007","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[8].start();"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
+	],"x":36,"y":49},
 	{"id":8,"name":"EV008","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
@@ -21673,69 +21495,14 @@
 				4,
 				2
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"$gameTemp._tmparr=$gameActors._data[1].weapons();"
+			{"code":108,"indent":1,"parameters":[
+				"IF主線變數=3，會檢查玩家身上是否有武器，"
 			]},
-			{"code":111,"indent":1,"parameters":[
-				12,
-				"$gameTemp._tmparr.length"
+			{"code":408,"indent":1,"parameters":[
+				"有武器的話會讓變數=5"
 			]},
-			{"code":122,"indent":2,"parameters":[
-				10,
-				10,
-				0,
-				0,
-				5
-			]},
-			{"code":355,"indent":2,"parameters":[
-				"{ let evt=$gameMap._events[this._eventId]; evt.refresh(); evt.start(); }"
-			]},
-			{"code":355,"indent":2,"parameters":[
-				"SQSM.ShowTaskForQuest(\"MainQuest_chap01\", 3);"
-			]},
-			{"code":655,"indent":2,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"MainQuest_chap01\", 2);"
-			]},
-			{"code":655,"indent":2,"parameters":[
-				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap01\", 3);"
-			]},
-			{"code":115,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":205,"indent":1,"parameters":[
-				-1,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":true,"wait":true}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"$gameTemp._tmparr=$gameParty.weapons();"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				12,
-				"$gameTemp._tmparr.length"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"BLR_01_1",
-				7,
-				1,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"至少先把武器拿在手上吧？"
-			]},
-			{"code":115,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
+			{"code":408,"indent":1,"parameters":[
+				"沒有武器才會維持變數=4"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
@@ -21759,18 +21526,60 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":221,"indent":0,"parameters":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._tmparr=$gameActors._data[1].weapons();"
 			]},
-			{"code":211,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"有裝武器"
+			]},
+			{"code":221,"indent":1,"parameters":[
+			]},
+			{"code":211,"indent":1,"parameters":[
 				0
 			]},
-			{"code":201,"indent":0,"parameters":[
+			{"code":201,"indent":1,"parameters":[
 				0,
 				4,
 				15,
 				13,
 				0,
 				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"沒有裝武器"
+			]},
+			{"code":205,"indent":1,"parameters":[
+				-1,
+				{"list":[
+					{"code":4,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":true,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"至少先開\\I[1637]，到裝備那頁把武器裝上吧？"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -27404,17 +27213,18 @@
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
-					"給２０個青蛙肉",
-					"給１０個青蛙肉"
+					"給20個青蛙肉",
+					"給10個青蛙肉",
+					"離開"
 				],
-				-1,
+				2,
 				0,
 				2,
 				0
 			]},
 			{"code":402,"indent":1,"parameters":[
 				0,
-				"給２０個青蛙肉"
+				"給20個青蛙肉"
 			]},
 			{"code":108,"indent":2,"parameters":[
 				"繳20個"
@@ -27426,13 +27236,21 @@
 			]},
 			{"code":402,"indent":1,"parameters":[
 				1,
-				"給１０個青蛙肉"
+				"給10個青蛙肉"
 			]},
 			{"code":108,"indent":2,"parameters":[
 				"繳10個"
 			]},
 			{"code":119,"indent":2,"parameters":[
 				"10"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				2,
+				"離開"
+			]},
+			{"code":115,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -27459,11 +27277,14 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"準備好剛好10個青蛙肉了，要給馬大嬸了嗎？"
+				"雖然馬大嬸說多多益善，但已經準備好"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"10個青蛙肉了，要給馬大嬸了嗎？"
 			]},
 			{"code":102,"indent":2,"parameters":[
 				[
-					"給１０個青蛙肉",
+					"給10個青蛙肉",
 					"離開"
 				],
 				-1,
@@ -27473,7 +27294,7 @@
 			]},
 			{"code":402,"indent":2,"parameters":[
 				0,
-				"給１０個青蛙肉"
+				"給10個青蛙肉"
 			]},
 			{"code":119,"indent":3,"parameters":[
 				"10"
@@ -28423,60 +28244,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"先\\C[3]回房間\\C[0]去找個武器再出發吧！"
 			]},
-			{"code":355,"indent":0,"parameters":[
-				"$gameTemp._tmparr=$gameActors._data[1].weapons().filter(x=>x);"
-			]},
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"$gameTemp._tmparr.length"
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n畢竟現在就拿著\\\\iw[\"+$gameTemp._tmparr[0].id+\"]了。\";"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				1,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"(will be replaced)"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"$gameTemp._tmparr=$gameParty.weapons().filter(x=>x);"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				12,
-				"$gameTemp._tmparr.length"
-			]},
-			{"code":355,"indent":2,"parameters":[
-				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n把帶在身上的\\\\iw[\"+$gameTemp._tmparr[0].id+\"]裝備起來就好。\";"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"BLR_01_1",
-				1,
-				1,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"(will be replaced)"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
 			{"code":122,"indent":0,"parameters":[
 				10,
 				10,
@@ -28492,6 +28259,101 @@
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap01\", 2);"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"假如玩家已經有其他武器"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._tmparr=$gameActors._data[1].weapons().filter(x=>x);"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":213,"indent":1,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n畢竟現在就拿著\\\\iw[\"+$gameTemp._tmparr[0].id+\"]了。\";"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"(will be replaced)"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				10,
+				10,
+				0,
+				0,
+				5
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"MainQuest_chap01\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._tmparr=$gameParty.weapons().filter(x=>x);"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"$gameTemp._tmparr.length"
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"this._list[this._index+2].parameters[0]=\"好像也不需要。\\n把帶在身上的\\\\iw[\"+$gameTemp._tmparr[0].id+\"]裝備起來就好。\";"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"(will be replaced)"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				10,
+				10,
+				0,
+				0,
+				5
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"MainQuest_chap01\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap01\", 3);"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameSystem._hideSQSQuestArrow = 0;"
@@ -28750,7 +28612,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -31755,7 +31617,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -32757,6 +32619,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"說不定我會看上你喔～」"
+			]},
+			{"code":242,"indent":0,"parameters":[
+				2
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_MainNPCs5",

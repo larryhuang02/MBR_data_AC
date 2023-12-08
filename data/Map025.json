@@ -4639,6 +4639,7 @@
 					{"code":3,"indent":null},
 					{"code":3,"indent":null},
 					{"code":3,"indent":null},
+					{"code":4,"indent":null},
 					{"code":3,"indent":null},
 					{"code":3,"indent":null},
 					{"code":3,"indent":null},
@@ -4663,6 +4664,9 @@
 				{"code":3,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
 				{"code":3,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -4682,6 +4686,92 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「那就不能退縮！來個『二回熟』吧！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]※小提示"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"部分技能會有武器限制，若裝備不合適的武器將無法施展！"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]例如\\C[0]【\\is[28]】\\C[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"必須要透過刀才能斬，故需裝備\\C[2]刀類武器\\C[6]才能使用。"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"而像是\\C[0]【\\is[23]】\\C[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"本質是揮舞雙拳痛擊敵人，所以\\C[2]沒有武器限制\\C[6]。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是否要整理裝備？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"整理裝備",
+					"準備好了"
+				],
+				-1,
+				-1,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"整理裝備"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem.disable_commonEventItems()"
+			]},
+			{"code":134,"indent":1,"parameters":[
+				0
+			]},
+			{"code":351,"indent":1,"parameters":[
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"準備好了"
+			]},
+			{"code":118,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":134,"indent":0,"parameters":[
+				1
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.enable_commonEventItems()"
 			]},
 			{"code":129,"indent":0,"parameters":[
 				4,
@@ -4887,7 +4977,6 @@
 					{"code":29,"parameters":[
 						4
 					],"indent":null},
-					{"code":4,"indent":null},
 					{"code":2,"indent":null},
 					{"code":2,"indent":null},
 					{"code":0}
@@ -4897,9 +4986,6 @@
 				{"code":29,"parameters":[
 					4
 				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":2,"indent":null}

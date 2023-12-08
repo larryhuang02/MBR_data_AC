@@ -360,12 +360,32 @@
 			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":2,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["Recolor_Orcs",4,0,0]},
+			{"code":401,"indent":0,"parameters":["巨魔"]},
+			{"code":401,"indent":0,"parameters":["「居然敢站過來？我要打爛你的腦袋！」"]},
+			{"code":230,"indent":0,"parameters":[30]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",7,1,0]},
+			{"code":401,"indent":0,"parameters":["這傢伙．．．已經把我當成目標了嗎？"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",13,1,0]},
+			{"code":401,"indent":0,"parameters":["但也就是說．．．只要\\C[2]我沒有倒下\\C[0]的話，"]},
+			{"code":401,"indent":0,"parameters":["攸特大哥應該會很安全。"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":3,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
+			{"code":401,"indent":0,"parameters":["這傢伙跟獸人一樣．．．皮粗肉厚的，"]},
+			{"code":401,"indent":0,"parameters":["我的攻擊似乎沒什麼作用．．．"]},
+			{"code":101,"indent":0,"parameters":["BLR_01_1",12,1,0]},
+			{"code":401,"indent":0,"parameters":["也\\C[2]靠著防禦\\C[0]來爭取時間吧！"]},
+			{"code":250,"indent":0,"parameters":[{"name":"Load2","volume":90,"pitch":100,"pan":0}]},
 			{"code":101,"indent":0,"parameters":["",0,1,1]},
-			{"code":401,"indent":0,"parameters":["每次\\c[6]防禦\\c後的等待回合的時間\\c[6]只需要原本的一半\\c，"]},
-			{"code":401,"indent":0,"parameters":["可以快速進行第二次動作。"]},
+			{"code":401,"indent":0,"parameters":["\\c[6]※小提示"]},
+			{"code":401,"indent":0,"parameters":["使用\\c[2]防禦\\c[6]指令，不但防禦期間只會受到\\c[2]一半的傷害\\c[6]，"]},
+			{"code":401,"indent":0,"parameters":["\\c[3]下次行動\\c[6]也\\c[3]只需要累積一半\\c[6]的ATB條。"]},
 			{"code":101,"indent":0,"parameters":["",0,1,1]},
-			{"code":401,"indent":0,"parameters":["請善用此功能等待攻擊時機，或者\\c[6]扛過威力強勁的攻擊\\c吧！"]},
+			{"code":401,"indent":0,"parameters":["\\c[6]※小提示"]},
+			{"code":401,"indent":0,"parameters":["\\c[6]請善用此功能\\c[2]調整隊伍出手順序\\c[6]，或者\\c[2]扛過Boss的大招\\c[6]吧！"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1}
 	]},
