@@ -791,9 +791,9 @@
 	{"id":285,"animationId":553,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"1","type":1,"variance":20},"description":"「魔法&暗屬性」若蒸蛋有60分的話，加了三色豆就是0分，\n限戰鬥中使用，給予敵方單體微量傷害，機率附加猛毒狀態","effects":[
 		{"code":21,"dataId":7,"value1":0.75,"value2":0}
 	],"hitType":2,"iconIndex":18,"itypeId":1,"name":"三色豆蒸蛋","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items285.txt>","occasion":1,"price":250,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
-	{"id":286,"animationId":521,"consumable":true,"damage":{"critical":false,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍屬性」專挑旱芋中的極品、芋頭硬到可以當鐵鎚用\n，限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
+	{"id":286,"animationId":521,"consumable":true,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍屬性」專挑旱芋中的極品、芋頭硬到可以當鐵鎚用\n，限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
 	],"hitType":1,"iconIndex":113,"itypeId":1,"name":"金剛芋頭鍋","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items286.txt>","occasion":1,"price":200,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":2},
-	{"id":287,"animationId":97,"consumable":true,"damage":{"critical":false,"elementId":10,"formula":"90 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&光屬性」亮到不亞於聖光的咖哩，很適合驅散幽靈，\n限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
+	{"id":287,"animationId":97,"consumable":true,"damage":{"critical":true,"elementId":10,"formula":"90 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&光屬性」亮到不亞於聖光的咖哩，很適合驅散幽靈，\n限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
 	],"hitType":2,"iconIndex":1610,"itypeId":1,"name":"螢光咖哩","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items287.txt>","occasion":1,"price":300,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
 	{"id":288,"animationId":45,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"限戰鬥中使用，我方單體HP回復1點，獲得聖水持續7次行動。\n※聖水：大幅度減少暗元素傷害，免疫即死魔法","effects":[
 		{"code":21,"dataId":94,"value1":1,"value2":0}
@@ -817,7 +817,7 @@
 	{"id":292,"animationId":620,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"1","type":1,"variance":20},"description":"「魔法&暗屬性」可投擲敵人的黏膩蜘蛛網，限戰鬥中使用，\n給予敵方單體微量傷害，附加「速度下降1階」持續2次行動","effects":[
 		{"code":32,"dataId":6,"value1":2,"value2":0}
 	],"hitType":2,"iconIndex":54,"itypeId":1,"name":"蜘蛛網","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items292.txt>","occasion":1,"price":300,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":2},
-	{"id":293,"animationId":633,"consumable":true,"damage":{"critical":false,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&刺屬性」從維皮身上取得的高能暗器，限戰鬥中使用，\n給予敵方單體攻擊傷害，附加「全能力下降5階」持續3次行動","effects":[
+	{"id":293,"animationId":633,"consumable":true,"damage":{"critical":true,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&刺屬性」從維皮身上取得的高能暗器，限戰鬥中使用，\n給予敵方單體攻擊傷害，附加「全能力下降5階」持續3次行動","effects":[
 		{"code":32,"dataId":2,"value1":3,"value2":0},
 		{"code":32,"dataId":2,"value1":3,"value2":0},
 		{"code":32,"dataId":2,"value1":3,"value2":0},
@@ -861,7 +861,7 @@
 	],"hitType":0,"iconIndex":1607,"itypeId":1,"name":"天下第一銷魂烤肉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items296.txt>","occasion":1,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":297,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.8","type":1,"variance":0},"description":"我不入地獄，誰入地獄！對我方單體造成現有HP80%的傷害。","effects":[
 	],"hitType":0,"iconIndex":298,"itypeId":1,"name":"天下第一銷魂屍塊","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items297.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":298,"animationId":521,"consumable":true,"damage":{"critical":false,"elementId":3,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&鈍屬性」噁心到無法言語的東西，限戰鬥中使用，\n給予敵方單體攻擊傷害，必中，附加「全能力下降5階」持續9次行動。","effects":[
+	{"id":298,"animationId":521,"consumable":true,"damage":{"critical":true,"elementId":3,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&鈍屬性」噁心到無法言語的東西，限戰鬥中使用，\n給予敵方單體攻擊傷害，必中，附加「全能力下降5階」持續9次行動。","effects":[
 		{"code":32,"dataId":2,"value1":9,"value2":0},
 		{"code":32,"dataId":2,"value1":9,"value2":0},
 		{"code":32,"dataId":2,"value1":9,"value2":0},
@@ -1042,7 +1042,7 @@
 	{"id":351,"animationId":448,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"200000","type":1,"variance":0},"description":"與風同行搬過來的道具，威力是原本的100倍。","effects":[
 	],"hitType":0,"iconIndex":188,"itypeId":1,"name":"特異點衝擊卡","note":"<speed:20000>","occasion":1,"price":0,"repeats":1,"scope":2,"speed":0,"successRate":100,"tpGain":0},
 	{"id":352,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"200000","type":0,"variance":0},"description":"據說只有能夠駕馭Code之人才能使用的天選魔法書。\n寫下正確的咒語即可發動效果。","effects":[
-	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"黃金ㄉ魔法書","note":"<speed:20000>\n<maxStack:1>\n<applyGlobal_javascript: if(!$gameTemp.scTxt) $gameTemp.scTxt={}; $gameTemp.scTxt.val=$gamePlayer._黃金ㄉ魔法書txt||$gameTemp.scTxt.val||\"// 請輸入 javascript 咒語\"; $gameTemp.scTxt.onOk_call=function(){console.log('call')||eval($gamePlayer._黃金ㄉ魔法書txt=$gameTemp.scTxt.val);}; SceneManager.push(Scene_HTML_textarea); >\n<道具額外文字檔:BLR_custom/detail/item/Items352.txt>","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"黃金ㄉ魔法書","note":"<speed:20000>\n<applyGlobal_javascript: if(!$gameTemp.scTxt) $gameTemp.scTxt={}; $gameTemp.scTxt.val=$gamePlayer._黃金ㄉ魔法書txt||$gameTemp.scTxt.val||\"// 請輸入 javascript 咒語\"; $gameTemp.scTxt.onOk_call=function(){console.log('call')||eval($gamePlayer._黃金ㄉ魔法書txt=$gameTemp.scTxt.val);}; SceneManager.push(Scene_HTML_textarea); >\n<道具額外文字檔:BLR_custom/detail/item/Items352.txt>","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":353,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 		{"code":44,"dataId":246,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":244,"itypeId":2,"name":"能力果實老千機","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},

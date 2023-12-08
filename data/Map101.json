@@ -74026,7 +74026,7 @@
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":126,"indent":0,"parameters":[
-				124,
+				123,
 				0,
 				0,
 				3
@@ -74038,7 +74038,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得地脈血泉3個。"
+				"獲得\\ni[123]3個。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

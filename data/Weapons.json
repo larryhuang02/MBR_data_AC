@@ -499,19 +499,19 @@
 		0,
 		0
 	],"price":18000,"wtypeId":2},
-	{"id":40,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":40,"animationId":3,"description":"「斬屬性」物攻+145、攻擊附加機率猛毒","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":32,"dataId":7,"value":0.5}
+	],"iconIndex":1108,"name":"TEST","note":"<weaponImg:Weapon_Swords,11,1>\n\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons39.txt>","params":[
 		0,
 		0,
-		0,
+		145,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":18000,"wtypeId":2},
 	{"id":41,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}

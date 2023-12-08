@@ -3845,17 +3845,26 @@
 	],"x":4,"y":9},
 	{"id":5,"name":"EV005","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":245,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				21,
+				0
+			]},
+			{"code":245,"indent":1,"parameters":[
 				{"name":"Quake","volume":50,"pitch":100,"pan":0}
 			]},
-			{"code":225,"indent":0,"parameters":[
+			{"code":225,"indent":1,"parameters":[
 				3,
 				7,
 				30,
 				false
 			]},
-			{"code":230,"indent":0,"parameters":[
+			{"code":230,"indent":1,"parameters":[
 				30
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
