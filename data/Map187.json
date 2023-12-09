@@ -3166,71 +3166,94 @@
 				0,
 				3
 			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":112,"indent":1,"parameters":[
+			]},
+			{"code":122,"indent":2,"parameters":[
 				26,
 				26,
 				2,
 				0,
 				1
 			]},
-			{"code":108,"indent":1,"parameters":[
+			{"code":108,"indent":2,"parameters":[
 				"^^^^ 骰子變數"
 			]},
-			{"code":108,"indent":1,"parameters":[
+			{"code":108,"indent":2,"parameters":[
 				""
 			]},
-			{"code":108,"indent":1,"parameters":[
+			{"code":108,"indent":2,"parameters":[
 				"vvvv 欲使之移動的事件的id"
 			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":122,"indent":2,"parameters":[
 				27,
 				27,
 				0,
 				1,
 				27
 			]},
-			{"code":355,"indent":1,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"this._list[this._index+1].parameters[0]=$gameVariables.value(27);"
 			]},
-			{"code":205,"indent":1,"parameters":[
+			{"code":205,"indent":2,"parameters":[
 				0,
 				{"list":[
 					{"code":45,"parameters":[
 						"this.moveStraight($dataMap.getNextDir(this.x,this.y));"
 					],"indent":null},
-					{"code":15,"parameters":[
-						1
-					],"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":true,"wait":true}
 			]},
-			{"code":505,"indent":1,"parameters":[
+			{"code":505,"indent":2,"parameters":[
 				{"code":45,"parameters":[
 					"this.moveStraight($dataMap.getNextDir(this.x,this.y));"
 				],"indent":null}
 			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":15,"parameters":[
-					1
-				],"indent":null}
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":121,"indent":1,"parameters":[
-				25,
-				25,
-				1
-			]},
-			{"code":121,"indent":1,"parameters":[
+			{"code":111,"indent":2,"parameters":[
+				1,
 				26,
-				26,
-				0
+				0,
+				0,
+				2
+			]},
+			{"code":122,"indent":3,"parameters":[
+				27,
+				27,
+				0,
+				1,
+				27
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"this._list[this._index+1].parameters[0]=$gameVariables.value(27);"
+			]},
+			{"code":205,"indent":3,"parameters":[
+				0,
+				{"list":[
+					{"code":0}
+				],"repeat":true,"skippable":true,"wait":false}
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":413,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":121,"indent":0,"parameters":[
+				25,
+				25,
+				1
+			]},
+			{"code":121,"indent":0,"parameters":[
+				26,
+				26,
+				0
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -3657,8 +3680,32 @@
 			]},
 			{"code":221,"indent":2,"parameters":[
 			]},
+			{"code":121,"indent":2,"parameters":[
+				25,
+				25,
+				1
+			]},
 			{"code":230,"indent":2,"parameters":[
 				60
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"console.log($gameVariables.value(27));"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				27,
+				27,
+				0,
+				1,
+				27
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"this._list[this._index+1].parameters[0]=$gameVariables.value(27);"
+			]},
+			{"code":205,"indent":2,"parameters":[
+				0,
+				{"list":[
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":201,"indent":2,"parameters":[
 				0,
