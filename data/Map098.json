@@ -3218,7 +3218,7 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"\\C[2]經典難度\\C[0]",
+					"\\C[2]困難難度\\C[0]",
 					"\\C[3]普通難度\\C[0]",
 					"\\C[4]猴子難度\\C[0]"
 				],
@@ -3229,7 +3229,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"\\C[2]經典難度\\C[0]"
+				"\\C[2]困難難度\\C[0]"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -3238,13 +3238,13 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\C[6]※經典難度\\C[0]"
+				"\\C[6]※困難難度\\C[0]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"改良版的舊月1難度，整體遊戲玩起來沒有當年的惡質與"
+				"整體遊戲玩起來沒有當年的惡質與反人類設計，但在頭目戰"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"過份設計，但在頭目戰與小遊戲都還是具有一定的挑戰性。"
+				"具有\\C[2]相當大\\C[0]的挑戰性。"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"難度的概述如下:"
@@ -3256,7 +3256,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\C[6]※經典難度\\C[0]"
+				"\\C[6]※困難難度\\C[0]"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"1.頭目\\C[2]數值上修\\C[0]，頭目、小怪會使用\\C[2]較強大的招式\\C[0]。"
@@ -3274,16 +3274,16 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\C[6]※經典難度\\C[0]"
+				"\\C[6]※困難難度\\C[0]"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"小結："
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"若你反應不靈敏，或\\C[2]沒有不斷失敗重來的覺悟，"
+				"若你沒有\\C[3]鑽研頭目戰\\C[2]打法的覺悟\\C[0]、或者\\C[2]面對\\C[3]小遊戲\\C[2]不斷失敗"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\C[2]切勿選擇此難度\\C[0]！"
+				"重來的決心\\C[0]，\\C[10]切勿選擇此難度\\C[0]！"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -3292,7 +3292,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"請問你確定要選擇\\C[2]經典難度\\C[0]嗎？"
+				"請問你確定要選擇\\C[2]困難難度\\C[0]嗎？"
 			]},
 			{"code":102,"indent":1,"parameters":[
 				[
@@ -4274,5 +4274,6 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
-	],"x":0,"y":0}
+	],"x":0,"y":0},
+	null
 ]}

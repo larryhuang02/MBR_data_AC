@@ -4704,7 +4704,7 @@
 				"「？」"
 			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"Dungeon 1","volume":90,"pitch":100,"pan":0}
+				{"name":"Dungeon 1","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BigSun",

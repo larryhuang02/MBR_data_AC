@@ -279,6 +279,7 @@
 		0
 	],"faceIndex":5,"faceName":"KH06-1_faces_MV_04","traits":[
 		{"code":43,"dataId":597,"value":1},
+		{"code":44,"dataId":478,"value":1},
 		{"code":62,"dataId":0,"value":1}
 	],"initialLevel":37,"maxLevel":37,"name":"魔彈花","nickname":"","note":"","profile":""},
 	{"id":29,"battlerName":"BLR_skeleton-dogSV","characterIndex":0,"characterName":"$BLR_skeleton-dog","classId":17,"equips":[
@@ -287,9 +288,10 @@
 		0,
 		3,
 		0
-	],"faceIndex":1,"faceName":"BLR_skeleton-dog","traits":[
+	],"faceIndex":5,"faceName":"BLR_skeleton-dog","traits":[
 		{"code":43,"dataId":560,"value":1},
 		{"code":43,"dataId":568,"value":1},
+		{"code":44,"dataId":478,"value":1},
 		{"code":62,"dataId":0,"value":1}
 	],"initialLevel":37,"maxLevel":37,"name":"骸骨犬","nickname":"","note":"","profile":""},
 	{"id":30,"battlerName":"BLR_Demon","characterIndex":4,"characterName":"Monster","classId":18,"equips":[
@@ -298,7 +300,7 @@
 		0,
 		0,
 		0
-	],"faceIndex":4,"faceName":"Monster","traits":[
+	],"faceIndex":0,"faceName":"Recolor_Imps","traits":[
 		{"code":43,"dataId":521,"value":1},
 		{"code":43,"dataId":584,"value":1},
 		{"code":62,"dataId":0,"value":1}

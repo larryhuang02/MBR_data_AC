@@ -8845,8 +8845,8 @@
 	{"id":21,"name":"並行檢查","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+				267,
+				267,
 				0,
 				3,
 				5,
@@ -8862,7 +8862,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				68,
 				2
@@ -8894,7 +8894,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				62,
 				2
@@ -8926,7 +8926,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				54,
 				2
@@ -8958,7 +8958,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				48,
 				2
@@ -8990,7 +8990,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				40,
 				2
@@ -9022,7 +9022,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				34,
 				2
@@ -9054,7 +9054,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				26,
 				2
@@ -9086,7 +9086,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				20,
 				2
@@ -9118,7 +9118,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				12,
 				2
@@ -9150,7 +9150,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
-				21,
+				267,
 				0,
 				6,
 				2
