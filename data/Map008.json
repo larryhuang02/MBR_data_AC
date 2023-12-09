@@ -393483,6 +393483,57 @@
 	],"x":13,"y":157},
 	{"id":4,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"{ let sp=new Sprite_Minimap();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"sp.paintAll(0,0,$dataMap.width,$dataMap.height);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager._scene.addChild(sp);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager.renderScene(); // need render the bitmap once"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager._scene.removeChild(sp);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager.renderScene(); // render again to erase minimap"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let s=1.0/256,r=0,stopCnt=64,started=false;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameScreen.handmap_show(s);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager.add_additionalUpdate_scene(()=>{"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"const sc=SceneManager._scene; if(!sc || sc.constructor!==Scene_HandMap) return started;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(!started){ $gameScreen._tone=[0,0,0,0]; SceneManager._scene.startFadeIn(16,0); }"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"started=true; if(0<--stopCnt) return;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"const conf=SceneManager._scene._conf;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if(!((conf.scale=(r+=s))<1)){ conf.scale=1; SceneManager.pop(); $gameScreen.startFadeIn(1); return true; }"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"},true); }"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				30
 			]},
