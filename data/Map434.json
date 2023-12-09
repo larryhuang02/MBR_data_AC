@@ -14470,8 +14470,8 @@
 	{"id":5,"name":"主事件","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+				258,
+				258,
 				0,
 				3,
 				5,
@@ -14480,7 +14480,7 @@
 			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
-				21,
+				258,
 				0,
 				31,
 				2

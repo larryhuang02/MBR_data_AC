@@ -6359,8 +6359,8 @@
 				{"name":"03_Cybercity","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6389,8 +6389,8 @@
 				"神祕大禮。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6401,8 +6401,8 @@
 				"「唉呀，沒想到你們的消息這麼靈通。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6413,8 +6413,8 @@
 				"「比賽之前先講幾個規矩。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6428,8 +6428,8 @@
 				"生命，生命先歸零者則輸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6446,8 +6446,8 @@
 				"指出\\C[3]一個方向\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6464,8 +6464,8 @@
 				"損失1顆愛心。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6482,8 +6482,8 @@
 				"1顆愛心\\C[0]。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6497,8 +6497,8 @@
 				"又要選方向太麻煩，所以就讓你們隨機出拳。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6515,8 +6515,8 @@
 				"不給挑戰成功的人繼續拿。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6530,8 +6530,8 @@
 				"在下就是靠這個賺零用錢的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -6579,13 +6579,13 @@
 				"對話"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\$小丑"
+				"小丑"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「你們來啦，要做什麼呢？」"
@@ -9532,8 +9532,8 @@
 				0
 			]},
 			{"code":101,"indent":3,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9544,8 +9544,8 @@
 				"「唉呀，居然輸了呢，先生真厲害。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9609,13 +9609,13 @@
 			{"code":411,"indent":1,"parameters":[
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\$小丑"
+				"小丑"
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"「你身上沒有100\\G耶，先去湊個100\\G再來吧。」"
@@ -9639,8 +9639,8 @@
 				"再聽一次遊戲規則"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9654,8 +9654,8 @@
 				"生命，生命先歸零者則輸。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9672,8 +9672,8 @@
 				"指出\\C[3]一個方向\\C[0]。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9690,8 +9690,8 @@
 				"損失1顆愛心。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9708,8 +9708,8 @@
 				"1顆愛心\\C[0]。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9723,8 +9723,8 @@
 				"又要選方向太麻煩，所以就讓你們隨機出拳。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9741,8 +9741,8 @@
 				"不給挑戰成功的人繼續拿。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},
@@ -9776,8 +9776,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":313,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":322,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People2","direction":4,"pattern":1,"characterIndex":6},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				6,
+				"Recolor_Jesters",
+				0,
 				0,
 				2
 			]},

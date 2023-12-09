@@ -1295,7 +1295,7 @@
 	],"hitType":0,"iconIndex":240,"itypeId":2,"name":"駱建神秘水","note":"<道具額外文字檔:BLR_custom/detail/item/Items428.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":429,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"神奇的古書，蘊含著神奇的魔力。","effects":[
 	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"光之冊","note":"<道具額外文字檔:BLR_custom/detail/item/Items429.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":430,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"幽暗森林專用，每次進入森林內密道時將自動點燃，每支\n蠟燭可維持20秒，點燃期間可方便辨識自己的方位。","effects":[
+	{"id":430,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"地圖上的陰暗地道專用，每次進入密道時將自動點燃，每支\n蠟燭可維持20秒，點燃期間可方便辨識自己的方位。","effects":[
 	],"hitType":0,"iconIndex":214,"itypeId":2,"name":"神奇蠟燭","note":"<道具額外文字檔:BLR_custom/detail/item/Items430.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":431,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"一個長方形的神奇磚塊，上面會發出各種彩色的光芒","effects":[
 	],"hitType":0,"iconIndex":244,"itypeId":2,"name":"神奇磚塊","note":"<道具額外文字檔:BLR_custom/detail/item/Items431.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},

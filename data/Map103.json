@@ -11843,16 +11843,16 @@
 	{"id":4,"name":"落石事件","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":169,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+				254,
+				254,
 				0,
 				2,
 				0,
 				15
 			]},
 			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
+				255,
+				255,
 				0,
 				0,
 				14
@@ -11860,24 +11860,24 @@
 			{"code":203,"indent":0,"parameters":[
 				2,
 				1,
-				21,
-				22,
+				254,
+				255,
 				0
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
 			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+				254,
+				254,
 				0,
 				2,
 				0,
 				15
 			]},
 			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
+				255,
+				255,
 				0,
 				0,
 				14
@@ -11885,24 +11885,24 @@
 			{"code":203,"indent":0,"parameters":[
 				3,
 				1,
-				21,
-				22,
+				254,
+				255,
 				0
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
 			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+				254,
+				254,
 				0,
 				2,
 				0,
 				15
 			]},
 			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
+				255,
+				255,
 				0,
 				0,
 				14
@@ -11910,8 +11910,8 @@
 			{"code":203,"indent":0,"parameters":[
 				11,
 				1,
-				21,
-				22,
+				254,
+				255,
 				0
 			]},
 			{"code":230,"indent":0,"parameters":[

@@ -33168,10 +33168,10 @@
 				"子豪"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「嗚．．．5000\\G有點貴，我最近手頭比較緊，"
+				"「嗚．．．5000\\G有點貴，我最近手頭"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"3000\\G怎麼樣？」"
+				"比較緊，3000\\G怎麼樣？」"
 			]},
 			{"code":102,"indent":3,"parameters":[
 				[
@@ -33187,15 +33187,6 @@
 				0,
 				"3000元賣給你"
 			]},
-			{"code":250,"indent":4,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":126,"indent":4,"parameters":[
-				428,
-				1,
-				0,
-				1
-			]},
 			{"code":101,"indent":4,"parameters":[
 				"People3",
 				7,
@@ -33207,6 +33198,15 @@
 			]},
 			{"code":401,"indent":4,"parameters":[
 				"「謝謝啊。」"
+			]},
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":4,"parameters":[
+				428,
+				1,
+				0,
+				1
 			]},
 			{"code":101,"indent":4,"parameters":[
 				"",
@@ -34949,7 +34949,7 @@
 				"PeopleMZ_04",
 				4,
 				0,
-				0
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"商販"
@@ -35043,7 +35043,7 @@
 				"PeopleMZ_04",
 				4,
 				0,
-				0
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"商販"
@@ -35071,7 +35071,7 @@
 				"PeopleMZ_02",
 				1,
 				0,
-				0
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"商販"
@@ -35166,7 +35166,7 @@
 				"PeopleMZ_02",
 				1,
 				0,
-				0
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"商販"
@@ -39617,11 +39617,6 @@
 				1,
 				25
 			]},
-			{"code":121,"indent":1,"parameters":[
-				323,
-				323,
-				1
-			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
 				21,
@@ -39862,6 +39857,11 @@
 				1
 			]},
 			{"code":222,"indent":2,"parameters":[
+			]},
+			{"code":121,"indent":2,"parameters":[
+				323,
+				323,
+				1
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",

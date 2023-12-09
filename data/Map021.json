@@ -23565,7 +23565,7 @@
 				"「剪刀～石頭～布！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23577,7 +23577,7 @@
 				"「贏了!」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23634,7 +23634,7 @@
 				"「剪刀～石頭～布！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23646,7 +23646,7 @@
 				"「贏了!」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23728,7 +23728,7 @@
 				"「剪刀～石頭～布！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23740,7 +23740,7 @@
 				"「贏了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23806,7 +23806,7 @@
 				"「不就是決定誰當鬼嗎，你們怎麼這麼堅持？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23821,7 +23821,7 @@
 				"猜贏又一直不去當鬼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23836,7 +23836,7 @@
 				"我今天不想再當鬼了啦！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23848,7 +23848,7 @@
 				"「你當鬼啦！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23860,7 +23860,7 @@
 				"「不要不要不要！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -23904,7 +23904,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -23931,7 +23931,7 @@
 				"擅長找東西的呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -24199,121 +24199,156 @@
 				304,
 				0
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People1",
+			{"code":111,"indent":1,"parameters":[
+				0,
+				305,
+				0
+			]},
+			{"code":205,"indent":2,"parameters":[
+				20,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":25,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":25,"indent":null}
+			]},
+			{"code":205,"indent":2,"parameters":[
+				17,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":25,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":25,"indent":null}
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"小明"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「哇，好好玩呦。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People4",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"大華"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「居然兩三下破解了我的招式，大哥哥你究竟"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"是什麼人。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				4,
 				1,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"在講什麼啊．．．"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People1",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"小明"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「大哥哥，明天再來玩吧。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People4",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"大華"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「明天你就會看到不一樣的我了。」"
 			]},
-			{"code":250,"indent":1,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":1,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				-1,
 				7,
 				true
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				0,
 				1,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"好了，事情也圓滿落幕了，那我也該跟\\C[2]"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"旁邊的大叔\\C[0]覆命了。"
 			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":122,"indent":2,"parameters":[
 				308,
 				308,
 				0,
 				0,
 				10
 			]},
-			{"code":355,"indent":1,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"SQSM.ShowTaskForQuest(\"hide-and-seek_chap01\", 3);"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"hide-and-seek_chap01\", 2);"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":2,"parameters":[
 				"SQSM.ShowDescriptionForQuest(\"hide-and-seek_chap01\", 3);"
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":115,"indent":2,"parameters":[
 			]},
-			{"code":411,"indent":0,"parameters":[
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「好好玩呦。」"
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Kids M",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小明"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「好好玩呦。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -24323,7 +24358,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":305,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -24349,7 +24384,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":305,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":true,"image":{"tileId":0,"characterName":"People1","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -24547,67 +24582,8 @@
 	],"x":56,"y":19},
 	{"id":20,"name":"大華","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明&大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「剪刀～石頭～布！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「贏了!」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「哪有這樣的，我們改3戰2勝。」"
-			]},
-			{"code":121,"indent":0,"parameters":[
-				302,
-				302,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				306,
-				306,
-				0,
-				0,
-				5
-			]},
-			{"code":122,"indent":0,"parameters":[
-				307,
-				307,
-				0,
-				0,
-				3
-			]},
-			{"code":122,"indent":0,"parameters":[
-				308,
-				308,
-				0,
-				0,
-				1
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[17].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -24616,55 +24592,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":302,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明&大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「剪刀～石頭～布！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「贏了!」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「哪有這樣的，我們改\\v[306]戰\\v[307]勝。」"
-			]},
-			{"code":122,"indent":0,"parameters":[
-				306,
-				306,
-				1,
-				0,
-				2
-			]},
-			{"code":122,"indent":0,"parameters":[
-				307,
-				307,
-				1,
-				0,
-				1
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[17].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -24673,620 +24602,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":302,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				1,
-				306,
-				0,
-				0,
-				0
-			]},
-			{"code":122,"indent":1,"parameters":[
-				306,
-				306,
-				0,
-				0,
-				3
-			]},
-			{"code":122,"indent":1,"parameters":[
-				307,
-				307,
-				0,
-				0,
-				2
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				21,
-				48,
-				18,
-				4,
-				0
-			]},
-			{"code":222,"indent":0,"parameters":[
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明&大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「剪刀～石頭～布！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「贏了！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「哪有這樣的，我們改\\v[306]戰\\v[307]勝。」"
-			]},
-			{"code":122,"indent":0,"parameters":[
-				306,
-				306,
-				1,
-				0,
-				2
-			]},
-			{"code":122,"indent":0,"parameters":[
-				307,
-				307,
-				1,
-				0,
-				1
-			]},
-			{"code":205,"indent":0,"parameters":[
-				17,
-				{"list":[
-					{"code":36,"indent":null},
-					{"code":25,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":25,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				20,
-				{"list":[
-					{"code":36,"indent":0},
-					{"code":25,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36,"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":25,"indent":null}
-			]},
-			{"code":111,"indent":0,"parameters":[
-				6,
-				-1,
-				2
-			]},
-			{"code":205,"indent":1,"parameters":[
-				20,
-				{"list":[
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":205,"indent":1,"parameters":[
-				17,
-				{"list":[
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				6,
-				-1,
-				4
-			]},
-			{"code":205,"indent":1,"parameters":[
-				20,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":205,"indent":1,"parameters":[
-				17,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				6,
-				-1,
-				6
-			]},
-			{"code":205,"indent":1,"parameters":[
-				20,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":205,"indent":1,"parameters":[
-				17,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				6,
-				-1,
-				8
-			]},
-			{"code":205,"indent":1,"parameters":[
-				20,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":205,"indent":1,"parameters":[
-				17,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「不就是決定誰當鬼嗎，你們怎麼這麼堅持？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「是小明在那邊不服輸啦，明明每次都是我"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"猜贏又一直不去當鬼。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你不懂啦，前天是我當鬼，昨天也是我當鬼，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"我今天不想再當鬼了啦！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你當鬼啦！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「不要不要不要！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「每次都是我當鬼，不公平。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這樣好了，我有個主意。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這次你們讓我當鬼怎麼樣。」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				20,
-				2,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「咦？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我也好久沒有玩捉迷藏了，大哥哥我可是很"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"擅長找東西的呢。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"People1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小明"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「那大哥哥你先把眼睛閉上，數到一百再開始。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[1]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「是是。」"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				17,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				20,
-				{"list":[
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":122,"indent":0,"parameters":[
-				308,
-				308,
-				0,
-				0,
-				2
-			]},
-			{"code":203,"indent":0,"parameters":[
-				45,
-				0,
-				47,
-				18,
-				8
-			]},
-			{"code":203,"indent":0,"parameters":[
-				46,
-				0,
-				47,
-				19,
-				2
-			]},
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":205,"indent":0,"parameters":[
-				46,
-				{"list":[
-					{"code":37,"indent":null},
-					{"code":29,"parameters":[
-						5
-					],"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":1,"indent":null},
-					{"code":39,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":29,"parameters":[
-					5
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":39,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				45,
-				{"list":[
-					{"code":37,"indent":null},
-					{"code":29,"parameters":[
-						5
-					],"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":39,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":29,"parameters":[
-					5
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":39,"indent":null}
-			]},
-			{"code":122,"indent":0,"parameters":[
-				308,
-				308,
-				0,
-				0,
-				3
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　97～\\|　　98～\\|　　99～\\|　　100～\\|\\^"
-			]},
-			{"code":222,"indent":0,"parameters":[
-			]},
-			{"code":230,"indent":0,"parameters":[
-				30
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				3,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"好了！開始來找他們吧！"
-			]},
 			{"code":355,"indent":0,"parameters":[
-				"SQSM.ShowTaskForQuest(\"hide-and-seek_chap01\", 2);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"hide-and-seek_chap01\", 1);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"SQSM.ShowDescriptionForQuest(\"hide-and-seek_chap01\", 2);"
+				"$gameMap._events[17].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -25304,240 +24621,159 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":304,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":false,"variableValue":1},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
-				305,
+				304,
 				0
 			]},
 			{"code":111,"indent":1,"parameters":[
-				6,
-				-1,
-				2
+				0,
+				305,
+				0
 			]},
 			{"code":205,"indent":2,"parameters":[
 				20,
 				{"list":[
-					{"code":19,"indent":null},
+					{"code":36,"indent":null},
+					{"code":25,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":505,"indent":2,"parameters":[
-				{"code":19,"indent":null}
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":25,"indent":null}
 			]},
 			{"code":205,"indent":2,"parameters":[
 				17,
 				{"list":[
-					{"code":19,"indent":null},
+					{"code":36,"indent":null},
+					{"code":25,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":505,"indent":2,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":111,"indent":1,"parameters":[
-				6,
-				-1,
-				4
-			]},
-			{"code":205,"indent":2,"parameters":[
-				20,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":2,"parameters":[
-				{"code":18,"indent":null}
+				{"code":25,"indent":null}
 			]},
-			{"code":205,"indent":2,"parameters":[
-				17,
-				{"list":[
-					{"code":18,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":2,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":111,"indent":1,"parameters":[
-				6,
-				-1,
-				6
-			]},
-			{"code":205,"indent":2,"parameters":[
-				20,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":2,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":205,"indent":2,"parameters":[
-				17,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":2,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":111,"indent":1,"parameters":[
-				6,
-				-1,
-				8
-			]},
-			{"code":205,"indent":2,"parameters":[
-				20,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":2,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":205,"indent":2,"parameters":[
-				17,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":2,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"People1",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"小明"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「哇，好好玩呦。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People4",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"大華"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「居然兩三下破解了我的招式，大哥哥你究竟"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"是什麼人。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				4,
 				1,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"在講什麼啊．．．"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People1",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"小明"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「大哥哥，明天再來玩吧。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People4",
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"大華"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「明天你就會看到不一樣的我了。」"
 			]},
-			{"code":250,"indent":1,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":1,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				-1,
 				7,
 				true
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				0,
 				1,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
-				"好了，事情也圓滿落幕了，那我也該跟\\C[2]旁"
+			{"code":401,"indent":2,"parameters":[
+				"好了，事情也圓滿落幕了，那我也該跟\\C[2]"
 			]},
-			{"code":401,"indent":1,"parameters":[
-				"邊的大叔\\C[0]覆命了。"
+			{"code":401,"indent":2,"parameters":[
+				"旁邊的大叔\\C[0]覆命了。"
 			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":122,"indent":2,"parameters":[
 				308,
 				308,
 				0,
 				0,
 				10
 			]},
-			{"code":355,"indent":1,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"SQSM.ShowTaskForQuest(\"hide-and-seek_chap01\", 3);"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"hide-and-seek_chap01\", 2);"
 			]},
-			{"code":655,"indent":1,"parameters":[
+			{"code":655,"indent":2,"parameters":[
 				"SQSM.ShowDescriptionForQuest(\"hide-and-seek_chap01\", 3);"
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":115,"indent":2,"parameters":[
 			]},
-			{"code":411,"indent":0,"parameters":[
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"People4",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"大華"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「可惡，看來我得研發新的捉迷藏絕招了。」"
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Kids M 4",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"大華"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可惡，看來我得研發新的捉迷藏絕招了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -25547,7 +24783,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":304,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -25573,7 +24809,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":304,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -26504,7 +25740,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -33964,7 +33200,7 @@
 	{"id":58,"name":"EV058","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":21},"directionFix":true,"image":{"tileId":0,"characterName":"People1","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -34001,7 +33237,7 @@
 	{"id":60,"name":"EV060","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":21},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
@@ -34029,7 +33265,7 @@
 	{"id":61,"name":"小明5","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":302,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":true,"image":{"tileId":0,"characterName":"Damage1","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
+				"Recolor_Kids M",
 				0,
 				0,
 				2
@@ -34057,7 +33293,7 @@
 	{"id":62,"name":"小明5","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":302,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":true,"image":{"tileId":0,"characterName":"Damage2","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
+				"Recolor_Kids M 4",
 				0,
 				0,
 				2
