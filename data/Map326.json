@@ -108004,10 +108004,23 @@
 	null,
 	{"id":1,"name":"毒水地板","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":2,"pattern":1,"characterIndex":0},"list":[
-			{"code":250,"indent":0,"parameters":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp._tmpFloorDmgVal=50;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameTemp._tmpFloorDmgList=[];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameParty.members().forEach(btlr=>{ const val=$gameTemp._tmpFloorDmgVal*btlr.fdr; if(0<val) $gameTemp._tmpFloorDmgList.push([btlr.actorId(),val]); });"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameTemp._tmpFloorDmgList.length"
+			]},
+			{"code":250,"indent":1,"parameters":[
 				{"name":"Poison","volume":50,"pitch":100,"pan":0}
 			]},
-			{"code":224,"indent":0,"parameters":[
+			{"code":224,"indent":1,"parameters":[
 				[
 					0,
 					255,
@@ -108017,17 +108030,19 @@
 				5,
 				false
 			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				1,
-				5,
-				904
+			{"code":112,"indent":1,"parameters":[
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":111,"indent":2,"parameters":[
+				12,
+				"$gameTemp._tmpFloorDmgList.length"
 			]},
-			{"code":411,"indent":0,"parameters":[
+			{"code":355,"indent":3,"parameters":[
+				""
 			]},
-			{"code":311,"indent":1,"parameters":[
+			{"code":355,"indent":3,"parameters":[
+				"this._list[this._index+1].parameters[1]=$gameTemp._tmpFloorDmgList.back[0]; this._list[this._index+1].parameters[4]=$gameTemp._tmpFloorDmgList.back[1]; "
+			]},
+			{"code":311,"indent":3,"parameters":[
 				0,
 				1,
 				1,
@@ -108035,179 +108050,31 @@
 				50,
 				false
 			]},
-			{"code":313,"indent":1,"parameters":[
+			{"code":355,"indent":3,"parameters":[
+				"this._list[this._index+1].parameters[1]=$gameTemp._tmpFloorDmgList.back[0];"
+			]},
+			{"code":313,"indent":3,"parameters":[
 				0,
 				1,
 				0,
 				7
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":355,"indent":3,"parameters":[
+				"$gameTemp._tmpFloorDmgList.pop();"
 			]},
-			{"code":412,"indent":0,"parameters":[
+			{"code":0,"indent":3,"parameters":[
 			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				2,
-				5,
-				904
+			{"code":411,"indent":2,"parameters":[
 			]},
-			{"code":0,"indent":1,"parameters":[
+			{"code":113,"indent":3,"parameters":[
 			]},
-			{"code":411,"indent":0,"parameters":[
+			{"code":0,"indent":3,"parameters":[
 			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				2,
-				1,
-				0,
-				50,
-				false
+			{"code":412,"indent":2,"parameters":[
 			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				2,
-				0,
-				7
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				3,
-				5,
-				904
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				3,
-				1,
-				0,
-				50,
-				false
-			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				3,
-				0,
-				7
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				7,
-				5,
-				904
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				7,
-				1,
-				0,
-				50,
-				false
-			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				7,
-				0,
-				7
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				8,
-				5,
-				904
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				8,
-				1,
-				0,
-				50,
-				false
-			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				8,
-				0,
-				7
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				10,
-				5,
-				904
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				10,
-				1,
-				0,
-				50,
-				false
-			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				10,
-				0,
-				7
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				11,
-				5,
-				904
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":311,"indent":1,"parameters":[
-				0,
-				11,
-				1,
-				0,
-				50,
-				false
-			]},
-			{"code":313,"indent":1,"parameters":[
-				0,
-				11,
-				0,
-				7
+			{"code":413,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
