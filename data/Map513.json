@@ -2404,21 +2404,6 @@
 	null,
 	{"id":1,"name":"EV001","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				2,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"本篇章遊戲長度約8～10小時．．．\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\C[6]\\TXTCENTER:\"　　　　　　　　　主筆：咕咕咕\"\\|\\|\\|\\^"
-			]},
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
