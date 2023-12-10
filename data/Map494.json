@@ -4468,7 +4468,7 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「裡面的密技有部分需在標題畫面才能輸入"
+				"「裡面的密技只有一個需在標題畫面才能輸入"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"，其他的請在遊戲內輸入即可。」"
@@ -4596,6 +4596,33 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「喔？您對神秘故事感興趣？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「那是脫離本篇的外傳性質故事，是由我們"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"另一位夥伴咕咕咕所進行製作！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「整篇故事大約8~10個小時！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4754,111 +4781,6 @@
 	],"x":19,"y":2},
 	{"id":5,"name":"加速解鎖","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":314,"indent":0,"parameters":[
-				0,
-				0
-			]},
-			{"code":129,"indent":0,"parameters":[
-				1,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				2,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				7,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				11,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				3,
-				1,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				1,
-				0,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				7,
-				0,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				11,
-				0,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				2,
-				0,
-				false
-			]},
-			{"code":129,"indent":0,"parameters":[
-				3,
-				0,
-				false
-			]},
-			{"code":126,"indent":0,"parameters":[
-				303,
-				0,
-				0,
-				1
-			]},
-			{"code":111,"indent":0,"parameters":[
-				0,
-				44,
-				0
-			]},
-			{"code":108,"indent":1,"parameters":[
-				"重置"
-			]},
-			{"code":318,"indent":1,"parameters":[
-				0,
-				1,
-				1,
-				40
-			]},
-			{"code":318,"indent":1,"parameters":[
-				0,
-				1,
-				1,
-				41
-			]},
-			{"code":318,"indent":1,"parameters":[
-				0,
-				1,
-				1,
-				42
-			]},
-			{"code":318,"indent":1,"parameters":[
-				0,
-				1,
-				1,
-				43
-			]},
-			{"code":108,"indent":1,"parameters":[
-				"學到"
-			]},
-			{"code":318,"indent":1,"parameters":[
-				0,
-				1,
-				0,
-				40
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
 			{"code":355,"indent":0,"parameters":[
 				"ConfigManager.canFrameFastForward=true; ConfigManager.save();"
 			]},

@@ -15594,13 +15594,13 @@
 				30
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Bow4","volume":90,"pitch":120,"pan":0}
+				{"name":"grass","volume":100,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Bow4","volume":90,"pitch":120,"pan":0}
+				{"name":"grass","volume":100,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30

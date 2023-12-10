@@ -2474,6 +2474,9 @@
 				-1,
 				8
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Open5","volume":10,"pitch":100,"pan":0}
+			]},
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
@@ -2529,6 +2532,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":4,"indent":null}
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Open4","volume":10,"pitch":100,"pan":0}
 			]},
 			{"code":205,"indent":1,"parameters":[
 				0,
@@ -2592,6 +2598,9 @@
 				-1,
 				2
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Open5","volume":10,"pitch":100,"pan":0}
+			]},
 			{"code":205,"indent":1,"parameters":[
 				0,
 				{"list":[
@@ -2647,6 +2656,9 @@
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":1,"indent":null}
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Open4","volume":10,"pitch":100,"pan":0}
 			]},
 			{"code":205,"indent":1,"parameters":[
 				0,
