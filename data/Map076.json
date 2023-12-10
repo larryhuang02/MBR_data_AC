@@ -14865,6 +14865,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"才激發潛能吧。」"
 			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
 				5,
@@ -16844,29 +16847,38 @@
 			{"code":401,"indent":0,"parameters":[
 				"這麼好．．．」"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				15,
+				1
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
 				15,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「粉粉的兩顆水蜜桃，真想咬一口啊。」"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
 				15,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「還有那個漂亮粉嫩的小櫻桃。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1nude",
@@ -20380,7 +20392,7 @@
 				"「有什麼好忌諱的？操！老娘是被害者耶！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"就算老娘從事ＳＭ，也不代表身體可以給別人"
+				"就算老娘從事SM，也不代表身體可以給別人"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"這樣子作賤！」"
@@ -21485,6 +21497,12 @@
 			{"code":314,"indent":0,"parameters":[
 				0,
 				0
+			]},
+			{"code":313,"indent":0,"parameters":[
+				0,
+				5,
+				0,
+				354
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -22852,6 +22870,12 @@
 				],
 				30,
 				false
+			]},
+			{"code":313,"indent":0,"parameters":[
+				0,
+				5,
+				1,
+				354
 			]},
 			{"code":122,"indent":0,"parameters":[
 				10,

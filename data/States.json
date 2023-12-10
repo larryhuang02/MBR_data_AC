@@ -608,7 +608,7 @@
 		{"code":22,"dataId":0,"value":-0.3}
 	],"iconIndex":21,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":2,"motion":1,"name":"挑釁","note":"","overlay":0,"priority":75,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":1,"stepsToRemove":100},
 	{"id":120,"autoRemovalTiming":1,"chanceByDamage":25,"traits":[
-	],"iconIndex":2,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":1,"name":"海獸胃痛","note":"<regenHP:-1000,0>","overlay":0,"priority":99,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":1,"stepsToRemove":100},
+	],"iconIndex":2,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":1,"name":"海獸胃痛","note":"<regenHP:-1000,0>","overlay":0,"priority":99,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":121,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":15,"value":1},
@@ -1557,7 +1557,8 @@
 		{"code":22,"dataId":4,"value":0.25}
 	],"iconIndex":13,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"維皮PK真攸特用","note":"","overlay":0,"priority":20,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":354,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+		{"code":53,"dataId":1,"value":1}
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"雷娜暫時鎖定武器","note":"<alwaysNotCleared>","overlay":0,"priority":20,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":355,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":356,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

@@ -75481,7 +75481,7 @@
 						4
 					],"indent":null},
 					{"code":41,"parameters":[
-						"BLR_Actor_WeiPi_LoveArmor",
+						"BLR_Actor_WeiPi",
 						1
 					],"indent":null},
 					{"code":36,"indent":null},
@@ -75531,7 +75531,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":41,"parameters":[
-					"BLR_Actor_WeiPi_LoveArmor",
+					"BLR_Actor_WeiPi",
 					1
 				],"indent":null}
 			]},
