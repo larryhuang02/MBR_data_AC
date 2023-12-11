@@ -33471,6 +33471,9 @@
 				15,
 				false
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShakeY(5,1,this._list[this._index+1].parameters[0]);"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				45
 			]},
@@ -33492,6 +33495,9 @@
 				5,
 				15,
 				false
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShakeY(5,2,this._list[this._index+1].parameters[0]);"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -33515,6 +33521,9 @@
 				15,
 				false
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShakeY(5,3,this._list[this._index+1].parameters[0]);"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				20
 			]},
@@ -33536,6 +33545,9 @@
 				5,
 				15,
 				false
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShakeY(5,4,this._list[this._index+1].parameters[0]);"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				10
@@ -33589,6 +33601,9 @@
 				2,
 				0,
 				2
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[this._list[this._index+1].parameters[0]].setOpacity(255,this._list[this._index+2].parameters[0],0);"
 			]},
 			{"code":203,"indent":0,"parameters":[
 				5,
