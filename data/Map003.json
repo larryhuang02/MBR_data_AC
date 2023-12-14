@@ -3297,10 +3297,11 @@
 			{"code":230,"indent":0,"parameters":[
 				180
 			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				0
+			{"code":245,"indent":0,"parameters":[
+				{"name":"Quake","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShake(3,7,1e11); $gameScreen.startShakeY(1,12,1e11);"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -3544,10 +3545,11 @@
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
+			{"code":108,"indent":0,"parameters":[
+				"這裡關震動ㄛ"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameScreen.startShake(3,7,16); $gameScreen.startShakeY(1,12,16);"
 			]},
 			{"code":245,"indent":0,"parameters":[
 				{"name":"","volume":90,"pitch":100,"pan":0}
@@ -3843,34 +3845,5 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
 	],"x":4,"y":9},
-	{"id":5,"name":"EV005","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				0,
-				21,
-				0
-			]},
-			{"code":245,"indent":1,"parameters":[
-				{"name":"Quake","volume":50,"pitch":100,"pan":0}
-			]},
-			{"code":225,"indent":1,"parameters":[
-				3,
-				7,
-				30,
-				false
-			]},
-			{"code":230,"indent":1,"parameters":[
-				30
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
-	],"x":6,"y":9}
+	null
 ]}

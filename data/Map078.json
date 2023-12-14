@@ -6483,59 +6483,12 @@
 			{"code":655,"indent":0,"parameters":[
 				"SQSM.ShowDescriptionForQuest(\"MainQuest_chap03\", 18);"
 			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				1,
-				5,
-				904
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				7,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"已經通過毒沼澤了．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"記得把\\C[2]\\na[904]換回其他裝備\\C[0]吧。"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
+			{"code":108,"indent":0,"parameters":[
+				"$dataArmors[904] === 安全靴"
 			]},
 			{"code":111,"indent":0,"parameters":[
-				4,
-				2,
-				5,
-				904
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_01_1",
-				7,
-				1,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"已經通過毒沼澤了．．．"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"記得把\\C[2]\\na[904]換回其他裝備\\C[0]吧。"
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":111,"indent":0,"parameters":[
-				4,
-				3,
-				5,
-				904
+				12,
+				"$gameParty.members().some(btlr=>btlr.isEquipped($dataArmors[904]))"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",

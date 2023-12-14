@@ -31362,6 +31362,9 @@
 			{"code":245,"indent":2,"parameters":[
 				{"name":"Quake2","volume":25,"pitch":100,"pan":0}
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameScreen.startShakeY(1,12,this._list[this._index+1].parameters[2]);"
+			]},
 			{"code":225,"indent":2,"parameters":[
 				5,
 				5,

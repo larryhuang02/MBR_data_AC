@@ -2719,6 +2719,9 @@
 	],"x":0,"y":0},
 	{"id":2,"name":"EV002","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":113,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"if(Math.random()<0.5) $gameScreen.startShakeY(1,12,1);"
+			]},
 			{"code":225,"indent":0,"parameters":[
 				2,
 				2,
