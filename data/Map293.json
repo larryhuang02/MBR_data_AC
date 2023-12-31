@@ -5043,7 +5043,45 @@
 ],"events":[
 	null,
 	{"id":1,"name":"EV001","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"!fsm_Flame12","direction":6,"pattern":1,"characterIndex":6},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Flame12","direction":6,"pattern":1,"characterIndex":6},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"溫暖的柴火．．．"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let evt=$gameMap._events[this._eventId];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"evt._ctr|=0;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"++evt._ctr;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameMap._events[this._eventId]._ctr>=5"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_01_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"這裡很冷，不會被燙傷，不要再調查了。"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
