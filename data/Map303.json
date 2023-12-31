@@ -3617,10 +3617,10 @@
 				"clear_all_weathers"
 			]},
 			{"code":356,"indent":0,"parameters":[
-				"weather : 1 : 26 : 1000 : 100 : 0 : Snow_01"
+				"weather : 1 : 26 : 777 : 100 : 0 : Snow_01"
 			]},
 			{"code":356,"indent":0,"parameters":[
-				"weather : 2 : 26 : 1000 : 100 : 0 : Snow_01_s"
+				"weather : 2 : 26 : 777 : 100 : 0 : Snow_01_s"
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
