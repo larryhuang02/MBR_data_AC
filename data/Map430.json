@@ -8304,7 +8304,7 @@
 			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"if(TouchInput.screenTouchInput_get()){"
+				"if(TouchInput._touched && TouchInput.isTriggered()){"
 			]},
 			{"code":655,"indent":1,"parameters":[
 				" if(Input.isTriggered('left'))  $gameTemp.我按了什麼({keyCode:37});"
