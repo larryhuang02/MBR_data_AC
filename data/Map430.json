@@ -6264,7 +6264,7 @@
 				"店員A"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「因為據說鎧家麵線一直存在著大衛王比賽"
+				"「因為據說鎧家麵線一直存在著大胃王比賽"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的內定疑雲，我在卡姆城也有所耳聞，店長"
@@ -7167,29 +7167,6 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「噗哧哧，最好吃到把肚皮撐破。」"
-			]},
-			{"code":108,"indent":1,"parameters":[
-				"變數21=時間(幀數)"
-			]},
-			{"code":408,"indent":1,"parameters":[
-				"變數22=事件id,數字-1代表玩家"
-			]},
-			{"code":122,"indent":1,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":1,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":1,"parameters":[
-				258
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -8304,19 +8281,28 @@
 			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"if(TouchInput.screenTouchInput_get()){"
+				"if ($gameVariables.value(90) == 2)"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				" if(Input.isTriggered('left'))  $gameTemp.我按了什麼({keyCode:37});"
+				"{"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				" if(Input.isTriggered('up'))    $gameTemp.我按了什麼({keyCode:38});"
+				"   if(TouchInput.screenTouchInput_get()){"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				" if(Input.isTriggered('right')) $gameTemp.我按了什麼({keyCode:39});"
+				"   if(Input.isTriggered('left'))  $gameTemp.我按了什麼({keyCode:37});"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				" if(Input.isTriggered('down'))  $gameTemp.我按了什麼({keyCode:40});"
+				"   if(Input.isTriggered('up'))    $gameTemp.我按了什麼({keyCode:38});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"   if(Input.isTriggered('right')) $gameTemp.我按了什麼({keyCode:39});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"   if(Input.isTriggered('down'))  $gameTemp.我按了什麼({keyCode:40});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" }"
 			]},
 			{"code":655,"indent":1,"parameters":[
 				"}"

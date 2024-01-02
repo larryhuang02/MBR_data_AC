@@ -35478,7 +35478,7 @@
 	4,
 	13,
 	4,
-	0,
+	4,
 	0,
 	0,
 	0,
@@ -95215,7 +95215,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
-	],"x":75,"y":53},
+	],"x":78,"y":53},
 	{"id":593,"name":"EV593","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Switch01_ver2","direction":6,"pattern":0,"characterIndex":4},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -95334,7 +95334,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
-	],"x":60,"y":53},
+	],"x":75,"y":53},
 	{"id":594,"name":"EV594","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Switch01_ver2","direction":2,"pattern":0,"characterIndex":4},"list":[
 			{"code":250,"indent":0,"parameters":[

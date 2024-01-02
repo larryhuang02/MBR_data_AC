@@ -8713,7 +8713,7 @@
 				"女妖精"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「去問問精靈女王看能不能先把奧維亞的東西"
+				"「去問問妖精女王看能不能先把奧維亞的東西"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"收拾起來，至少把這間屋子先讓給別人用嘛！」"
@@ -10031,7 +10031,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"精靈少女"
+				"妖精少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「表哥，你好棒。」"
@@ -10043,7 +10043,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"精靈男子"
+				"妖精男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「呼！呼！這還只是前菜而已，讓你看看我的"
@@ -10058,7 +10058,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"精靈少女"
+				"妖精少女"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「啊！啊！表哥！」"
@@ -11034,6 +11034,15 @@
 			{"code":401,"indent":0,"parameters":[
 				"「欸？是你們啊，你們有找到最棒的武器嗎？」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				1,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"嗯．．．\\C[3]背包內\\C[0]有\\C[2]最好的商店武器嗎\\C[0]？"
+			]},
 			{"code":118,"indent":0,"parameters":[
 				"01"
 			]},
@@ -11054,169 +11063,165 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				9,
-				10,
-				false
-			]},
-			{"code":111,"indent":2,"parameters":[
-				9,
 				25,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				5,
 				1,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"已經給過他武器了，他應該不會想要再要一把"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"吧？"
 			]},
-			{"code":119,"indent":3,"parameters":[
+			{"code":119,"indent":2,"parameters":[
 				"01"
 			]},
-			{"code":0,"indent":3,"parameters":[
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":411,"indent":2,"parameters":[
+			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":122,"indent":3,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				9,
+				10,
+				false
+			]},
+			{"code":122,"indent":2,"parameters":[
 				415,
 				415,
 				1,
 				0,
 				1
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「這、這個是！？這完美的造型．．．極致的"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"工藝水準．．．」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「太、太棒了．．．」"
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「啊，不能只顧著感嘆它的工藝之美。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「謝謝你們替我找到了這麼棒的武器。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「我沒有什麼能拿的出手的東西．．．」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「這個，是我打的短刀裡面最好的一把，"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"送給你們。」"
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				10,
 				1,
 				0,
 				1,
 				false
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				25,
 				0,
 				0,
 				1,
 				false
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"失去\\nw[10]"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"獲得\\nw[25]"
 			]},
-			{"code":355,"indent":3,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 1);"
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -11251,157 +11256,153 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				9,
-				39,
-				false
-			]},
-			{"code":111,"indent":2,"parameters":[
-				9,
 				57,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				5,
 				1,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"已經給過他武器了，他應該不會想要再要一把"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"吧？"
 			]},
-			{"code":119,"indent":3,"parameters":[
+			{"code":119,"indent":2,"parameters":[
 				"01"
 			]},
-			{"code":0,"indent":3,"parameters":[
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":411,"indent":2,"parameters":[
+			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":122,"indent":3,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				9,
+				39,
+				false
+			]},
+			{"code":122,"indent":2,"parameters":[
 				415,
 				415,
 				1,
 				0,
 				1
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「這、這個是！？這完美的造型．．．極致的"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"工藝水準．．．」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「太、太棒了．．．」"
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「啊，不能只顧著感嘆它的工藝之美。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「謝謝你們替我找到了這麼棒的武器。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「我沒有什麼能拿的出手的東西．．．這個，"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"是我打的長劍裡面最好的一把，送給你們。」"
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				39,
 				1,
 				0,
 				1,
 				false
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				57,
 				0,
 				0,
 				1,
 				false
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"失去\\nw[39]"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"獲得\\nw[57]"
 			]},
-			{"code":355,"indent":3,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 2);"
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -11436,169 +11437,165 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				9,
-				163,
-				false
-			]},
-			{"code":111,"indent":2,"parameters":[
-				9,
 				175,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_01_1",
 				5,
 				1,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"已經給過他武器了，他應該不會想要再要一把"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"吧？"
 			]},
-			{"code":119,"indent":3,"parameters":[
+			{"code":119,"indent":2,"parameters":[
 				"01"
 			]},
-			{"code":0,"indent":3,"parameters":[
+			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":411,"indent":2,"parameters":[
+			{"code":412,"indent":1,"parameters":[
 			]},
-			{"code":122,"indent":3,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				9,
+				163,
+				false
+			]},
+			{"code":122,"indent":2,"parameters":[
 				415,
 				415,
 				1,
 				0,
 				1
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「這、這個是！？這完美的造型．．．極致的"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"工藝水準．．．」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「太、太棒了．．．」"
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":3,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				0,
 				1,
 				true
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「啊，不能只顧著感嘆它的工藝之美。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「謝謝你們替我找到了這麼棒的武器。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「不過．．．我並不擅長制杖．．．」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_ALF02",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"妖精男子"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「這樣吧，這本法書送給你們吧！雖然不是"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"法杖，但也可以當成武器來施法喔！」"
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				163,
 				1,
 				0,
 				1,
 				false
 			]},
-			{"code":127,"indent":3,"parameters":[
+			{"code":127,"indent":2,"parameters":[
 				175,
 				0,
 				0,
 				1,
 				false
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"失去\\nw[163]"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"獲得\\nw[175]"
 			]},
-			{"code":355,"indent":3,"parameters":[
+			{"code":355,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"ElfBlacksmith_chap09\", 3);"
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -11792,12 +11789,18 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				0,
+				3,
 				2,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"替妖精工匠找齊了所有最好的鐵匠鋪所販賣的武器。"
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"替妖精工匠找齊了所有最好的鐵匠鋪所販賣的武器。\"\\|\\|\\^"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -11928,7 +11931,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"妖精少女"
+				"潭雅"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「既然是兔兔的朋友，那也是我的朋友了，"

@@ -7364,7 +7364,7 @@
 				"目前設定"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"複製事件12，經典:機率15%，普通:機率7%，R層1號"
+				"複製事件12，經典:機率8%，普通:機率4%，R層1號"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				0,
@@ -7372,14 +7372,14 @@
 				0
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.15) $gameMap.cpevt(12,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.08) $gameMap.cpevt(12,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.07) $gameMap.cpevt(12,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.04) $gameMap.cpevt(12,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -7498,7 +7498,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				10,
+				2,
 				0,
 				0
 			]},
@@ -7506,7 +7506,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然精靈都長得很俊美．．．但是身材都很"
+				"「雖然妖精都長得很俊美．．．但是身材都很"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"纖細呢。」"

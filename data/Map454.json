@@ -9169,7 +9169,7 @@
 	21,
 	21,
 	21,
-	0,
+	364,
 	48,
 	274,
 	274,
@@ -9229,7 +9229,7 @@
 	21,
 	21,
 	21,
-	0,
+	364,
 	15,
 	0,
 	0,
@@ -9289,7 +9289,7 @@
 	21,
 	0,
 	21,
-	0,
+	364,
 	15,
 	0,
 	0,
@@ -9349,7 +9349,7 @@
 	299,
 	21,
 	21,
-	0,
+	364,
 	15,
 	0,
 	0,
@@ -9409,7 +9409,7 @@
 	0,
 	21,
 	21,
-	0,
+	364,
 	0,
 	0,
 	0,
@@ -9469,7 +9469,7 @@
 	0,
 	21,
 	21,
-	0,
+	364,
 	0,
 	0,
 	0,
@@ -9529,7 +9529,7 @@
 	284,
 	21,
 	21,
-	0,
+	364,
 	0,
 	0,
 	0,
@@ -12469,7 +12469,7 @@
 	364,
 	364,
 	364,
-	364,
+	375,
 	333,
 	342,
 	342,
@@ -12529,7 +12529,7 @@
 	364,
 	364,
 	364,
-	364,
+	365,
 	335,
 	0,
 	188,
@@ -12589,7 +12589,7 @@
 	372,
 	374,
 	364,
-	364,
+	365,
 	335,
 	0,
 	0,
@@ -12649,7 +12649,7 @@
 	342,
 	363,
 	364,
-	364,
+	365,
 	335,
 	0,
 	0,
@@ -12709,7 +12709,7 @@
 	299,
 	363,
 	364,
-	364,
+	365,
 	335,
 	0,
 	0,
@@ -12769,7 +12769,7 @@
 	299,
 	363,
 	364,
-	364,
+	365,
 	335,
 	0,
 	0,
@@ -12829,7 +12829,7 @@
 	299,
 	363,
 	364,
-	364,
+	365,
 	335,
 	0,
 	0,
@@ -19817,7 +19817,7 @@
 				"目前設定"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"複製事件9，經典:機率15%，普通:機率7%，R層1號"
+				"複製事件9，經典:機率8%，普通:機率4%，R層1號"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				0,
@@ -19825,14 +19825,14 @@
 				0
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.15) $gameMap.cpevt(9,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.08) $gameMap.cpevt(9,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.07) $gameMap.cpevt(9,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.04) $gameMap.cpevt(9,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},

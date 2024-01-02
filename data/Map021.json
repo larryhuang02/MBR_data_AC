@@ -36646,7 +36646,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":44,"y":19},
 	{"id":85,"name":"馬大叔屁眼插花(氣球)","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":541,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":427,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":8,"pattern":0,"characterIndex":7},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":541,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":427,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Actor_WeiPi","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -36662,7 +36662,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":43,"y":19},
 	{"id":86,"name":"馬大叔屁眼插花","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":541,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":427,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_SaintessMaid01_1","direction":6,"pattern":0,"characterIndex":7},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":541,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":427,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_Actor_WeiPi","direction":6,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[

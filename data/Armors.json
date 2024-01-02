@@ -155,18 +155,19 @@
 		15,
 		0
 	],"price":5000},
-	{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":14,"atypeId":1,"description":"「兼用頭盔」特典專用品，感謝實況主荻娜的支持。\n防禦、魔防、幸運+50，魔攻-100，最終雙防額外提升20%","etypeId":3,"traits":[
+		{"code":21,"dataId":3,"value":1.2},
+		{"code":21,"dataId":5,"value":1.2}
+	],"iconIndex":1770,"name":"汪汪餃","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors14.txt>","params":[
 		0,
 		0,
 		0,
+		50,
+		-100,
+		50,
 		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0},
+		50
+	],"price":10000},
 	{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[

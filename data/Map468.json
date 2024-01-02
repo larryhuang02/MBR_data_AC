@@ -10216,7 +10216,7 @@
 				"「在我來到這個世界前，我們故鄉的人，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"對一種外星科技．．．ＵＦＯ很感興趣。」"
+				"對一種外星科技．．．UFO很感興趣。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -17170,7 +17170,7 @@
 				"曉瞅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「貫徹發福與巧克力的邪惡。」"
+				"「貫徹發福與比薩的邪惡。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Jesters_Food",
@@ -17182,7 +17182,7 @@
 				"筱偢"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可愛又迷人的比薩馬戲團為您效勞．．．」"
+				"「可愛又迷人的巧克力戲團為您效勞．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Jesters_Food",
@@ -22041,16 +22041,6 @@
 				24,
 				8,
 				0
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					0,
-					0,
-					0,
-					0
-				],
-				60,
-				true
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

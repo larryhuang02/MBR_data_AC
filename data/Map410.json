@@ -2455,7 +2455,7 @@
 				"$gameMap._events[1]._totalHitP >= 15"
 			]},
 			{"code":355,"indent":2,"parameters":[
-				"$gameTemp.swordItvl=3;"
+				"$gameTemp.swordItvl=10;"
 			]},
 			{"code":121,"indent":2,"parameters":[
 				26,
