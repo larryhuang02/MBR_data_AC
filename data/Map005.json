@@ -4010,31 +4010,80 @@
 				0,
 				0
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let evt=$gameMap._events[2],d=evt._direction;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gamePlayer._directionFix=evt._directionFix=false;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gamePlayer.turnTo(\"evt 2\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"evt._direction=10-$gamePlayer.direction();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let pos=evt.frontPos(); evt._direction=d;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gamePlayer._jumpCountSubMore=-0.75;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gamePlayer._jumpCountSetTo=16;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gamePlayer.jumpTo(pos.x,pos.y);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":230,"indent":1,"parameters":[
+				1
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"!($gamePlayer._jumpCount>=6.4375)"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gamePlayer._jumpCountSetTo=undefined;"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"$gamePlayer._jumpCountSubMore=0;"
+			]},
+			{"code":113,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
+			]},
+			{"code":212,"indent":0,"parameters":[
+				2,
+				1,
+				false
+			]},
 			{"code":230,"indent":0,"parameters":[
 				8
 			]},
 			{"code":230,"indent":0,"parameters":[
 				7
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[2]._opacity=0;"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic13_A","volume":50,"pitch":50,"pan":0}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Collapse1","volume":70,"pitch":100,"pan":0}
-			]},
-			{"code":203,"indent":0,"parameters":[
-				2,
-				0,
-				0,
-				0,
-				0
-			]},
-			{"code":203,"indent":0,"parameters":[
-				5,
-				0,
-				0,
-				0,
-				0
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager._scene.addChild(SceneManager._scene._screenshotSp=new Sprite(SceneManager.snap()));"
@@ -4102,10 +4151,13 @@
 				-1,
 				{"list":[
 					{"code":37,"indent":null},
-					{"code":4,"indent":null},
-					{"code":2,"indent":null},
+					{"code":45,"parameters":[
+						"$gamePlayer.move1ToLoc(0,11,9);"
+					],"indent":null},
+					{"code":45,"parameters":[
+						"$gamePlayer.move1ToLoc(0,11,9);"
+					],"indent":null},
 					{"code":19,"indent":null},
-					{"code":38,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -4113,16 +4165,17 @@
 				{"code":37,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
+				{"code":45,"parameters":[
+					"$gamePlayer.move1ToLoc(0,11,9);"
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":2,"indent":null}
+				{"code":45,"parameters":[
+					"$gamePlayer.move1ToLoc(0,11,9);"
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -4139,24 +4192,16 @@
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
-					{"code":37,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":38,"indent":null},
+					{"code":45,"parameters":[
+						"$gamePlayer.move1ToLoc(0,11,9,8);"
+					],"indent":null},
 					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
+				],"repeat":true,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
+				{"code":45,"parameters":[
+					"$gamePlayer.move1ToLoc(0,11,9,8);"
+				],"indent":null}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"grass","volume":100,"pitch":100,"pan":0}
