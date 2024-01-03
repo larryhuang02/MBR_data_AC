@@ -11036,7 +11036,7 @@
 				"李鎮宇"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「唉～難得鎧特說要感謝我幫忙大衛王比賽，"
+				"「唉～難得鎧特說要感謝我幫忙大胃王比賽，"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"要請我吃麵，可是爸爸說要來，都沒心情吃麵"
@@ -17431,7 +17431,7 @@
 				"「我聽說，這位隨身護衛，武功高強，是真的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"嗎?」"
+				"嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -18954,6 +18954,20 @@
 				20,
 				12,
 				4
+			]},
+			{"code":205,"indent":0,"parameters":[
+				26,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":211,"indent":0,"parameters":[
 				1

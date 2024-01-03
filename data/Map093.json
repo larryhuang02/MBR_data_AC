@@ -1,4 +1,4 @@
-{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2000_Field2","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":true,"displayName":"","encounterList":[
+{"autoplayBgm":true,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"2000_Field2","pan":0,"pitch":100,"volume":50},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":true,"displayName":"異界大陸","encounterList":[
 	{"regionSet":[
 		1
 	],"troopId":314,"weight":5},

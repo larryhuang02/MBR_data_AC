@@ -42053,7 +42053,7 @@
 				"「維皮，冰月只是一台電腦而已，是觀察者，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"霍恩當初將我製造出來的理由，是做為保管庫"
+				"當初我被製造出來的理由，是做為保管庫，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"紀錄世界的一舉一動。」"
@@ -42465,20 +42465,45 @@
 				8,
 				false
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				15,
+				1
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_IceMoon",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"冰月"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「可是我沒有安裝○○○，無法跟你進行合意"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"性交，所以只能．．．」\\|\\^"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_IceMoon",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"冰月"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「可是我沒有安裝○○○，只能．．．」\\|\\^"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -47949,7 +47974,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
-				4,
+				7,
 				0,
 				2
 			]},
@@ -47957,7 +47982,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我想起來了！我好像在山崖下看過她！」"
+				"「果然沒錯！我果然在山崖下看過她！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -48003,10 +48028,25 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
+				"「不光是最果之雨村那裡，卡姆城那間破房子"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"也有看過她的身影。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
 				"「可是我跟大哥說了他也不相信．．．"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"小鈴也說她沒看過我。」"
+				"在鄉南村時小鈴也說她沒看過我。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -49165,6 +49205,56 @@
 			{"code":401,"indent":0,"parameters":[
 				"不要裝乖了。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				12,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
 				2,
@@ -49293,6 +49383,56 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「．．．」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				12,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -49602,7 +49742,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯，就是妳們口中的火之七日。」"
+				"「沒錯，就是你們口中的火之七日。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -49706,10 +49846,7 @@
 				"「喔，雖然似人的機器人偶被下令銷毀，但是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"作戰用的金屬機器─ＧＸＰＴ－３０００型卻"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"還留著。」"
+				"作戰用的ＧＸＰＴ３０００型卻還留著。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50194,10 +50331,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而在火之七日開打的前一刻，霍恩主人藉由"
+				"「而在火之七日開打初期，霍恩主人藉由"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"擁護者們，提前知曉了叛亂行動。」"
+				"擁護者們，知曉了整個叛亂行動。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -50496,6 +50633,46 @@
 			{"code":401,"indent":0,"parameters":[
 				"「這心情，我大概也能理解．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
 				10,
@@ -50568,6 +50745,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"「達令．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -50603,6 +50790,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"的魔寧次元中．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
@@ -50625,6 +50822,26 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"元素大陸。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -51311,10 +51528,10 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「四大神器，當時就是為了避免被雷歐娜皇后"
+				"「四大神器，當時就是為了避免被不相關的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的幕僚們奪走，上面刻有魔法刻印，會召喚出"
+				"宵小奪走，上面刻有魔法刻印，會召喚出"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"鎮守它的守護獸。」"
@@ -51397,6 +51614,46 @@
 			{"code":401,"indent":0,"parameters":[
 				"一聲曾外祖母。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
 			]},
@@ -51435,7 +51692,47 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你信不信我等等用法杖敲你？」"
+				"「你信不信我等等用法杖敲你的延腦？」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				11,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				8,
@@ -51584,10 +51881,7 @@
 				"冰月"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以，我才選中了妳，畢竟這是成功率最高的"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"方法。」"
+				"「畢竟這是成功率最高的方法。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -52100,7 +52394,7 @@
 					],"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
+				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":16,"indent":null}
@@ -52138,6 +52432,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"後，頭一次有想要保護什麼的感覺．．．」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				11,
@@ -52157,6 +52461,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的話，我要怎麼過上快樂生活啊！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
@@ -63604,7 +63918,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"而且我又不是沒看過？該看得我也看了，"
+				"而且我又不是沒看過？該看的我也看了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"不該看的我也看了好不好！"

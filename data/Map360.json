@@ -1274,7 +1274,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -1374,7 +1374,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -1474,7 +1474,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -1574,7 +1574,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -1674,7 +1674,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -1774,7 +1774,7 @@
 	1544,
 	1544,
 	1590,
-	0,
+	1544,
 	1544,
 	1544,
 	1544,
@@ -64244,6 +64244,20 @@
 				278,
 				1
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":31,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":31,"indent":null}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -66063,6 +66077,37 @@
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
+					{"code":36,"indent":null},
+					{"code":31,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":31,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":45,"parameters":[
+						"this.turnTowardCharacter($gameMap._events[45])"
+					],"indent":null},
+					{"code":0}
+				],"repeat":true,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":45,"parameters":[
+					"this.turnTowardCharacter($gameMap._events[45])"
+				],"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
 					{"code":37,"indent":null},
 					{"code":12,"indent":null},
 					{"code":38,"indent":null},
@@ -66109,6 +66154,20 @@
 				278,
 				278,
 				1
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":31,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":31,"indent":null}
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

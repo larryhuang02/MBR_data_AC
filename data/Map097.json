@@ -12164,86 +12164,8 @@
 	],"x":23,"y":3},
 	{"id":18,"name":"EV018","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12268,86 +12190,8 @@
 	],"x":21,"y":12},
 	{"id":19,"name":"EV019","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12372,86 +12216,8 @@
 	],"x":22,"y":12},
 	{"id":20,"name":"EV020","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12476,86 +12242,8 @@
 	],"x":23,"y":12},
 	{"id":21,"name":"EV021","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12580,86 +12268,8 @@
 	],"x":23,"y":13},
 	{"id":22,"name":"EV022","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12684,86 +12294,8 @@
 	],"x":22,"y":13},
 	{"id":23,"name":"EV023","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":121,"indent":0,"parameters":[
-				515,
-				515,
-				1
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[69].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -13725,80 +13257,12 @@
 	],"x":22,"y":18},
 	{"id":39,"name":"EV039","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -13807,65 +13271,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -14785,80 +14192,12 @@
 	],"x":5,"y":18},
 	{"id":47,"name":"EV047","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -14867,65 +14206,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -14933,83 +14215,15 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":7,"y":11},
+	],"x":7,"y":8},
 	{"id":48,"name":"EV048","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15018,65 +14232,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15087,80 +14244,12 @@
 	],"x":7,"y":10},
 	{"id":49,"name":"EV049","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15169,65 +14258,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15235,83 +14267,15 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":7,"y":8},
+	],"x":7,"y":11},
 	{"id":50,"name":"EV050","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15320,65 +14284,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15389,80 +14296,12 @@
 	],"x":37,"y":7},
 	{"id":51,"name":"EV051","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15471,65 +14310,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15540,80 +14322,12 @@
 	],"x":38,"y":11},
 	{"id":52,"name":"EV052","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15622,65 +14336,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15688,83 +14345,15 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":38,"y":30},
+	],"x":28,"y":30},
 	{"id":53,"name":"EV053","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15773,65 +14362,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15839,83 +14371,15 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":34,"y":30},
+	],"x":29,"y":30},
 	{"id":54,"name":"EV054","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15924,65 +14388,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -15993,80 +14400,12 @@
 	],"x":31,"y":31},
 	{"id":55,"name":"EV055","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16075,65 +14414,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16144,80 +14426,12 @@
 	],"x":24,"y":29},
 	{"id":56,"name":"EV056","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16226,65 +14440,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16292,83 +14449,15 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":29,"y":30},
+	],"x":34,"y":30},
 	{"id":57,"name":"EV057","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":211,"indent":0,"parameters":[
-				0
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":211,"indent":0,"parameters":[
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
-			]},
-			{"code":121,"indent":0,"parameters":[
-				204,
-				204,
-				0
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16377,65 +14466,8 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":6,"pattern":0,"characterIndex":2},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				21,
-				1
-			]},
-			{"code":121,"indent":0,"parameters":[
-				323,
-				323,
-				0
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Fall","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-255,
-					-255,
-					-255,
-					0
-				],
-				120,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Dive","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				211,
-				11,
-				10,
-				0,
-				0
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":223,"indent":0,"parameters":[
-				[
-					-68,
-					-68,
-					119,
-					68
-				],
-				1,
-				true
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[68].start();"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -16443,7 +14475,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false}
-	],"x":28,"y":30},
+	],"x":38,"y":30},
 	{"id":58,"name":"EV058","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":173,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -17947,5 +15979,175 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":23,"y":14}
+	],"x":23,"y":14},
+	{"id":68,"name":"坑洞事件","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":211,"indent":0,"parameters":[
+				0
+			]},
+			{"code":121,"indent":0,"parameters":[
+				21,
+				21,
+				1
+			]},
+			{"code":121,"indent":0,"parameters":[
+				323,
+				323,
+				0
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Fall","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				120,
+				false
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Dive","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				211,
+				11,
+				10,
+				0,
+				0
+			]},
+			{"code":211,"indent":0,"parameters":[
+				1
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-68,
+					-68,
+					119,
+					68
+				],
+				1,
+				true
+			]},
+			{"code":121,"indent":0,"parameters":[
+				204,
+				204,
+				0
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":1,"y":0},
+	{"id":69,"name":"終點的坑洞事件","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":211,"indent":0,"parameters":[
+				0
+			]},
+			{"code":121,"indent":0,"parameters":[
+				21,
+				21,
+				1
+			]},
+			{"code":121,"indent":0,"parameters":[
+				323,
+				323,
+				0
+			]},
+			{"code":121,"indent":0,"parameters":[
+				515,
+				515,
+				0
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Fall","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				120,
+				false
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{\\{oh～～～～\\}\\.shit～～～～～\\|\\|\\^"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Dive","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				211,
+				11,
+				10,
+				0,
+				0
+			]},
+			{"code":211,"indent":0,"parameters":[
+				1
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":121,"indent":0,"parameters":[
+				515,
+				515,
+				1
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-68,
+					-68,
+					119,
+					68
+				],
+				1,
+				true
+			]},
+			{"code":121,"indent":0,"parameters":[
+				204,
+				204,
+				0
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":2,"y":0}
 ]}

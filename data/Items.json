@@ -1395,13 +1395,13 @@
 	],"hitType":0,"iconIndex":1059,"itypeId":2,"name":"奇怪的碎片C","note":"<道具額外文字檔:BLR_custom/detail/item/Items476.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":479,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"奇怪的碎片，看樣子應該是某一種機器的一部份。","effects":[
 	],"hitType":0,"iconIndex":1523,"itypeId":2,"name":"奇怪的碎片D","note":"<道具額外文字檔:BLR_custom/detail/item/Items476.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":480,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	{"id":480,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"四大神器之一，蘊含著強大的魔力。","effects":[
 	],"hitType":0,"iconIndex":725,"itypeId":2,"name":"四神器─芬托斯","note":"<道具額外文字檔:BLR_custom/detail/item/Items480.txt>\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":481,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	{"id":481,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"四大神器之一，蘊含著強大的魔力。","effects":[
 	],"hitType":0,"iconIndex":728,"itypeId":2,"name":"四神器─亞坤","note":"<道具額外文字檔:BLR_custom/detail/item/Items480.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":482,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	{"id":482,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"四大神器之一，蘊含著強大的魔力。","effects":[
 	],"hitType":0,"iconIndex":721,"itypeId":2,"name":"四神器─弗拉瑪","note":"<道具額外文字檔:BLR_custom/detail/item/Items480.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":483,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	{"id":483,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"四大神器之一，蘊含著強大的魔力。","effects":[
 	],"hitType":0,"iconIndex":723,"itypeId":2,"name":"四神器─泰拉","note":"<道具額外文字檔:BLR_custom/detail/item/Items480.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":484,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"機器人Ｇ交給天使的禮物，能夠抵禦朱雀洞帶來的熾熱氣息\n。","effects":[
 	],"hitType":0,"iconIndex":951,"itypeId":2,"name":"酷寒魚鱗","note":"<道具額外文字檔:BLR_custom/detail/item/Items484.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
@@ -1993,9 +1993,9 @@
 	{"id":777,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"傳送水晶的製造器","effects":[
 		{"code":44,"dataId":327,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":720,"itypeId":2,"name":"傳送水晶製造器","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":778,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"遙控器","effects":[
+	{"id":778,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"小小的BGM控制器，可以控制在飛船期間撥放的BGM。\n至於會什麼會有胡鬧的音效，就是黃金神的惡趣味了．．．","effects":[
 		{"code":44,"dataId":328,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":188,"itypeId":2,"name":"GG的飛船BGM選擇器","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":244,"itypeId":2,"name":"ＧＧ的飛船BGM選擇器","note":"<道具額外文字檔:BLR_custom/detail/item/Items778.txt>","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":779,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":780,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

@@ -4745,7 +4745,7 @@
 				"\\N[3]"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「不虧是精靈族的女王，真的非常厲害。」"
+				"「不虧是妖精族的女王，真的非常厲害。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
@@ -4768,6 +4768,9 @@
 			]},
 			{"code":281,"indent":2,"parameters":[
 				0
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"03_Fantasy_Forest","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_QueenElf",
@@ -4884,7 +4887,7 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"額外獲得\\ni[294]3瓶。"
+				"額外獲得\\ni[294]2瓶。"
 			]},
 			{"code":126,"indent":3,"parameters":[
 				294,

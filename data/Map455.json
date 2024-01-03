@@ -12767,7 +12767,7 @@
 				"目前設定"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"複製事件9，經典:機率30%，普通:機率15%，R層1號"
+				"複製事件9，經典:機率8%，普通:機率4%，R層1號"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				0,
@@ -12775,14 +12775,14 @@
 				0
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.30) $gameMap.cpevt(16,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.08) $gameMap.cpevt(16,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.15) $gameMap.cpevt(16,x,y);"
+				"for(let y=0;y<$dataMap.height;++y) for(let x=0;x<$dataMap.width;++x) if($gameMap.regionId(x,y)===1 && Math.random()<0.04) $gameMap.cpevt(16,x,y);"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},

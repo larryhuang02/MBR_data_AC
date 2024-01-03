@@ -22334,8 +22334,8 @@
 				{"code":3,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -22358,8 +22358,8 @@
 				"「獨眼薩奇！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -22373,8 +22373,8 @@
 				"身體都特別好．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -22400,7 +22400,7 @@
 				"「你這人渣．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
+				"BLR_Sachi",
 				1,
 				0,
 				2
@@ -22444,8 +22444,8 @@
 				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				0,
 				0,
 				2
 			]},
@@ -22483,8 +22483,8 @@
 				"一直沒派人來支援。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				4,
 				0,
 				2
 			]},
@@ -22524,8 +22524,8 @@
 				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				0,
 				0,
 				2
 			]},
@@ -22536,8 +22536,8 @@
 				"「各弟兄聽令！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				4,
 				0,
 				2
 			]},
@@ -22551,8 +22551,8 @@
 				"不能放跑了這幾個逃犯。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				4,
 				0,
 				2
 			]},
@@ -23210,8 +23210,8 @@
 				{"code":39,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				3,
 				0,
 				2
 			]},
@@ -23345,8 +23345,8 @@
 				"「．．．．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -23357,8 +23357,8 @@
 				"「哈哈哈，逃啊！妳逃啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -23369,8 +23369,8 @@
 				"「妓女就要有妓女的樣子！像過街老鼠一樣！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				2,
 				0,
 				2
 			]},
@@ -23432,8 +23432,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				4,
 				0,
 				2
 			]},
@@ -23516,8 +23516,8 @@
 				"啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				4,
 				0,
 				2
 			]},
@@ -23532,18 +23532,18 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				11,
-				0,
+				3,
+				2,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　只見雷娜剝下了薩奇的褲子．．．"
+				"\\TXTCENTER:\"只見雷娜剝下了薩奇的褲子．．．\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　拿起繩索綁住薩奇的某部位．．．"
+				"\\TXTCENTER:\"拿起繩索綁住薩奇的某部位．．．\"\\|\\|\\|\\^"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -23564,8 +23564,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Evil_MZ",
-				1,
+				"BLR_Sachi",
+				3,
 				0,
 				2
 			]},
@@ -23607,15 +23607,15 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
-				11,
-				0,
+				3,
+				2,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　說完，雷娜開始拖曳起繩索．．．\\|\\|\\^"
+				"\\TXTCENTER:\"說完，雷娜開始拖曳起繩索．．．\"\\|\\|\\^"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				15,

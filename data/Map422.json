@@ -14645,6 +14645,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"「吼！！！」"
 			]},
+			{"code":121,"indent":0,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
+			]},
 			{"code":283,"indent":0,"parameters":[
 				"RockCave2",
 				""

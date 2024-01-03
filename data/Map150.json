@@ -4838,7 +4838,7 @@
 				583,
 				0,
 				0,
-				20
+				40
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -4847,7 +4847,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得\\ni[583]20個。"
+				"獲得\\ni[583]40個。"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Load2","volume":90,"pitch":100,"pan":0}
