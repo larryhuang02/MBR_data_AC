@@ -4010,6 +4010,12 @@
 				0,
 				0
 			]},
+			{"code":230,"indent":0,"parameters":[
+				8
+			]},
+			{"code":230,"indent":0,"parameters":[
+				7
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic13_A","volume":50,"pitch":50,"pan":0}
 			]},
@@ -4030,8 +4036,20 @@
 				0,
 				0
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SceneManager._scene.addChild(SceneManager._scene._screenshotSp=new Sprite(SceneManager.snap()));"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager._scene._screenshotSp.blendMode=12;"
+			]},
 			{"code":230,"indent":0,"parameters":[
-				30
+				4
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SceneManager._scene.removeChild(SceneManager._scene._screenshotSp);"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				26
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -4538,25 +4556,6 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
 	],"x":23,"y":8},
-	{"id":4,"name":"EV004","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"!SceneManager._scene._chr2sp"
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ let sc=SceneManager._scene; sc._chr2sp=new Map(sc._spriteset._tilemap.children.filter(x=>x._character).map(x=>[x._character,x])); }"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
-	],"x":23,"y":6},
+	null,
 	null
 ]}
