@@ -4533,41 +4533,34 @@
 			{"code":401,"indent":0,"parameters":[
 				"溫暖的火爐．．．"
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"汽笛2","volume":90,"pitch":100,"pan":0}
+			{"code":355,"indent":0,"parameters":[
+				"{ let evt=$gameMap._events[this._eventId];"
 			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":14,"parameters":[
-						0,
-						0
-					],"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
+			{"code":655,"indent":0,"parameters":[
+				"evt._ctr|=0;"
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":14,"parameters":[
-					0,
-					0
-				],"indent":null}
+			{"code":655,"indent":0,"parameters":[
+				"++evt._ctr;"
 			]},
-			{"code":311,"indent":0,"parameters":[
-				0,
-				0,
-				1,
-				0,
-				5,
-				false
+			{"code":655,"indent":0,"parameters":[
+				"}"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameMap._events[this._eventId]._ctr>=5"
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
-				9,
+				7,
 				1,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"啊～好燙！(隊伍-5HP)"
+			{"code":401,"indent":1,"parameters":[
+				"這裡很冷，不會被燙傷，不要再調查了。"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
