@@ -2954,7 +2954,7 @@
 		{"code":31,"dataId":6,"value1":15,"value2":0},
 		{"code":31,"dataId":7,"value1":15,"value2":0},
 		{"code":31,"dataId":7,"value1":15,"value2":0}
-	],"hitType":0,"iconIndex":1660,"message1":"","message2":"","mpCost":0,"name":"龍珠光輝","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	],"hitType":0,"iconIndex":1660,"message1":"","message2":"","mpCost":0,"name":"龍珠光輝","note":"<speed:20000>\n<reserveAtb>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":826,"animationId":692,"damage":{"critical":true,"elementId":5,"formula":"b.isStateAffected(152) ? 500 + ( a.mat / 2 + b.mp / 2 - b.mdf / 3 ) : 300 + ( a.mat / 2 + b.mp / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"六屬性減少三階","effects":[
 		{"code":32,"dataId":2,"value1":3,"value2":0},
 		{"code":32,"dataId":2,"value1":3,"value2":0},
