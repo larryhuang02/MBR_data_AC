@@ -7005,6 +7005,48 @@
 			{"code":405,"indent":1,"parameters":[
 				"「天使你不要去寫需要邏輯的東西！嘔嘔嘔嘔。」"
 			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"\\TXTFONTSIZE\"32\""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「你知道嗎？這個遊戲可以自己換素材喔！"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　音樂檔使用 ogg ；圖片檔使用 png 。"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　有在做RM的不要急著質疑，我可是有寫"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　\"聲音先嘗試讀取 ogg\""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　及"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　\"圖片先嘗試讀取 png\""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　的！不信你按 F12 看看讀取錯誤。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				""
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「喵！養我！🦊」"
+			]},
 			{"code":355,"indent":1,"parameters":[
 				"{ let arr=[]; for(let x=this._index;x>=0&&this._list[x]&&this._list[x].code!==105;--x){"
 			]},
