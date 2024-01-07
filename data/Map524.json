@@ -3209,13 +3209,13 @@
 				"綾香"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過老闆啊，\\n[31]不是說，那島上"
+				"「不過老闆啊，\\n[31]不是說，那島上有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"有月藍文明的初代原型機妃偶，您不打算"
+				"月藍文明的初代原型機，您不打算再去"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"再去找找看嗎？」"
+				"找找看嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -3245,7 +3245,7 @@
 				"「我們已經從\\N[32]冒險團的口中知道，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"妃偶可能是藏在地底下．．．」"
+				"它可能是藏在地底下．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -3334,7 +3334,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「感覺已經過了挺久了呢．．．」"
+				"「感覺已經過了挺久了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion_co-worker",
@@ -3361,7 +3361,7 @@
 				"綾香"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「肯定是有因為什麼事情有所耽擱啦～」"
+				"「肯定是有因為什麼事情有所耽擱啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion_co-worker",
@@ -3937,8 +3937,8 @@
 				"「攸特．．．桑？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				2,
 				0,
 				2
 			]},

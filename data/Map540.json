@@ -3203,7 +3203,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「昨天來兩個蠢貨，說是要修理我家馬桶，"
+				"「昨天來兩個冒險者，說是要修理我家馬桶，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"全身全副武裝、深怕被穢物噴濺到。」"
@@ -3230,10 +3230,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他媽的，只能在找人來修了，這幾天只能"
+				"「．．．只能再找人來修，這幾天只能克難"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"學大家挖個地坑把屎埋了。」"
+				"一點，提個桶子把屎送去給隔壁的農夫了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -3309,10 +3309,13 @@
 				"男子"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「兄弟！這個史詩級的屎事事件，這錢就給"
+				"「就當是花錢轉運好了，反正老子也不缺"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"你好了！真的是觸霉運！」"
+				"這點錢，嘖，是因為拿到古代遺物後的運氣"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"補正嗎？」"
 			]},
 			{"code":115,"indent":1,"parameters":[
 			]},
@@ -3330,7 +3333,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他媽的，結果還是沒能搞定．．．」"
+				"「結果還是搞不定．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Evil Swordmen",
@@ -3342,10 +3345,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「算了算了，老子不用那馬桶了，這尾款也不"
+				"「算了算了，老子不用了！尾款也不給那店家"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"給那店家了，煩死了！」"
+				"了，煩死了！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Evil Swordmen",
@@ -3357,10 +3360,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「兄弟！這個史詩級的屎事事件，這錢就給"
+				"「這個史詩級的屎事事件，既然你路過了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"你好了！真的是觸霉運！」"
+				"尾款的錢就給你好了！真的是觸霉運！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
@@ -3389,12 +3392,12 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
-				9,
+				5,
 				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"意外之財啊．．．"
+				"意外之財？"
 			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",

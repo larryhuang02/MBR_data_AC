@@ -1899,7 +1899,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妖精的壽命遠高於我們人類．．．」"
+				"「妖精遠比我們來的長壽。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men",
@@ -1911,10 +1911,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「同樣都是類人類，卻有著美麗的外觀與長生"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"不老的壽命。」"
+				"「有著美麗的外觀與長生不老的壽命。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men",
@@ -1926,7 +1923,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是羨慕啊．．．」"
+				"「真是羨慕啊。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

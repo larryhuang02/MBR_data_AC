@@ -7312,7 +7312,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"接下來．．．你將操作螯蝦進行一場生死鬥．．．"
+				"接下來，你將操作螯蝦進行一場生死鬥。"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"只要\\C[2]將對方的血量打完\\C[0]即可獲勝！"
@@ -8240,6 +8240,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"「再丟再丟！再丟一隻進去！」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				2,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"男子聲Ｂ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「讓我這隻剛剛贏了五場的螯蝦跟他打！」"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -8260,7 +8272,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
-				7,
+				8,
 				0,
 				2
 			]},
@@ -8268,7 +8280,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「老闆，你們這樣勝之不武啊！」"
+				"「欸！？認真的嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 6",
@@ -8280,11 +8292,14 @@
 				"商人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小帥哥，再次獲勝算你獎勵兩倍！」"
+				"「哈！我剛剛有說過喔！贏的螯蝦可是會被"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"其他人挑戰的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
-				4,
+				5,
 				0,
 				2
 			]},
@@ -8292,7 +8307,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「僅此一次啊！下不為例！」"
+				"「有這回事嗎？那大概是我剛剛沒把規則"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"聽仔細。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 6",

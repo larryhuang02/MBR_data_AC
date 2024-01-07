@@ -10426,7 +10426,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果要我們先吃，對\\n[33]來說壓力也很大吧。」"
+				"「如果要我們先吃，對\\n[33]來說壓力也很大"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -10935,7 +10938,7 @@
 				"\\n[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈哈哈！\\n[31]大哥還真受歡迎呢。」"
+				"「哈哈哈！\\n[31]大哥還真受歡迎。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
@@ -11018,10 +11021,10 @@
 				"\\n[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！如果不方便的話我就停止這個話題沒關"
+				"「啊！如果不方便的話我就停止這個話題"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"係！」"
+				"沒關係！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				11,
@@ -11430,10 +11433,10 @@
 				"\\n[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只有妳們這些野宿習慣的精靈，才會覺得沒有"
+				"「只有妳們這些野宿習慣的精靈，才會覺得"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"自己的據點也無所謂啦。」"
+				"沒有自己的據點也無所謂啦。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				11,
@@ -11488,7 +11491,7 @@
 				"\\n[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「攸特，你是怎麼想的？」"
+				"「\\n[31]，你是怎麼想的？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -11539,7 +11542,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我覺得\\n[34]姐說的也沒錯．．．」"
+				"「我覺得\\n[34]姐說的也沒錯。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -12011,10 +12014,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且大老鼠現在吃得飽飽的，你想要怎麼辦"
+				"「而且大老鼠現在吃得飽飽的，你想要"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"呢？」"
+				"怎麼辦？」"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -12071,7 +12074,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳還真是一點都不節制啊。」"
+				"「妳還真是一點都不節制。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -12294,10 +12297,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我現在傍大款，當你的老婆回家繼承家業來"
+				"「我現在傍大款，當你的老婆回家繼承家業"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的及嗎？」"
+				"來的及嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -12329,7 +12332,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「欸？我以前說過類似的話嗎？」"
+				"「欸？我有說過類似的話嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -12728,7 +12731,7 @@
 				true
 			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"m-art_DropsFallingIntoTheVoid","volume":90,"pitch":100,"pan":0}
+				{"name":"m-art_DropsFallingIntoTheVoid","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -12801,10 +12804,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「希望我不要再做賞金獵人的工作很危險，專心"
+				"「希望我不要再做賞金獵人的工作很危險，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在家照顧孩子之類的。」"
+				"專心在家照顧孩子之類的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -12930,10 +12933,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我家那孩子長的圓圓胖胖的，我都叫他阿圓"
+				"「我家那孩子長的圓圓胖胖的，我都叫他阿圓，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，他隨他老公姓，叫陸圓，很可愛喔！」"
+				"他隨他老公姓，叫陸圓，很可愛喔！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -13240,7 +13243,7 @@
 				"「又在胡說八道，我是擔心他不適應，所以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"去找他聊聊．．．」"
+				"去找他聊聊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -13403,10 +13406,10 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳喔．．．講話活像個大叔一樣．．．"
+				"「妳喔．．．講話活像個大叔一樣，難怪老公"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"難怪老公會不要妳。」"
+				"會不要妳。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -14229,10 +14232,7 @@
 				"\\N[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[31]大哥！你吃慢一點，這樣很容易噎著"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"的！」"
+				"「\\N[31]大哥！你吃慢一點，這樣很容易噎著！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1",
@@ -14468,10 +14468,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「死菜鳥！為什麼你家種那麼多辣椒！種點"
+				"「死菜鳥！為什麼你家種那麼多辣椒！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"別的不好嗎？」"
+				"種點別的不好嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":100,"pan":0}
@@ -14569,7 +14569,7 @@
 				"「精靈不是應該都吃得很清淡、很樸素嗎！？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼妳吃起辣來跟平常人一樣啊！」"
+				"為什麼妳比正常人還會吃辣啊！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -14636,10 +14636,22 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「吶！阿攸，不管什麼都好，隨便炒個不辣的"
+				"「吶！阿攸，不管什麼都好。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_32_1",
+				12,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"菜吧！不然我今天晚上真的沒東西吃啦！」"
+				"\\N[32]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「隨便炒個不辣的菜吧！不然我今天晚上真的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"沒東西吃啦！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -15028,7 +15040,7 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗨！我們來串門子啦！」"
+				"「嗨！我們來串門子啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -15159,7 +15171,7 @@
 				"鐵獅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就想說帶點禮物來給你們，順便來蹭個飯，"
+				"「就想說帶點禮物來給你們，順便蹭個飯，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"聯絡聯絡一下感情。」"
@@ -15317,10 +15329,10 @@
 				"夜斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧，寒蟬不吃辣，所以我們帶了不辣的"
+				"「喔？妳不吃辣嗎？放心吧，寒蟬也不吃辣，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"過來。」"
+				"所以我們帶的菜裡面沒有任何辛香料。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E23_1",
@@ -15977,7 +15989,7 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哎呀，我們只是單純想把它送給\\N[31]而已，"
+				"「嗯，我們只是單純想把它送給\\N[31]而已，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"真的沒有別的意思。」"
@@ -16013,7 +16025,7 @@
 				"「唉，這也沒辦法，誰叫團長長著一張壞人臉，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"又特別熱情。」"
+				"卻特別熱情。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
@@ -16339,7 +16351,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那．．．我就收下了，謝謝你們了。」"
+				"「那．．．我就收下了，謝謝你們。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E23_1",
@@ -16487,7 +16499,7 @@
 				"夜斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他最大的興趣，只有研究今天拉出來的ＯＯ"
+				"「他最大的興趣，只有研究今天拉出來的蛋糕"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"顏色漂不漂亮，大小符不符合平均值。」"
@@ -17082,10 +17094,10 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉呦，幹嘛聊那麼沉悶的話題啊，飯都不好"
+				"「唉呦，幹嘛聊那麼沉悶的話題啊，飯都"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"吃了！」"
+				"不好吃了！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -17152,7 +17164,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「咳！這．．．這個．．．當然也有。」"
+				"「咳！這、這個．．．當然也有。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -17534,7 +17546,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這．．．這個．．．」"
+				"「這、這個．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
@@ -17961,10 +17973,10 @@
 				"\\N[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「給我好好吃妳的飯！妳這飯桶！妳看，桌上"
+				"「給我好好吃妳的飯！妳這飯桶！妳看，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"還剩這麼多呢！」"
+				"桌上還剩這麼多呢！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -18233,10 +18245,10 @@
 				"\\N[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然我才加入沒多久，也許沒資格說這種話"
+				"「雖然我才加入沒多久，也許沒資格說"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"．．．」"
+				"這種話．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_34_1",
@@ -18565,7 +18577,7 @@
 				"夜斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是，在那邊說什麼瘋話，醉得不省人事的人"
+				"「嘖，在那邊說什麼瘋話，醉得不省人事的人"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"明明就是你好嗎。」"
@@ -18985,10 +18997,10 @@
 				"鐵獅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大哥、夜斷、寒蟬，甚至我的其他弟兄，一定"
+				"「大哥、夜斷、寒蟬，甚至我的其他弟兄，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"都會歡迎你加入的。」"
+				"一定都會歡迎你加入的。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -19020,7 +19032,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．可是．．．太突然了。」"
+				"「可是．．．太突然了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -19160,10 +19172,10 @@
 				"魯蘭"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[31]大哥，你們聊什麼聊這麼久啊？快點過來"
+				"「\\N[31]大哥，你們聊什麼聊這麼久啊？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一起吃烤雞啊。」"
+				"快點過來一起吃烤雞啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_34_1",
@@ -19371,18 +19383,6 @@
 				-1,
 				7,
 				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				5,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「也許吧？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -19872,7 +19872,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是什麼大事啦，以前念書熬夜早就是"
+				"「不是什麼大事啦，以前為了學習熬夜早就是"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"家常便飯了，你母親能趕快康復比較重要。」"
@@ -19917,10 +19917,10 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了，又不是生離死別，這是你來地動城"
+				"「好了，又不是生離死別，這是你來地動城後"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"後第一次回家吧？」"
+				"第一次回家吧？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				13,
@@ -20340,7 +20340,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊～回來了回來了～果然還是自己家好啊～」"
+				"「啊～回來了回來了，果然還是自己家好啊～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1",
@@ -20443,7 +20443,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一洗就是三十分鐘～我都快尿出來了妳還在"
+				"「一洗就是三十分鐘，我都快尿出來了妳還在"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"裡面！」"
@@ -21039,7 +21039,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了好了～」"
+				"「好了好了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -21066,7 +21066,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這就是．．．我想留在這裡的原因吧？」"
+				"「這就是\\.．\\.．\\.．\\.\\|我想留在這裡的原因吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -21923,10 +21923,10 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「有一台代號妃偶的，ＧＸＰＴ系列初代原型機"
+				"「據說，有一台ＧＸＰＴ系列初代原型機"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"墜落在荒星島。」"
+				"墜落在荒星島上。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -22978,10 +22978,10 @@
 				"\\N[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「二姐頭都跟我說了，我們要去沒人探索過的"
+				"「二姐頭都跟我說了，我們要去沒人探索過"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"島探險對不對？」"
+				"的島探險對不對？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -23075,10 +23075,10 @@
 				"\\N[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯！媽媽的病已經好的差不多，又開始"
+				"「嗯！媽媽的病已經好的差不多，又開始忙"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"忙農田的工作了。」"
+				"農田的工作了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_34_1",
@@ -23828,10 +23828,10 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那張藏寶圖上畫的地方，和你說的位置很"
+				"「那張藏寶圖上畫的地方，和你說的位置"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"接近。」"
+				"很接近。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E21_1",
@@ -23843,10 +23843,10 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過，那個島上到處都是凶暴的魔物，非常"
+				"「不過，那個島上到處都是凶暴的魔物，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"危險。」"
+				"非常危險。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -24057,7 +24057,7 @@
 				"\\N[33]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那、那大姐頭．．．\\N[31]大哥，我們．．．」"
+				"「那、那大姐頭，\\N[31]大哥，我們．．．」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				11,
@@ -24172,7 +24172,7 @@
 				9,
 				9,
 				15,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
@@ -24736,7 +24736,7 @@
 				60
 			]},
 			{"code":241,"indent":0,"parameters":[
-				{"name":"m-art_Drop","volume":90,"pitch":100,"pan":0}
+				{"name":"m-art_Drop","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E21_1",
@@ -24859,10 +24859,19 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而且明明島上一堆珍貴的礦石和自然資源，"
+				"「而且明明島上一堆珍貴的礦石和自然資源。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_E21_1",
+				7,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"上次一點好處都沒撈到，這次我們不該好好"
+				"月剎"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「上次一點好處都沒撈到，這次我們不該好好"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"探索那座島嗎？」"
@@ -25209,6 +25218,27 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":68,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":15,"y":12},
 	{"id":20,"name":"EV020","note":"","pages":[
@@ -25227,6 +25257,27 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":76,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":76,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -25255,6 +25306,27 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":77,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":16,"y":13},
 	{"id":22,"name":"EV022","note":"","pages":[
@@ -25278,6 +25350,27 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":69,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":16,"y":12},
 	{"id":23,"name":"EV023","note":"","pages":[
@@ -25289,6 +25382,34 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":69,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":69,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -25310,6 +25431,34 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":68,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":68,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":8,"y":12},
 	{"id":25,"name":"EV025","note":"","pages":[
@@ -25326,6 +25475,34 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":76,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":76,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":8,"y":13},
 	{"id":26,"name":"EV026","note":"","pages":[
@@ -25337,6 +25514,34 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":33},"directionFix":false,"image":{"tileId":77,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":35},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":58},"directionFix":false,"image":{"tileId":77,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":64},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -26046,10 +26251,10 @@
 				"1.請洽詢冒險團團長蘋薇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"2.長的好看的人另有優待"
+				"2.暫不接受新人加入"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"3.暫不接受新人加入"
+				"3.但如果你夠好看，能無視第2點，另有優待"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

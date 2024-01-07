@@ -3159,10 +3159,10 @@
 				"小女孩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「其他的冒險者大哥哥大姐姐都跟把拔馬麻一"
+				"「其他的冒險者大哥哥大姐姐都跟把拔馬麻"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"樣，不太想理我們。」"
+				"一樣，不太想理我們。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Kids F 4",
@@ -3198,10 +3198,10 @@
 				"小女孩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「聽媽媽說，是\\n[32]的前夫是渣渣"
+				"「聽媽媽說，是\\n[32]的前夫渣渣，不會"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，不懂得珍惜好姐姐。」"
+				"珍惜好姐姐。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Kids F 4",
@@ -3309,10 +3309,10 @@
 				"小女孩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哥哥說等下要帶我出去摘果子呢！人家好開"
+				"「哥哥說等下要帶我出去摘果子耶！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"心！」"
+				"人家好開心！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
@@ -3480,7 +3480,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
-				1,
+				0,
 				0,
 				2
 			]},
@@ -3512,7 +3512,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
-				7,
+				1,
 				0,
 				2
 			]},
@@ -3520,7 +3520,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「加油，姐姐拭目以待。」"
+				"「加油加油，\\N[32]姐姐拭目以待喔。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -3585,7 +3585,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
-				5,
+				6,
 				0,
 				2
 			]},
@@ -3593,7 +3593,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「務必注意安全啊！」"
+				"「喔，要注意安全啊！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -3622,7 +3622,7 @@
 				"小男孩"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那火給妳顧好喔！」"
+				"「那要把火顧好喔！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

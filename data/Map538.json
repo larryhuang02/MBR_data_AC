@@ -2336,7 +2336,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不懂漂亮衣服的人，真的是不懂得服飾。」"
+				"「不懂漂亮衣服的人，真是群膚淺的冒險者。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Rich Men",
@@ -2348,13 +2348,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我祖訓有言．．．"
+				"「我祖訓有言，『布料越少的衣服、越漂亮的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"『布料越少的衣服、越漂亮的衣服，防禦越高"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"！』」"
+				"衣服，防禦越高！』」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Rich Men",
@@ -2368,29 +2365,25 @@
 			{"code":401,"indent":0,"parameters":[
 				"「你能夠反對這句真諦嗎？！」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				5,
-				1,
-				2
+			{"code":250,"indent":0,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"雖然我也不太懂．．．"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"但輕飄飄的傾國絲綢的確比醜陋不堪的鐵鎧甲"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"高防禦．．．"
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
 				5,
-				1,
+				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這世界真奧妙．．．"
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯．．．對，應該，是吧？」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -2434,7 +2427,7 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「昨天有個年輕人要求修改一件特別的衣服。」"
+				"「昨天有個客人要我修改一件特別的衣服。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Rich Men",
@@ -2473,10 +2466,10 @@
 				"男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「有時候，簡單的修補和縫紉可以使一件舊"
+				"「你想要的這個，只需要簡單的修補和縫紉"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"衣服焕然一新。」"
+				"就可以讓它焕然一新。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Evil Priests",
@@ -2488,10 +2481,7 @@
 				"腎虛的男子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「太好了！我想修改一套衣服，你能幫我把"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"名字繡在胸前嗎？」"
+				"「太好了！你能幫我把名字繡在胸前嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Rich Men",
