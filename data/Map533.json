@@ -1745,10 +1745,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但是因為那個遺物是具有強大殺傷力的武器"
+				"「但是因為那個遺物是具有強大殺傷力的武器，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，所以他們並不打算上交給公會。」"
+				"所以他們並不打算上交給公會。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls 5",
@@ -1809,10 +1809,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉．．．在這亂世之中，只有有拳頭的人才"
+				"「上次去冒險者公會，聽說又有人挖出什麼"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"能說話。」"
+				"古代遺物了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls 5",
@@ -1824,10 +1824,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家也只有相信鐵獅了，希望他能夠將傭兵"
+				"「還好這次不是什麼危險的東西，不然我可"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"團越做越大，帶領大家生活。」"
+				"真不知道要怎麼在這邊活下去了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -1867,10 +1867,22 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「明明挑選了一個體格不錯的螯蝦，卻因為車"
+				"「明明挑選了一個體格不錯的螯蝦，卻因為"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"輪戰打輸，有沒有這麼不要臉的？」"
+				"車輪戰打輸，有沒有這麼不要臉的？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Girls 5",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"女子"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然這的確是遊戲規則沒錯啦．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -1892,10 +1904,7 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小兄弟是要出遠門嗎？務必做好充足的準備"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"。」"
+				"「先生是要出遠門嗎？務必做好充足的準備。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls 5",
@@ -1907,7 +1916,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「多跟大家說說話，或許會有意外之喜吧？」"
+				"「多跟大家說說話，或許會有意外之喜嗎？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"也許吧，呵呵呵。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

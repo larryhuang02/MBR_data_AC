@@ -1785,10 +1785,7 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「說到野外的果子植物．．．你有去摘採過嗎"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"？」"
+				"「說到野外的果子植物，你有去採過嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Maids",
@@ -1822,7 +1819,7 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「昨天人家去玩過那個怪物競技場了．．．」"
+				"「昨天我去玩過那個怪物競技場了．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Maids",
@@ -1834,10 +1831,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉．．．一下子就輸了，如果沒抽到好技能"
+				"「唉，一下子就輸了，如果沒抽到可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"真的很難獲勝阿。」"
+				"互相搭配的好技能，真的很難獲勝阿。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Maids",
@@ -1874,7 +1871,7 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可惡！今天一定要把怪物競技場給拚過去！」"
+				"「可惡！今天一定要打贏冠軍！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Maids",
@@ -1886,10 +1883,10 @@
 				"女子"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要抽到了秒殺技能，再強的王都可以幹掉"
+				"「只要抽到了秒殺技能，再強的對手都可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"！」"
+				"幹掉！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

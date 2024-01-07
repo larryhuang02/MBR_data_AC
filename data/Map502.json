@@ -4053,10 +4053,40 @@
 				"櫃台小姐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯沒錯，你學得很快，\\C[6]順帶一提，如果設"
+				"「沒錯沒錯，你學得很快，\\C[6]順帶一提，如果"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"定成0的話，他就不會使用那個行動。\\C[0]」"
+				"設定成0的話，他就不會使用那個行動。\\C[0]」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Bunny Girls",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「\\C[2]如果使用技能卻沒有MP和TP的話，寵物就會"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"放棄此次行動，例如我骰到了火球卻沒有MP，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"他就會進行待機，這點要特別注意。\\C[0]」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Bunny Girls",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我只說一次，記清楚了嗎？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				0,

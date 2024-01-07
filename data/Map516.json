@@ -8166,7 +8166,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				0,
+				12,
 				0,
 				2
 			]},
@@ -8174,10 +8174,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「算了吧，現在錢對我來說，已經不太"
+				"「算了吧，現在錢對我來說，已經不太重要"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"重要了。」"
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",

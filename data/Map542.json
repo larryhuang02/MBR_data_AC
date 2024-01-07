@@ -8034,7 +8034,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\n[32]大姐．．．不是月半，是月剎．．．」"
+				"「\\n[32]大姐，不是月半，是月剎．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}
@@ -8169,7 +8169,10 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒錯，他們就是我昨天跟你講的\\n[32]冒險團。」"
+				"「沒錯，他們就是我昨天跟你講的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[32]冒險團。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
@@ -8294,10 +8297,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[32]大姐，妳太沒禮貌了．．．可能有人"
+				"「\\N[32]大姐，妳太沒禮貌了．．．有人外表"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"外表很年輕，自然也會有人老起來放。」"
+				"長的很年輕，自然也會有人老起來放。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1",
@@ -8560,10 +8563,10 @@
 				"月剎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們說的是那個長的很秀氣的男生嗎？不是"
+				"「你們說的是那個長的很秀氣的男生嗎？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"啦。」"
+				"不是啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E21_1",
@@ -9448,7 +9451,7 @@
 				"\\n[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「唉．．．受不了妳．．．」"
+				"「唉．．．受不了妳。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_34_1",
@@ -10358,7 +10361,7 @@
 				"鐵獅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你哪壺不開提那壺！」"
+				"「你哪壺不開提哪壺！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",

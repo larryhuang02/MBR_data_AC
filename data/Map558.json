@@ -2253,10 +2253,10 @@
 				"\\n[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你們已經給附近的村民造成困擾了！趕快"
+				"「你們已經給附近的村民造成困擾了！"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"離開！」"
+				"趕快離開！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Ogre",
@@ -2923,7 +2923,7 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好了好了！妖精妹子快住手吧！」"
+				"「好了好了！妖精小姐快住手吧！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -2957,10 +2957,10 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他已經動不了了，也不是什麼窮凶極惡之徒"
+				"「他已經動不了了，也不是什麼窮凶極惡之徒，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，就放過他吧。」"
+				"就放過他吧。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -3030,9 +3030,19 @@
 			{"code":205,"indent":0,"parameters":[
 				5,
 				{"list":[
+					{"code":41,"parameters":[
+						"$Ogre",
+						0
+					],"indent":null},
 					{"code":17,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":41,"parameters":[
+					"$Ogre",
+					0
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":17,"indent":null}
@@ -3269,10 +3279,20 @@
 			{"code":205,"indent":0,"parameters":[
 				4,
 				{"list":[
+					{"code":41,"parameters":[
+						"$Orc",
+						0
+					],"indent":null},
 					{"code":36,"indent":null},
 					{"code":16,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":41,"parameters":[
+					"$Orc",
+					0
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":36,"indent":null}

@@ -1801,10 +1801,19 @@
 				"工人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真沒想到，當賞金獵人要準備的東西可不比"
+				"「雖說下定決心轉行了，不過真沒想到。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Men 8_MV",
+				2,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我現在輕鬆。」"
+				"工人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當賞金獵人可不比搬磚輕鬆。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",
@@ -1831,7 +1840,10 @@
 				"工人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「尤其是武器，沒有好兵刃隨時會死在外面，"
+				"「尤其是武器，買太便宜的劍隨便就捲刃，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"太貴的又買不起，一不注意隨時會死在外面，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"連找人幫你收屍都沒辦法．．．」"
@@ -1868,10 +1880,10 @@
 				"工人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「搬磚沒有風險，只要乖乖的搬，就可以領到"
+				"「搬磚沒有風險，只要乖乖的搬，就可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"收入．．．」"
+				"賺到錢．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Men 8_MV",

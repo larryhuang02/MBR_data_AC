@@ -17120,10 +17120,13 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「要是那本日記你們不喜歡的話，我可真就不"
+				"「要是那本日記你們不喜歡的話，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"知道拿什麼東西，來當作認識你們的契機了。」"
+				"我可真就不知道拿什麼東西，來當作認識"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你們的契機了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -17246,10 +17249,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\C[2]關於月藍初代原型機─妃偶的事情，我們也"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"知道。\\C[0]」"
+				"「\\C[2]關於月藍初代原型機的事情，我們也知道。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -19120,7 +19120,41 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_bleeding",
-				11,
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_bleeding",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_bleeding",
+				12,
 				0,
 				2
 			]},
@@ -21031,7 +21065,7 @@
 				"天辰"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「收到。」"
+				"「好的。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				30,
@@ -21394,10 +21428,10 @@
 				"「對，沒錯，那是你上任團長以來，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"插在你身上最痛的一根刺，但團員們"
+				"插在你身上最痛的一根刺，但團員們都沒有"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"都沒有怪你，不是嗎？」"
+				"怪你，不是嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E21_1",
