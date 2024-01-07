@@ -3,7 +3,7 @@ version log
 
 ## 開發 data SOP
 
-### 前置作業
+### 前置作業 (只做1次)
 1. 到 [這裡](https://github.com/aaaaagold/MBR_data) 按 fork ，在自己家產生一份分身。並且用 git client (實際用哪種都可以，有 git 功能能夠連到 github 就好) 從自己家那邊 clone 一份到電腦上。
 
 ### 每次修改到 push 完成，以下操作順序不能隨意變更
