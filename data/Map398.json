@@ -7224,7 +7224,7 @@
 			{"code":404,"indent":1,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"this._tmptxts=window._agold404_roomTxts; if(this._tmptxts instanceof Array) this._tmptxts=this._tmptxts.slice();"
+				"this._tmptxts=window._agold404_roomTxts; if(this._tmptxts instanceof Array) this._tmptxts=this._tmptxts.slice().reverse();"
 			]},
 			{"code":112,"indent":1,"parameters":[
 			]},
