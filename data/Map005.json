@@ -4089,13 +4089,34 @@
 				"SceneManager._scene.addChild(SceneManager._scene._screenshotSp=new Sprite(SceneManager.snap()));"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"SceneManager._scene._screenshotSp.blendMode=12;"
+				"SceneManager._scene._screenshotSp.alpha=0.75;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"{ let bmp=SceneManager._scene._screenshotSp.bitmap;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let imgdata=bmp._context.getImageData(0,0,bmp.width,bmp.height);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"for(let x=0,arr=imgdata.data,xs=arr.length;x!==xs;x+=4) for(let c=3;c--;) arr[x+c]=255-arr[x+c];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"bmp._context.putImageData(imgdata,0,0);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"bmp._setDirty();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				4
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager._scene.removeChild(SceneManager._scene._screenshotSp);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager._scene._screenshotSp.destroy(true);"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				26
