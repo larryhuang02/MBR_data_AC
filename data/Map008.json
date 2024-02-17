@@ -393487,6 +393487,9 @@
 				"{ let sp=new Sprite_Minimap();"
 			]},
 			{"code":655,"indent":0,"parameters":[
+				"sp._drawTimeoutMs=1;"
+			]},
+			{"code":655,"indent":0,"parameters":[
 				"sp.paintAll(0,0,$dataMap.width,$dataMap.height);"
 			]},
 			{"code":655,"indent":0,"parameters":[
