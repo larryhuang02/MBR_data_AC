@@ -14424,6 +14424,16 @@
 			{"code":401,"indent":2,"parameters":[
 				"「啊！沒、沒事！」"
 			]},
+			{"code":205,"indent":2,"parameters":[
+				0,
+				{"list":[
+					{"code":25,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":25,"indent":null}
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_SaintessMaid05",
 				0,
