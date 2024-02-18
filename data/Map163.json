@@ -4285,7 +4285,7 @@
 				"    $gameMap._events[1].strt=0;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"    $gameMap._events[36].start();"
+				"    $gameSelfSwitches.setValue([$gameMap._mapId,36,\"A\"],true);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"    $gameSelfSwitches.setValue([$gameMap._mapId,this._eventId,\"A\"],true);"
@@ -4303,7 +4303,7 @@
 				"    $gameMap._events[1].strt=0;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"    $gameMap._events[37].start();"
+				"    $gameSelfSwitches.setValue([$gameMap._mapId,37,\"A\"],true);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"    $gameSelfSwitches.setValue([$gameMap._mapId,this._eventId,\"A\"],true);"
@@ -4329,7 +4329,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":7,"y":0},
 	{"id":36,"name":"EV036","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"2000_Actor_float","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"2000_Actor_float","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"玩家勝利劇情"
 			]},
@@ -4404,6 +4404,8 @@
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager.closeNumBoard($gamePlayer);"
 			]},
+			{"code":214,"indent":0,"parameters":[
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -4412,7 +4414,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":8,"y":0},
 	{"id":37,"name":"EV037","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Jesters","direction":2,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Jesters","direction":2,"pattern":1,"characterIndex":3},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"小丑勝利劇情"
 			]},
@@ -4486,6 +4488,8 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager.closeNumBoard($gamePlayer);"
+			]},
+			{"code":214,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
