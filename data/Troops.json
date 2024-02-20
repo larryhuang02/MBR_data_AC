@@ -12634,6 +12634,9 @@
 			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",14,0,2]},
 			{"code":401,"indent":0,"parameters":["\\n[31]"]},
 			{"code":401,"indent":0,"parameters":["\\{「鐵獅！我要殺了你！！！」"]},
+			{"code":250,"indent":0,"parameters":[{"name":"Fire8","volume":100,"pitch":100,"pan":0}]},
+			{"code":313,"indent":0,"parameters":[0,31,0,448]},
+			{"code":224,"indent":0,"parameters":[[255,0,0,170],30,true]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -14138,34 +14141,6 @@
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":21,"switchValid":false,"turnA":5,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["BLR_31_1",4,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[31]"]},
-			{"code":401,"indent":0,"parameters":["「它開始加速運轉了！大家一定要小心！」"]},
-			{"code":101,"indent":0,"parameters":["BLR_31_1",4,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[31]"]},
-			{"code":401,"indent":0,"parameters":["「我在文獻裡有看過，月藍文明的大型機器人，"]},
-			{"code":401,"indent":0,"parameters":["一般都配有過載驅動的功能。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_31_1",4,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[31]"]},
-			{"code":401,"indent":0,"parameters":["「\\c[2]它們雖然能在短時間內消耗大量的燃料，"]},
-			{"code":401,"indent":0,"parameters":["來換取更高的工作效能！\\c[0]」"]},
-			{"code":101,"indent":0,"parameters":["BLR_33_1",8,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[34]"]},
-			{"code":401,"indent":0,"parameters":["「也就是說，它的破壞力會變得更強？可惡，"]},
-			{"code":401,"indent":0,"parameters":["難道沒有辦法阻止它嗎？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_31_1",4,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[31]"]},
-			{"code":401,"indent":0,"parameters":["「有的！文獻上面說，\\c[2]在他們進行高速運轉的"]},
-			{"code":401,"indent":0,"parameters":["時候，會比平時更容易導電。\\c[0]」"]},
-			{"code":101,"indent":0,"parameters":["BLR_33_1",11,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[34]"]},
-			{"code":401,"indent":0,"parameters":["「知道了！飯桶，我們上！」"]},
-			{"code":101,"indent":0,"parameters":["BLR_32_3",4,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[32]"]},
-			{"code":401,"indent":0,"parameters":["「喔！」"]},
-			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":399,"members":[
@@ -14209,7 +14184,7 @@
 			{"code":401,"indent":0,"parameters":["一般都配有過載驅動的功能。」"]},
 			{"code":101,"indent":0,"parameters":["BLR_31_1",4,0,2]},
 			{"code":401,"indent":0,"parameters":["\\n[31]"]},
-			{"code":401,"indent":0,"parameters":["「\\c[2]它們雖然能在短時間內消耗大量的燃料，"]},
+			{"code":401,"indent":0,"parameters":["「\\c[2]它們能在短時間內消耗大量的燃料，"]},
 			{"code":401,"indent":0,"parameters":["來換取更高的工作效能！\\c[0]」"]},
 			{"code":101,"indent":0,"parameters":["BLR_33_1",8,0,2]},
 			{"code":401,"indent":0,"parameters":["\\n[34]"]},

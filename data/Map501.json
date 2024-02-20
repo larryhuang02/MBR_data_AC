@@ -3249,19 +3249,25 @@
 	0,
 	0,
 	0,
+	476,
+	477,
+	0,
+	0,
+	0,
+	0,
+	476,
+	477,
+	0,
+	0,
+	0,
+	0,
+	476,
 	477,
 	0,
 	0,
 	0,
 	0,
 	0,
-	477,
-	0,
-	0,
-	0,
-	0,
-	0,
-	477,
 	0,
 	0,
 	0,
@@ -3295,26 +3301,20 @@
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	485,
-	485,
+	484,
+	960,
 	485,
 	0,
 	0,
 	0,
-	485,
-	485,
+	484,
+	960,
 	485,
 	0,
 	0,
 	0,
-	485,
-	485,
+	484,
+	960,
 	485,
 	0,
 	0,
@@ -4601,20 +4601,20 @@
 	0,
 	0,
 	0,
-	476,
-	477,
-	477,
-	479,
-	0,
-	0,
-	476,
-	477,
+	308,
+	309,
 	477,
 	479,
 	0,
 	0,
-	476,
+	308,
+	309,
 	477,
+	479,
+	0,
+	0,
+	308,
+	309,
 	477,
 	479,
 	0,
@@ -4653,20 +4653,20 @@
 	0,
 	0,
 	0,
-	484,
-	960,
-	960,
-	487,
-	0,
-	0,
-	484,
-	960,
+	316,
+	317,
 	960,
 	487,
 	0,
 	0,
-	484,
+	316,
+	317,
 	960,
+	487,
+	0,
+	0,
+	316,
+	317,
 	960,
 	487,
 	0,
@@ -4705,20 +4705,20 @@
 	0,
 	0,
 	0,
+	324,
+	325,
 	0,
 	0,
 	0,
 	0,
+	324,
+	325,
 	0,
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
+	324,
+	325,
 	0,
 	0,
 	0,
@@ -10761,6 +10761,8 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":2,"indent":null}
 			]},
+			{"code":221,"indent":0,"parameters":[
+			]},
 			{"code":203,"indent":0,"parameters":[
 				30,
 				0,
@@ -10789,6 +10791,8 @@
 				0,
 				18
 			]},
+			{"code":222,"indent":0,"parameters":[
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -10806,7 +10810,10 @@
 				"奇羅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「路上小心，記得有什麼發現再告訴我啊。」"
+				"「路上小心，那個古代遺跡就在南邊森林"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的深處，記得有什麼發現再告訴我啊。」"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				2,
@@ -16659,8 +16666,180 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":7,"y":8},
-	null,
-	null,
+	{"id":46,"name":"EV046","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"書櫃中有一本名為『古菌森林生態紀錄』的書籍，是否"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"要抽出來閱讀？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"是",
+					"否"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"是"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"最近被賞金獵人們所發現的古菌森林，根據探查的情報員"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"所獲得的情報，森林中的魔物，大多為弱火、斬屬性，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"使用這兩種屬性戰鬥能事半功倍。"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"在森林中擁有大量的採集點，能夠採集各種藥草用以製作"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"藥水，在採集藥草後，藥草再次生長時間為５分鐘。"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"否"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
+	],"x":25,"y":11},
+	{"id":47,"name":"EV047","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":18},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":0,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"書櫃中有一本名為『南邊森林生態紀錄』的書籍，是否"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"要抽出來閱讀？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"是",
+					"否"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"是"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"賞金獵人們經常出沒，位於地動城南邊的森林，經常有"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"獵豹、巨鱷和巨蜥出沒。"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"經過了大量冒險者的戰鬥經驗後得知，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"巨蜥畏懼斬、雷、土屬性的攻擊，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"鱷魚畏懼鈍、雷、土屬性傷害，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"獵豹畏懼刺、火、冰屬性傷害。"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"在森林中擁有大量的採集點，能夠採集各種藥草用以製作"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"藥水，在採集藥草後，藥草再次生長時間為５分鐘。"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"否"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
+	],"x":31,"y":11},
 	null,
 	null,
 	null,
