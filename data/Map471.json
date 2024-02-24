@@ -8674,54 +8674,11 @@
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,
-				577,
-				119,
+				473,
+				118,
 				100,
 				2,
 				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1261},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":37,"indent":null},
-					{"code":4,"indent":null},
-					{"code":38,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"不論是不是玩笑！我都必須要弄明白！"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{娟！等我！！！"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8737,54 +8694,11 @@
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,
-				577,
-				119,
+				473,
+				120,
 				100,
 				2,
 				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1261},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":37,"indent":null},
-					{"code":4,"indent":null},
-					{"code":38,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"不論是不是玩笑！我都必須要弄明白！"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{娟！等我！！！"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8800,54 +8714,11 @@
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,
-				577,
+				473,
 				119,
 				100,
 				2,
 				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1261},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":37,"indent":null},
-					{"code":4,"indent":null},
-					{"code":38,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":37,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"不論是不是玩笑！我都必須要弄明白！"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				6,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{娟！等我！！！"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

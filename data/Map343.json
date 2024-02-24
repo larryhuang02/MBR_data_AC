@@ -8071,6 +8071,28 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"tileId":0,"characterName":"$Monster_Dragon01","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Monster_Dragon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"龍族"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"G)SEU)IU_@QIGEFGESF"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「謝謝你們人類．．．」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"$Monster_Dragon01","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8109,6 +8131,28 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"tileId":0,"characterName":"$Monster_Dragon01","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Monster_Dragon",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"龍族"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"FELJHFLESLJFEGS"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「真的．．．打贏了！？」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":323,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"$Monster_Dragon01","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -8140,6 +8184,28 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「我想念我的家園．．．」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":15},"directionFix":false,"image":{"tileId":0,"characterName":"$Monster_Dragon01","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Monster_Dragon",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"龍族"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"G(E&YR(@)KJD)DKAS"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可以回家了．．．」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

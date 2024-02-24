@@ -13823,7 +13823,7 @@
 				"茶祀"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「妳應該要去阻止妳們吧？」"
+				"「妳應該要去阻止她們吧？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid03",
@@ -20625,7 +20625,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[14]\\TXTCENTER:\"請新郎輕吻新娘子．．．\\|\\|\\|\\^\""
+				"\\C[14]\\TXTCENTER:\"請新郎親吻新娘子．．．\\|\\|\\|\\^\""
 			]},
 			{"code":231,"indent":0,"parameters":[
 				2,
