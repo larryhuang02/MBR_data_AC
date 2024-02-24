@@ -406,7 +406,7 @@
 	{"id":404,"expanded":true,"name":"MAP404_荒星島(主線)","order":460,"parentId":403,"scrollX":973.1999999999999,"scrollY":2816.4},
 	{"id":405,"expanded":false,"name":"世界王相關","order":416,"parentId":380,"scrollX":817,"scrollY":455.5},
 	{"id":406,"expanded":true,"name":"MAP406_捉雞小遊戲2","order":153,"parentId":143,"scrollX":1092,"scrollY":604},
-	{"id":407,"expanded":true,"name":"MAP407_村長家2樓","order":173,"parentId":160,"scrollX":1782.5454545454545,"scrollY":993.8181818181819},
+	{"id":407,"expanded":true,"name":"MAP407_村長家2樓","order":173,"parentId":160,"scrollX":1777.0909090909092,"scrollY":993.8181818181819},
 	{"id":408,"expanded":true,"name":"MAP408_月牙泉比賽","order":414,"parentId":381,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
 	{"id":409,"expanded":false,"name":"MAP409_大家來找碴","order":174,"parentId":407,"scrollX":1782.5454545454545,"scrollY":993.8181818181819},
 	{"id":410,"expanded":false,"name":"MAP410_丟飛刀","order":175,"parentId":407,"scrollX":982.8,"scrollY":553.1999999999999},

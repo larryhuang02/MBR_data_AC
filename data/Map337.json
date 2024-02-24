@@ -102044,127 +102044,138 @@
 			{"code":401,"indent":1,"parameters":[
 				"淬鍊，上面有奇怪的花紋。」"
 			]},
-			{"code":250,"indent":1,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				1,
+				43,
+				0,
+				2,
+				4
+			]},
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Book2","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":1,"parameters":[
+			{"code":213,"indent":2,"parameters":[
 				-1,
 				8,
 				true
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_07_1",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"\\N[7]"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「嗯．．．不曉得這跟法杖現在會在哪裡。」"
 			]},
-			{"code":111,"indent":1,"parameters":[
+			{"code":111,"indent":2,"parameters":[
 				8,
 				438
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Flash1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				9,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「欸？小鈴，這個上面畫的雕像，好像我們在"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"黃金城找到的雕像。」"
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				1,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_07_1",
 				7,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[7]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「真的耶，好像！會不會它就是那根法杖的"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"一部分？」"
 			]},
-			{"code":0,"indent":2,"parameters":[
+			{"code":0,"indent":3,"parameters":[
 			]},
-			{"code":412,"indent":1,"parameters":[
+			{"code":412,"indent":2,"parameters":[
 			]},
-			{"code":111,"indent":1,"parameters":[
+			{"code":111,"indent":2,"parameters":[
 				9,
 				168,
 				false
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Flash1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				9,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_01_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「欸？小鈴，這個法杖上的花紋．．．像不像"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"我們在墓塚撿到的木棍？」"
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":213,"indent":2,"parameters":[
+			{"code":213,"indent":3,"parameters":[
 				-1,
 				1,
 				true
 			]},
-			{"code":101,"indent":2,"parameters":[
+			{"code":101,"indent":3,"parameters":[
 				"BLR_07_1",
 				7,
 				0,
 				2
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"\\N[7]"
 			]},
-			{"code":401,"indent":2,"parameters":[
+			{"code":401,"indent":3,"parameters":[
 				"「真的耶，好像！會不會它就是那根法杖啊？」"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
