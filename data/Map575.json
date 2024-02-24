@@ -8643,7 +8643,7 @@
 ],"events":[
 	null,
 	{"id":1,"name":"露西","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_IceMoon","direction":2,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_IceMoon","direction":2,"pattern":2,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -9239,7 +9239,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當妳第一次出手攻擊我，我真的是驚呆了。」　　"
+				"「當妳第一次出手攻擊我，我真的是嚇傻了。」　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -9251,14 +9251,14 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我從來沒想過，妳的聲音居然和\\N[32]"
+				"「我沒想到，妳的聲音居然和\\N[32]大姐如此"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"大姐如此的像。」　　"
+				"相像。」　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				4,
 				0,
 				2
 			]},
@@ -9266,14 +9266,14 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「把玩著木劍時的神情．．．就像\\n[34]姐"
+				"「妳絕對不是什麼戰爭兵器，不要像奧維亞姐"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一樣。」"
+				"一樣，整天逞凶鬥狠。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				6,
 				0,
 				2
 			]},
@@ -9281,14 +9281,14 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「對我露出的天真無邪的笑容，就像那個當年"
+				"「多笑一下吧，我最喜歡看妳笑了，就像那個，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"跟在我後面喊著攸特大的菜鳥。」　　"
+				"當年跟在我後面喊著攸特大哥的少年。」　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				7,
 				0,
 				2
 			]},
@@ -9350,7 +9350,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				1,
 				0,
 				2
 			]},
@@ -9358,14 +9358,14 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「旁邊這些魔晶石，是我特地為你找來的，"
+				"「這些魔晶石，是我特地為你找來的，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"能夠維繫妳的生命。」　　"
+				"能夠讓妳，再多等我一點時間。」　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				4,
 				0,
 				2
 			]},
@@ -9462,10 +9462,10 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然妳原本只是姬偶的備品，是被雷歐娜"
+				"「雖然妳說，妳只是姬偶的備品，是被雷歐娜"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"擅自拼湊好的人偶。」"
+				"皇后擅自拼湊出來而誕生的人偶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -9529,7 +9529,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				2,
 				0,
 				2
 			]},
@@ -9544,7 +9544,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				1,
 				0,
 				2
 			]},
@@ -9625,7 +9625,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
-				0,
+				4,
 				0,
 				2
 			]},
@@ -9714,6 +9714,9 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
 			]},
+			{"code":242,"indent":0,"parameters":[
+				5
+			]},
 			{"code":230,"indent":0,"parameters":[
 				360
 			]},
@@ -9738,12 +9741,138 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
-			{"code":221,"indent":0,"parameters":[
+			{"code":241,"indent":0,"parameters":[
+				{"name":"m-art_Komorebi","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":105,"indent":0,"parameters":[
+				1,
+				true
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"企劃　咕咕咕\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"主要製作　咕咕咕\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"協力　天使蛋糕\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"戰鬥演出　攸藍\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"美術　牙籤\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"腳本　黃金\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"ＵＩ介面　機器人Ｇ\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"特別感謝測試人員\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"未来ずら\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"但丁紅茶\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"也非常感謝能夠玩到這邊的您\""
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				180,
+				false
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"T1_UTL_end",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				180,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				1,
+				2,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　　　　　\\C[5]外傳　仰望過去的殉道者　FIN"
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":354,"indent":0,"parameters":[
 			]},
 			{"code":281,"indent":0,"parameters":[
 				0
-			]},
-			{"code":354,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

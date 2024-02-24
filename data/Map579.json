@@ -1757,7 +1757,6 @@
 					{"code":4,"indent":null},
 					{"code":4,"indent":null},
 					{"code":4,"indent":null},
-					{"code":4,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
@@ -1776,8 +1775,13 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
 			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
@@ -1855,6 +1859,14 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":144},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":201,"indent":0,"parameters":[
+				0,
+				579,
+				8,
+				11,
+				8,
+				0
+			]},
 			{"code":281,"indent":0,"parameters":[
 				1
 			]},
@@ -1917,8 +1929,8 @@
 			]},
 			{"code":322,"indent":0,"parameters":[
 				31,
-				"BLR_Yuter_MV10",
-				0,
+				"BLR_BlackLion",
+				5,
 				"BLR_31_1",
 				0,
 				"YT_1"
@@ -1967,7 +1979,7 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"等我找到她以後，再帶她來看你們吧？"
+				"\\TXTCENTER:\"等我找到她以後，再帶她來看你們吧？\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
