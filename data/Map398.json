@@ -2511,7 +2511,7 @@
 	0,
 	0,
 	0,
-	250,
+	0,
 	243,
 	244,
 	250,
@@ -3611,7 +3611,7 @@
 	0,
 	185,
 	185,
-	134,
+	250,
 	130,
 	143,
 	131,
@@ -7879,6 +7879,36 @@
 			{"code":655,"indent":0,"parameters":[
 				"}"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"{ let sc=SceneManager._scene,sp=sc&&sc._chr2sp&&sc._chr2sp.get($gameMap._events[9]); if(sp){ let scale=1; if(AudioManager._bgmBuffer&&AudioManager._bgmBuffer._sourceNode){"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let analyser=window.analyser; if(!analyser||window._lastSource!==AudioManager._bgmBuffer._sourceNode){"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"analyser=window.analyser=WebAudio._context.createAnalyser();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"analyser.fftSize=2048; analyser.minDecibels=-255; analyser.maxDecibels=255; analyser.smoothingTimeConstant=0.125;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"(window._lastSource=AudioManager._bgmBuffer._sourceNode).connect(analyser);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"} let dataArray=new Uint8Array(analyser.frequencyBinCount);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"analyser.getByteTimeDomainData(dataArray);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let c=0; for(let x=0,xs=dataArray.length;x!==xs;++x) c=Math.max(c,dataArray[x]);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"scale=c/128;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"} sp.scale.set(scale); } }"
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -7916,7 +7946,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":37,"y":5},
 	{"id":9,"name":"EV009","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":134,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameTemp._selBgms全List=$gameTemp._selBgms全List||[\"03_Adventurers.ogg\",\"03_Altar_of_Darkness.ogg\",\"03_Ancient_Castle.ogg\",\"03_A_Gentle_Breeze.ogg\",\"03_A_Hero's_Return.ogg\",\"03_Battle's_Advent.ogg\",\"03_Battle_Against_the_Demon.ogg\",\"03_Battle_to_the_Max.ogg\",\"03_Cathedral.ogg\",\"03_Chasing_Fortune.ogg\",\"03_Childhood_Memories.ogg\",\"03_Church.ogg\",\"03_Cybercity.ogg\",\"03_Deserted_Mansion.ogg\",\"03_Dreamy_Daze.ogg\",\"03_Endless_Battle.ogg\",\"03_Fantasy_Forest.ogg\",\"03_Fountain_of_Solace.ogg\",\"03_Ice_Labyrinth.ogg\",\"03_Lonely_Departure.ogg\",\"03_March_of_the_Tiny_Soldier.ogg\",\"03_Otherworldly_Corridor.ogg\",\"03_Panic.ogg\",\"03_Party_at_the_Royal_Palace.ogg\",\"03_Passage_of_Eternal_Times.ogg\",\"03_Snow_Town.ogg\",\"03_Sorrow.ogg\",\"03_Suspense.ogg\",\"03_The_Calm.ogg\",\"03_The_Colosseum.ogg\",\"03_The_Final_Battle.ogg\",\"03_Transcending_Memory.ogg\",\"03_Valley_Village.ogg\",\"03_Wings_to_the_sky.ogg\",\"1神秘洞.ogg\",\"1開頭問題測驗.ogg\",\"1龍之谷.ogg\",\"2000_Battle1.ogg\",\"2000_Battle3.ogg\",\"2000_Blackmarket.ogg\",\"2000_Distress.ogg\",\"2000_Ending3.ogg\",\"2000_Fairy2.ogg\",\"2000_Field2.ogg\",\"2000_Field4.ogg\",\"2000_Opening1.ogg\",\"2000_Ordeal.ogg\",\"2000_Peace.ogg\",\"2000_Shop3.ogg\",\"2000_Thief.ogg\",\"2000_Town1.ogg\",\"2000_Town2.ogg\",\"2000_Town3.ogg\",\"2000_Village1.ogg\",\"2000_Village2.ogg\",\"2003_Mystery_3.ogg\",\"2003日光村落.ogg\",\"21 Advancing sea_MV.ogg\",\"22 Cave where demon lives_MV.ogg\",\"23 Disquieting dungeon_MV.ogg\",\"24 Dark cloud tower_MV.ogg\",\"25 Mining point_MV.ogg\",\"26 To the last fight_MV.ogg\",\"30 Troops of imminent darkness_MV.ogg\",\"32 Dance party of blessing_MV.ogg\",\"35 Spooky house_MV.ogg\",\"36 The misfortune appeared_MV.ogg\",\"39 Thinks backward_MV.ogg\",\"40 Something is born_MV.ogg\",\"Battle-RPGmaker_2000boss03_loop.ogg\",\"Battle4.ogg\",\"Battle6.ogg\",\"battle_ver01.ogg\",\"battle_ver02.ogg\",\"battle_ver03.ogg\",\"battle_ver04.ogg\",\"battle_ver05.ogg\",\"battle_ver06.ogg\",\"BOSS2.ogg\",\"Castle.ogg\",\"Church.ogg\",\"Dungeon 1.ogg\",\"Dungeon 2.ogg\",\"Dungeon 4.ogg\",\"Dungeon4.ogg\",\"Dungeon5.ogg\",\"Dungeon6.ogg\",\"Field3.ogg\",\"Field4.ogg\",\"FinalChain Summoning.ogg\",\"fsm04_Battle04.ogg\",\"fsm04_Dungeon01.ogg\",\"fsm04_Dungeon02.ogg\",\"fsm04_Scene02.ogg\",\"fsm04_Theme03.ogg\",\"fsm04_Theme04.ogg\",\"fsm04_Town03.ogg\",\"G-sound_hcx02.ogg\",\"G-sound_wara_wara.ogg\",\"Liveliness.ogg\",\"look.ogg\",\"LookEX.ogg\",\"m-art_Abyss.ogg\",\"m-art_Alraune.ogg\",\"m-art_BattleOpera.ogg\",\"m-art_BloodySword.ogg\",\"m-art_CallMyName.ogg\",\"m-art_Changed.ogg\",\"m-art_ClownRidicule.ogg\",\"m-art_ConspiracyCourt.ogg\",\"m-art_Cristea.ogg\",\"m-art_DearMyElisa.ogg\",\"m-art_Desert.ogg\",\"m-art_Doctrine.ogg\",\"m-art_DoYouHear.ogg\",\"m-art_DreamFeeling.ogg\",\"m-art_Drop.ogg\",\"m-art_DropsFallingIntoTheVoid.ogg\",\"m-art_EndOfMagic.ogg\",\"m-art_ESPLab.ogg\",\"m-art_Featherland.ogg\",\"m-art_Flame.ogg\",\"m-art_FlowerFestival.ogg\",\"m-art_FloweringHill.ogg\",\"m-art_Flutist.ogg\",\"m-art_ForceOfWill.ogg\",\"m-art_Fractal.ogg\",\"m-art_FussPanic.ogg\",\"m-art_Holybell.ogg\",\"m-art_Hope.ogg\",\"m-art_I'mWithYou.ogg\",\"m-art_InquisitorOfSalem.ogg\",\"m-art_IntoTheWonderland.ogg\",\"m-art_Intrigue.ogg\",\"m-art_Korpokkur.ogg\",\"m-art_LastWitch.ogg\",\"m-art_LiarFairy.ogg\",\"m-art_Mercedes.ogg\",\"m-art_MineAndMinecart.ogg\",\"m-art_Miner'sHoliday.ogg\",\"m-art_MonsterInMe.ogg\",\"m-art_NightmareOfInternalOrgans.ogg\",\"m-art_PrimitiveCurse.ogg\",\"m-art_Principia.ogg\",\"m-art_Psycomachia.ogg\",\"m-art_RedBrick.ogg\",\"m-art_Remember.ogg\",\"m-art_RulingStaff.ogg\",\"m-art_SekhetHetspet.ogg\",\"m-art_Siesta.ogg\",\"m-art_SkyFellInSea.ogg\",\"m-art_SkyInPuddle.ogg\",\"m-art_SnowyNight.ogg\",\"m-art_Spelunker.ogg\",\"m-art_Stargazer.ogg\",\"m-art_The11thLilith.ogg\",\"m-art_TheDestinationOfTheSoul.ogg\",\"m-art_TheLightsInTheSkyAreStars.ogg\",\"m-art_Thread.ogg\",\"m-art_Trial.ogg\",\"m-art_Umikaji.ogg\",\"m-art_UndergroundInvasion.ogg\",\"m-art_WhisperOfRune.ogg\",\"m-art_WineGlassAndLies.ogg\",\"Panic.ogg\",\"reminiscence_loop.ogg\",\"Scene1.ogg\",\"Scene2.ogg\",\"Scene3.ogg\",\"Scene4.ogg\",\"Scene5.ogg\",\"Scene6.ogg\",\"Scene7.ogg\",\"Scene8.ogg\",\"Theme 1.ogg\",\"Theme3.ogg\",\"Theme4.ogg\",\"Theme5.ogg\",\"Town Theme.ogg\",\"Town3.ogg\",\"Town5.ogg\",\"Town6.ogg\",\"Town7.ogg\",\"Town8.ogg\",\"Vehicle_1_2.ogg\",\"Vehicle_2_2.ogg\",\"Vehicle_3_2.ogg\",\"Wingless_Battle-Demonic_loop.ogg\",\"Wingless_Battle-HolyBeast.ogg\",\"Wingless_Battle-ricercare_loop.ogg\",\"Wingless_Battle-SilverMoon_loop.ogg\",\"Wingless_Battle-WOLF_loop.ogg\",\"Wingless_Dungeon-Cave_loop.ogg\",\"Wingless_gag_loop.ogg\",\"Wingless_hotarumichi_loop.ogg\",\"Wingless_integral-one-material_loop.ogg\",\"Wingless_Remotest-Liblary_loop.ogg\",\"Wingless_starry-night_loop.ogg\",\"Wingless_Undersea-palace_loop.ogg\",\"妖精1.ogg\",\"安樂1.ogg\",\"怒.ogg\",\"慶人終隊.ogg\",\"探索.ogg\",\"村3.ogg\",\"村A1.ogg\",\"沙漠戰鬥.ogg\",\"淒厲.ogg\",\"船1.ogg\",\"親吻死者.ogg\",\"迷宮1.ogg\",\"魔王.ogg\",\"魔王魂  ファンタジー15.ogg\",\"魔王魂 旧ゲーム音楽 戦闘曲26.ogg\"];"
 			]},
