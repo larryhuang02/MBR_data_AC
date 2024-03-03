@@ -393483,6 +393483,20 @@
 	],"x":13,"y":157},
 	{"id":4,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"localStorage.getItem('俯瞰doing')"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"俯瞰END"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"localStorage.setItem('俯瞰doing',1);"
+			]},
 			{"code":355,"indent":0,"parameters":[
 				"{ let sp=new Sprite_Minimap();"
 			]},
@@ -393517,7 +393531,10 @@
 				"{ let s=1.0/256,r=0,stopCnt=90,started=false;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"$gameScreen.handmap_show(s,true,4);"
+				"$gameScreen.handmap_clearConf();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameScreen.handmap_show(s,true,1);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"SceneManager.add_additionalUpdate_scene(()=>{"
@@ -393542,6 +393559,21 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
+			]},
+			{"code":118,"indent":0,"parameters":[
+				"俯瞰END"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"localStorage.removeItem('俯瞰doing');"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SceneManager._scene.startFadeIn(1,0);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameScreen._tone=[0,0,0,0];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameScreen.startFadeIn(1);"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
