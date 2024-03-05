@@ -4160,7 +4160,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":349,"atypeId":12,"description":"「法系衣服」防禦、魔防+60，迴避、魔迴+10%，戰鬥開始獲得『白虎迅』\n※白虎迅：速度*2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
+	{"id":349,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+100，迴避、魔迴+10%，戰鬥開始獲得『白虎迅』\n※白虎迅：速度*2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0.1}
 	],"iconIndex":139,"name":"白虎聖袍","note":"<開場狀態:[[284,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors349.txt>","params":[
@@ -4169,18 +4169,18 @@
 		0,
 		60,
 		0,
-		100,
+		60,
 		0,
 		0
 	],"price":0},
-	{"id":350,"atypeId":12,"description":"「法系衣服」防禦、魔防+80，戰鬥開始時獲得『玄武盾』\n※玄武盾：物理/魔法傷害-20%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
+	{"id":350,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+120，戰鬥開始時獲得『玄武盾』\n※玄武盾：物理/魔法傷害-20%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
 	],"iconIndex":139,"name":"玄武聖袍","note":"<開場狀態:[[282,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors350.txt>","params":[
 		0,
 		0,
 		0,
 		80,
 		0,
-		80,
+		120,
 		0,
 		0
 	],"price":0},

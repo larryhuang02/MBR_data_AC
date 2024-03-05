@@ -4626,6 +4626,11 @@
 	],"x":18,"y":7},
 	{"id":2,"name":"EV002","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":121,"indent":0,"parameters":[
+				59,
+				59,
+				1
+			]},
 			{"code":134,"indent":0,"parameters":[
 				0
 			]},
@@ -4649,6 +4654,11 @@
 	],"x":18,"y":19},
 	{"id":3,"name":"EV003","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":121,"indent":0,"parameters":[
+				59,
+				59,
+				1
+			]},
 			{"code":134,"indent":0,"parameters":[
 				0
 			]},
@@ -4672,6 +4682,11 @@
 	],"x":17,"y":19},
 	{"id":4,"name":"EV004","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":121,"indent":0,"parameters":[
+				59,
+				59,
+				1
+			]},
 			{"code":134,"indent":0,"parameters":[
 				0
 			]},
@@ -5728,6 +5743,11 @@
 	],"x":18,"y":11},
 	{"id":18,"name":"EV018","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":228,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"!Crystal","direction":2,"pattern":1,"characterIndex":7},"list":[
+			{"code":121,"indent":0,"parameters":[
+				59,
+				59,
+				1
+			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
