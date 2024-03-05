@@ -1,7 +1,7 @@
 [
 	null,
 	{"id":1,"members":[
-		{"enemyId":541,"x":234,"y":382,"hidden":false}
+		{"enemyId":2,"x":111,"y":415,"hidden":false}
 	],"name":"ＴＥＳＴ","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":25,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -15,9 +15,9 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":7,"x":198,"y":361,"hidden":false},
-		{"enemyId":7,"x":255,"y":444,"hidden":false},
-		{"enemyId":7,"x":45,"y":444,"hidden":false}
+		{"enemyId":5,"x":84,"y":364,"hidden":false},
+		{"enemyId":5,"x":276,"y":355,"hidden":false},
+		{"enemyId":5,"x":168,"y":444,"hidden":false}
 	],"name":"TEST","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -51,12 +51,60 @@
 			{"code":318,"indent":0,"parameters":[0,4,0,120]},
 			{"code":318,"indent":0,"parameters":[0,4,0,121]},
 			{"code":318,"indent":0,"parameters":[0,4,0,122]},
+			{"code":318,"indent":0,"parameters":[0,4,0,122]},
+			{"code":318,"indent":0,"parameters":[0,5,0,285]},
+			{"code":318,"indent":0,"parameters":[0,5,0,286]},
+			{"code":318,"indent":0,"parameters":[0,5,0,287]},
+			{"code":318,"indent":0,"parameters":[0,5,0,288]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":3,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":296,"x":174,"y":444,"hidden":false}
+	],"name":"海龍","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":21,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":408,"indent":0,"parameters":["<offsetXY:0,60>"]},
+			{"code":408,"indent":0,"parameters":["<backs1:10,img/battlebacks1/Ship1.png|10,img/battlebacks1/Ship2.png|10,img/battlebacks1/Ship3.png>"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":355,"indent":0,"parameters":["$gameTemp.tmp=\"troop-\"+$gameTroop._troopId+\"-once\";"]},
+			{"code":355,"indent":0,"parameters":["BattleManager[$gameTemp.tmp]|=0; ++BattleManager[$gameTemp.tmp]; BattleManager[$gameTemp.tmp]&=15;"]},
+			{"code":111,"indent":0,"parameters":[12,"BattleManager[$gameTemp.tmp]"]},
+			{"code":115,"indent":1,"parameters":[]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":312,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":111,"indent":0,"parameters":[12,"$gameTemp[$gameTemp.tmp]"]},
+			{"code":115,"indent":1,"parameters":[]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":355,"indent":0,"parameters":["$gameTemp[$gameTemp.tmp]=true;"]},
+			{"code":313,"indent":0,"parameters":[0,0,0,100]},
+			{"code":313,"indent":0,"parameters":[0,1,0,1]},
+			{"code":313,"indent":0,"parameters":[0,2,0,1]},
+			{"code":318,"indent":0,"parameters":[0,11,0,193]},
+			{"code":318,"indent":0,"parameters":[0,7,0,157]},
+			{"code":318,"indent":0,"parameters":[0,7,0,150]},
+			{"code":318,"indent":0,"parameters":[0,7,0,152]},
+			{"code":318,"indent":0,"parameters":[0,7,0,153]},
+			{"code":318,"indent":0,"parameters":[0,7,0,154]},
+			{"code":318,"indent":0,"parameters":[0,7,0,155]},
+			{"code":318,"indent":0,"parameters":[0,7,0,151]},
+			{"code":318,"indent":0,"parameters":[0,7,0,161]},
+			{"code":318,"indent":0,"parameters":[0,4,0,118]},
+			{"code":318,"indent":0,"parameters":[0,4,0,119]},
+			{"code":318,"indent":0,"parameters":[0,4,0,120]},
+			{"code":318,"indent":0,"parameters":[0,4,0,121]},
+			{"code":318,"indent":0,"parameters":[0,4,0,122]},
+			{"code":318,"indent":0,"parameters":[0,4,0,122]},
+			{"code":318,"indent":0,"parameters":[0,5,0,285]},
+			{"code":318,"indent":0,"parameters":[0,5,0,286]},
+			{"code":318,"indent":0,"parameters":[0,5,0,287]},
+			{"code":318,"indent":0,"parameters":[0,5,0,288]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
