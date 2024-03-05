@@ -2540,7 +2540,7 @@
 	0,
 	0,
 	0,
-	210,
+	0,
 	0,
 	0,
 	0,
@@ -7294,7 +7294,7 @@
 				"我要怎麼過去"
 			]},
 			{"code":355,"indent":1,"parameters":[
-				"this._tttt=$dataItems.findIndex(obj=>obj&&obj.name.indexOf(\"黃金ㄉ魔法書\")>=0); $gameVariables.setValue(22,(this._aaaa=(this._tttt>=0 && !$gameParty.hasItem($dataItems[this._tttt])))?\"無法開啟也別擔心，給你有重點功能的魔法書。\": ($gameMap._events[this._eventId]._黃金房hint<1e4?\"提示倒數 \"+$gameMap._events[this._eventId]._黃金房hint:String.fromCharCode(0x200B)) );"
+				"this._tttt=$dataItems.findIndex(obj=>obj&&obj.name.indexOf(\"黃金ㄉ魔法書\")>=0); $gameVariables.setValue(22,(this._aaaa=(this._tttt>=0 && !$gameParty.hasItem($dataItems[this._tttt])))?\"無法開啟也別擔心，給你有重點功能的魔法書。\":String.fromCharCode(0x200B));"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_GOLD",
@@ -7313,95 +7313,6 @@
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"$gameSystem._黃金toldState|=0; $gameSystem._黃金toldState+=$gameSystem._黃金toldState<3;"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				12,
-				"0===$gameMap._events[this._eventId]._黃金房hint"
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"BLR_studio_GOLD",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"\\F[黃金]要看提示嗎?"
-			]},
-			{"code":102,"indent":2,"parameters":[
-				[
-					"Yes",
-					"No"
-				],
-				1,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":2,"parameters":[
-				0,
-				"Yes"
-			]},
-			{"code":355,"indent":3,"parameters":[
-				"$gameMap._events[this._eventId]._黃金房hint=undefined;"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\F[黃金]前面「給大家的話」裡面有幾個關鍵訊息："
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"1. \\UNDERLINESTART\\;去讀資工系\\UNDERLINEEND"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"2. \\UNDERLINESTART\\;開啟 DevTools 來玩\\UNDERLINEEND"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\F[黃金]DevTools 可以用來修改 Javascript 的變數，簡單來說就是去學 Javascript 語法，並修改玩家座標到那邊。"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"BLR_studio_GOLD",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\F[黃金]玩家座標的 x 與 y 分別儲存在"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"$gamePlayer._x 與 $gamePlayer._y 。"
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":402,"indent":2,"parameters":[
-				1,
-				"No"
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":404,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"if($gameMap._events[this._eventId]._黃金房hint===undefined) $gameMap._events[this._eventId]._黃金房hint=1e4;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"else if($gameMap._events[this._eventId]._黃金房hint>=1) --$gameMap._events[this._eventId]._黃金房hint;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"else $gameMap._events[this._eventId]._黃金房hint=0;"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},

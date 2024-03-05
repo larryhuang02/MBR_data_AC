@@ -18043,9 +18043,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_1",
@@ -18059,16 +18056,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18083,16 +18077,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18107,16 +18098,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18131,7 +18119,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -18141,6 +18129,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -18484,9 +18475,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_2",
@@ -18500,16 +18488,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18524,16 +18509,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18548,16 +18530,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18572,7 +18551,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -18582,6 +18561,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -18935,9 +18917,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_3",
@@ -18951,16 +18930,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18975,16 +18951,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -18999,16 +18972,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19023,7 +18993,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -19033,6 +19003,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -19273,9 +19246,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_4",
@@ -19289,16 +19259,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19313,16 +19280,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19337,16 +19301,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19361,7 +19322,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -19371,6 +19332,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -19647,9 +19611,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_5",
@@ -19663,16 +19624,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19687,16 +19645,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -19711,7 +19666,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -19721,6 +19676,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -19970,9 +19928,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_6",
@@ -19986,16 +19941,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20010,16 +19962,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20034,7 +19983,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -20044,6 +19993,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -20383,9 +20335,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_7",
@@ -20399,16 +20348,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20423,16 +20369,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20447,16 +20390,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20471,7 +20411,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -20481,6 +20421,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -20703,9 +20646,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_8",
@@ -20719,16 +20659,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -20743,7 +20680,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -20753,6 +20690,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -21315,9 +21255,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_10",
@@ -21331,16 +21268,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -21355,16 +21289,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -21379,7 +21310,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -21389,6 +21320,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -21743,9 +21677,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_11",
@@ -21759,16 +21690,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -21783,16 +21711,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -21807,16 +21732,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -21831,7 +21753,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -21841,6 +21763,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -22068,9 +21993,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_16",
@@ -22084,16 +22006,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -22108,16 +22027,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -22132,16 +22048,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -22156,16 +22069,13 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
 			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
@@ -22180,7 +22090,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -22190,6 +22100,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -22388,9 +22301,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"Actor_IceMoon",
@@ -22404,7 +22314,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -22414,6 +22324,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -22931,9 +22844,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"TK_Marme",
@@ -22947,7 +22857,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -22957,6 +22867,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -23188,9 +23101,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"TK_Tower2",
@@ -23204,7 +23114,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -23214,6 +23124,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -23367,9 +23280,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"TKch",
@@ -23383,7 +23293,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -23393,6 +23303,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
@@ -24737,9 +24650,6 @@
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ const cmd=this._list[this._index+1],ps=cmd.parameters; if(ps[1]){ if(!cmd.parameters1) cmd.parameters1=ps[1]; ps[1]='./'+cmd.parameters1; } }"
-			]},
 			{"code":231,"indent":1,"parameters":[
 				1,
 				"TKSUN",
@@ -24753,7 +24663,7 @@
 				0
 			]},
 			{"code":230,"indent":1,"parameters":[
-				1
+				30
 			]},
 			{"code":117,"indent":1,"parameters":[
 				260
@@ -24763,6 +24673,9 @@
 			]},
 			{"code":235,"indent":1,"parameters":[
 				1
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"start"
