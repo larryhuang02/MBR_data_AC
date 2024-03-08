@@ -9498,7 +9498,7 @@
 				"茶鴦"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「哇啊！維皮，你手上的是．．．」"
+				"「哇啊！維皮，你怎麼會在這裡！？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid05",
@@ -9510,7 +9510,7 @@
 				"茶鴦"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「變、變態！」"
+				"「你手上那個是．．．變、變態！」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Magic10","volume":90,"pitch":100,"pan":0}
@@ -9608,7 +9608,7 @@
 				"潼恩"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「維皮，你手上的是．．．」"
+				"「喂！\\N[1]，你怎麼會在這？你拿著什麼？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid03",
@@ -9704,7 +9704,7 @@
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid02",
-				0,
+				1,
 				0,
 				2
 			]},
@@ -9712,7 +9712,7 @@
 				"夢"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「哇啊！維皮，你手上的是．．．」"
+				"「維皮！你怎麼在這裡？你拿的那個是！？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_SaintessMaid02",
@@ -10337,22 +10337,20 @@
 				4,
 				false
 			]},
-			{"code":123,"indent":1,"parameters":[
-				"A",
-				0
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":2,"pattern":0,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"",
