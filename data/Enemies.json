@@ -23,25 +23,24 @@
 		30
 	],"meta":{"alter":"{\"cond\":4,\"atk\":30,\"mat\":100,\"def\":100,\"mdf\":100,\"agi\":10,\"luk\":10,\"hp\":1000,\"mp\":100}"}},
 	{"id":2,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1089}
+	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	]},
+		{"code":22,"dataId":0,"value":1},
+		{"code":14,"dataId":1,"value":1}
+	],"gold":0,"name":"TEST","note":"","params":[
+		99999,
+		9999,
+		1,
+		90,
+		1,
+		90,
+		999,
+		1
+	],"meta":{}},
 	{"id":3,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[
@@ -90,7 +89,7 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":14,"dataId":1,"value":1}
-	],"gold":0,"name":"打不死的慶記","note":"Hide HP","params":[
+	],"gold":0,"name":"打不死的慶記","note":"","params":[
 		99999,
 		0,
 		1,
@@ -1092,8 +1091,8 @@
 	],"exp":35,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":22,"dataId":4,"value":0.05},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1},
@@ -1141,8 +1140,8 @@
 	],"exp":40,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -1461,8 +1460,8 @@
 	],"exp":80,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.1},
+		{"code":22,"dataId":4,"value":-0.1},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -1512,7 +1511,7 @@
 	],"exp":200,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -1893,8 +1892,8 @@
 	],"exp":125,"traits":[
 		{"code":22,"dataId":0,"value":0.8},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":11,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2095,8 +2094,8 @@
 	],"exp":150,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2145,7 +2144,7 @@
 	],"exp":60,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2195,7 +2194,7 @@
 	],"exp":70,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2707,8 +2706,8 @@
 	],"exp":80,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2759,8 +2758,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2808,8 +2807,8 @@
 	],"exp":30,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.5},
-		{"code":22,"dataId":4,"value":0.5},
+		{"code":22,"dataId":1,"value":0.35},
+		{"code":22,"dataId":4,"value":0.35},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1},
@@ -3465,8 +3464,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3517,8 +3516,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3643,8 +3642,8 @@
 	],"exp":6000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -3944,8 +3943,8 @@
 	],"exp":200,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1.5},
 		{"code":11,"dataId":2,"value":1},
@@ -4998,8 +4997,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -5046,8 +5045,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -5094,8 +5093,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -6077,8 +6076,8 @@
 	],"exp":280,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -6128,8 +6127,8 @@
 	],"exp":50,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -6394,8 +6393,8 @@
 	],"exp":450,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8134,8 +8133,8 @@
 	],"exp":550,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8186,8 +8185,8 @@
 	],"exp":550,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8239,8 +8238,8 @@
 	],"exp":700,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8293,8 +8292,8 @@
 	],"exp":1200,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8507,8 +8506,8 @@
 	],"exp":500,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":-0.25},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -13090,8 +13089,8 @@
 	],"exp":300,"traits":[
 		{"code":22,"dataId":0,"value":0.8},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -13766,8 +13765,8 @@
 	],"exp":1000,"traits":[
 		{"code":22,"dataId":2,"value":0},
 		{"code":22,"dataId":0,"value":0.9},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -14359,8 +14358,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -14535,8 +14534,8 @@
 	],"exp":500,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -15239,8 +15238,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -16346,8 +16345,8 @@
 	],"exp":400,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -16605,8 +16604,8 @@
 	],"exp":1000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -16807,7 +16806,7 @@
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
 		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":5,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -20930,8 +20929,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"爸爸噴霧液體版","note":"<Sideview battler: Monster_Slime02>\n","params":[
 		1200,
 		700,
@@ -21005,8 +21003,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0.5}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"我有鞭毛","note":"<Sideview battler: Monster_Ghost02>","params":[
 		950,
 		700,
@@ -21082,8 +21079,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0.5}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"金色狂風","note":"<Sideview battler: Monster_Chimera02>","params":[
 		1500,
 		500,
@@ -21194,8 +21190,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0.5}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"掉地板的鯛魚燒","note":"<Sideview battler: Monster_Sahuagin01>","params":[
 		950,
 		500,
@@ -21231,8 +21226,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"我家黃臉婆","note":"<Sideview battler: Monster_Soul02>","params":[
 		1000,
 		700,
@@ -21268,8 +21262,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"中秋烤肉MVP","note":"<Sideview battler: Monster_Soul01>","params":[
 		1000,
 		700,
@@ -21306,8 +21299,7 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":1},
-		{"code":13,"dataId":1,"value":0}
+		{"code":11,"dataId":12,"value":1}
 	],"gold":0,"name":"惡魔","note":"<Sideview battler: Monster_ Demon01>\n","params":[
 		2000,
 		1000,
@@ -21796,9 +21788,7 @@
 		200
 	]},
 	{"id":502,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":3},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":2},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":4},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":501},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":502},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":573},
@@ -21830,7 +21820,6 @@
 		200
 	]},
 	{"id":503,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":4},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":510},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":512},
@@ -21862,12 +21851,9 @@
 		200
 	]},
 	{"id":504,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":519},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":585},
-		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":565},
-		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":566},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":506},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":565},
+		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":3,"skillId":566},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":568}
 	],"battlerHue":360,"battlerName":"Animal_10","dropItems":[
 		{"kind":1,"dataId":830,"denominator":1},
@@ -22144,8 +22130,7 @@
 		200
 	]},
 	{"id":511,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":32},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":33},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":258},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":535},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":516},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":989},
