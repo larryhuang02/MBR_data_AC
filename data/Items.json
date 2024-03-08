@@ -2067,7 +2067,7 @@
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"黑色藥水","note":"<speed:20000>","occasion":0,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"黑色藥水","note":"<speed:20000>","occasion":0,"price":350,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":808,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"\\NI[820]和\\NI[819]加入了\\NI[816]製成，因\\N[32]挑食的緣故\n\\N[31]才研究出來的，我方單體解除全異常狀態並增加TP 5 點。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2084,7 +2084,7 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0},
 		{"code":13,"dataId":0,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":366,"itypeId":1,"name":"黑色糖漿","note":"<speed:20000>","occasion":0,"price":1000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":366,"itypeId":1,"name":"黑色糖漿","note":"<speed:20000>","occasion":0,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":809,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"將\\NI[820]和\\NI[819]磨成粉精製而成的恢復藥粉，味道苦澀，\n\\N[32]堅決拒絕使用，我方全體解除全異常狀態。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2100,7 +2100,7 @@
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":894,"itypeId":1,"name":"黑色藥粉","note":"<speed:20000>\n\n\n","occasion":0,"price":1000,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":894,"itypeId":1,"name":"黑色藥粉","note":"<speed:20000>\n\n\n","occasion":0,"price":750,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
 	{"id":810,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"剛成立的光明教的教徒們四處販售的聖水，看起來跟普通的水\n沒兩樣，使用後能短時間內免疫即死狀態，並些微減輕受到的暗屬性傷害。","effects":[
 		{"code":21,"dataId":402,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":557,"itypeId":1,"name":"稀釋聖水","note":"<speed:20000>\n\n\n","occasion":1,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -2115,7 +2115,7 @@
 		{"code":34,"dataId":7,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":399,"itypeId":1,"name":"白蜜粉","note":"<speed:20000>\n\n\n","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":812,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"將\\NI[816]套入麥酒熬煮後精緻製成的糖果，含有酒精成分，\n增加5點TP，如果不擅長喝酒的人吃了的話可能會進入酒醉狀態。","effects":[
-		{"code":21,"dataId":3,"value1":0.3,"value2":0},
+		{"code":21,"dataId":3,"value1":0.5,"value2":0},
 		{"code":13,"dataId":0,"value1":5,"value2":0}
 	],"hitType":0,"iconIndex":579,"itypeId":1,"name":"麥酒珠","note":"<speed:20000>\n\n\n","occasion":1,"price":800,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":813,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"使用大量\\NI[816]製成的精製糖水，甜而不膩的味道讓\\N[32]比起\n烈酒更喜歡它，我方單體TP增加 20 點。","effects":[
