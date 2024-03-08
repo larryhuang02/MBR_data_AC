@@ -7877,7 +7877,7 @@
 	0,
 	0,
 	3528,
-	3513,
+	3526,
 	0,
 	3534,
 	0,
@@ -7957,7 +7957,7 @@
 	0,
 	0,
 	0,
-	3532,
+	0,
 	0,
 	0,
 	0,
@@ -38415,7 +38415,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
 	],"x":29,"y":0},
 	{"id":2,"name":"怪追人事件","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"// ==== ==== ===="
 			]},
