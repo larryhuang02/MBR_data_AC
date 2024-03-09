@@ -12063,7 +12063,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":985,"atypeId":1,"description":"「兼用頭盔」蘋薇非常愛惜的護目鏡，似乎是誰送給她的禮\n物，免疫失明、命中率+15%。","etypeId":3,"traits":[
+	{"id":985,"atypeId":1,"description":"「兼用頭盔」蘋薇非常愛惜的護目鏡，似乎是誰送給她的\n禮物，免疫失明、命中率+15%。","etypeId":3,"traits":[
 		{"code":14,"dataId":8,"value":1},
 		{"code":22,"dataId":0,"value":0.15}
 	],"iconIndex":3,"name":"護目鏡","note":"","params":[
@@ -12076,7 +12076,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":986,"atypeId":1,"description":"「兼用頭盔」魯蘭用來擋風遮雨用的小扁帽，防禦、魔防+15\n，受到的恢復效果小幅提升。","etypeId":3,"traits":[
+	{"id":986,"atypeId":1,"description":"「兼用頭盔」魯蘭用來擋風遮雨用的小扁帽，防禦、魔防+15，\n受到的恢復效果小幅提升。","etypeId":3,"traits":[
 		{"code":23,"dataId":2,"value":1.15}
 	],"iconIndex":130,"name":"鴨舌帽","note":"","params":[
 		0,
@@ -12572,8 +12572,7 @@
 		0
 	],"price":3000},
 	{"id":1026,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過緋之\n符文的銘文，免疫燃燒，戰鬥開始時TP增加20。","etypeId":2,"traits":[
-		{"code":14,"dataId":14,"value":1},
-		{"code":62,"dataId":3,"value":1}
+		{"code":14,"dataId":14,"value":1}
 	],"iconIndex":1521,"name":"緋之劍鞘","note":"<startTP:20>","params":[
 		0,
 		0,
@@ -12669,8 +12668,9 @@
 		0,
 		0
 	],"price":0},
-	{"id":1034,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大HP+50，緩慢恢復固定HP。","etypeId":5,"traits":[
-	],"iconIndex":145,"name":"紅石戒指","note":"<regenHP:40,0>","params":[
+	{"id":1034,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大HP+50，可自動恢復HP (中)。","etypeId":5,"traits":[
+		{"code":22,"dataId":7,"value":0.05}
+	],"iconIndex":145,"name":"紅石戒指","note":"","params":[
 		50,
 		0,
 		0,
@@ -12680,8 +12680,9 @@
 		0,
 		0
 	],"price":3000},
-	{"id":1035,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大MP+25，緩慢恢復固定MP。","etypeId":5,"traits":[
-	],"iconIndex":145,"name":"藍石戒指","note":"<regenMP:25,0>","params":[
+	{"id":1035,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大MP+25，可自動恢復MP (中)。","etypeId":5,"traits":[
+		{"code":22,"dataId":8,"value":0.05}
+	],"iconIndex":145,"name":"藍石戒指","note":"","params":[
 		0,
 		25,
 		0,
@@ -12691,8 +12692,8 @@
 		0,
 		0
 	],"price":3000},
-	{"id":1036,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，防禦、魔防+10，戰鬥開始時獲得3層『大地護盾』。","etypeId":5,"traits":[
-	],"iconIndex":147,"name":"堅實胸針","note":"<開場狀態:[[108,1]]>","params":[
+	{"id":1036,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，防禦、魔防+10，戰鬥開始時獲得1層『大地護盾』。","etypeId":5,"traits":[
+	],"iconIndex":147,"name":"堅實胸針","note":"<開場狀態:[[110,1]]>","params":[
 		0,
 		0,
 		0,
@@ -12721,9 +12722,10 @@
 		0,
 		0
 	],"price":3000},
-	{"id":1038,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，普通攻擊時額外增加兩次攻擊。","etypeId":5,"traits":[
-		{"code":34,"dataId":0,"value":2}
-	],"iconIndex":142,"name":"連擊手套","note":"","params":[
+	{"id":1038,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，爆擊率+10%、抗暴擊率+10%。","etypeId":5,"traits":[
+		{"code":22,"dataId":2,"value":0.1},
+		{"code":22,"dataId":3,"value":0.1}
+	],"iconIndex":142,"name":"會心手套","note":"","params":[
 		0,
 		0,
 		0,
@@ -12733,7 +12735,8 @@
 		0,
 		0
 	],"price":3000},
-	{"id":1039,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的斗篷，戴上去以後能獲得\n魔法的加護，戰鬥開始時大幅提升迴避率，但受到攻擊後會解除。","etypeId":5,"traits":[
+	{"id":1039,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的斗篷，戴上去以後能獲得\n魔法的加護，迴避率+15%。","etypeId":5,"traits":[
+		{"code":22,"dataId":1,"value":0.15}
 	],"iconIndex":152,"name":"風之斗篷","note":"<開場狀態:[[412,1]]>","params":[
 		0,
 		0,
@@ -12780,8 +12783,8 @@
 		25,
 		0
 	],"price":0},
-	{"id":1043,"atypeId":31,"description":"「兼用飾品」裂牙龍的牙齒，強大的龍威能夠嚇退弱小的\n敵人，攻擊+50，受到攻擊的機率下降。","etypeId":5,"traits":[
-		{"code":23,"dataId":0,"value":0.5}
+	{"id":1043,"atypeId":31,"description":"「兼用飾品」裂牙龍的牙齒，強大的龍威能夠嚇退弱小的\n敵人，攻擊+50，受到攻擊的機率大幅下降。","etypeId":5,"traits":[
+		{"code":23,"dataId":0,"value":0.25}
 	],"iconIndex":294,"name":"裂牙龍牙","note":"","params":[
 		0,
 		0,
@@ -12792,14 +12795,14 @@
 		0,
 		0
 	],"price":0},
-	{"id":1044,"atypeId":31,"description":"「兼用飾品」赤焰睺的角，能夠有效的增幅魔法攻擊力，是\n魔法師們的夢幻逸品，魔攻+50，魔攻的上限百分比小幅提升。","etypeId":5,"traits":[
-		{"code":21,"dataId":4,"value":1.1}
+	{"id":1044,"atypeId":31,"description":"「兼用飾品」赤焰睺的角，能夠有效的增幅攻擊力，是\n鬥士們的夢幻逸品，攻擊、魔攻+25，物攻的上限百分比小幅提升。","etypeId":5,"traits":[
+		{"code":21,"dataId":2,"value":1.15}
 	],"iconIndex":293,"name":"赤焰睺角","note":"","params":[
 		0,
 		0,
+		25,
 		0,
-		0,
-		50,
+		25,
 		0,
 		0,
 		0
@@ -12828,18 +12831,18 @@
 		{"code":22,"dataId":4,"value":0.1}
 	],"iconIndex":184,"name":"鈴蘭花","note":"","params":[
 		0,
+		50,
 		0,
 		0,
 		0,
 		0,
 		0,
-		0,
-		0
+		50
 	],"price":1000},
-	{"id":1047,"atypeId":31,"description":"「兼用飾品」經過精心編織的美麗草繩，似乎能帶來幸運，\n，可自動恢復TP (小)，獲得經驗值小幅提升，免疫麻痺。","etypeId":5,"traits":[
+	{"id":1047,"atypeId":31,"description":"「兼用飾品」經過精心編織的美麗草繩，似乎能帶來幸運，\n，可自動恢復TP (小)，獲得經驗值中幅提升，免疫麻痺。","etypeId":5,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":22,"dataId":9,"value":0.03},
-		{"code":23,"dataId":9,"value":1.15}
+		{"code":23,"dataId":9,"value":1.3}
 	],"iconIndex":215,"name":"幸運草繩","note":"","params":[
 		0,
 		0,
@@ -12850,7 +12853,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":1048,"atypeId":31,"description":"「兼用飾品」從GXPT2000探窟型身上拆下來的厚實鐵片，可\n以藏在盔甲內側用以增加厚度抵擋傷害，防禦、魔防+25，受攻擊率小幅提升。","etypeId":5,"traits":[
+	{"id":1048,"atypeId":31,"description":"「兼用飾品」從GXPT3000戰鬥型身上拆下來的厚實鐵片，可\n以藏在盔甲內側用以增加厚度抵擋傷害，防禦、魔防+25，受攻擊率小幅提升。","etypeId":5,"traits":[
 		{"code":23,"dataId":0,"value":3}
 	],"iconIndex":88,"name":"護心鎧","note":"","params":[
 		0,
@@ -12875,14 +12878,14 @@
 		50,
 		0
 	],"price":1000},
-	{"id":1050,"atypeId":1,"description":"「兼用頭盔」質化靈掉落的面具，上面的表情彷彿在嘲笑\n世界所有愚蠢之徒，魔防+50，魔防的上限百分比小幅提升。","etypeId":3,"traits":[
-		{"code":21,"dataId":5,"value":1.15}
+	{"id":1050,"atypeId":1,"description":"「兼用頭盔」質化靈掉落的面具，上面的表情彷彿在嘲笑\n世界所有愚蠢之徒，魔攻+50，魔攻的上限百分比小幅提升。","etypeId":3,"traits":[
+		{"code":21,"dataId":4,"value":1.15}
 	],"iconIndex":151,"name":"嘻笑面具","note":"","params":[
 		0,
 		0,
 		0,
 		0,
-		30,
+		50,
 		0,
 		0,
 		0

@@ -8979,7 +8979,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「相片？」"
+				"「畫像？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_4",
@@ -8991,7 +8991,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．是\\N[33]剛加入冒險團時拍的。」"
+				"「啊．．．是\\N[33]剛加入冒險團時替我們"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"畫的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_4",
@@ -9004,6 +9007,24 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「大家都笑得好開心呢。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_4",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那時候魯蘭還說，不知道該怎麼邊畫"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"邊想像自己也在畫面中的樣子，所以沒有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"把自己畫上去。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,

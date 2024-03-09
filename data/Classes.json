@@ -1034,7 +1034,8 @@
 		{"code":23,"dataId":6,"value":0.8},
 		{"code":31,"dataId":3,"value":1},
 		{"code":12,"dataId":2,"value":0},
-		{"code":12,"dataId":3,"value":0}
+		{"code":12,"dataId":3,"value":0},
+		{"code":13,"dataId":3,"value":0.3}
 	],"learnings":[
 		{"level":1,"note":"","skillId":1023},
 		{"level":1,"note":"","skillId":1024},

@@ -47451,6 +47451,20 @@
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_2",
 				5,
@@ -47560,7 +47574,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得了\\ni[837]、\\ni[838]。"
+				"獲得了\\ni[837]、\\ni[836]。"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
@@ -51703,44 +51717,74 @@
 				0,
 				817,
 				1,
-				100,
+				150,
 				false
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				818,
 				1,
-				100
+				150
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				819,
 				1,
-				50
+				100
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				820,
 				1,
-				50
+				100
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				816,
 				1,
-				150
+				200
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				824,
 				1,
-				50
+				100
 			]},
 			{"code":605,"indent":0,"parameters":[
 				0,
 				830,
 				1,
-				50
+				100
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"又是這傢伙，在冒險者之間臭名遠播的傢伙。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[2]賣材料都賣得特別貴，\\C[0]但只有他的貨源量最大，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"所以大家都跟他買。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				7,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"如果想省點錢的話，還是自己去採集吧。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -57627,7 +57671,46 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果買完了就回家吧。」"
+				"「有多餘的材料，應該也可以幫大家強化一下"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"裝備。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「如果事情都辦完了就回家吧。」"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameActors.actor(32).clearEquipments();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameActors.actor(33).clearEquipments();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameActors.actor(34).clearEquipments();"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[32]、\\N[34]、\\N[33]暫時離開隊伍！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"全部人身上的所有裝備已卸下！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\|\\|\\|\\^"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
@@ -61773,7 +61856,7 @@
 				"老年冒險者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「一瓶紅色藥水居然要賣我350\\g！根本就是"
+				"「一瓶紅色藥水居然要賣我250\\g！根本就是"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"奸商！」"
@@ -61845,7 +61928,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「350\\g我覺得還是合理的範圍內，想必是"
+				"「250\\g我覺得還是合理的範圍內，想必是"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"那位煉金師發現，自己賣的太便宜了，才打算"
@@ -61902,7 +61985,7 @@
 				"老年冒險者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「1、100\\g一瓶．．．」"
+				"「1、180\\g一瓶．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -61914,7 +61997,22 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「100\\G！？那完全遠低於行情啊！」"
+				"「180\\G！？根本比成本價還低了吧！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Package1",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"老年冒險者"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個煉金師的藥草都是自己採的，所以才有"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這種價格．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -62034,7 +62132,7 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「大叔，那300\\G呢，你願意收嗎？」"
+				"「大叔，那225\\G呢，你願意收嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Package1",
@@ -62046,7 +62144,7 @@
 				"老年冒險者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「300\\G！？收收收！只要有更便宜的管道"
+				"「225\\G！？收收收！只要有更便宜的管道"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"都可以，小哥你是有認識什麼煉金師嗎？」"
@@ -62274,7 +62372,7 @@
 				22,
 				3,
 				0,
-				300
+				225
 			]},
 			{"code":125,"indent":4,"parameters":[
 				0,
@@ -62447,7 +62545,7 @@
 				22,
 				3,
 				0,
-				300
+				225
 			]},
 			{"code":125,"indent":4,"parameters":[
 				0,
