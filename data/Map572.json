@@ -16485,7 +16485,7 @@
 				"天辰"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這都是老闆要我們做的，妖精小姐，"
+				"「這都是老闆要我們做的，妖精桑，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"可千萬不要錯怪好人啊。」"
@@ -17290,10 +17290,10 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以我們才鎖定方位，來這裡進行第一次的"
+				"「所以我們鎖定了方位，來這裡進行過第一次"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"探險。」"
+				"的探險。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -17647,7 +17647,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就連解決那個農夫以後，我也好好安葬了他，"
+				"「就連解決那個獵戶以後，我也好好安葬了他，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"並派人善待他的家人。」"
@@ -18853,6 +18853,18 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1_bleeding",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[34]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「果然，我就不該聽你把話說完！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_33_1_bleeding",
 				14,
 				0,
 				2
@@ -18876,7 +18888,7 @@
 				"\\N[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那我寧願奮戰到最後一刻！」"
+				"「那我寧願拚盡全力奮戰到最後一刻！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				7,
@@ -18925,7 +18937,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1_bleeding",
-				2,
+				3,
 				0,
 				2
 			]},
@@ -18933,7 +18945,19 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就算是死，也要讓他們付出代價！」"
+				"「一定要讓他們付出代價！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_32_1_bleeding",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[32]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而且，誰輸誰贏還不好說呢！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_3_bleeding",
@@ -18946,6 +18970,24 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「阿攸．．．你不要出手．．．」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_3_bleeding",
@@ -18970,24 +19012,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「你一定要\\.．\\.．\\.．\\.\\|\\{活下去！\\}」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				1,
-				true
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_bleeding",
@@ -19029,230 +19053,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\{\\{「快逃！！！」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「一定要找到那台機器人，那是你的夢想吧？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你是\\N[32]冒險團．．．存在過的證明。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「是我的．．．\\C[6]希望。\\C[0]」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				7,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我要你發誓！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「不論將來發生什麼事．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				7,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「你都一定．．．會完成你的夢想！」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				14,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_32_1_bleeding",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[32]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\{「快給我發誓！」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				15,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				12,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				12,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「我．．．發誓．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
-			]},
-			{"code":205,"indent":0,"parameters":[
-				27,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_33_1_bleeding",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[34]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「飯桶．．．」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				27,
-				8,
-				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_33_1_bleeding",
-				4,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[34]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「在\\N[32]冒險團，其實我很開心．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_33_1_bleeding",
-				7,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[34]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「在最後，告訴妳真心話，算是特別優待喔？」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				true
+				"「快走！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1_bleeding",
@@ -19264,7 +19065,7 @@
 				"\\N[34]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不要走神！要上了！」"
+				"「喂！不要走神！要上了！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
