@@ -12208,7 +12208,7 @@
 				"「我們把牛魔處理掉了，這是他的牛角，麻煩"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"您確認一下。」"
+				"你確認一下。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_KIRO",
@@ -12357,10 +12357,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「我們把牛魔處理掉了，這是他的牛角，麻煩"
+				"「我們把金鄉騎士處理掉了，這是他的徽章，"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"您確認一下。」"
+				"麻煩你確認一下。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_KIRO",
@@ -12509,10 +12509,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"「我們把牛魔處理掉了，這是他的牛角，麻煩"
+				"「我們把質化靈處理掉了，這是他的面具，"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"您確認一下。」"
+				"麻煩你確認一下。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"BLR_KIRO",
@@ -15652,7 +15652,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":66},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":61},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -16483,7 +16483,7 @@
 				"「畢竟裝備提升的沒有很明顯，但是藥水"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"卻很重要，裝備還是有餘韻再強化好了。」"
+				"卻很重要，裝備還是有餘裕再強化好了。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

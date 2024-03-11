@@ -7183,7 +7183,7 @@
 				"$gameMap._interpreter.setWaitMode('video');"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid04.webm\");"
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid04.mp4\");"
 			]},
 			{"code":223,"indent":2,"parameters":[
 				[
@@ -7218,7 +7218,7 @@
 				"$gameMap._interpreter.setWaitMode('video');"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid03.webm\");"
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid03.mp4\");"
 			]},
 			{"code":223,"indent":2,"parameters":[
 				[
@@ -7253,7 +7253,7 @@
 				"$gameMap._interpreter.setWaitMode('video');"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid02.webm\");"
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid02.mp4\");"
 			]},
 			{"code":223,"indent":2,"parameters":[
 				[
@@ -7288,7 +7288,7 @@
 				"$gameMap._interpreter.setWaitMode('video');"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid01.webm\");"
+				"Graphics.playVideo(\"movies/anim_BLR_SaintessMaid01.mp4\");"
 			]},
 			{"code":223,"indent":2,"parameters":[
 				[

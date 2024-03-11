@@ -23,24 +23,25 @@
 		30
 	],"meta":{"alter":"{\"cond\":4,\"atk\":30,\"mat\":100,\"def\":100,\"mdf\":100,\"agi\":10,\"luk\":10,\"hp\":1000,\"mp\":100}"}},
 	{"id":2,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1089}
-	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
+	],"battlerHue":0,"battlerName":"","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1},
-		{"code":14,"dataId":1,"value":1}
-	],"gold":0,"name":"TEST","note":"","params":[
-		99999,
-		9999,
-		1,
-		90,
-		1,
-		90,
-		999,
-		1
-	],"meta":{}},
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":31,"dataId":1,"value":0}
+	],"gold":0,"name":"","note":"","params":[
+		100,
+		0,
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+	]},
 	{"id":3,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[
@@ -89,7 +90,7 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":14,"dataId":1,"value":1}
-	],"gold":0,"name":"打不死的慶記","note":"","params":[
+	],"gold":0,"name":"打不死的慶記","note":"Hide HP","params":[
 		99999,
 		0,
 		1,
@@ -1091,8 +1092,8 @@
 	],"exp":35,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1},
@@ -1140,8 +1141,8 @@
 	],"exp":40,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":-0.15},
-		{"code":22,"dataId":4,"value":-0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -1460,8 +1461,8 @@
 	],"exp":80,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":-0.1},
-		{"code":22,"dataId":4,"value":-0.1},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -1511,7 +1512,7 @@
 	],"exp":200,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -1892,8 +1893,8 @@
 	],"exp":125,"traits":[
 		{"code":22,"dataId":0,"value":0.8},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":11,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2094,8 +2095,8 @@
 	],"exp":150,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":-0.15},
-		{"code":22,"dataId":4,"value":-0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2144,7 +2145,7 @@
 	],"exp":60,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2194,7 +2195,7 @@
 	],"exp":70,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2706,8 +2707,8 @@
 	],"exp":80,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":22,"dataId":4,"value":0.05},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2758,8 +2759,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":22,"dataId":4,"value":0.05},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2807,8 +2808,8 @@
 	],"exp":30,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.35},
-		{"code":22,"dataId":4,"value":0.35},
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":4,"value":0.5},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1},
@@ -3464,8 +3465,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3516,8 +3517,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3642,8 +3643,8 @@
 	],"exp":6000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":-0.25},
-		{"code":22,"dataId":4,"value":-0.25},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -3943,8 +3944,8 @@
 	],"exp":200,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":-0.15},
-		{"code":22,"dataId":4,"value":-0.15},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1.5},
 		{"code":11,"dataId":2,"value":1},
@@ -4997,8 +4998,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -5045,8 +5046,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -5093,8 +5094,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -6076,8 +6077,8 @@
 	],"exp":280,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -6127,8 +6128,8 @@
 	],"exp":50,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -6393,8 +6394,8 @@
 	],"exp":450,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8133,8 +8134,8 @@
 	],"exp":550,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8185,8 +8186,8 @@
 	],"exp":550,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8238,8 +8239,8 @@
 	],"exp":700,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8292,8 +8293,8 @@
 	],"exp":1200,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -8506,8 +8507,8 @@
 	],"exp":500,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":-0.25},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -13089,8 +13090,8 @@
 	],"exp":300,"traits":[
 		{"code":22,"dataId":0,"value":0.8},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":-0.25},
-		{"code":22,"dataId":4,"value":-0.25},
+		{"code":22,"dataId":1,"value":0},
+		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -13765,8 +13766,8 @@
 	],"exp":1000,"traits":[
 		{"code":22,"dataId":2,"value":0},
 		{"code":22,"dataId":0,"value":0.9},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -14358,8 +14359,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -14534,8 +14535,8 @@
 	],"exp":500,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -15238,8 +15239,8 @@
 	],"exp":0,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -16345,8 +16346,8 @@
 	],"exp":400,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -16604,8 +16605,8 @@
 	],"exp":1000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -16806,7 +16807,7 @@
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0},
 		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":5,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},

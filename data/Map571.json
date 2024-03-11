@@ -28704,6 +28704,33 @@
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「對了，在來之前，我有幫大家保養了一下"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"裝備。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_32_1",
+				1,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[32]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哇！謝啦，愛死你了，阿攸寶貝。」"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
@@ -28764,6 +28791,21 @@
 			{"code":314,"indent":0,"parameters":[
 				0,
 				0
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chime1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"所有同伴的裝備在前段時間整備時已被全部卸下，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"請記得為每個同伴重新裝上裝備。"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,

@@ -268,12 +268,12 @@
 	1555,
 	1555,
 	1555,
+	1555,
+	1555,
+	1555,
+	1555,
+	1555,
 	7554,
-	7540,
-	7540,
-	7540,
-	7540,
-	7540,
 	7521,
 	7520,
 	7544,
@@ -292,13 +292,13 @@
 	7242,
 	7242,
 	7242,
-	7242,
-	7536,
-	7520,
-	7520,
-	7520,
-	7520,
-	7520,
+	7246,
+	7554,
+	7540,
+	7540,
+	7540,
+	7540,
+	7521,
 	7520,
 	7520,
 	7544,
@@ -2748,7 +2748,7 @@
 	0,
 	0,
 	0,
-	0,
+	10,
 	0,
 	0,
 	0,
@@ -4075,6 +4075,21 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"他就會進行待機，這點要特別注意。\\C[0]」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Bunny Girls",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「\\C[6]而調整的地方就在技能的位置，將介面移到"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔物身上就可以看到了。\\C[0]」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Bunny Girls",
@@ -5685,6 +5700,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈，沒有問題。」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameParty.selectPack(0);"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
@@ -6047,7 +6065,30 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":24,"y":9},
-	null,
+	{"id":5,"name":"EV005","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Bunny Girls","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Bunny Girls",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"服務人員"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「初次加入會員的客人們請到這裡選定您的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"魔物夥伴喔！」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":22,"y":10},
 	{"id":6,"name":"EV006","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":205,"indent":0,"parameters":[
@@ -6106,10 +6147,10 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「現在如果跑進去的話，應該又會被那個小妹"
+				"「現在如果跑進去的話，應該又會被那個"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"妹逼著決鬥吧？」"
+				"小妹妹逼著決鬥吧？」"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -6174,7 +6215,331 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":20,"y":7},
-	null,
+	{"id":7,"name":"EV007","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Bunny Girls","direction":2,"pattern":1,"characterIndex":2},"list":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				543,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"服務人員"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「前面就是怪物競技場了，客人有什麼問題"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"想問嗎？」"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"我忘記遊戲方式了",
+					"請問怪物競技場的規則",
+					"我要怎麼獲取新技能",
+					"我沒有什麼想問的了"
+				],
+				2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"我忘記遊戲方式了"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「哎呀？客人忘記了嗎？那麼我再您講解一次"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"吧。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[3]我們怪物競技場的樂趣就在於，你不能直接"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"對怪物下達指令。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[3]而是要調整他攻擊方式的＂機率＂。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[3]這在我們業界裡面有個行話叫做\\c[6]＂權重＂\\c[0]。\\C[0]」"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Sleep","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				2,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「是不是有點聽不太懂呢？」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「我打個比方吧，\\C[6]假設你有兩個行動模式，一個"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"叫做攻擊，另一個則是防禦。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[6]我將攻擊調整成1，將防禦也調整成1，就表示"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"我有50%的機率使用攻擊，50%的機率使用防禦。\\C[0]」"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Flash1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				-1,
+				9,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_31_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「喔，我懂了，\\C[6]所以假設我如果將攻擊設定為3"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"防禦設定為2，就會有60%的機率使用攻擊，40%"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"的機率使用防禦。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「沒錯沒錯，你學得很快，\\C[6]順帶一提，如果"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"設定成0的話，他就不會使用那個行動。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[2]如果使用技能卻沒有MP和TP的話，寵物就會"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"放棄此次行動，例如我骰到了火球卻沒有MP，"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"他就會進行待機，這點要特別注意。\\C[0]」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「\\C[6]而調整的地方就在技能的位置，將介面移到"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"魔物身上就可以看到了。\\C[0]」"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"請問怪物競技場的規則"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「怪物競技場的規則嗎？很簡單。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「在競技場內會有各式各樣的訓練師，您可以"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"和他們進行對戰，獲勝後會獲得獎賞。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「將所有訓練師都打倒後就能夠挑戰我們"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"的冠軍，若是贏過冠軍那麼您就是新一任"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"的冠軍啦，很簡單吧。」"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				2,
+				"我要怎麼獲取新技能"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"櫃台小姐"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「只要客人您手上有代幣，就能夠到櫃檯"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"左手邊的轉蛋機獲取新技能喔。」"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				3,
+				"我沒有什麼想問的了"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Bunny Girls",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"服務人員"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「歡迎光臨怪物競技場。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":19,"y":8},
 	null,
 	null,
 	null,

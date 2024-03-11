@@ -3190,6 +3190,9 @@
 				2,
 				0
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"delete $gamePlayer._id_貪吃蛇_lastBody;"
+			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
@@ -4035,6 +4038,9 @@
 				0,
 				9
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"delete $gamePlayer._id_貪吃蛇_lastBody;"
+			]},
 			{"code":201,"indent":2,"parameters":[
 				0,
 				319,
@@ -4042,6 +4048,14 @@
 				22,
 				2,
 				0
+			]},
+			{"code":115,"indent":2,"parameters":[
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"although above cmd will NOT be executed"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"since there's a \"changing map in parallel\""
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -4071,13 +4085,16 @@
 				""
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"{ let evts=$gameMap._events,me=evts[this._eventId]; if(me.plyrx!==undefined && me.plyry!==undefined){ me.locate(me.plyrx,me.plyry); for(let evt=evts[$gamePlayer._id_貪吃蛇_lastBody],nxt;evt;evt=nxt){"
+				"{ let evts=$gameMap._events,me=evts[this._eventId]; if(me.plyrx!==undefined && me.plyry!==undefined){ me.locate(me.plyrx,me.plyry);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"for(let evt=evts[$gamePlayer._id_貪吃蛇_lastBody],speed=$gamePlayer.realMoveSpeed(),nxt;evt;evt=nxt){"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"nxt=evts[evt._id_貪吃蛇_preBody];"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"evt._moveSpeed=$gamePlayer.realMoveSpeed();"
+				"evt._moveSpeed=speed;"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"evt._last_x=evt.x;"
@@ -4095,7 +4112,10 @@
 				"evt._directionFix=1;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"} } }"
+				"}"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"} }"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				""
@@ -4677,6 +4697,20 @@
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":29,"parameters":[
+						5
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					5
+				],"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -4742,20 +4776,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"\\{\\{\\{\\{ＧＯ！\"\\^"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":29,"parameters":[
-						5
-					],"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":29,"parameters":[
-					5
-				],"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,

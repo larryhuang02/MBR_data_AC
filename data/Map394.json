@@ -7422,9 +7422,6 @@
 				0,
 				0
 			]},
-			{"code":355,"indent":7,"parameters":[
-				"$gameSystem.partyMembers_save(2);"
-			]},
 			{"code":129,"indent":7,"parameters":[
 				1,
 				1,
@@ -7878,11 +7875,75 @@
 				1,
 				false
 			]},
-			{"code":355,"indent":7,"parameters":[
-				"$gameSystem.partyMembers_load(2); $gamePlayer.refresh();"
+			{"code":129,"indent":7,"parameters":[
+				1,
+				0,
+				false
 			]},
-			{"code":655,"indent":7,"parameters":[
-				"$gameSystem.partyMembers_delete(2);"
+			{"code":129,"indent":7,"parameters":[
+				7,
+				0,
+				false
+			]},
+			{"code":129,"indent":7,"parameters":[
+				11,
+				0,
+				false
+			]},
+			{"code":129,"indent":7,"parameters":[
+				2,
+				0,
+				false
+			]},
+			{"code":129,"indent":7,"parameters":[
+				3,
+				0,
+				false
+			]},
+			{"code":111,"indent":7,"parameters":[
+				0,
+				44,
+				0
+			]},
+			{"code":108,"indent":8,"parameters":[
+				"重置"
+			]},
+			{"code":318,"indent":8,"parameters":[
+				0,
+				1,
+				1,
+				40
+			]},
+			{"code":318,"indent":8,"parameters":[
+				0,
+				1,
+				1,
+				41
+			]},
+			{"code":318,"indent":8,"parameters":[
+				0,
+				1,
+				1,
+				42
+			]},
+			{"code":318,"indent":8,"parameters":[
+				0,
+				1,
+				1,
+				43
+			]},
+			{"code":108,"indent":8,"parameters":[
+				"學到"
+			]},
+			{"code":318,"indent":8,"parameters":[
+				0,
+				1,
+				0,
+				40
+			]},
+			{"code":0,"indent":8,"parameters":[
+			]},
+			{"code":412,"indent":7,"parameters":[
 			]},
 			{"code":203,"indent":7,"parameters":[
 				8,
