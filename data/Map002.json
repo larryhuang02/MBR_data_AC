@@ -128,18 +128,52 @@
 			{"code":401,"indent":1,"parameters":[
 				"　　　　　　　　　　"
 			]},
-			{"code":102,"indent":1,"parameters":[
-				[
-					"確認完畢"
-				],
-				-1,
-				0,
-				2,
-				0
+			{"code":355,"indent":1,"parameters":[
+				"ImageManager.otherFiles_addLoad('data/Map513.json');"
 			]},
-			{"code":402,"indent":1,"parameters":[
+			{"code":112,"indent":1,"parameters":[
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
 				0,
-				"確認完畢"
+				1,
+				1
+			]},
+			{"code":401,"indent":2,"parameters":[
+				""
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\TXTCENTER:\"確認中\"\\..\\..\\..\\..\\..\\..\\^"
+			]},
+			{"code":111,"indent":2,"parameters":[
+				12,
+				"ImageManager.isReady()"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":413,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"ImageManager.otherFiles_getData('data/Map513.json')"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				3,
+				1,
+				1
+			]},
+			{"code":401,"indent":2,"parameters":[
+				""
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\TXTCENTER:\"確認完畢。\""
 			]},
 			{"code":201,"indent":2,"parameters":[
 				0,
@@ -151,7 +185,28 @@
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":404,"indent":1,"parameters":[
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				3,
+				1,
+				1
+			]},
+			{"code":401,"indent":2,"parameters":[
+				""
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\TXTCENTER:\"無法找到 DLC 。\""
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\TXTCENTER:\"即將返回標題。\""
+			]},
+			{"code":354,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
