@@ -3249,20 +3249,6 @@
 	0,
 	0,
 	0,
-	476,
-	477,
-	0,
-	0,
-	0,
-	0,
-	476,
-	477,
-	0,
-	0,
-	0,
-	0,
-	476,
-	477,
 	0,
 	0,
 	0,
@@ -3301,20 +3287,34 @@
 	0,
 	0,
 	0,
-	484,
-	960,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
 	485,
 	0,
 	0,
 	0,
-	484,
-	960,
+	0,
+	0,
 	485,
 	0,
 	0,
 	0,
-	484,
-	960,
+	0,
+	0,
 	485,
 	0,
 	0,
@@ -4430,7 +4430,7 @@
 	0,
 	0,
 	0,
-	0,
+	524,
 	256,
 	0,
 	0,
@@ -9216,15 +9216,42 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
-				7,
-				1,
+				5,
+				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"這是胡謅的吧．．．"
+				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"具我了解並沒有那個鬼懶教．．．"
+				"「這是胡謅的吧？具我了解，我沒在任何一本"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"古書上見到這個名字。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_KIRO",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"奇羅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「是嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_KIRO",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"奇羅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哎呀，這不重要啦。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_KIRO",
@@ -15698,6 +15725,24 @@
 			{"code":401,"indent":0,"parameters":[
 				"特此委託將其討伐。"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[21]據說去挑戰牠的冒險者給予的情報指出，牠害怕冰屬性傷害，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但若牠陷入凍結狀態時會陷入興奮模式，雖然會因為興奮作用"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"減少生命力，但攻擊力與速度會大幅提升，和牠戰鬥時請務必"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小心。"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
@@ -15824,6 +15869,21 @@
 			{"code":401,"indent":0,"parameters":[
 				"特此委託將其討伐。"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[21]據說去挑戰他的冒險者給予的情報指出，他在使用劍技後，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"有機會會越來越熟練，這時候盡量攻擊他，打斷他的節奏，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"若是讓他變得使劍使得越來越熟練，後果會不堪設想。"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
@@ -15949,6 +16009,24 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"讓地動城陷入恐慌之中。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[21]據說去挑戰牠的冒險者給予的情報指出，似乎會使用"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"特殊的魔法，對攻擊力高的冒險者造成更嚴重傷害的魔法、"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"暫時降低生命力上限的魔法等等，似乎還有其他的能力，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但可能還需要更多冒險者的經驗才能得知真相。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -16840,7 +16918,60 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":31,"y":11},
-	null,
+	{"id":48,"name":"EV039(同EV014)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":36},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Thieves","direction":4,"pattern":1,"characterIndex":7},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Thieves",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人戊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你知道嗎？並不是所有地圖的魔物都會追著"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你不放。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Thieves",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人戊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「有些地方的魔物溫馴，有些地方的魔物"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"則凶暴。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Thieves",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"賞金獵人戊"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「所以新人冒險者通常會選擇有許多溫馴魔物"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的地方進行鍛鍊。」"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":11,"y":7},
 	null,
 	null,
 	null,
