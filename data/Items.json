@@ -1631,7 +1631,7 @@
 	{"id":596,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"漂亮的鑽石，賣掉值很多錢","effects":[
 	],"hitType":0,"iconIndex":655,"itypeId":1,"name":"鑽石","note":"<道具額外文字檔:BLR_custom/detail/item/Items596.txt>","occasion":3,"price":50000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":597,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"只有透過秘技才能獲得的高價品，賣掉可獲得天價的錢","effects":[
-	],"hitType":0,"iconIndex":895,"itypeId":1,"name":"白粉","note":"<道具額外文字檔:BLR_custom/detail/item/Items596.txt>","occasion":3,"price":500000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":895,"itypeId":1,"name":"白粉","note":"<道具額外文字檔:BLR_custom/detail/item/Items597.txt>","occasion":3,"price":500000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":598,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":599,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
