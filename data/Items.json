@@ -2221,8 +2221,8 @@
 	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"元素大陸風土民情","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":846,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"紀載了高深煉金術的單頁筆記，將它內化消化以後能大幅\n提高魔法與煉金的能力。","effects":[
 	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賢者之章","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
-	{"id":847,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"在怪物競技場成為冠軍獲得的證明，是用來進化巨人誓言\n，讓其成為最強裝備的素材。","effects":[
-	],"hitType":0,"iconIndex":835,"itypeId":1,"name":"冠軍之證","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":847,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"討伐了眾多魔物後獲得的證明，是用來進化巨人誓言，\n讓其成為最強裝備的素材。","effects":[
+	],"hitType":0,"iconIndex":835,"itypeId":1,"name":"英雄之證","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":848,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"妖精森林守護神安特所產生的結晶，具有純淨的森林能量，\n能夠給予妖精們神聖的守護。","effects":[
 	],"hitType":0,"iconIndex":637,"itypeId":1,"name":"安特結晶","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":849,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"深居山中的獵戶們使用弓術的心得，裡面記載了如何才能將\n弓箭使得更加得心應手的重點紀錄。","effects":[

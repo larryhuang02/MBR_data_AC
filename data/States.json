@@ -1802,7 +1802,7 @@
 	],"iconIndex":82,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"幻影替身","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":438,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
 		{"code":22,"dataId":2,"value":0.25}
-	],"iconIndex":120,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"拔刀","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":120,"maxTurns":2,"message1":"","message2":"","message3":"","message4":"","minTurns":2,"motion":0,"name":"拔刀","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":439,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":76,"maxTurns":2,"message1":"","message2":"","message3":"","message4":"","minTurns":2,"motion":0,"name":"連攜","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":440,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
