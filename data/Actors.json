@@ -7,7 +7,7 @@
 		3,
 		0
 	],"faceIndex":0,"faceName":"BLR_01_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\"]>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。"},
+	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\"]>\n<男>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。"},
 	{"id":2,"battlerName":"SV_Lilia","characterIndex":1,"characterName":"BLR_Actor_Angel","classId":2,"equips":[
 		32,
 		662,
