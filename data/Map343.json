@@ -6602,6 +6602,9 @@
 					1
 				],"indent":null}
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameSystem.partyMembers_save(2);"
+			]},
 			{"code":129,"indent":2,"parameters":[
 				2,
 				1,
@@ -6725,25 +6728,11 @@
 					4
 				],"indent":null}
 			]},
-			{"code":129,"indent":2,"parameters":[
-				7,
-				0,
-				false
+			{"code":355,"indent":2,"parameters":[
+				"$gameSystem.partyMembers_load(2); $gamePlayer.refresh();"
 			]},
-			{"code":129,"indent":2,"parameters":[
-				11,
-				0,
-				false
-			]},
-			{"code":129,"indent":2,"parameters":[
-				2,
-				0,
-				false
-			]},
-			{"code":129,"indent":2,"parameters":[
-				3,
-				0,
-				false
+			{"code":655,"indent":2,"parameters":[
+				"$gameSystem.partyMembers_delete(2);"
 			]},
 			{"code":132,"indent":2,"parameters":[
 				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}

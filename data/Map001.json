@@ -1330,6 +1330,18 @@
 	null,
 	{"id":1,"name":"訊息","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"2000_Actor2","direction":2,"pattern":0,"characterIndex":0},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.partyMembers_save(2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameSystem.partyMembers_clearCurrent();"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameSystem.partyMembers_load(2); $gamePlayer.refresh();"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"$gameSystem.partyMembers_delete(2);"
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
