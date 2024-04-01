@@ -2041,17 +2041,17 @@
 	{"id":800,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"-攸特線專用道具-","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":801,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?150:300}","type":3,"variance":0},"description":"使用\\NI[817]加水精製而成的恢復藥水，味道苦澀，\n\\n[32]堅決拒絕飲用，我方單體HP回復 300 點。","effects":[
-	],"hitType":0,"iconIndex":321,"itypeId":1,"name":"紅色藥水","note":"<speed:20000>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":321,"itypeId":1,"name":"紅色藥水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items801.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":802,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?750:500}","type":3,"variance":0},"description":"\\NI[817]加入了\\NI[816]製成，因\\N[32]挑食的緣故\n\\N[31]才研究出來的，我方單體HP回復 500 點。","effects":[
-	],"hitType":0,"iconIndex":353,"itypeId":1,"name":"紅色糖漿","note":"<speed:20000>","occasion":0,"price":600,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":353,"itypeId":1,"name":"紅色糖漿","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items802.txt>","occasion":0,"price":600,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":803,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?125:250}","type":3,"variance":0},"description":"將\\NI[817]磨成粉精製而成的恢復藥粉，味道苦澀，\n\\N[32]堅決拒絕使用，我方全體HP回復 250 點。","effects":[
-	],"hitType":0,"iconIndex":881,"itypeId":1,"name":"紅色藥粉","note":"<speed:20000>\n\n\n","occasion":0,"price":1000,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":881,"itypeId":1,"name":"紅色藥粉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items803.txt>","occasion":0,"price":1000,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
 	{"id":804,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?100:200}","type":4,"variance":0},"description":"使用\\NI[818]加水精製而成的恢復藥水，味道苦澀，\n\\N[32]堅決拒絕飲用，我方單體MP回復 200 點。","effects":[
-	],"hitType":0,"iconIndex":329,"itypeId":1,"name":"藍色藥水","note":"<speed:20000>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":329,"itypeId":1,"name":"藍色藥水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items804.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":805,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?450:300}","type":4,"variance":0},"description":"\\NI[818]加入了\\NI[816]製成，因\\N[32]挑食的緣故\n\\N[31]才研究出來的，我方單體MP回復 300 點。","effects":[
-	],"hitType":0,"iconIndex":361,"itypeId":1,"name":"藍色糖漿","note":"<speed:20000>","occasion":0,"price":600,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":361,"itypeId":1,"name":"藍色糖漿","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items805.txt>","occasion":0,"price":600,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":806,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"{ const actorId=( b.actorId ? b.actorId() : 0 ); (actorId===32)?75:150}","type":4,"variance":0},"description":"將\\NI[818]磨成粉精製而成的恢復藥粉，味道苦澀，\n\\N[32]堅決拒絕使用，我方全體MP回復 150 點。","effects":[
-	],"hitType":0,"iconIndex":889,"itypeId":1,"name":"藍色藥粉","note":"<speed:20000>\n\n\n","occasion":0,"price":1000,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":889,"itypeId":1,"name":"藍色藥粉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items806.txt>","occasion":0,"price":1000,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
 	{"id":807,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"使用\\NI[820]和\\NI[819]加水精製而成的藥水，味道苦澀，\n\\N[32]堅決拒絕飲用，我方單體解除全異常狀態。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2067,7 +2067,7 @@
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"黑色藥水","note":"<speed:20000>","occasion":0,"price":350,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":334,"itypeId":1,"name":"黑色藥水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items806.txt>","occasion":0,"price":350,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":808,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"\\NI[820]和\\NI[819]加入了\\NI[816]製成，因\\N[32]挑食的緣故\n\\N[31]才研究出來的，我方單體解除全異常狀態並增加TP 5 點。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2084,7 +2084,7 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0},
 		{"code":13,"dataId":0,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":366,"itypeId":1,"name":"黑色糖漿","note":"<speed:20000>","occasion":0,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":366,"itypeId":1,"name":"黑色糖漿","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items808.txt>","occasion":0,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":809,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"將\\NI[820]和\\NI[819]磨成粉精製而成的恢復藥粉，味道苦澀，\n\\N[32]堅決拒絕使用，我方全體解除全異常狀態。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2100,10 +2100,10 @@
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":894,"itypeId":1,"name":"黑色藥粉","note":"<speed:20000>\n\n\n","occasion":0,"price":750,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":894,"itypeId":1,"name":"黑色藥粉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items809.txt>","occasion":0,"price":750,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
 	{"id":810,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"剛成立的光明教的教徒們四處販售的聖水，看起來跟普通的水\n沒兩樣，使用後能短時間內免疫即死狀態，並些微減輕受到的暗屬性傷害。","effects":[
 		{"code":21,"dataId":402,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":557,"itypeId":1,"name":"稀釋聖水","note":"<speed:20000>\n\n\n","occasion":1,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":557,"itypeId":1,"name":"稀釋聖水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items810.txt>","occasion":1,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":811,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"將\\NI[816]熬製後混合藥草磨碎製成的粉末，味道甜甜的具有療效，\n我方單體解除能力弱化狀態。","effects":[
 		{"code":34,"dataId":0,"value1":1,"value2":0},
 		{"code":34,"dataId":1,"value1":1,"value2":0},
@@ -2113,14 +2113,14 @@
 		{"code":34,"dataId":5,"value1":1,"value2":0},
 		{"code":34,"dataId":6,"value1":1,"value2":0},
 		{"code":34,"dataId":7,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":399,"itypeId":1,"name":"白蜜粉","note":"<speed:20000>\n\n\n","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":399,"itypeId":1,"name":"白蜜粉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items811.txt>","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":812,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"將\\NI[816]套入麥酒熬煮後精緻製成的糖果，含有酒精成分，\n增加5點TP，如果不擅長喝酒的人吃了的話可能會進入酒醉狀態。","effects":[
 		{"code":21,"dataId":3,"value1":0.5,"value2":0},
 		{"code":13,"dataId":0,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":579,"itypeId":1,"name":"麥酒珠","note":"<speed:20000>\n\n\n","occasion":1,"price":800,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":579,"itypeId":1,"name":"麥酒珠","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items812.txt>","occasion":1,"price":800,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":813,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"使用大量\\NI[816]製成的精製糖水，甜而不膩的味道讓\\N[32]比起\n烈酒更喜歡它，我方單體TP增加 20 點。","effects":[
 		{"code":13,"dataId":0,"value1":20,"value2":0}
-	],"hitType":0,"iconIndex":1608,"itypeId":1,"name":"蜂王水","note":"<speed:20000>\n\n\n","occasion":1,"price":2000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1608,"itypeId":1,"name":"蜂王水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items813.txt>","occasion":1,"price":2000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":814,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"混合了多種藥草與稀有藥草和\\NI[816]製成的七彩糖果，\\N[32]\n聲稱為了它可以付出所有，我方單體HP、MP回復 500 點並解除全異常狀態。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
@@ -2138,50 +2138,50 @@
 		{"code":22,"dataId":19,"value1":1,"value2":0},
 		{"code":11,"dataId":0,"value1":0,"value2":500},
 		{"code":12,"dataId":0,"value1":0,"value2":500}
-	],"hitType":0,"iconIndex":1651,"itypeId":1,"name":"彩虹糖","note":"<speed:20000>\n\n\n","occasion":1,"price":2500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1651,"itypeId":1,"name":"彩虹糖","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items814.txt>","occasion":1,"price":2500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":815,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":0},"description":"多種藥草精緻而成的救命丹，對\\N[31]而言還只是半成品，\n我方單體復活並回復HP、MP 100 點，但會永久減少10%HP上限。","effects":[
 		{"code":22,"dataId":1,"value1":1,"value2":0},
 		{"code":12,"dataId":0,"value1":0,"value2":100}
-	],"hitType":0,"iconIndex":302,"itypeId":1,"name":"百草丸","note":"<speed:20000>\n<ignoreIfDead>\n<effect_javascript:(function(s,t){ const paramId=0,decRate=0.1; t._paramPlus[paramId]-=~~((t.paramBase(paramId)+t.paramPlus(paramId))*decRate); })>","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":302,"itypeId":1,"name":"百草丸","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items815.txt>\n<ignoreIfDead>\n<effect_javascript:(function(s,t){ const paramId=0,decRate=0.1; t._paramPlus[paramId]-=~~((t.paramBase(paramId)+t.paramPlus(paramId))*decRate); })>","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":816,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"對身體負擔較少的香甜\\NI[816]，如果沒有這個，\\N[32]是絕對不\n肯喝下任何藥水的，我方單體TP恢復5點。","effects":[
 		{"code":13,"dataId":0,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":1606,"itypeId":1,"name":"蜂蜜","note":"<speed:20000>\n\n\n","occasion":1,"price":150,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1606,"itypeId":1,"name":"蜂蜜","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items816.txt>","occasion":1,"price":150,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":817,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"隨處可見的藥草，雖然嚼食後能治療傷口，但建議還是\n精製後再使用，我方單體HP回復 80 點。","effects":[
 		{"code":11,"dataId":0,"value1":0,"value2":80}
-	],"hitType":0,"iconIndex":1760,"itypeId":1,"name":"紅色藥草","note":"","occasion":0,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1760,"itypeId":1,"name":"紅色藥草","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items817.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":818,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"隨處可見的藥草，雖然嚼食後能恢復魔力，但建議還是\n精製後再使用，我方單體MP回復 80 點。","effects":[
 		{"code":12,"dataId":0,"value1":0,"value2":80}
-	],"hitType":0,"iconIndex":1761,"itypeId":1,"name":"藍色藥草","note":"","occasion":0,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1761,"itypeId":1,"name":"藍色藥草","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items818.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":819,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"隨處可見的藥草，具有清除穢物的功效，但需要經過精\n製才能使用。","effects":[
-	],"hitType":0,"iconIndex":276,"itypeId":1,"name":"綠色藥草","note":"","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":276,"itypeId":1,"name":"綠色藥草","note":"<道具額外文字檔:BLR_custom/detail/item/Items819.txt>","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":820,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"隨處可見的藥草，具有清除穢物的功效，但需要經過精\n製才能使用。","effects":[
-	],"hitType":0,"iconIndex":1762,"itypeId":1,"name":"黃色藥草","note":"","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1762,"itypeId":1,"name":"黃色藥草","note":"<道具額外文字檔:BLR_custom/detail/item/Items820.txt>","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":821,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"極其稀有的藥草，能夠強化並凝聚起所有藥草的藥效，\n但是沒辦法單獨進行使用。","effects":[
-	],"hitType":0,"iconIndex":1763,"itypeId":1,"name":"白色藥草","note":"","occasion":3,"price":500,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1763,"itypeId":1,"name":"白色藥草","note":"<道具額外文字檔:BLR_custom/detail/item/Items821.txt>","occasion":3,"price":500,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":822,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":823,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":824,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"隨處可見的\\NI[824]石，用來製作裝備的基本材料。","effects":[
-	],"hitType":0,"iconIndex":690,"itypeId":1,"name":"銅礦","note":"","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":690,"itypeId":1,"name":"銅礦","note":"<道具額外文字檔:BLR_custom/detail/item/Items824.txt>","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":825,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"較不常見的\\NI[825]石，用來製作裝備的基本材料。","effects":[
-	],"hitType":0,"iconIndex":701,"itypeId":1,"name":"鐵礦","note":"","occasion":3,"price":250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":701,"itypeId":1,"name":"鐵礦","note":"<道具額外文字檔:BLR_custom/detail/item/Items825.txt>","occasion":3,"price":250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":826,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"相當稀有的\\NI[826]石，用來製作裝備的高級材料。","effects":[
-	],"hitType":0,"iconIndex":703,"itypeId":1,"name":"銀礦","note":"","occasion":3,"price":1250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":703,"itypeId":1,"name":"銀礦","note":"<道具額外文字檔:BLR_custom/detail/item/Items826.txt>","occasion":3,"price":1250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":827,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"能夠吸收魔力的少見石頭，也能夠儲存魔力做為施法媒介使用。\n，戰鬥中每回合回復25MP，持續9回合。","effects":[
 		{"code":21,"dataId":432,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":663,"itypeId":1,"name":"藍晶石","note":"","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":663,"itypeId":1,"name":"藍晶石","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items827.txt>","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":828,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"能夠加速傷口癒合的少見石頭，只要捏碎就有效果，只要不是致命\n的傷勢都能恢復原狀，戰鬥中每回合回復50HP，持續9回合。","effects":[
 		{"code":21,"dataId":442,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":657,"itypeId":1,"name":"紅晶石","note":"","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":657,"itypeId":1,"name":"紅晶石","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items828.txt>","occasion":1,"price":500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":829,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":830,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"品質低劣的\\NI[830]，價格便宜，大部分的冒險者選擇使用\n的裝備材料。","effects":[
-	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"粗糙皮革","note":"<speed:20000>","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"粗糙皮革","note":"<道具額外文字檔:BLR_custom/detail/item/Items830.txt>","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":831,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"品質尚可的\\NI[831]，價格一般，稍微有錢的冒險者選擇使\n用的裝備材料。","effects":[
-	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"普通皮革","note":"<speed:20000>","occasion":3,"price":250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"普通皮革","note":"<道具額外文字檔:BLR_custom/detail/item/Items831.txt>","occasion":3,"price":250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":832,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"經過多次加工製成的\\NI[832]，高級的冒險者所選擇使用的\n高級素材。","effects":[
-	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"高級皮革","note":"<speed:20000>","occasion":3,"price":1250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"高級皮革","note":"<道具額外文字檔:BLR_custom/detail/item/Items832.txt>","occasion":3,"price":1250,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":833,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":834,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -2190,14 +2190,14 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":836,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"工地發的豐盛便當，有排骨和雞腿兩個主菜，在工地能吃上\n這樣的便當，應該就是人間美味了吧，使用後HP最大值提升50點。","effects":[
 		{"code":42,"dataId":0,"value1":50,"value2":0}
-	],"hitType":0,"iconIndex":1610,"itypeId":1,"name":"排骨便當加雞腿","note":"<speed:20000>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1610,"itypeId":1,"name":"排骨便當加雞腿","note":"<道具額外文字檔:BLR_custom/detail/item/Items836.txt>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":837,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"領班自掏腰包請客的飲料，據說是用多種藥草混合而成的藥\n酒，使用後MP最大值提升30點，福氣啦！","effects":[
 		{"code":42,"dataId":1,"value1":30,"value2":0}
-	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"阿比","note":"<speed:20000>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"阿比","note":"<道具額外文字檔:BLR_custom/detail/item/Items837.txt>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":838,"animationId":58,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":5,"variance":20},"description":"\\n[31]將\\NI[828]使用煉金術改造過後的戰鬥道具，能吸收隨機\n敵人100點左右的HP，連續三次，並將吸收的HP賦予給使用者。","effects":[
-	],"hitType":2,"iconIndex":318,"itypeId":1,"name":"吸血石","note":"<speed:20000>","occasion":1,"price":1000,"repeats":1,"scope":5,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":2,"iconIndex":318,"itypeId":1,"name":"吸血石","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items838.txt>","occasion":1,"price":1000,"repeats":1,"scope":5,"speed":0,"successRate":100,"tpGain":0},
 	{"id":839,"animationId":58,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":6,"variance":20},"description":"\\n[31]將\\NI[827]使用煉金術改造過後的戰鬥道具，能吸收隨機\n敵人100點左右的MP，連續三次，並將吸收的MP賦予給使用者。","effects":[
-	],"hitType":2,"iconIndex":318,"itypeId":1,"name":"吸魔石","note":"<speed:20000>","occasion":1,"price":1000,"repeats":3,"scope":5,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":2,"iconIndex":318,"itypeId":1,"name":"吸魔石","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items839.txt>","occasion":1,"price":1000,"repeats":3,"scope":5,"speed":0,"successRate":100,"tpGain":0},
 	{"id":840,"animationId":107,"consumable":true,"damage":{"critical":true,"elementId":12,"formula":"100","type":1,"variance":20},"description":"\\n[31]參考古代遺物製作出來，用來投擲用的爆裂武器，\n能給予敵人100點左右的固定傷害，並解除敵人所有能力上升狀態。","effects":[
 		{"code":33,"dataId":0,"value1":1,"value2":0},
 		{"code":33,"dataId":1,"value1":1,"value2":0},
@@ -2207,41 +2207,41 @@
 		{"code":33,"dataId":5,"value1":1,"value2":0},
 		{"code":33,"dataId":6,"value1":1,"value2":0},
 		{"code":33,"dataId":7,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":218,"itypeId":1,"name":"破勢彈","note":"<speed:20000>","occasion":1,"price":250,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":1,"iconIndex":218,"itypeId":1,"name":"破勢彈","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items8340.txt>","occasion":1,"price":250,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
 	{"id":841,"animationId":35,"consumable":true,"damage":{"critical":true,"elementId":12,"formula":"100","type":0,"variance":20},"description":"\\n[31]調和了多種藥草製成的催眠用藥粉，灑出來能暫時\n讓敵人無法獲得TP。","effects":[
 		{"code":21,"dataId":403,"value1":1,"value2":0}
-	],"hitType":2,"iconIndex":208,"itypeId":1,"name":"懶散粉末","note":"<speed:20000>","occasion":1,"price":1500,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":2,"iconIndex":208,"itypeId":1,"name":"懶散粉末","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items841.txt>","occasion":1,"price":1500,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
 	{"id":842,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":843,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的光明教設立初衷與所有教義內容的手冊，\n書背上寫著，如果對光明教有興趣，請洽冒險者公會奇羅。","effects":[
-	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"光明教宣傳手冊","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"光明教宣傳手冊","note":"<道具額外文字檔:BLR_custom/detail/item/Items843.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":844,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的所有煉金術知識，裡面寫的內容根本就不像\n是30秒內能夠讀完的，估計只是噱頭吧。","effects":[
-	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"30秒內參透煉金術","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"30秒內參透煉金術","note":"<道具額外文字檔:BLR_custom/detail/item/Items844.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":845,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"紀載了詳細的元素大陸風土民情的書籍，可以藉由它\n一窺元素大陸的所有人文地理。","effects":[
-	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"元素大陸風土民情","note":"","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":186,"itypeId":2,"name":"元素大陸風土民情","note":"<道具額外文字檔:BLR_custom/detail/item/Items845.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":846,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"紀載了高深煉金術的單頁筆記，將它內化消化以後能大幅\n提高魔法與煉金的能力。","effects":[
-	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賢者之章","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賢者之章","note":"<道具額外文字檔:BLR_custom/detail/item/Items846.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":847,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"討伐了眾多魔物後獲得的證明，是用來進化巨人誓言，\n讓其成為最強裝備的素材。","effects":[
-	],"hitType":0,"iconIndex":835,"itypeId":1,"name":"英雄之證","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":835,"itypeId":1,"name":"英雄之證","note":"<道具額外文字檔:BLR_custom/detail/item/Items847.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":848,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"妖精森林守護神安特所產生的結晶，具有純淨的森林能量，\n能夠給予妖精們神聖的守護。","effects":[
-	],"hitType":0,"iconIndex":637,"itypeId":1,"name":"安特結晶","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":637,"itypeId":1,"name":"安特結晶","note":"<道具額外文字檔:BLR_custom/detail/item/Items848.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":849,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"深居山中的獵戶們使用弓術的心得，裡面記載了如何才能將\n弓箭使得更加得心應手的重點紀錄。","effects":[
-	],"hitType":0,"iconIndex":190,"itypeId":1,"name":"獵戶心得","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":190,"itypeId":1,"name":"獵戶心得","note":"<道具額外文字檔:BLR_custom/detail/item/Items849.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":850,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"成為怪物競技場會員的資格證明，能夠憑藉此證在競技場內\n使役魔物進行酣暢淋漓的戰鬥。","effects":[
-	],"hitType":0,"iconIndex":188,"itypeId":2,"name":"怪物競技場會員證","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":188,"itypeId":2,"name":"怪物競技場會員證","note":"<道具額外文字檔:BLR_custom/detail/item/Items850.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":851,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"怪物競技場用來換取技能魔石所用的代幣。","effects":[
-	],"hitType":0,"iconIndex":314,"itypeId":1,"name":"競技場代幣","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":314,"itypeId":1,"name":"競技場代幣","note":"<道具額外文字檔:BLR_custom/detail/item/Items851.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":852,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"香噴噴的寵物飼料，使用後能隨機提升魔物的各項能力值。","effects":[
 		{"code":44,"dataId":222,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"魔物飼料袋","note":"\n\n","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"魔物飼料袋","note":"<道具額外文字檔:BLR_custom/detail/item/Items852.txt>","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":853,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"用來賭賽馬兌換獎勵的重要依據，人說十賭九輸，小賭怡情\n，大賭傷身，切記切記。","effects":[
-	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賽馬券","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"賽馬券","note":"<道具額外文字檔:BLR_custom/detail/item/Items853.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":854,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"用來賭賽馬兌換獎勵的重要依據，趕快拿去換成賞金吧！","effects":[
-	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"中獎的賽馬券","note":"\n\n","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":193,"itypeId":1,"name":"中獎的賽馬券","note":"<道具額外文字檔:BLR_custom/detail/item/Items854.txt>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":855,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":0,"variance":0},"description":"鬥螯蝦老闆的密製配方，只辣你口不辣你心，麻辣鮮香肉質\n鮮嫩，吃了還想再吃，使用後HP、MP最大值提升5點。","effects":[
 		{"code":42,"dataId":0,"value1":5,"value2":0},
 		{"code":42,"dataId":1,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"麻辣小螯蝦","note":"<speed:20000>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"麻辣小螯蝦","note":"<道具額外文字檔:BLR_custom/detail/item/Items855.txt>","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":856,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":857,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

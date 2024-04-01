@@ -5195,6 +5195,7 @@
 		{"code":230,"indent":0,"parameters":[30]},
 		{"code":250,"indent":0,"parameters":[{"name":"bones","volume":90,"pitch":50,"pan":0}]},
 		{"code":230,"indent":0,"parameters":[60]},
+		{"code":135,"indent":0,"parameters":[0]},
 		{"code":111,"indent":0,"parameters":[0,27,0]},
 		{"code":122,"indent":1,"parameters":[26,26,0,2,2,12]},
 		{"code":111,"indent":1,"parameters":[0,29,0]},
