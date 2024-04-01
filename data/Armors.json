@@ -4160,7 +4160,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":349,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+100，迴避、魔迴+10%，戰鬥開始獲得『白虎迅』\n※白虎迅：速度*2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
+	{"id":349,"atypeId":12,"description":"「法系衣服」防禦、魔防+60，迴避、魔迴+10%，戰鬥開始獲得『白虎迅』\n※白虎迅：速度*2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0.1}
 	],"iconIndex":139,"name":"白虎聖袍","note":"<開場狀態:[[284,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors349.txt>","params":[
@@ -4173,14 +4173,14 @@
 		0,
 		0
 	],"price":0},
-	{"id":350,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+120，戰鬥開始時獲得『玄武盾』\n※玄武盾：物理/魔法傷害-20%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
+	{"id":350,"atypeId":12,"description":"「法系衣服」防禦、魔防+80，戰鬥開始時獲得『玄武盾』\n※玄武盾：物理/魔法傷害-20%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
 	],"iconIndex":139,"name":"玄武聖袍","note":"<開場狀態:[[282,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors350.txt>","params":[
 		0,
 		0,
 		0,
 		80,
 		0,
-		120,
+		80,
 		0,
 		0
 	],"price":0},
@@ -12020,7 +12020,7 @@
 		0
 	],"price":0},
 	{"id":981,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+20","etypeId":4,"traits":[
-	],"iconIndex":136,"name":"夜影行者","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12031,7 +12031,7 @@
 		0
 	],"price":0},
 	{"id":982,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+40。","etypeId":4,"traits":[
-	],"iconIndex":152,"name":"浪逐鬥衣","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12042,7 +12042,7 @@
 		0
 	],"price":0},
 	{"id":983,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+40。","etypeId":4,"traits":[
-	],"iconIndex":139,"name":"暮星大衣","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12053,7 +12053,7 @@
 		0
 	],"price":0},
 	{"id":984,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+20。","etypeId":4,"traits":[
-	],"iconIndex":152,"name":"獸皮斗篷","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12066,7 +12066,7 @@
 	{"id":985,"atypeId":1,"description":"「兼用頭盔」蘋薇非常愛惜的護目鏡，似乎是誰送給她的\n禮物，免疫失明、命中率+15%。","etypeId":3,"traits":[
 		{"code":14,"dataId":8,"value":1},
 		{"code":22,"dataId":0,"value":0.15}
-	],"iconIndex":3,"name":"護目鏡","note":"","params":[
+	],"iconIndex":3,"name":"護目鏡","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors985.txt>","params":[
 		0,
 		0,
 		0,
@@ -12078,7 +12078,7 @@
 	],"price":0},
 	{"id":986,"atypeId":1,"description":"「兼用頭盔」魯蘭用來擋風遮雨用的小扁帽，防禦、魔防+15，\n受到的恢復效果小幅提升。","etypeId":3,"traits":[
 		{"code":23,"dataId":2,"value":1.15}
-	],"iconIndex":130,"name":"鴨舌帽","note":"","params":[
+	],"iconIndex":130,"name":"鴨舌帽","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors986.txt>","params":[
 		0,
 		0,
 		0,
@@ -12092,7 +12092,7 @@
 		{"code":11,"dataId":1,"value":0.9},
 		{"code":11,"dataId":2,"value":0.9},
 		{"code":11,"dataId":3,"value":0.9}
-	],"iconIndex":131,"name":"安全帽","note":"","params":[
+	],"iconIndex":131,"name":"安全帽","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors987.txt>","params":[
 		0,
 		0,
 		0,
@@ -12104,7 +12104,7 @@
 	],"price":0},
 	{"id":988,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+25，迴避+2%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.02}
-	],"iconIndex":136,"name":"夜影行者+1","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者+1","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12116,7 +12116,7 @@
 	],"price":0},
 	{"id":989,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+30，迴避+4%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.04}
-	],"iconIndex":136,"name":"夜影行者+2","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者+2","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12128,7 +12128,7 @@
 	],"price":0},
 	{"id":990,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+35，迴避+6%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.06}
-	],"iconIndex":136,"name":"夜影行者+3","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者+3","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12140,7 +12140,7 @@
 	],"price":0},
 	{"id":991,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+40，迴避+8%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.08}
-	],"iconIndex":136,"name":"夜影行者+4","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者+4","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12152,7 +12152,7 @@
 	],"price":0},
 	{"id":992,"atypeId":40,"description":"「\\N[34]專用」便於活動，以優秀的迴避能力著稱的黑色服裝\n，流線型的設計更能凸顯身材，防禦、速度+45，迴避+10%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.1}
-	],"iconIndex":136,"name":"夜影行者+5","note":"","params":[
+	],"iconIndex":136,"name":"夜影行者+5","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors981.txt>","params":[
 		0,
 		0,
 		0,
@@ -12164,7 +12164,7 @@
 	],"price":0},
 	{"id":993,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+50，些微減輕受到的物理傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":6,"value":0.98}
-	],"iconIndex":152,"name":"浪逐鬥衣+1","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣+1","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12176,7 +12176,7 @@
 	],"price":0},
 	{"id":994,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+60，些微減輕受到的物理傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":6,"value":0.96}
-	],"iconIndex":152,"name":"浪逐鬥衣+2","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣+2","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12188,7 +12188,7 @@
 	],"price":0},
 	{"id":995,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+70，些微減輕受到的物理傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":6,"value":0.94}
-	],"iconIndex":152,"name":"浪逐鬥衣+3","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣+3","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12200,7 +12200,7 @@
 	],"price":0},
 	{"id":996,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+80，些微減輕受到的物理傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":6,"value":0.92}
-	],"iconIndex":152,"name":"浪逐鬥衣+4","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣+4","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12212,7 +12212,7 @@
 	],"price":0},
 	{"id":997,"atypeId":38,"description":"「\\N[32]專用」蘋薇的愛用裝束，上面有著許許多多縫縫補補\n的痕跡，是冒險的回憶，防禦+90，些微減輕受到的物理傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":6,"value":0.9}
-	],"iconIndex":152,"name":"浪逐鬥衣+5","note":"","params":[
+	],"iconIndex":152,"name":"浪逐鬥衣+5","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors982.txt>","params":[
 		0,
 		0,
 		0,
@@ -12224,7 +12224,7 @@
 	],"price":0},
 	{"id":998,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+50，些微減輕受到的魔法傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":7,"value":0.98}
-	],"iconIndex":139,"name":"暮星大衣+1","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣+1","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12236,7 +12236,7 @@
 	],"price":0},
 	{"id":999,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+60，些微減輕受到的魔法傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":7,"value":0.96}
-	],"iconIndex":139,"name":"暮星大衣+2","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣+2","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12248,7 +12248,7 @@
 	],"price":0},
 	{"id":1000,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+70，些微減輕受到的魔法傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":7,"value":0.94}
-	],"iconIndex":139,"name":"暮星大衣+3","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣+3","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12260,7 +12260,7 @@
 	],"price":0},
 	{"id":1001,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+80，些微減輕受到的魔法傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":7,"value":0.92}
-	],"iconIndex":139,"name":"暮星大衣+4","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣+4","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12272,7 +12272,7 @@
 	],"price":0},
 	{"id":1002,"atypeId":37,"description":"「\\N[31]專用」攸特使用煉金術繪製星辰符文加護的大衣，堅\n固耐用，魔防+90，些微減輕受到的魔法傷害。","etypeId":4,"traits":[
 		{"code":23,"dataId":7,"value":0.9}
-	],"iconIndex":139,"name":"暮星大衣+5","note":"","params":[
+	],"iconIndex":139,"name":"暮星大衣+5","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors983.txt>","params":[
 		0,
 		0,
 		0,
@@ -12285,7 +12285,7 @@
 	{"id":1003,"atypeId":1,"description":"「兼用頭盔」遮風避雨用的小草帽，能夠吸收來自森林的芬\n多精，防禦、魔防+15、免疫睡眠、沉默。","etypeId":3,"traits":[
 		{"code":14,"dataId":9,"value":1},
 		{"code":14,"dataId":11,"value":1}
-	],"iconIndex":131,"name":"森林草帽","note":"","params":[
+	],"iconIndex":131,"name":"森林草帽","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1003.txt>","params":[
 		0,
 		0,
 		0,
@@ -12298,7 +12298,7 @@
 	{"id":1004,"atypeId":1,"description":"「兼用頭盔」牛魔頭上的角，據說某些偏遠部落將其作為勇\n士的象徵，速度、攻擊+15、免疫著火、燃燒。","etypeId":3,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1}
-	],"iconIndex":293,"name":"牛魔角","note":"","params":[
+	],"iconIndex":293,"name":"牛魔角","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1004.txt>","params":[
 		0,
 		0,
 		15,
@@ -12309,7 +12309,7 @@
 		0
 	],"price":0},
 	{"id":1005,"atypeId":37,"description":"「\\N[31]專用」煉金術最常用的調和藥瓶，全能力+10。","etypeId":2,"traits":[
-	],"iconIndex":335,"name":"玻璃調製瓶","note":"","params":[
+	],"iconIndex":335,"name":"玻璃調製瓶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1005.txt>","params":[
 		0,
 		0,
 		10,
@@ -12322,7 +12322,7 @@
 	{"id":1006,"atypeId":37,"description":"「\\N[31]專用」繪製了神聖符文的煉金道具，能夠提高煉製藥\n劑的純淨度，免疫即死，抗暴擊率+25%。","etypeId":2,"traits":[
 		{"code":13,"dataId":1,"value":0},
 		{"code":22,"dataId":3,"value":0.25}
-	],"iconIndex":335,"name":"聖之調製瓶","note":"","params":[
+	],"iconIndex":335,"name":"聖之調製瓶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1006.txt>","params":[
 		0,
 		0,
 		0,
@@ -12334,7 +12334,7 @@
 	],"price":3000},
 	{"id":1007,"atypeId":37,"description":"「\\N[31]專用」繪製了雷霆符文的煉金道具，能夠提高煉製藥\n劑的變異機率，免疫麻痺、造成的雷、爆裂屬性傷害小幅提升。","etypeId":2,"traits":[
 		{"code":14,"dataId":19,"value":1}
-	],"iconIndex":323,"name":"閃之調製瓶","note":"<屬性傷害倍率:[[5,1.10],[12,1.10]]>","params":[
+	],"iconIndex":323,"name":"閃之調製瓶","note":"<屬性傷害倍率:[[5,1.10],[12,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1007.txt>","params":[
 		0,
 		0,
 		0,
@@ -12348,7 +12348,7 @@
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":22,"dataId":9,"value":0.03}
-	],"iconIndex":325,"name":"綠之調製瓶","note":"","params":[
+	],"iconIndex":325,"name":"綠之調製瓶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1008.txt>","params":[
 		0,
 		0,
 		0,
@@ -12361,7 +12361,7 @@
 	{"id":1009,"atypeId":37,"description":"「\\N[31]專用」繪製了海浪符文的煉金道具，能夠提高煉製藥\n劑的產出量，免疫潮濕、MP消耗率少許減少。","etypeId":2,"traits":[
 		{"code":14,"dataId":15,"value":1},
 		{"code":23,"dataId":4,"value":0.7}
-	],"iconIndex":328,"name":"流之調製瓶","note":"","params":[
+	],"iconIndex":328,"name":"流之調製瓶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1009.txt>","params":[
 		0,
 		0,
 		0,
@@ -12374,7 +12374,7 @@
 	{"id":1010,"atypeId":37,"description":"「\\N[31]專用」繪製了龍脈符文的煉金道具，能夠減少煉製藥\n劑的素材量，免疫石化，些微減輕受到的物理傷害。","etypeId":2,"traits":[
 		{"code":14,"dataId":18,"value":1},
 		{"code":23,"dataId":6,"value":0.9}
-	],"iconIndex":335,"name":"脈之調製瓶","note":"","params":[
+	],"iconIndex":335,"name":"脈之調製瓶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1010.txt>","params":[
 		0,
 		0,
 		0,
@@ -12385,7 +12385,7 @@
 		0
 	],"price":3000},
 	{"id":1011,"atypeId":38,"description":"「\\N[32]專用」武術家常用的青銅護腕，全能力+10。","etypeId":2,"traits":[
-	],"iconIndex":143,"name":"青銅護腕","note":"","params":[
+	],"iconIndex":143,"name":"青銅護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1011.txt>","params":[
 		0,
 		0,
 		10,
@@ -12398,7 +12398,7 @@
 	{"id":1012,"atypeId":38,"description":"「\\N[32]專用」武術家常用的格鬥護手，代表著武術美德之中\n的烈之意志，免疫流血，小幅提升受到攻擊的機率。","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":3},
 		{"code":14,"dataId":17,"value":1}
-	],"iconIndex":143,"name":"烈之護腕","note":"","params":[
+	],"iconIndex":143,"name":"烈之護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1012.txt>","params":[
 		0,
 		0,
 		0,
@@ -12411,7 +12411,7 @@
 	{"id":1013,"atypeId":38,"description":"「\\N[32]專用」武術家常用的格鬥護手，代表著武術美德之中\n的鋼之意志，免疫混亂，防禦效果小幅提升。","etypeId":2,"traits":[
 		{"code":23,"dataId":1,"value":0.9},
 		{"code":14,"dataId":10,"value":1}
-	],"iconIndex":143,"name":"鋼之護腕","note":"","params":[
+	],"iconIndex":143,"name":"鋼之護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1013.txt>","params":[
 		0,
 		0,
 		0,
@@ -12424,7 +12424,7 @@
 	{"id":1014,"atypeId":38,"description":"「\\N[32]專用」武術家常用的格鬥護手，代表著武術美德之中\n的陽之意志，免疫灼傷，TP獲得率小幅提升。","etypeId":2,"traits":[
 		{"code":23,"dataId":5,"value":1.1},
 		{"code":14,"dataId":14,"value":1}
-	],"iconIndex":143,"name":"陽之護腕","note":"","params":[
+	],"iconIndex":143,"name":"陽之護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1014.txt>","params":[
 		0,
 		0,
 		0,
@@ -12437,7 +12437,7 @@
 	{"id":1015,"atypeId":38,"description":"「\\N[32]專用」武術家常用的格鬥護手，代表著武術美德之中\n的陰之意志，免疫睡眠，些微減輕受到的魔法傷害。","etypeId":2,"traits":[
 		{"code":23,"dataId":7,"value":0.9},
 		{"code":14,"dataId":9,"value":1}
-	],"iconIndex":143,"name":"陰之護腕","note":"","params":[
+	],"iconIndex":143,"name":"陰之護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1015.txt>","params":[
 		0,
 		0,
 		0,
@@ -12450,7 +12450,7 @@
 	{"id":1016,"atypeId":38,"description":"「\\N[32]專用」武術家常用的格鬥護手，代表著武術美德之中\n的破之意志，免疫失明，暴擊率+10%。","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.1},
 		{"code":14,"dataId":8,"value":1}
-	],"iconIndex":143,"name":"破之護腕","note":"","params":[
+	],"iconIndex":143,"name":"破之護腕","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1016.txt>","params":[
 		0,
 		0,
 		0,
@@ -12461,7 +12461,7 @@
 		0
 	],"price":3000},
 	{"id":1017,"atypeId":39,"description":"「\\N[33]專用」裡頭放著一般獵手常用的箭矢的箭矢筒，全能\n力+10。","etypeId":2,"traits":[
-	],"iconIndex":203,"name":"箭矢筒","note":"","params":[
+	],"iconIndex":203,"name":"箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1017.txt>","params":[
 		0,
 		0,
 		10,
@@ -12474,7 +12474,7 @@
 	{"id":1018,"atypeId":39,"description":"「\\N[33]專用」裡頭放著刻有精靈紋章的箭矢的箭矢筒，據說\n是精靈的遺留物，免疫沉默，命中率+10%。","etypeId":2,"traits":[
 		{"code":14,"dataId":11,"value":1},
 		{"code":22,"dataId":0,"value":0.1}
-	],"iconIndex":203,"name":"妖精箭矢筒","note":"","params":[
+	],"iconIndex":203,"name":"妖精箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1018.txt>","params":[
 		0,
 		0,
 		0,
@@ -12487,7 +12487,7 @@
 	{"id":1019,"atypeId":39,"description":"「\\N[33]專用」裡頭放著用來獵殺大型動物的箭矢的箭矢筒，\n據說是山民的愛用物，免疫流血，TP獲得量提升(中)。","etypeId":2,"traits":[
 		{"code":14,"dataId":17,"value":1},
 		{"code":23,"dataId":5,"value":1.3}
-	],"iconIndex":203,"name":"獵殺箭矢筒","note":"","params":[
+	],"iconIndex":203,"name":"獵殺箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1019.txt>","params":[
 		0,
 		0,
 		0,
@@ -12500,7 +12500,7 @@
 	{"id":1020,"atypeId":39,"description":"「\\N[33]專用」裡頭放著用來獵殺惡魔的銀箭矢的箭矢筒，據\n說是獵魔人的愛用物，免疫混亂，些微減輕受到的魔法傷害。","etypeId":2,"traits":[
 		{"code":14,"dataId":11,"value":1},
 		{"code":23,"dataId":7,"value":0.9}
-	],"iconIndex":203,"name":"秘銀箭矢筒","note":"","params":[
+	],"iconIndex":203,"name":"秘銀箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1020.txt>","params":[
 		0,
 		0,
 		0,
@@ -12513,7 +12513,7 @@
 	{"id":1021,"atypeId":39,"description":"「\\N[33]專用」裡頭放著使用特殊工法打造而成的箭矢的箭矢\n筒，據說是暗殺者的愛用物，免疫失明，速度的上限百分比小幅提升。","etypeId":2,"traits":[
 		{"code":14,"dataId":8,"value":1},
 		{"code":21,"dataId":6,"value":1.1}
-	],"iconIndex":203,"name":"影子箭矢筒","note":"","params":[
+	],"iconIndex":203,"name":"影子箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1021.txt>","params":[
 		0,
 		0,
 		0,
@@ -12525,7 +12525,7 @@
 	],"price":3000},
 	{"id":1022,"atypeId":39,"description":"「\\N[33]專用」裡頭放著用來應付大量敵人的散射箭矢的箭矢\n筒，據說是冒險者的愛用物，免疫混亂，使用技能時的詠唱時間減少。","etypeId":2,"traits":[
 		{"code":14,"dataId":10,"value":1}
-	],"iconIndex":203,"name":"速射箭矢筒","note":"<詠唱加速:5000>","params":[
+	],"iconIndex":203,"name":"速射箭矢筒","note":"<詠唱加速:5000>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1022.txt>","params":[
 		0,
 		0,
 		0,
@@ -12536,7 +12536,7 @@
 		0
 	],"price":3000},
 	{"id":1023,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，全能力+10。","etypeId":2,"traits":[
-	],"iconIndex":1533,"name":"鐵製劍鞘","note":"","params":[
+	],"iconIndex":1533,"name":"鐵製劍鞘","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1023.txt>","params":[
 		0,
 		0,
 		10,
@@ -12548,7 +12548,7 @@
 	],"price":1500},
 	{"id":1024,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過蒼之\n符文的銘文，免疫潮濕、造成的冰屬性傷害小幅提升。","etypeId":2,"traits":[
 		{"code":14,"dataId":15,"value":1}
-	],"iconIndex":1527,"name":"蒼之劍鞘","note":"<屬性傷害倍率:[[6,1.10]]>","params":[
+	],"iconIndex":1527,"name":"蒼之劍鞘","note":"<屬性傷害倍率:[[6,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1024.txt>","params":[
 		0,
 		0,
 		0,
@@ -12561,7 +12561,7 @@
 	{"id":1025,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過碧之\n符文的銘文，免疫石化，迴避率+10%。","etypeId":2,"traits":[
 		{"code":14,"dataId":18,"value":1},
 		{"code":22,"dataId":1,"value":0.1}
-	],"iconIndex":1525,"name":"碧之劍鞘","note":"","params":[
+	],"iconIndex":1525,"name":"碧之劍鞘","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1025.txt>","params":[
 		0,
 		0,
 		0,
@@ -12573,7 +12573,7 @@
 	],"price":3000},
 	{"id":1026,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過緋之\n符文的銘文，免疫燃燒，戰鬥開始時TP增加20。","etypeId":2,"traits":[
 		{"code":14,"dataId":14,"value":1}
-	],"iconIndex":1521,"name":"緋之劍鞘","note":"<startTP:20>","params":[
+	],"iconIndex":1521,"name":"緋之劍鞘","note":"<startTP:20>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1026.txt>","params":[
 		0,
 		0,
 		0,
@@ -12586,7 +12586,7 @@
 	{"id":1027,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過珀之\n符文的銘文，免疫麻痺、魔法迴避率+10%。","etypeId":2,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":22,"dataId":4,"value":0.1}
-	],"iconIndex":1523,"name":"珀之劍鞘","note":"","params":[
+	],"iconIndex":1523,"name":"珀之劍鞘","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1027.txt>","params":[
 		0,
 		0,
 		0,
@@ -12598,7 +12598,7 @@
 	],"price":3000},
 	{"id":1028,"atypeId":40,"description":"「\\N[34]專用」用來安置刀劍所用的劍鞘，上頭進行過銀之\n符文的銘文，免疫睡眠、造成的斬屬性傷害中幅提升。","etypeId":2,"traits":[
 		{"code":14,"dataId":9,"value":1}
-	],"iconIndex":1535,"name":"銀之劍鞘","note":"<屬性傷害倍率:[[1,1.30]]>\n","params":[
+	],"iconIndex":1535,"name":"銀之劍鞘","note":"<屬性傷害倍率:[[1,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1028.txt>","params":[
 		0,
 		0,
 		0,
@@ -12610,7 +12610,7 @@
 	],"price":3000},
 	{"id":1029,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+25，些微降低受到攻擊的機率。","etypeId":4,"traits":[
 		{"code":23,"dataId":0,"value":0.9}
-	],"iconIndex":152,"name":"獸皮斗篷+1","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷+1","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12622,7 +12622,7 @@
 	],"price":0},
 	{"id":1030,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+30，些微降低受到攻擊的機率。","etypeId":4,"traits":[
 		{"code":23,"dataId":0,"value":0.8}
-	],"iconIndex":152,"name":"獸皮斗篷+2","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷+2","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12634,7 +12634,7 @@
 	],"price":0},
 	{"id":1031,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+35，些微降低受到攻擊的機率。","etypeId":4,"traits":[
 		{"code":23,"dataId":0,"value":0.7}
-	],"iconIndex":152,"name":"獸皮斗篷+3","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷+3","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12646,7 +12646,7 @@
 	],"price":0},
 	{"id":1032,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+40，些微降低受到攻擊的機率。","etypeId":4,"traits":[
 		{"code":23,"dataId":0,"value":0.6}
-	],"iconIndex":152,"name":"獸皮斗篷+4","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷+4","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12658,7 +12658,7 @@
 	],"price":0},
 	{"id":1033,"atypeId":39,"description":"「\\N[33]專用」剝掉魔獸的毛皮後織製而成的大衣，溫暖結實\n，防禦、魔防+45，些微降低受到攻擊的機率。","etypeId":4,"traits":[
 		{"code":23,"dataId":0,"value":0.5}
-	],"iconIndex":152,"name":"獸皮斗篷+5","note":"","params":[
+	],"iconIndex":152,"name":"獸皮斗篷+5","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors984.txt>","params":[
 		0,
 		0,
 		0,
@@ -12670,7 +12670,7 @@
 	],"price":0},
 	{"id":1034,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大HP+50，可自動恢復HP (中)。","etypeId":5,"traits":[
 		{"code":22,"dataId":7,"value":0.05}
-	],"iconIndex":145,"name":"紅石戒指","note":"","params":[
+	],"iconIndex":145,"name":"紅石戒指","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1034.txt>","params":[
 		50,
 		0,
 		0,
@@ -12682,7 +12682,7 @@
 	],"price":3000},
 	{"id":1035,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，最大MP+25，可自動恢復MP (中)。","etypeId":5,"traits":[
 		{"code":22,"dataId":8,"value":0.05}
-	],"iconIndex":145,"name":"藍石戒指","note":"","params":[
+	],"iconIndex":145,"name":"藍石戒指","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1035.txt>","params":[
 		0,
 		25,
 		0,
@@ -12693,7 +12693,7 @@
 		0
 	],"price":3000},
 	{"id":1036,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，防禦、魔防+10，戰鬥開始時獲得1層『大地護盾』。","etypeId":5,"traits":[
-	],"iconIndex":147,"name":"堅實胸針","note":"<開場狀態:[[110,1]]>","params":[
+	],"iconIndex":147,"name":"堅實胸針","note":"<開場狀態:[[110,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1036.txt>","params":[
 		0,
 		0,
 		0,
@@ -12712,7 +12712,7 @@
 		{"code":21,"dataId":5,"value":1.05},
 		{"code":21,"dataId":6,"value":1.05},
 		{"code":21,"dataId":7,"value":1.05}
-	],"iconIndex":146,"name":"祝禱頸鍊","note":"","params":[
+	],"iconIndex":146,"name":"祝禱頸鍊","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1037.txt>","params":[
 		0,
 		0,
 		0,
@@ -12725,7 +12725,7 @@
 	{"id":1038,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的裝飾品，戴上去以後能獲得\n魔法的加護，爆擊率+10%、抗暴擊率+10%。","etypeId":5,"traits":[
 		{"code":22,"dataId":2,"value":0.1},
 		{"code":22,"dataId":3,"value":0.1}
-	],"iconIndex":142,"name":"會心手套","note":"","params":[
+	],"iconIndex":142,"name":"會心手套","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1038.txt>","params":[
 		0,
 		0,
 		0,
@@ -12737,7 +12737,7 @@
 	],"price":3000},
 	{"id":1039,"atypeId":31,"description":"「兼用飾品」地動城鐵匠鋪出品的斗篷，戴上去以後能獲得\n魔法的加護，迴避率+15%。","etypeId":5,"traits":[
 		{"code":22,"dataId":1,"value":0.15}
-	],"iconIndex":152,"name":"風之斗篷","note":"<開場狀態:[[412,1]]>","params":[
+	],"iconIndex":152,"name":"風之斗篷","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1039.txt>","params":[
 		0,
 		0,
 		0,
@@ -12750,7 +12750,7 @@
 	{"id":1040,"atypeId":40,"description":"「\\N[34]專用」\\N[34]從妖精森林帶出來的溫暖圍巾，不知道\n是何人所送的，受到攻擊的機率降低，受到恢復的效果小幅提升。","etypeId":5,"traits":[
 		{"code":23,"dataId":0,"value":0.5},
 		{"code":23,"dataId":2,"value":1.15}
-	],"iconIndex":149,"name":"溫暖圍巾","note":"","params":[
+	],"iconIndex":149,"name":"溫暖圍巾","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1040.txt>","params":[
 		0,
 		0,
 		0,
@@ -12761,7 +12761,7 @@
 		0
 	],"price":0},
 	{"id":1041,"atypeId":31,"description":"「兼用飾品」沙漠馬牛體內的結晶體，擁有強大的生命力，\n能夠作為保命媒介使用，最大生命值+50，死亡時復活並恢復100點HP。","etypeId":5,"traits":[
-	],"iconIndex":578,"name":"沙漠馬牛之晶","note":"<開場狀態:[[441,1]]>","params":[
+	],"iconIndex":578,"name":"沙漠馬牛之晶","note":"<開場狀態:[[441,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1041.txt>","params":[
 		50,
 		0,
 		0,
@@ -12773,7 +12773,7 @@
 	],"price":0},
 	{"id":1042,"atypeId":1,"description":"「兼用頭盔」荒星狼的頸圈，用來綁頭髮或是當頭帶都好用\n，裝備後能感受到熱血的感情，攻擊、速度+25，可自動恢復TP (中)。","etypeId":3,"traits":[
 		{"code":22,"dataId":9,"value":0.05}
-	],"iconIndex":134,"name":"荒星狼頸圈","note":"","params":[
+	],"iconIndex":134,"name":"荒星狼頸圈","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1042.txt>","params":[
 		0,
 		0,
 		25,
@@ -12785,7 +12785,7 @@
 	],"price":0},
 	{"id":1043,"atypeId":31,"description":"「兼用飾品」裂牙龍的牙齒，強大的龍威能夠嚇退弱小的\n敵人，攻擊+50，受到攻擊的機率大幅下降。","etypeId":5,"traits":[
 		{"code":23,"dataId":0,"value":0.25}
-	],"iconIndex":294,"name":"裂牙龍牙","note":"","params":[
+	],"iconIndex":294,"name":"裂牙龍牙","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1043.txt>","params":[
 		0,
 		0,
 		50,
@@ -12797,7 +12797,7 @@
 	],"price":0},
 	{"id":1044,"atypeId":31,"description":"「兼用飾品」赤焰睺的角，能夠有效的增幅攻擊力，是\n鬥士們的夢幻逸品，攻擊、魔攻+25，物攻的上限百分比小幅提升。","etypeId":5,"traits":[
 		{"code":21,"dataId":2,"value":1.15}
-	],"iconIndex":293,"name":"赤焰睺角","note":"","params":[
+	],"iconIndex":293,"name":"赤焰睺角","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1044.txt>","params":[
 		0,
 		0,
 		25,
@@ -12816,7 +12816,7 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"iconIndex":156,"name":"金鄉徽章","note":"","params":[
+	],"iconIndex":156,"name":"金鄉徽章","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1045.txt>","params":[
 		0,
 		0,
 		10,
@@ -12829,7 +12829,7 @@
 	{"id":1046,"atypeId":31,"description":"「兼用飾品」象徵著幸福回歸的鈴蘭花，幸運+50、MAXMP+50\n，魔法迴避率+10%，免疫石化。","etypeId":5,"traits":[
 		{"code":14,"dataId":18,"value":1},
 		{"code":22,"dataId":4,"value":0.1}
-	],"iconIndex":184,"name":"鈴蘭花","note":"","params":[
+	],"iconIndex":184,"name":"鈴蘭花","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1046.txt>","params":[
 		0,
 		50,
 		0,
@@ -12843,7 +12843,7 @@
 		{"code":14,"dataId":19,"value":1},
 		{"code":22,"dataId":9,"value":0.03},
 		{"code":23,"dataId":9,"value":1.3}
-	],"iconIndex":215,"name":"幸運草繩","note":"","params":[
+	],"iconIndex":215,"name":"幸運草繩","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1047.txt>","params":[
 		0,
 		0,
 		0,
@@ -12855,7 +12855,7 @@
 	],"price":1000},
 	{"id":1048,"atypeId":31,"description":"「兼用飾品」從GXPT3000戰鬥型身上拆下來的厚實鐵片，可\n以藏在盔甲內側用以增加厚度抵擋傷害，防禦、魔防+25，受攻擊率小幅提升。","etypeId":5,"traits":[
 		{"code":23,"dataId":0,"value":3}
-	],"iconIndex":88,"name":"護心鎧","note":"","params":[
+	],"iconIndex":88,"name":"護心鎧","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1048.txt>","params":[
 		0,
 		0,
 		0,
@@ -12868,7 +12868,7 @@
 	{"id":1049,"atypeId":31,"description":"「兼用飾品」森林裡的霸王之鳥身上的羽毛，配戴可以小幅\n提升速度，速度+50，小幅提升風屬性耐性，免疫混亂。","etypeId":5,"traits":[
 		{"code":14,"dataId":10,"value":1},
 		{"code":11,"dataId":7,"value":0.9}
-	],"iconIndex":297,"name":"霸主之翼","note":"","params":[
+	],"iconIndex":297,"name":"霸主之翼","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1049.txt>","params":[
 		0,
 		0,
 		0,
@@ -12880,7 +12880,7 @@
 	],"price":1000},
 	{"id":1050,"atypeId":1,"description":"「兼用頭盔」質化靈掉落的面具，上面的表情彷彿在嘲笑\n世界所有愚蠢之徒，魔攻+50，魔攻的上限百分比小幅提升。","etypeId":3,"traits":[
 		{"code":21,"dataId":4,"value":1.15}
-	],"iconIndex":151,"name":"嘻笑面具","note":"","params":[
+	],"iconIndex":151,"name":"嘻笑面具","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1050.txt>","params":[
 		0,
 		0,
 		0,
@@ -12892,7 +12892,7 @@
 	],"price":1000},
 	{"id":1051,"atypeId":37,"description":"「\\N[31]專用」記載著攸特所有學習成果的筆記，能夠更妥善\n的運用藥劑，使用藥品時的效果大幅提升。","etypeId":5,"traits":[
 		{"code":23,"dataId":3,"value":1.5}
-	],"iconIndex":187,"name":"煉金筆記","note":"","params":[
+	],"iconIndex":187,"name":"煉金筆記","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1051.txt>","params":[
 		0,
 		0,
 		0,
@@ -12904,7 +12904,7 @@
 	],"price":0},
 	{"id":1052,"atypeId":31,"description":"裡面封存著萬靈聖潔技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1030,"value":1}
-	],"iconIndex":160,"name":"魔石《萬靈聖潔》","note":"","params":[
+	],"iconIndex":160,"name":"魔石《萬靈聖潔》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1052.txt>","params":[
 		0,
 		0,
 		0,
@@ -12915,7 +12915,7 @@
 		0
 	],"price":0},
 	{"id":1053,"atypeId":31,"description":"戰鬥開始時進入『元素抗性』持續7次行動，但狀態結束後\n防禦、魔防歸零直到戰鬥結束。※元素抗性：土火風水冰雷抗性+50%","etypeId":5,"traits":[
-	],"iconIndex":160,"name":"魔石《元抗爆發》","note":"<開場狀態:[[444,1]]>","params":[
+	],"iconIndex":160,"name":"魔石《元抗爆發》","note":"<開場狀態:[[444,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1053.txt>","params":[
 		0,
 		0,
 		0,
@@ -12927,7 +12927,7 @@
 	],"price":0},
 	{"id":1054,"atypeId":31,"description":"裡面封存著祝福技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1032,"value":1}
-	],"iconIndex":160,"name":"魔石《祝福》","note":"","params":[
+	],"iconIndex":160,"name":"魔石《祝福》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1054.txt>","params":[
 		0,
 		0,
 		0,
@@ -12938,7 +12938,7 @@
 		0
 	],"price":0},
 	{"id":1055,"atypeId":31,"description":"戰鬥開始時進入『魔力充能』直到戰鬥結束。\n※魔力充能：每次行動-5%HP、+20%MP","etypeId":5,"traits":[
-	],"iconIndex":160,"name":"魔石《魔力充能》","note":"<開場狀態:[[446,1]]>","params":[
+	],"iconIndex":160,"name":"魔石《魔力充能》","note":"<開場狀態:[[446,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors1055.txt>","params":[
 		0,
 		0,
 		0,
@@ -12950,7 +12950,7 @@
 	],"price":0},
 	{"id":1056,"atypeId":31,"description":"裡面封存著大地護盾技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1034,"value":1}
-	],"iconIndex":160,"name":"魔石《大地護盾》","note":"","params":[
+	],"iconIndex":160,"name":"魔石《大地護盾》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1056.txt>","params":[
 		0,
 		0,
 		0,
@@ -12962,7 +12962,7 @@
 	],"price":0},
 	{"id":1057,"atypeId":31,"description":"裡面封存著療癒之風技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1035,"value":1}
-	],"iconIndex":160,"name":"魔石《療癒之風》","note":"","params":[
+	],"iconIndex":160,"name":"魔石《療癒之風》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1057.txt>","params":[
 		0,
 		0,
 		0,
@@ -12974,7 +12974,7 @@
 	],"price":0},
 	{"id":1058,"atypeId":31,"description":"裡面封存著療癒之水技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1036,"value":1}
-	],"iconIndex":160,"name":"魔石《療癒之水》","note":"","params":[
+	],"iconIndex":160,"name":"魔石《療癒之水》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1058.txt>","params":[
 		0,
 		0,
 		0,
@@ -12986,7 +12986,7 @@
 	],"price":0},
 	{"id":1059,"atypeId":31,"description":"裡面封存著咒殺技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1059,"value":1}
-	],"iconIndex":167,"name":"魔石《咒殺》","note":"","params":[
+	],"iconIndex":167,"name":"魔石《咒殺》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1059.txt>","params":[
 		0,
 		0,
 		0,
@@ -12998,7 +12998,7 @@
 	],"price":0},
 	{"id":1060,"atypeId":31,"description":"裡面封存著火焰咒技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1038,"value":1}
-	],"iconIndex":162,"name":"魔石《火焰咒》","note":"","params":[
+	],"iconIndex":162,"name":"魔石《火焰咒》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1060.txt>","params":[
 		0,
 		0,
 		0,
@@ -13010,7 +13010,7 @@
 	],"price":0},
 	{"id":1061,"atypeId":31,"description":"裡面封存著炎柱技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1039,"value":1}
-	],"iconIndex":162,"name":"魔石《炎柱》","note":"","params":[
+	],"iconIndex":162,"name":"魔石《炎柱》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1061.txt>","params":[
 		0,
 		0,
 		0,
@@ -13022,7 +13022,7 @@
 	],"price":0},
 	{"id":1062,"atypeId":31,"description":"裡面封存著震炎爆技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1040,"value":1}
-	],"iconIndex":162,"name":"魔石《震炎爆》","note":"","params":[
+	],"iconIndex":162,"name":"魔石《震炎爆》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1062.txt>","params":[
 		0,
 		0,
 		0,
@@ -13034,7 +13034,7 @@
 	],"price":0},
 	{"id":1063,"atypeId":31,"description":"裡面封存著風刃技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1041,"value":1}
-	],"iconIndex":165,"name":"魔石《風刃》","note":"","params":[
+	],"iconIndex":165,"name":"魔石《風刃》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1063.txt>","params":[
 		0,
 		0,
 		0,
@@ -13046,7 +13046,7 @@
 	],"price":0},
 	{"id":1064,"atypeId":31,"description":"裡面封存著連風刃技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1042,"value":1}
-	],"iconIndex":165,"name":"魔石《連風刃》","note":"","params":[
+	],"iconIndex":165,"name":"魔石《連風刃》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1064.txt>","params":[
 		0,
 		0,
 		0,
@@ -13058,7 +13058,7 @@
 	],"price":0},
 	{"id":1065,"atypeId":31,"description":"裡面封存著退擊風刃技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1043,"value":1}
-	],"iconIndex":165,"name":"魔石《退擊風刃》","note":"","params":[
+	],"iconIndex":165,"name":"魔石《退擊風刃》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1065.txt>","params":[
 		0,
 		0,
 		0,
@@ -13070,7 +13070,7 @@
 	],"price":0},
 	{"id":1066,"atypeId":31,"description":"裡面封存著潮濕水球技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1044,"value":1}
-	],"iconIndex":166,"name":"魔石《潮濕水球》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《潮濕水球》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1066.txt>","params":[
 		0,
 		0,
 		0,
@@ -13082,7 +13082,7 @@
 	],"price":0},
 	{"id":1067,"atypeId":31,"description":"裡面封存著蒸氣湧泉技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1045,"value":1}
-	],"iconIndex":166,"name":"魔石《蒸氣湧泉》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《蒸氣湧泉》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1067.txt>","params":[
 		0,
 		0,
 		0,
@@ -13094,7 +13094,7 @@
 	],"price":0},
 	{"id":1068,"atypeId":31,"description":"裡面封存著渦流侵蝕技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1046,"value":1}
-	],"iconIndex":166,"name":"魔石《渦流侵蝕》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《渦流侵蝕》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1068.txt>","params":[
 		0,
 		0,
 		0,
@@ -13106,7 +13106,7 @@
 	],"price":0},
 	{"id":1069,"atypeId":31,"description":"裡面封存著凍結技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1047,"value":1}
-	],"iconIndex":166,"name":"魔石《凍結》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《凍結》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1069.txt>","params":[
 		0,
 		0,
 		0,
@@ -13118,7 +13118,7 @@
 	],"price":0},
 	{"id":1070,"atypeId":31,"description":"裡面封存著急凍衝擊技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1048,"value":1}
-	],"iconIndex":166,"name":"魔石《急凍衝擊》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《急凍衝擊》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1070.txt>","params":[
 		0,
 		0,
 		0,
@@ -13130,7 +13130,7 @@
 	],"price":0},
 	{"id":1071,"atypeId":31,"description":"裡面封存著吹雪技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1049,"value":1}
-	],"iconIndex":166,"name":"魔石《吹雪》","note":"","params":[
+	],"iconIndex":166,"name":"魔石《吹雪》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1071.txt>","params":[
 		0,
 		0,
 		0,
@@ -13142,7 +13142,7 @@
 	],"price":0},
 	{"id":1072,"atypeId":31,"description":"裡面封存著落雷術技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1050,"value":1}
-	],"iconIndex":164,"name":"魔石《落雷術》","note":"","params":[
+	],"iconIndex":164,"name":"魔石《落雷術》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1072.txt>","params":[
 		0,
 		0,
 		0,
@@ -13154,7 +13154,7 @@
 	],"price":0},
 	{"id":1073,"atypeId":31,"description":"裡面封存著閃雷轟技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1051,"value":1}
-	],"iconIndex":164,"name":"魔石《閃雷轟》","note":"","params":[
+	],"iconIndex":164,"name":"魔石《閃雷轟》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1073.txt>","params":[
 		0,
 		0,
 		0,
@@ -13166,7 +13166,7 @@
 	],"price":0},
 	{"id":1074,"atypeId":31,"description":"裡面封存著雷鳴球技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1052,"value":1}
-	],"iconIndex":164,"name":"魔石《雷鳴球》","note":"","params":[
+	],"iconIndex":164,"name":"魔石《雷鳴球》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1074.txt>","params":[
 		0,
 		0,
 		0,
@@ -13178,7 +13178,7 @@
 	],"price":0},
 	{"id":1075,"atypeId":31,"description":"裡面封存著岩塵術技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1053,"value":1}
-	],"iconIndex":163,"name":"魔石《岩塵術》","note":"","params":[
+	],"iconIndex":163,"name":"魔石《岩塵術》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1075.txt>","params":[
 		0,
 		0,
 		0,
@@ -13190,7 +13190,7 @@
 	],"price":0},
 	{"id":1076,"atypeId":31,"description":"裡面封存著地刺爆技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1054,"value":1}
-	],"iconIndex":163,"name":"魔石《地刺爆》","note":"","params":[
+	],"iconIndex":163,"name":"魔石《地刺爆》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1076.txt>","params":[
 		0,
 		0,
 		0,
@@ -13202,7 +13202,7 @@
 	],"price":0},
 	{"id":1077,"atypeId":31,"description":"裡面封存著臭之息技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1055,"value":1}
-	],"iconIndex":163,"name":"魔石《臭之息》","note":"","params":[
+	],"iconIndex":163,"name":"魔石《臭之息》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1077.txt>","params":[
 		0,
 		0,
 		0,
@@ -13214,7 +13214,7 @@
 	],"price":0},
 	{"id":1078,"atypeId":31,"description":"裡面封存著力量打擊技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1060,"value":1}
-	],"iconIndex":167,"name":"魔石《力量打擊》","note":"","params":[
+	],"iconIndex":167,"name":"魔石《力量打擊》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1078.txt>","params":[
 		0,
 		0,
 		0,
@@ -13226,7 +13226,7 @@
 	],"price":0},
 	{"id":1079,"atypeId":31,"description":"裡面封存著防禦打擊技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1061,"value":1}
-	],"iconIndex":167,"name":"魔石《防禦打擊》","note":"","params":[
+	],"iconIndex":167,"name":"魔石《防禦打擊》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1079.txt>","params":[
 		0,
 		0,
 		0,
@@ -13238,7 +13238,7 @@
 	],"price":0},
 	{"id":1080,"atypeId":31,"description":"裡面封存著十字連斬技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1062,"value":1}
-	],"iconIndex":161,"name":"魔石《十字連斬》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《十字連斬》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1080.txt>","params":[
 		0,
 		0,
 		0,
@@ -13250,7 +13250,7 @@
 	],"price":0},
 	{"id":1081,"atypeId":31,"description":"裡面封存著致殘戟技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1063,"value":1}
-	],"iconIndex":161,"name":"魔石《致殘戟》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《致殘戟》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1081.txt>","params":[
 		0,
 		0,
 		0,
@@ -13262,7 +13262,7 @@
 	],"price":0},
 	{"id":1082,"atypeId":31,"description":"裡面封存著斬首斧技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1064,"value":1}
-	],"iconIndex":161,"name":"魔石《斬首斧》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《斬首斧》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1082.txt>","params":[
 		0,
 		0,
 		0,
@@ -13274,7 +13274,7 @@
 	],"price":0},
 	{"id":1083,"atypeId":31,"description":"裡面封存著通臂拳技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1065,"value":1}
-	],"iconIndex":161,"name":"魔石《通臂拳》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《通臂拳》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1083.txt>","params":[
 		0,
 		0,
 		0,
@@ -13286,7 +13286,7 @@
 	],"price":0},
 	{"id":1084,"atypeId":31,"description":"裡面封存著一刀兩斷技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1066,"value":1}
-	],"iconIndex":161,"name":"魔石《一刀兩斷》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《一刀兩斷》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1084.txt>","params":[
 		0,
 		0,
 		0,
@@ -13298,7 +13298,7 @@
 	],"price":0},
 	{"id":1085,"atypeId":31,"description":"裡面封存著勇氣一擊技能的魔石。","etypeId":5,"traits":[
 		{"code":43,"dataId":1067,"value":1}
-	],"iconIndex":161,"name":"魔石《勇氣一擊》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《勇氣一擊》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1085.txt>","params":[
 		0,
 		0,
 		0,
@@ -13310,7 +13310,7 @@
 	],"price":0},
 	{"id":1086,"atypeId":31,"description":"被動能力：行動結束時恢復HP2%。","etypeId":5,"traits":[
 		{"code":22,"dataId":7,"value":0.02}
-	],"iconIndex":161,"name":"魔石《再生》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《再生》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1086.txt>","params":[
 		0,
 		0,
 		0,
@@ -13322,7 +13322,7 @@
 	],"price":0},
 	{"id":1087,"atypeId":31,"description":"被動能力：行動結束時恢復MP2%。","etypeId":5,"traits":[
 		{"code":22,"dataId":8,"value":0.02}
-	],"iconIndex":161,"name":"魔石《冥想》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《冥想》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1087.txt>","params":[
 		0,
 		0,
 		0,
@@ -13335,7 +13335,7 @@
 	{"id":1088,"atypeId":31,"description":"被動能力：物理、魔法迴避率+15%。","etypeId":5,"traits":[
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0.15}
-	],"iconIndex":161,"name":"魔石《閃躲》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《閃躲》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1088.txt>","params":[
 		0,
 		0,
 		0,
@@ -13347,7 +13347,7 @@
 	],"price":0},
 	{"id":1089,"atypeId":31,"description":"被動能力：命中率+50%。","etypeId":5,"traits":[
 		{"code":22,"dataId":0,"value":0.5}
-	],"iconIndex":161,"name":"魔石《鷹眼》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《鷹眼》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1089.txt>","params":[
 		0,
 		0,
 		0,
@@ -13360,7 +13360,7 @@
 	{"id":1090,"atypeId":31,"description":"被動能力：魔法防禦+35%、物理防禦-25%","etypeId":5,"traits":[
 		{"code":21,"dataId":5,"value":1.35},
 		{"code":21,"dataId":3,"value":0.75}
-	],"iconIndex":161,"name":"魔石《法術抵抗》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《法術抵抗》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1090.txt>","params":[
 		0,
 		0,
 		0,
@@ -13373,7 +13373,7 @@
 	{"id":1091,"atypeId":31,"description":"被動能力：物理防禦+35%、魔法防禦-25%","etypeId":5,"traits":[
 		{"code":21,"dataId":3,"value":1.35},
 		{"code":21,"dataId":5,"value":0.75}
-	],"iconIndex":161,"name":"魔石《體質抵抗》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《體質抵抗》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1091.txt>","params":[
 		0,
 		0,
 		0,
@@ -13385,7 +13385,7 @@
 	],"price":0},
 	{"id":1092,"atypeId":31,"description":"被動能力：技能MP消耗-20%，","etypeId":5,"traits":[
 		{"code":23,"dataId":4,"value":0.8}
-	],"iconIndex":161,"name":"魔石《魔力節約》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《魔力節約》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1092.txt>","params":[
 		0,
 		0,
 		0,
@@ -13397,7 +13397,7 @@
 	],"price":0},
 	{"id":1093,"atypeId":31,"description":"被動能力：暴擊率+20%","etypeId":5,"traits":[
 		{"code":22,"dataId":2,"value":0.2}
-	],"iconIndex":161,"name":"魔石《弱點看破》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《弱點看破》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1093.txt>","params":[
 		0,
 		0,
 		0,
@@ -13410,11 +13410,11 @@
 	{"id":1094,"atypeId":31,"description":"被動能力：免疫咒殺、石化","etypeId":5,"traits":[
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":1,"value":0}
-	],"iconIndex":161,"name":"魔石《武人之心》","note":"","params":[
+	],"iconIndex":161,"name":"魔石《武人之心》","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1094.txt>","params":[
 		0,
 		0,
 		0,
-		0,
+		-1,
 		0,
 		0,
 		0,
@@ -13700,7 +13700,7 @@
 	],"price":0},
 	{"id":1119,"atypeId":11,"description":"「輕甲衣服」武術家常用，便於活動的長褲，上頭綁著的黑\n帶是強者的象徵，防禦、魔防+50，大幅降低受到的爆擊率。","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.5}
-	],"iconIndex":135,"name":"黑帶寬褲","note":"","params":[
+	],"iconIndex":135,"name":"黑帶寬褲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1119.txt>","params":[
 		0,
 		0,
 		0,
@@ -13725,7 +13725,7 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1}
-	],"iconIndex":134,"name":"獅子之心","note":"","params":[
+	],"iconIndex":134,"name":"獅子之心","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1120.txt>","params":[
 		0,
 		0,
 		50,
@@ -13751,7 +13751,7 @@
 		{"code":23,"dataId":2,"value":1.15},
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":14,"dataId":8,"value":1}
-	],"iconIndex":131,"name":"鴨舌帽與護目鏡","note":"","params":[
+	],"iconIndex":131,"name":"鴨舌帽與護目鏡","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1122.txt>","params":[
 		0,
 		0,
 		0,
@@ -13765,7 +13765,7 @@
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":0.7}
-	],"iconIndex":131,"name":"加固安全帽","note":"","params":[
+	],"iconIndex":131,"name":"加固安全帽","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1123.txt>","params":[
 		0,
 		0,
 		0,
@@ -13777,7 +13777,7 @@
 	],"price":0},
 	{"id":1124,"atypeId":1,"description":"「兼用頭盔」防禦+20，戰鬥中定時發動技能【守護】\n※守護：配戴者定時獲得『防禦狀態』。","etypeId":3,"traits":[
 		{"code":43,"dataId":1165,"value":1}
-	],"iconIndex":132,"name":"守護頭盔","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>","params":[
+	],"iconIndex":132,"name":"守護頭盔","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1124.txt>","params":[
 		0,
 		0,
 		0,
@@ -13789,7 +13789,7 @@
 	],"price":3500},
 	{"id":1125,"atypeId":1,"description":"「兼用頭盔」攻擊、魔攻+10，戰鬥中定時發動技能【激昂】\n※激昂：配戴者定時獲得『全能力提升一層』2回合。","etypeId":3,"traits":[
 		{"code":43,"dataId":1166,"value":1}
-	],"iconIndex":132,"name":"激昂頭帶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>","params":[
+	],"iconIndex":132,"name":"激昂頭帶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1125.txt>","params":[
 		0,
 		0,
 		10,
@@ -13800,7 +13800,7 @@
 		0
 	],"price":3500},
 	{"id":1126,"atypeId":1,"description":"「兼用頭盔」魔防+20，戰鬥中受到傷害，依照傷害比率的20%\n恢復MP。","etypeId":3,"traits":[
-	],"iconIndex":150,"name":"精神護額","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>\n<開場狀態:[[443,1]]>","params":[
+	],"iconIndex":150,"name":"精神護額","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1126.txt><開場狀態:[[443,1]]>","params":[
 		0,
 		0,
 		0,
@@ -13813,7 +13813,7 @@
 	{"id":1127,"atypeId":31,"description":"「兼用飾品」捐贈光明教後得到的謝禮小飾品，受到的恢復\n效果小幅提升，使用藥品時的效果小幅提升，免疫即死。","etypeId":5,"traits":[
 		{"code":23,"dataId":2,"value":1.15},
 		{"code":23,"dataId":3,"value":1.1}
-	],"iconIndex":147,"name":"光明教胸針","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>\n","params":[
+	],"iconIndex":147,"name":"光明教胸針","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1127.txt>","params":[
 		0,
 		0,
 		0,
