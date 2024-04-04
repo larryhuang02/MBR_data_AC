@@ -20386,10 +20386,7 @@
 		10
 	],"meta":{}},
 	{"id":461,"actions":[
-		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":9,"skillId":1090},
-		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":9,"skillId":1089},
-		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":9,"skillId":1091},
-		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":9,"skillId":1092}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1096}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20644,7 +20641,7 @@
 		999
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_03","Sideview Weapon":" 2","狀態新增變化ra":"{\"6\":{\"移除\":[],\"加入\":[6,440]},\"8\":{\"移除\":[],\"加入\":[8,442]},\"9\":{\"移除\":[],\"加入\":[9,443]},\"10\":{\"移除\":[],\"加入\":[10,444]},\"11\":{\"移除\":[],\"加入\":[11,445]},\"14\":{\"移除\":[],\"加入\":[14,446]},\"15\":{\"移除\":[],\"加入\":[15,447]},\"16\":{\"移除\":[],\"加入\":[16,448]},\"17\":{\"移除\":[],\"加入\":[17,449]},\"18\":{\"移除\":[],\"加入\":[18,450]},\"19\":{\"移除\":[],\"加入\":[19,451]},\"7\":{\"移除\":[],\"加入\":[7,441]}}"}},
 	{"id":466,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":4,"skillId":1169}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":4,"skillId":1172}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20682,11 +20679,11 @@
 	],"gold":0,"name":"哈瑞","note":"<Sideview battler: BLR_HARUEI>\n<Sideview Weapon: 23>","params":[
 		7500,
 		10,
+		1,
 		900,
+		1,
 		900,
-		900,
-		900,
-		999,
+		400,
 		900
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":467,"actions":[

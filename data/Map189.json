@@ -3356,6 +3356,9 @@
 				0,
 				"擲骰子"
 			]},
+			{"code":135,"indent":1,"parameters":[
+				0
+			]},
 			{"code":117,"indent":1,"parameters":[
 				101
 			]},
@@ -3656,6 +3659,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -3689,6 +3695,9 @@
 			{"code":121,"indent":2,"parameters":[
 				26,
 				26,
+				1
+			]},
+			{"code":135,"indent":2,"parameters":[
 				1
 			]},
 			{"code":0,"indent":2,"parameters":[
@@ -3829,6 +3838,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -3862,6 +3874,9 @@
 			{"code":121,"indent":2,"parameters":[
 				26,
 				26,
+				1
+			]},
+			{"code":135,"indent":2,"parameters":[
 				1
 			]},
 			{"code":0,"indent":2,"parameters":[
@@ -3964,6 +3979,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -4008,6 +4026,9 @@
 			]},
 			{"code":601,"indent":2,"parameters":[
 			]},
+			{"code":135,"indent":3,"parameters":[
+				1
+			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
 			{"code":603,"indent":2,"parameters":[
@@ -4038,6 +4059,9 @@
 			{"code":121,"indent":2,"parameters":[
 				25,
 				25,
+				1
+			]},
+			{"code":135,"indent":2,"parameters":[
 				1
 			]},
 			{"code":230,"indent":2,"parameters":[
@@ -4179,6 +4203,9 @@
 			{"code":0,"indent":3,"parameters":[
 			]},
 			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":135,"indent":2,"parameters":[
+				1
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -5970,7 +5997,7 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\I[313]財寶格，觸發後隨機可獲得500~2000金幣。"
+				"\\I[313]財寶格，觸發後隨機可獲得300~500金幣。"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"01"
