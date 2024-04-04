@@ -2675,6 +2675,9 @@
 				0,
 				"擲骰子"
 			]},
+			{"code":135,"indent":1,"parameters":[
+				0
+			]},
 			{"code":117,"indent":1,"parameters":[
 				101
 			]},
@@ -3326,6 +3329,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -3354,6 +3360,9 @@
 			{"code":121,"indent":2,"parameters":[
 				26,
 				26,
+				1
+			]},
+			{"code":135,"indent":2,"parameters":[
 				1
 			]},
 			{"code":0,"indent":2,"parameters":[
@@ -3489,6 +3498,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -3517,6 +3529,9 @@
 			{"code":121,"indent":2,"parameters":[
 				26,
 				26,
+				1
+			]},
+			{"code":135,"indent":2,"parameters":[
 				1
 			]},
 			{"code":0,"indent":2,"parameters":[
@@ -3614,6 +3629,9 @@
 				26,
 				1
 			]},
+			{"code":135,"indent":2,"parameters":[
+				1
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":412,"indent":1,"parameters":[
@@ -3653,6 +3671,9 @@
 			]},
 			{"code":601,"indent":2,"parameters":[
 			]},
+			{"code":135,"indent":3,"parameters":[
+				1
+			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
 			{"code":603,"indent":2,"parameters":[
@@ -3677,6 +3698,9 @@
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"你成功擊倒了BOSS！準備前往下一個城鎮！\\|\\|\\|\\|\\|"
+			]},
+			{"code":135,"indent":2,"parameters":[
+				1
 			]},
 			{"code":221,"indent":2,"parameters":[
 			]},

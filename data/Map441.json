@@ -7807,6 +7807,9 @@
 				537,
 				0
 			]},
+			{"code":135,"indent":0,"parameters":[
+				1
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -7824,5 +7827,5 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
-	],"x":18,"y":10}
+	],"x":18,"y":7}
 ]}
