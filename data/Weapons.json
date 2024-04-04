@@ -3674,7 +3674,7 @@
 	{"id":283,"animationId":21,"description":"「鈍屬性」在兩頭前端盤著龍形鋼雕製成的武術長棍，相當\n沉重，非內家高手難以使用，物攻+150，TP獲得率少量提升。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.5},
 		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":1522,"name":"蟠龍棍","note":"<skill_id:1022>","params":[
+	],"iconIndex":1522,"name":"蟠龍棍","note":"<skill_id:1022>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons283.txt>","params":[
 		0,
 		0,
 		150,

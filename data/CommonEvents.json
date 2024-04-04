@@ -5195,7 +5195,6 @@
 		{"code":230,"indent":0,"parameters":[30]},
 		{"code":250,"indent":0,"parameters":[{"name":"bones","volume":90,"pitch":50,"pan":0}]},
 		{"code":230,"indent":0,"parameters":[60]},
-		{"code":135,"indent":0,"parameters":[0]},
 		{"code":111,"indent":0,"parameters":[0,27,0]},
 		{"code":122,"indent":1,"parameters":[26,26,0,2,2,12]},
 		{"code":111,"indent":1,"parameters":[0,29,0]},
@@ -6914,6 +6913,7 @@
 		{"code":121,"indent":0,"parameters":[537,537,0]},
 		{"code":121,"indent":0,"parameters":[213,213,0]},
 		{"code":230,"indent":0,"parameters":[60]},
+		{"code":135,"indent":0,"parameters":[1]},
 		{"code":201,"indent":0,"parameters":[0,294,7,8,8,0]},
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"TRPG闖關失敗","switchId":1,"trigger":0},
