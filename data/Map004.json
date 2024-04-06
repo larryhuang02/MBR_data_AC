@@ -2604,6 +2604,8 @@
 			{"code":230,"indent":0,"parameters":[
 				120
 			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
 			{"code":201,"indent":0,"parameters":[
@@ -2616,9 +2618,6 @@
 			]},
 			{"code":211,"indent":0,"parameters":[
 				1
-			]},
-			{"code":355,"indent":0,"parameters":[
-				"debugger;"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
