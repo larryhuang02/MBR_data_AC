@@ -1523,7 +1523,7 @@
 		{"code":22,"dataId":1,"value":0.25},
 		{"code":22,"dataId":4,"value":0.25},
 		{"code":44,"dataId":390,"value":1}
-	],"iconIndex":244,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"駭客模式","note":"<附魔類型:NNM>\n<alt_sv:BLR_PinHan_MV_SVSP>\n<loopAni:272>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1771,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"駭客模式","note":"<附魔類型:NNM>\n<alt_sv:BLR_PinHan_MV_SVSP>\n<loopAni:272>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":346,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":1737,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"詠黯－強","note":"<詠唱加速:-10000>\n<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":347,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
@@ -1569,13 +1569,13 @@
 		{"code":12,"dataId":6,"value":0.5},
 		{"code":12,"dataId":7,"value":0.5}
 	],"iconIndex":199,"maxTurns":10,"message1":"","message2":"","message3":"","message4":"","minTurns":10,"motion":0,"name":"妖精賜福","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":356,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":169,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"物理屬性下降","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
+	{"id":356,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":169,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"物理屬性下降","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":11,"dataId":1,"value":1.5},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1.5}
 	]},
-	{"id":357,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":357,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+	],"iconIndex":84,"maxTurns":7,"message1":"","message2":"","message3":"","message4":"","minTurns":7,"motion":0,"name":"遐想","note":"<附魔類型:SunFlower>\n","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":358,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":359,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
