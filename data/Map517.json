@@ -2540,6 +2540,9 @@
 				572,
 				1
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Chime1","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
 				0,
@@ -2624,8 +2627,8 @@
 			]},
 			{"code":322,"indent":1,"parameters":[
 				31,
-				"!Door2",
-				0,
+				"!Flame",
+				5,
 				"BLR_31_1",
 				0,
 				"YT_1"
@@ -2636,17 +2639,9 @@
 			{"code":205,"indent":1,"parameters":[
 				-1,
 				{"list":[
-					{"code":18,"indent":null},
-					{"code":35,"indent":null},
 					{"code":33,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":505,"indent":1,"parameters":[
-				{"code":35,"indent":null}
 			]},
 			{"code":505,"indent":1,"parameters":[
 				{"code":33,"indent":null}
@@ -2654,7 +2649,7 @@
 			{"code":201,"indent":1,"parameters":[
 				0,
 				518,
-				1,
+				18,
 				89,
 				0,
 				0
