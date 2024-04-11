@@ -312,7 +312,7 @@
 		983,
 		1051
 	],"faceIndex":0,"faceName":"BLR_31_1","traits":[
-	],"initialLevel":45,"maxLevel":99,"name":"攸特","nickname":"攸特","note":"","profile":"蘋薇冒險團的成員，飽讀詩書且幽默風趣，擁有不俗的煉金\n實力，是各大冒險者公會爭相邀請的搶手對象。"},
+	],"initialLevel":45,"maxLevel":99,"name":"攸特","nickname":"天才煉金術師","note":"<立繪if暱稱:{\"復仇者\":\"Actor_31_2\"}>","profile":"蘋薇冒險團的成員，飽讀詩書且幽默風趣，擁有不俗的煉金\n實力，是各大冒險者公會爭相邀請的搶手對象。"},
 	{"id":32,"battlerName":"YT_2","characterIndex":1,"characterName":"BLR_Yuter_MV10","classId":22,"equips":[
 		213,
 		1011,
