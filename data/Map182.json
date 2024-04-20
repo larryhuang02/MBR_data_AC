@@ -3383,13 +3383,16 @@
 				"$gamePlayer.isMovementSucceeded()"
 			]},
 			{"code":355,"indent":2,"parameters":[
+				"if(TouchInput.isTriggered()) $gameTemp._keypri=0;"
+			]},
+			{"code":655,"indent":2,"parameters":[
 				"if(Input.isTriggered('up')||Input.isTriggered('down')) $gameTemp._keypri=1;"
 			]},
-			{"code":355,"indent":2,"parameters":[
+			{"code":655,"indent":2,"parameters":[
 				"if(Input.isTriggered('left')||Input.isTriggered('right')) $gameTemp._keypri=2;"
 			]},
 			{"code":355,"indent":2,"parameters":[
-				"{ let dir=5,dir_LR=Input.isPressed('right')-Input.isPressed('left'),dir_UD=Input.isPressed('up')-Input.isPressed('down');"
+				"{ let dir=5,dir_LR=Input.isPressed('right')-Input.isPressed('left'),dir_UD=Input.isPressed('up')-Input.isPressed('down'); $gameTemp._dirDxy=$gameTemp._dirDxy||({2:[0,1],4:[-1,0],6:[1,0],8:[0,-1],}); $gameTemp._貪吃蛇_isDisableTurning=$gameTemp._貪吃蛇_isDisableTurning||(function f(chr,dir){ if(!f.tbl) f.tbl=({2:[0,1],4:[-1,0],6:[1,0],8:[0,-1],}); let sel=f.tbl[dir]; if(!sel||!chr.isMoving()) return true; let dx=chr._realX-chr.x,dy=chr._realY-chr.y; return sel[0]===(dx?dx/Math.abs(dx):0)&&sel[1]===(dy?dy/Math.abs(dy):0); });"
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"if($gameTemp._keypri===1){"
@@ -3398,7 +3401,7 @@
 				"if(dir_UD) dir+=dir_UD*3;"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"if(dir_LR) dir+=dir_LR;"
+				"else if(dir_LR) dir+=dir_LR;"
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"}else if($gameTemp._keypri===2){"
@@ -3407,7 +3410,7 @@
 				"if(dir_LR) dir+=dir_LR;"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"if(dir_UD) dir+=dir_UD*3;"
+				"else if(dir_UD) dir+=dir_UD*3;"
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"}else if(TouchInput.isTriggered()){"
@@ -3419,7 +3422,7 @@
 				"}"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"if(dir!==5) $gamePlayer._direction=dir;"
+				"if(dir!==5 && !$gameTemp._貪吃蛇_isDisableTurning($gamePlayer,dir)) $gamePlayer._direction=dir;"
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"}"
