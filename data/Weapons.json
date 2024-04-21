@@ -3349,7 +3349,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":256,"animationId":0,"description":"攻擊力+2、使用技能後對敵方全體造成自己攻擊力1倍的傷害\n使用特殊工法製成的寶劍，擁有特殊的力量。","etypeId":1,"traits":[
+	{"id":256,"animationId":0,"description":"攻擊力+2、使用技能後對敵方全體造成自己攻擊力0.5倍\n的傷害，使用特殊工法製成的寶劍，擁有特殊的力量。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
 	],"iconIndex":1109,"name":"暴風劍","note":"<weaponImg:Weapon_Swords,1,1>\n<skill_id:895>","params":[
 		0,
@@ -3361,7 +3361,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":257,"animationId":0,"description":"全能力值+3，速度+300，行動結束時恢復2點HP\n據說只有王者才能使用的王者之劍","etypeId":1,"traits":[
+	{"id":257,"animationId":0,"description":"全能力值+3，速度+300、使用技能後對敵方全體造成自己\n攻擊力1倍的傷害，據說只有王者才能使用的王者之劍。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
 	],"iconIndex":1117,"name":"王者之劍","note":"<weaponImg:Weapon_Swords,0,1>\n<skill_id:895>","params":[
 		3,
@@ -3505,9 +3505,9 @@
 		0,
 		0
 	],"price":0,"wtypeId":4},
-	{"id":269,"animationId":0,"description":"物攻、魔攻+2、使用『治癒』時提升3點治療量\n使用特殊工法製成的長弓，擁有特殊的力量。","etypeId":1,"traits":[
+	{"id":269,"animationId":0,"description":"物攻、魔攻+2、使用『回生』時提升3點治療量\n使用特殊工法製成的長弓，擁有特殊的力量。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1184,"name":"治癒弓","note":"<weaponImg:Weapon_bows,3,2>\n<skill_id:897>","params":[
+	],"iconIndex":1184,"name":"回生弓","note":"<weaponImg:Weapon_bows,3,2>\n<skill_id:897>","params":[
 		0,
 		0,
 		2,
@@ -3517,9 +3517,9 @@
 		0,
 		0
 	],"price":0,"wtypeId":4},
-	{"id":270,"animationId":0,"description":"物攻、魔攻+2、對隊友使用技能時自己同時獲得『再生』\n使用特殊工法製成的長弓，擁有特殊的力量。","etypeId":1,"traits":[
+	{"id":270,"animationId":0,"description":"物攻、魔攻+2、身上有『魔力箭』狀態時，普通攻擊無視敵人防禦。 \n使用特殊工法製成的長弓，擁有特殊的力量。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1186,"name":"回生弓","note":"<weaponImg:Weapon_bows,10,2>\n<skill_id:897>","params":[
+	],"iconIndex":1186,"name":"魔能弓","note":"<weaponImg:Weapon_bows,10,2>\n<skill_id:897>","params":[
 		0,
 		0,
 		2,
@@ -3529,7 +3529,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":4},
-	{"id":271,"animationId":0,"description":"物攻、魔攻+4、戰鬥開始時發動治癒領域《99回合，HP恢復1\n點》傳說是天使遺落在人間的長弓，擁有特殊的力量。","etypeId":1,"traits":[
+	{"id":271,"animationId":0,"description":"物攻、魔攻+4、戰鬥開始時發動治癒領域《99回合，HP恢復\n2點》傳說是天使遺落在人間的長弓，擁有特殊的力量。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
 	],"iconIndex":1186,"name":"天使長弓","note":"<weaponImg:Weapons_Angel,6,2>\n<skill_id:897>","params":[
 		0,

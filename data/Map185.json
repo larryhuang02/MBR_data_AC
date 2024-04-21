@@ -2077,10 +2077,10 @@
 				"「這個角色是精靈，\\C[2]她擁有比較均衡的能力值，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"技能的部分皆為恢復系的魔法，沒有什麼明顯的"
+				"技能的部分有恢復系的魔法、也有附魔系的攻擊"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"缺點，但也意味著沒有特別突出的優點。\\C[0]」"
+				"技能，沒有什麼明顯的缺點，但也意味著沒有特別突出的優點。\\C[0]」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Recolor_Jesters",
@@ -2092,10 +2092,31 @@
 				"洨稠"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「她的能力分布大概是長這樣，說明書在這裡"
+				"「這個角色是精靈，\\C[2]她擁有比較均衡的能力值，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"。」"
+				"技能的部分有恢復系的魔法、也有附魔系的攻擊"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"技能。\\C[0]」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Jesters",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"洨稠"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「沒有什麼特別明顯的缺點，同樣的優點也"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"不是很明顯，她的能力分布大概是長這樣，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"說明書在這裡。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book2","volume":90,"pitch":100,"pan":0}
@@ -2128,10 +2149,10 @@
 				"《技能介紹》"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\is[906]【一技】：單體補血技"
+				"\\is[906]【一技】：單體補血技、附帶持續回血"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\is[907]【二技】：單體補血技，附加持續回血"
+				"\\is[907]【二技】：附魔技，普通攻擊傷害提升"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"\\is[908]【大招】：單體復活技"
