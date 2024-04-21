@@ -79,7 +79,7 @@
 		397,
 		901
 	],"faceIndex":0,"faceName":"BLR_10_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。"},
+	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<usedOnTags:[\"星之風\"]>\n<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。"},
 	{"id":11,"battlerName":"SV_Carol","characterIndex":5,"characterName":"2000_Actor1","classId":9,"equips":[
 		180,
 		620,

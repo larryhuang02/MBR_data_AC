@@ -18866,6 +18866,63 @@
 				0,
 				"挑戰LV1"
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":1,"parameters":[
+				1,
+				"beauties1",
+				1,
+				0,
+				408,
+				312,
+				75,
+				75,
+				255,
+				0
+			]},
+			{"code":230,"indent":1,"parameters":[
+				90
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Break","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					255,
+					255,
+					200
+				],
+				15,
+				false
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				false
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
+			]},
 			{"code":124,"indent":1,"parameters":[
 				0,
 				420
@@ -19250,6 +19307,63 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"挑戰LV2"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":1,"parameters":[
+				1,
+				"beauties2",
+				1,
+				0,
+				408,
+				312,
+				75,
+				75,
+				255,
+				0
+			]},
+			{"code":230,"indent":1,"parameters":[
+				90
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Break","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					255,
+					255,
+					200
+				],
+				15,
+				false
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				false
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
 			]},
 			{"code":124,"indent":1,"parameters":[
 				0,
@@ -19636,6 +19750,63 @@
 				0,
 				"挑戰LV3"
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":1,"parameters":[
+				1,
+				"beauties3",
+				1,
+				0,
+				408,
+				312,
+				75,
+				75,
+				255,
+				0
+			]},
+			{"code":230,"indent":1,"parameters":[
+				90
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Break","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					255,
+					255,
+					200
+				],
+				15,
+				false
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				false
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
+			]},
 			{"code":124,"indent":1,"parameters":[
 				0,
 				600
@@ -20020,6 +20191,63 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"最後挑戰"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":1,"parameters":[
+				1,
+				"beauties4",
+				1,
+				0,
+				408,
+				312,
+				75,
+				75,
+				255,
+				0
+			]},
+			{"code":230,"indent":1,"parameters":[
+				90
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				false
+			]},
+			{"code":230,"indent":1,"parameters":[
+				30
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Break","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					255,
+					255,
+					255,
+					200
+				],
+				15,
+				false
+			]},
+			{"code":223,"indent":1,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				false
+			]},
+			{"code":235,"indent":1,"parameters":[
+				1
 			]},
 			{"code":124,"indent":1,"parameters":[
 				0,
