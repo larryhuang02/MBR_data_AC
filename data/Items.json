@@ -1245,7 +1245,7 @@
 		{"code":42,"dataId":5,"value1":3,"value2":0},
 		{"code":42,"dataId":6,"value1":3,"value2":0},
 		{"code":42,"dataId":7,"value1":3,"value2":0}
-	],"hitType":0,"iconIndex":542,"itypeId":1,"name":"精力藥劑Ｘ","note":"<usedOnTags:[\"陸維皮\",\"攸特\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":542,"itypeId":1,"name":"精力藥劑Ｘ","note":"<usedOnTags:[\"陸維皮\",\"攸特\",\"星之風\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":410,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"5","type":0,"variance":0},"description":"摻了大量螢光劑與大麻的麵包。\n永久能力道具，使用後幸運+10","effects":[
 		{"code":42,"dataId":7,"value1":10,"value2":0}
 	],"hitType":0,"iconIndex":70,"itypeId":1,"name":"螢光仙女甲胖","note":"<道具額外文字檔:BLR_custom/detail/item/Items410.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -2372,7 +2372,7 @@
 	],"hitType":0,"iconIndex":7,"itypeId":1,"name":"阿婆的內褲","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":916,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"任何人都能夠使用的技能學習書。","effects":[
 		{"code":44,"dataId":100,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":186,"itypeId":1,"name":"技能學習書","note":"","occasion":0,"price":500,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":186,"itypeId":1,"name":"技能學習書","note":"","occasion":0,"price":300,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
 	{"id":917,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"最大HP上升 1 點。","effects":[
 		{"code":42,"dataId":0,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":271,"itypeId":1,"name":"赤之實","note":"","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},

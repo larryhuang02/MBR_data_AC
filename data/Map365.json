@@ -91437,8 +91437,8 @@
 				21,
 				0,
 				2,
-				3000,
-				8000
+				7000,
+				20000
 			]},
 			{"code":125,"indent":0,"parameters":[
 				0,
@@ -91513,21 +91513,15 @@
 			]},
 			{"code":251,"indent":0,"parameters":[
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Item1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
+			{"code":128,"indent":0,"parameters":[
+				157,
 				0,
-				2,
-				3000,
-				8000
-			]},
-			{"code":125,"indent":0,"parameters":[
 				0,
 				1,
-				21
+				false
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -91536,7 +91530,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得\\v[21]\\G"
+				"獲得\\na[157]"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -91605,8 +91599,8 @@
 				21,
 				0,
 				2,
-				3000,
-				8000
+				7000,
+				20000
 			]},
 			{"code":125,"indent":0,"parameters":[
 				0,
@@ -91689,8 +91683,8 @@
 				21,
 				0,
 				2,
-				3000,
-				8000
+				7000,
+				20000
 			]},
 			{"code":125,"indent":0,"parameters":[
 				0,
@@ -94455,5 +94449,6 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
-	],"x":21,"y":52}
+	],"x":21,"y":52},
+	null
 ]}
