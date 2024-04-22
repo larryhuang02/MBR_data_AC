@@ -2791,7 +2791,7 @@
 		50,
 		20,
 		150,
-		200,
+		170,
 		100
 	],"meta":{}},
 	{"id":67,"actions":[
@@ -2844,7 +2844,7 @@
 		50,
 		100,
 		150,
-		200,
+		170,
 		100
 	],"meta":{}},
 	{"id":68,"actions":[
@@ -2893,7 +2893,7 @@
 		10,
 		45,
 		10,
-		250,
+		180,
 		10
 	],"meta":{}},
 	{"id":69,"actions":[
@@ -20741,7 +20741,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1174},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1175},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1176},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1177}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1177},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1178}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20762,7 +20763,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1180},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1181},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1182},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1183}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1183},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1184}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
