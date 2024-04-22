@@ -14443,10 +14443,6 @@
 		{"enemyId":430,"x":138,"y":367,"hidden":false}
 	],"name":"蘑菇","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14472,10 +14468,6 @@
 		{"enemyId":430,"x":216,"y":391,"hidden":false}
 	],"name":"蘑菇*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14499,10 +14491,6 @@
 		{"enemyId":431,"x":132,"y":358,"hidden":false}
 	],"name":"食人花","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14528,10 +14516,6 @@
 		{"enemyId":431,"x":225,"y":394,"hidden":false}
 	],"name":"食人花*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14555,10 +14539,6 @@
 		{"enemyId":432,"x":153,"y":382,"hidden":false}
 	],"name":"樹精","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14584,10 +14564,6 @@
 		{"enemyId":432,"x":246,"y":436,"hidden":false}
 	],"name":"樹精*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14613,10 +14589,6 @@
 		{"enemyId":430,"x":246,"y":379,"hidden":false}
 	],"name":"樹精, 食人花, 蘑菇","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14643,10 +14615,6 @@
 		{"enemyId":432,"x":123,"y":370,"hidden":false}
 	],"name":"食人花*2, 蘑菇, 樹精","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14674,10 +14642,6 @@
 		{"enemyId":430,"x":432,"y":444,"hidden":false}
 	],"name":"千年樹妖, 樹精, 食人花*2, 蘑菇","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14703,10 +14667,6 @@
 		{"enemyId":436,"x":249,"y":394,"hidden":false}
 	],"name":"哥布林戰士*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14732,10 +14692,6 @@
 		{"enemyId":437,"x":304,"y":403,"hidden":false}
 	],"name":"哥布林法師*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14761,10 +14717,6 @@
 		{"enemyId":437,"x":186,"y":331,"hidden":false}
 	],"name":"哥布林戰士*2, 哥布林法師","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14790,10 +14742,6 @@
 		{"enemyId":434,"x":204,"y":433,"hidden":false}
 	],"name":"藍皮蠍*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14820,10 +14768,6 @@
 		{"enemyId":435,"x":249,"y":424,"hidden":false}
 	],"name":"吸血蝙蝠*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14850,10 +14794,6 @@
 		{"enemyId":435,"x":153,"y":331,"hidden":false}
 	],"name":"藍皮蠍*2, 吸血蝙蝠*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14880,10 +14820,6 @@
 		{"enemyId":437,"x":174,"y":391,"hidden":false}
 	],"name":"哥布林戰士*2, 哥布林法師*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14910,10 +14846,6 @@
 		{"enemyId":434,"x":306,"y":436,"hidden":false}
 	],"name":"藍皮蠍*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14939,10 +14871,6 @@
 		{"enemyId":434,"x":300,"y":444,"hidden":false}
 	],"name":"地獄三頭犬, 藍皮蠍*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -14971,10 +14899,6 @@
 		{"enemyId":436,"x":450,"y":397,"hidden":false}
 	],"name":"哥布林大王, 哥布林法師*2, 哥布林戰士*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":111,"indent":0,"parameters":[4,41,4,257]},
-			{"code":313,"indent":1,"parameters":[0,41,0,176]},
-			{"code":0,"indent":1,"parameters":[]},
-			{"code":412,"indent":0,"parameters":[]},
 			{"code":111,"indent":0,"parameters":[4,42,4,262]},
 			{"code":313,"indent":1,"parameters":[0,42,0,177]},
 			{"code":0,"indent":1,"parameters":[]},
