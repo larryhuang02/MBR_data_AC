@@ -11164,6 +11164,9 @@
 			{"code":250,"indent":3,"parameters":[
 				{"name":"Explosion3","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":355,"indent":3,"parameters":[
+				"try{ SceneManager.splittedRenderedSpriteset_gen(404,32,256,0,Graphics.height>>1,0,256,0,16,[0,0,0,255]); }catch(e){}"
+			]},
 			{"code":225,"indent":3,"parameters":[
 				9,
 				9,
@@ -11184,7 +11187,7 @@
 				60
 			]},
 			{"code":108,"indent":3,"parameters":[
-				"遊戲ShutDown"
+				"遊戲Shutdown"
 			]},
 			{"code":353,"indent":3,"parameters":[
 			]},
