@@ -206,19 +206,17 @@
 		0,
 		0
 	],"price":3000,"wtypeId":1},
-	{"id":17,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":17,"animationId":0,"description":"「斬+暗屬性」物攻+150，魔防+60，普通攻擊時會吸收\n敵人HP，並給予敵人印記，此印記會讓敵人受到傷害變成兩倍，受到下次攻擊後解除。","etypeId":1,"traits":[
+	],"iconIndex":1422,"name":"邪刀咒怨","note":"<weaponImg:Weapon_book_summons,7,2>\n","params":[
 		0,
 		0,
+		150,
 		0,
 		0,
-		0,
-		0,
+		60,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":0,"wtypeId":6},
 	{"id":18,"animationId":6,"description":"「斬+火屬性」物攻+180、速度+15，攻擊附加機率\\it[14]，\n造成二次攻擊傷害，可使用技能【\\ns[458]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":4,"value":0},
@@ -839,19 +837,20 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":64,"animationId":0,"description":"小幅提升自身火、雷、光屬性攻擊傷害。","etypeId":1,"traits":[
+	{"id":64,"animationId":139,"description":"「斬+風屬性」物攻+120、速度+50、裝備武器變更為『雙持武器』。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":31,"dataId":7,"value":0},
+		{"code":55,"dataId":1,"value":1}
+	],"iconIndex":1093,"name":"銀龍短劍","note":"<道具額外文字檔:BLR_custom/detail/weapons/Weapons56.txt>","params":[
+		0,
+		0,
+		120,
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
+		50,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":0,"wtypeId":2},
 	{"id":65,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -2309,19 +2308,17 @@
 		0,
 		0
 	],"price":10000,"wtypeId":6},
-	{"id":177,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":177,"animationId":0,"description":"「鈍屬性」物攻+80，魔攻+180，中幅提升自身火、水、\n雷、風、土、冰元素傷害。","etypeId":1,"traits":[
+	],"iconIndex":1373,"name":"銀鹿","note":"<weaponImg:Weapon_book_summons,7,2>\n<屬性傷害倍率:[[4,1.30],[5,1.30],[6,1.30],[7,1.30],[8,1.30],[9,1.30]]>","params":[
 		0,
 		0,
+		80,
 		0,
-		0,
-		0,
+		180,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":0,"wtypeId":6},
 	{"id":178,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
