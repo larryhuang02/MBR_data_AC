@@ -1616,8 +1616,22 @@
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":377,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":378,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":378,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+		{"code":12,"dataId":0,"value":0},
+		{"code":12,"dataId":1,"value":0},
+		{"code":12,"dataId":2,"value":0},
+		{"code":12,"dataId":3,"value":0},
+		{"code":12,"dataId":4,"value":0},
+		{"code":12,"dataId":5,"value":0},
+		{"code":12,"dataId":6,"value":0},
+		{"code":12,"dataId":7,"value":0},
+		{"code":22,"dataId":0,"value":0.5},
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":2,"value":0.5},
+		{"code":22,"dataId":3,"value":0.5},
+		{"code":22,"dataId":4,"value":0.5},
+		{"code":23,"dataId":6,"value":0.5}
+	],"iconIndex":13,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"武神降臨","note":"<loopAni:267,disappear>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":379,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"聖痕（光）","note":"<loopAni:938,disappear>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":380,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

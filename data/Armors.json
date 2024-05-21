@@ -1521,13 +1521,12 @@
 		0,
 		15
 	],"price":3000},
-	{"id":129,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":129,"atypeId":32,"description":"「男用頭盔」物攻、防禦+20，戰鬥中定時發動技能【冷血】\n※冷血：物理攻擊力提升10%、爆擊率提升35%。","etypeId":3,"traits":[
+	],"iconIndex":150,"name":"武士護額","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors126.txt>","params":[
 		0,
 		0,
-		0,
-		0,
+		20,
+		20,
 		0,
 		0,
 		0,
@@ -1902,14 +1901,13 @@
 		30,
 		0
 	],"price":1000},
-	{"id":160,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":160,"atypeId":33,"description":"「女用頭盔」魔攻+30、魔防，角色死亡時發動【天使賜福】\n※天使賜福：我方全體「全能力上升1階」持續9次行動。","etypeId":3,"traits":[
+	],"iconIndex":146,"name":"神聖頭鍊","note":"<死時技能:[[925,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
 		0,
 		0,
+		30,
 		0,
-		0,
-		0,
+		30,
 		0,
 		0,
 		0
@@ -3663,15 +3661,14 @@
 		0,
 		0
 	],"price":50},
-	{"id":307,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":307,"atypeId":11,"description":"「兼用衣服」防禦+70、魔防+30，免疫禁用道具、禁用\n奧義狀態","etypeId":4,"traits":[
+	],"iconIndex":152,"name":"牧者檻歌","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors340.txt>","params":[
 		0,
 		0,
 		0,
+		70,
 		0,
-		0,
-		0,
+		30,
 		0,
 		0
 	],"price":0},
@@ -4213,15 +4210,14 @@
 		0,
 		0
 	],"price":14000},
-	{"id":353,"atypeId":0,"description":"小幅降低自身火元素抗性","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":353,"atypeId":12,"description":"「法系衣服」魔攻+50、魔防+80，使用技能時減少詠唱時間。","etypeId":4,"traits":[
+	],"iconIndex":139,"name":"賢哲法袍","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors340.txt>","params":[
 		0,
 		0,
 		0,
 		0,
-		0,
-		0,
+		50,
+		80,
 		0,
 		0
 	],"price":0},
@@ -4824,16 +4820,15 @@
 		0,
 		0
 	],"price":10000},
-	{"id":403,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":403,"atypeId":14,"description":"「重甲衣服」防禦、魔防、速度+50，戰鬥開始時獲得『折射氣流』\n※玄武盾：物理、魔法迴避率+30%，但受到攻擊後有機率解除。","etypeId":4,"traits":[
+	],"iconIndex":137,"name":"嵐風鎧","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		0,
 		0,
 		0,
+		50,
 		0,
-		0,
-		0,
-		0,
+		50,
+		50,
 		0
 	],"price":0},
 	{"id":404,"atypeId":0,"description":"","etypeId":2,"traits":[
@@ -7192,17 +7187,16 @@
 		0,
 		0
 	],"price":0},
-	{"id":600,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":600,"atypeId":21,"description":"「兼用副手」全能力+10，受到所有正面、負面異常狀態時\n持續回合數增加一回合。","etypeId":2,"traits":[
+	],"iconIndex":144,"name":"四靈輪環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors617.txt>\n","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
 	],"price":0},
 	{"id":601,"atypeId":21,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
@@ -11169,9 +11163,8 @@
 		-1,
 		-1
 	],"price":2},
-	{"id":913,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":913,"atypeId":31,"description":"「兼用飾品」裝備者能無視裝備條件，裝備除了角色專用裝備\n以外的所有重甲、輕甲、法袍、頭盔、法帽、男女專用裝備。","etypeId":5,"traits":[
+	],"iconIndex":283,"name":"鏡影之花","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors911.txt>","params":[
 		0,
 		0,
 		0,
@@ -11181,9 +11174,8 @@
 		0,
 		0
 	],"price":0},
-	{"id":914,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":914,"atypeId":31,"description":"「兼用飾品」爆擊傷害提升。","etypeId":5,"traits":[
+	],"iconIndex":283,"name":"一閃流星","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors911.txt>","params":[
 		0,
 		0,
 		0,

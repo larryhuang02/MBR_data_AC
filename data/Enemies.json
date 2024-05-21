@@ -21865,7 +21865,6 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":4},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":501},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":502},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":573},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":605}
 	],"battlerHue":67,"battlerName":"Animal_14_lizard","dropItems":[
 		{"kind":1,"dataId":830,"denominator":1},
@@ -21886,7 +21885,7 @@
 	],"gold":0,"name":"森林巨蜥","note":"","params":[
 		750,
 		500,
-		300,
+		250,
 		150,
 		250,
 		300,
@@ -21917,7 +21916,7 @@
 	],"gold":0,"name":"森林巨鱷","note":"","params":[
 		850,
 		500,
-		300,
+		350,
 		300,
 		250,
 		150,
@@ -21928,9 +21927,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":519},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":585},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":506},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":568},
-		{"conditionParam1":0,"conditionParam2":1,"conditionType":1,"rating":1,"skillId":565},
-		{"conditionParam1":0,"conditionParam2":1,"conditionType":1,"rating":1,"skillId":566}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":568}
 	],"battlerHue":360,"battlerName":"Animal_10","dropItems":[
 		{"kind":1,"dataId":830,"denominator":1},
 		{"kind":1,"dataId":830,"denominator":3},
@@ -21949,10 +21946,10 @@
 		650,
 		500,
 		300,
-		150,
+		100,
 		250,
-		150,
-		350,
+		100,
+		300,
 		200
 	]},
 	{"id":505,"actions":[
@@ -22198,7 +22195,7 @@
 	],"gold":0,"name":"十戒","note":"<Sideview battler: sv_Orc>\n<regenHP:200,0>\n<showMpTp>","params":[
 		15000,
 		500,
-		300,
+		500,
 		300,
 		250,
 		300,
@@ -22206,7 +22203,7 @@
 		200
 	]},
 	{"id":511,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":258},
+		{"conditionParam1":0,"conditionParam2":3,"conditionType":1,"rating":5,"skillId":1131},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":535},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":516},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":989},
@@ -22242,9 +22239,9 @@
 	],"gold":0,"name":"太裟","note":"<Sideview battler: Package1_4>\n<showMpTp>","params":[
 		12000,
 		1000,
-		300,
+		350,
 		200,
-		250,
+		300,
 		200,
 		350,
 		200
