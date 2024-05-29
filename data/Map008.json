@@ -393564,9 +393564,6 @@
 				"俯瞰END"
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"localStorage.removeItem('俯瞰doing');"
-			]},
-			{"code":655,"indent":0,"parameters":[
 				"SceneManager._scene.startFadeIn(1,0);"
 			]},
 			{"code":655,"indent":0,"parameters":[
@@ -393679,6 +393676,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"任務日誌可透過\\C[2]主選單內開啟\\C[6]"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"localStorage.removeItem('俯瞰doing');"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
