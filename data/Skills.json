@@ -3537,20 +3537,42 @@
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":976,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":977,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":978,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":979,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":980,"animationId":5,"damage":{"critical":true,"elementId":5,"formula":"0 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"攸特普攻","effects":[
-	],"hitType":2,"iconIndex":1539,"message1":"攻擊！","message2":"","mpCost":0,"name":"魔導書《閃》","note":"<speed:20000>\n<target action>\nmove user: target, FRONT BASE, 20\nface user: target\nwait for movement\nmotion attack: user\naction animation\nwait: 20\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":90,"tpCost":0,"tpGain":2},
-	{"id":981,"animationId":21,"damage":{"critical":true,"elementId":3,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"蘋維普攻","effects":[
-	],"hitType":1,"iconIndex":1248,"message1":"攻擊！","message2":"","mpCost":0,"name":"巨人誓言","note":"<speed:20000>\n<target action>\nmove user: target, FRONT BASE, 20\nface user: target\nwait for movement\nmotion attack: user\naction animation\nwait: 68\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":90,"tpCost":0,"tpGain":2},
-	{"id":982,"animationId":561,"damage":{"critical":true,"elementId":2,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"魯蘭普攻","effects":[
-	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"燕尾流星","note":"<speed:20000>\n<target action>\nmotion attack: user\naction animation\nwait: 28\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":983,"animationId":7,"damage":{"critical":true,"elementId":1,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"奧維亞普攻","effects":[
-	],"hitType":1,"iconIndex":1106,"message1":"攻擊！","message2":"","mpCost":0,"name":"安特枝枒","note":"<speed:20000>\n<addEle:2>\n<target action>\nmove user: target, FRONT BASE, 20\nface user: target\nwait for movement\nmotion attack: user\naction animation\nwait: 16\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":90,"tpCost":0,"tpGain":2},
+	{"id":977,"animationId":51,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":0,"variance":20},"description":"魯蘭裝備自動技能","effects":[
+		{"code":34,"dataId":6,"value1":1,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0}
+	],"hitType":0,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"奇襲","note":"<speed:20000>\n<autoSkill:[350]>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":978,"animationId":51,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":0,"variance":20},"description":"魯蘭裝備自動技能","effects":[
+		{"code":21,"dataId":449,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"鷹眼","note":"<speed:20000>\n<autoSkill:[350]>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":979,"animationId":987,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"魯蘭普攻","effects":[
+		{"code":21,"dataId":6,"value1":0.1,"value2":0},
+		{"code":21,"dataId":9,"value1":0.1,"value2":0},
+		{"code":32,"dataId":2,"value1":3,"value2":0},
+		{"code":32,"dataId":3,"value1":3,"value2":0},
+		{"code":32,"dataId":4,"value1":3,"value2":0},
+		{"code":32,"dataId":5,"value1":3,"value2":0},
+		{"code":32,"dataId":6,"value1":3,"value2":0},
+		{"code":32,"dataId":7,"value1":3,"value2":0}
+	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"眠毒箭","note":"<speed:10000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 48\naction effect\nIF user.isEquipped($dataArmors[1021])\naction effect level: 0.5\nwait: 4\naction effect\nwait: 1\naction effect level: 1\nEND\nwait: 36\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":980,"animationId":988,"damage":{"critical":true,"elementId":5,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"攸特普攻","effects":[
+		{"code":21,"dataId":19,"value1":0.1,"value2":0}
+	],"hitType":2,"iconIndex":1539,"message1":"攻擊！","message2":"","mpCost":0,"name":"雷閃","note":"<speed:20000>\n<target action>\naction effect loopAni: off\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 36\naction effect\nIF user.isEquipped($dataArmors[238])\neval: BattleManager._targets.map(t=>t.setATBSpeed(b._atbSpeed-2000));\nEND\nwait: 44\naction effect loopAni: off\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":981,"animationId":990,"damage":{"critical":true,"elementId":3,"formula":"a.isEquipped($dataWeapons[241]) ? 50 + ( a.atk / 2 - b.def / 3 ) : 50 + a.atk / 2 ","type":1,"variance":20},"description":"蘋維普攻","effects":[
+		{"code":21,"dataId":12,"value1":0.1,"value2":0},
+		{"code":21,"dataId":15,"value1":0.1,"value2":0}
+	],"hitType":1,"iconIndex":1248,"message1":"攻擊！","message2":"","mpCost":0,"name":"兩極掌","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect level: 0.5\naction effect: ,,0;1;0,4\nwait: 8\naction effect: ,,0;1;0,9\naction effect level: 1\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":2},
+	{"id":982,"animationId":987,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"魯蘭普攻","effects":[
+		{"code":21,"dataId":6,"value1":0.1,"value2":0},
+		{"code":21,"dataId":9,"value1":0.1,"value2":0}
+	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"眠毒箭","note":"<speed:10000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 48\naction effect\nIF user.isEquipped($dataArmors[1021])\naction effect level: 0.5\nwait: 4\naction effect\nwait: 1\naction effect level: 1\nEND\nwait: 36\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":983,"animationId":989,"damage":{"critical":true,"elementId":6,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"奧維亞普攻","effects":[
+		{"code":21,"dataId":16,"value1":0.1,"value2":0},
+		{"code":21,"dataId":17,"value1":0.1,"value2":0}
+	],"hitType":1,"iconIndex":1106,"message1":"攻擊！","message2":"","mpCost":0,"name":"幻影冰斬","note":"<speed:20000>\n<addEle:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\naction effect\nIF user.isEquipped($dataWeapons[246])\nwait: 4\naction effect\nwait: 4\nEND\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nif(user.isEquipped($dataWeapons[246])) speed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
 	{"id":984,"animationId":288,"damage":{"critical":true,"elementId":4,"formula":"150 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」用拳頭向地面注入魔力，讓火炎從地面噴出\n傷害敵人，機率著火，出招後可以加快下一回合的行動。","effects":[
 		{"code":21,"dataId":12,"value1":1,"value2":0},
 		{"code":21,"dataId":14,"value1":0.25,"value2":0},
@@ -3691,7 +3713,7 @@
 	],"hitType":1,"iconIndex":122,"message1":"","message2":"","mpCost":0,"name":"殘影弦月斬","note":"<speed:20000>\n<altColor:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\nwait: 10\naction animation\nwait: 45\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 773: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
 	{"id":1022,"animationId":793,"damage":{"critical":true,"elementId":3,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
 		{"code":32,"dataId":3,"value1":2,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"鐵拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 80\naction effect\nshake screen: 9, 9, 15\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
+	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"鐵拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 80\naction effect\nshake screen: 9, 9, 15\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":3},
 	{"id":1023,"animationId":794,"damage":{"critical":true,"elementId":3,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍、地屬性」使用蟠龍棍猛力打擊地面，對敵方單體\n連續造成三次傷害，每次攻擊造成「防禦下降」1層。","effects":[
 		{"code":32,"dataId":3,"value1":2,"value2":0}
 	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":75,"name":"鐵鏖","note":"<speed:20000>\n<addEle:8>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\naction effect level: 0.5\nwait: 105\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
@@ -3707,8 +3729,7 @@
 	],"hitType":0,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"奧義「雙子共舞」","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 50\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 70\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\naction effect\nwait: 30\naction effect\nANIMATION 804: target\nwait: 5\nANIMATION 803: target\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\nANIMATION 803: target\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\nANIMATION 800: target\nwait: 10\naction effect\nshake screen: 9, 9, 15\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 50\naffect effect level: 4\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nshake screen: 9, 9, 15\naction effect\nwait: 25\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1028,"animationId":109,"damage":{"critical":true,"elementId":0,"formula":"500","type":1,"variance":0},"description":"","effects":[
 	],"hitType":0,"iconIndex":66,"message1":"","message2":"","mpCost":0,"name":"雷爆","note":"<speed:0>\n<whole action>\naction animation\nwait: 80\naction effect\nwait: 24\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1029,"animationId":62,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp)*0.5","type":0,"variance":20},"description":"回復使用者MP20%","effects":[
-		{"code":12,"dataId":0,"value1":0.2,"value2":0}
+	{"id":1029,"animationId":62,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp) * 0.2","type":4,"variance":20},"description":"回復使用者已損失MP的20%","effects":[
 	],"hitType":0,"iconIndex":8,"message1":"","message2":"","mpCost":0,"name":"休息","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1030,"animationId":42,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp)*0.5","type":0,"variance":20},"description":"清除使用者所有狀態異常與能力下降，並附加「萬靈」。\n※萬靈：免疫全狀態異常，持續3次行動。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
@@ -3765,56 +3786,55 @@
 	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":150,"name":"療癒之水","note":"<speed:20000>\n<target action>\naction animation\nwait: 48\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1037,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1038,"animationId":511,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，\n50%機率附加著火","effects":[
-		{"code":21,"dataId":12,"value1":0.5,"value2":0}
+	{"id":1038,"animationId":511,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加著火","effects":[
+		{"code":21,"dataId":12,"value1":0.25,"value2":0}
 	],"hitType":2,"iconIndex":64,"message1":"攻擊！","message2":"","mpCost":50,"name":"火焰咒","note":"<speed:20000>\n<target action>\naction animation\nwait: 70\naction effect\nwait: 6\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1039,"animationId":66,"damage":{"critical":true,"elementId":4,"formula":"b.isStateAffected(17) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，對流血\n的敵人追加200點攻擊傷害。","effects":[
 	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"炎柱","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1040,"animationId":369,"damage":{"critical":true,"elementId":4,"formula":"b.isStateAffected(19) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，對麻痺\n的敵人追加200點攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"震炎爆","note":"<speed:20000>\n<target action>\naction animation\nwait: 55\naction effect\nwait: 5\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1041,"animationId":611,"damage":{"critical":true,"elementId":7,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體基礎100點攻擊傷害，\n50%機率附加流血","effects":[
-		{"code":21,"dataId":17,"value1":0.5,"value2":0}
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 112\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1042,"animationId":92,"damage":{"critical":true,"elementId":7,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體隨機3次基礎50點攻擊傷害，\n25%機率附加流血","effects":[
+	{"id":1040,"animationId":369,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，此技能\n基礎爆擊率額外提升30%。","effects":[
+	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"震炎爆","note":"<speed:20000>\n<crit:30>\n<target action>\naction animation\nwait: 55\naction effect\nwait: 5\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
+	{"id":1041,"animationId":611,"damage":{"critical":true,"elementId":7,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加流血","effects":[
 		{"code":21,"dataId":17,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"連風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
+	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 112\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
+	{"id":1042,"animationId":92,"damage":{"critical":true,"elementId":7,"formula":"a.mat / 2 - b.mdf / 3 ","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體隨機3次攻擊傷害，10%機率\n附加流血，此技能命中較低","effects":[
+		{"code":21,"dataId":17,"value1":0.1,"value2":0}
+	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"連風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":1,"successRate":80,"tpCost":0,"tpGain":1},
 	{"id":1043,"animationId":93,"damage":{"critical":true,"elementId":7,"formula":"300 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方基礎300點攻擊傷害，\n附加ATB擊退(特大)","effects":[
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":300,"name":"退擊風刃","note":"<speed:20000>\n<whole action>\naction animation\nwait: 80\naction effect\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-20000||0);})>\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1044,"animationId":81,"damage":{"critical":true,"elementId":9,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎100點攻擊傷害，\n50%機率附加潮濕","effects":[
-		{"code":21,"dataId":15,"value1":0.5,"value2":0}
+	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":300,"name":"退擊風刃","note":"<speed:20000>\n<whole action>\naction animation\nwait: 80\naction effect\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-20000||0);})>\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
+	{"id":1044,"animationId":81,"damage":{"critical":true,"elementId":9,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加潮濕","effects":[
+		{"code":21,"dataId":15,"value1":0.25,"value2":0}
 	],"hitType":2,"iconIndex":67,"message1":"攻擊！","message2":"","mpCost":50,"name":"潮濕水球","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1045,"animationId":786,"damage":{"critical":true,"elementId":9,"formula":"b.isStateAffected(12) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎100點攻擊傷害，對著火\n的敵人追加200點攻擊傷害。","effects":[
 	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":50,"name":"蒸氣湧泉","note":"<speed:20000>\n<target action>\naction animation\nwait: 88\naction effect\nwait: 80\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":3},
 	{"id":1046,"animationId":787,"damage":{"critical":true,"elementId":9,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎25點攻擊傷害，並且\n減少敵人MP300","effects":[
 	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":100,"name":"渦流侵蝕","note":"<speed:20000>\n<target action>\naction animation\nwait: 110\n<effect_javascript:(function(a,b){b.gainMp(-300); b.gainTp(0); })>\naction effect\nwait: 10\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":10},
-	{"id":1047,"animationId":71,"damage":{"critical":true,"elementId":6,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加結冰","effects":[
-		{"code":21,"dataId":16,"value1":0.25,"value2":0}
+	{"id":1047,"animationId":71,"damage":{"critical":true,"elementId":6,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎100點攻擊傷害，\n10%機率附加結冰","effects":[
+		{"code":21,"dataId":16,"value1":0.1,"value2":0}
 	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":50,"name":"凍結","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1048,"animationId":697,"damage":{"critical":true,"elementId":6,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎25點攻擊傷害，\n75%機率附加結冰","effects":[
-		{"code":21,"dataId":16,"value1":0.75,"value2":0}
+	{"id":1048,"animationId":697,"damage":{"critical":true,"elementId":6,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎25點攻擊傷害，\n30%機率附加結冰","effects":[
+		{"code":21,"dataId":16,"value1":0.3,"value2":0}
 	],"hitType":2,"iconIndex":65,"message1":"攻擊！","message2":"","mpCost":150,"name":"急凍衝擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 5\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1049,"animationId":74,"damage":{"critical":true,"elementId":6,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方基礎50點攻擊傷害，\n附加「速度下降2階」持續5次行動。","effects":[
 		{"code":32,"dataId":6,"value1":5,"value2":0},
 		{"code":32,"dataId":6,"value1":5,"value2":0}
 	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":100,"name":"吹雪","note":"<speed:20000>\n<whole action>\naction animation\nwait: 52\naction effect\nwait: 12\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1050,"animationId":76,"damage":{"critical":true,"elementId":5,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加麻痺","effects":[
-		{"code":21,"dataId":19,"value1":0.25,"value2":0}
+	{"id":1050,"animationId":76,"damage":{"critical":true,"elementId":5,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體基礎100點攻擊傷害，\n10%機率附加麻痺","effects":[
+		{"code":21,"dataId":19,"value1":0.1,"value2":0}
 	],"hitType":2,"iconIndex":66,"message1":"攻擊！","message2":"","mpCost":50,"name":"落雷術","note":"<speed:20000>\n<target action>\naction animation\nwait: 24\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1051,"animationId":610,"damage":{"critical":true,"elementId":5,"formula":"b.isStateAffected(15) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體基礎100點攻擊傷害，對潮濕\n的敵人追加200點攻擊傷害。","effects":[
 	],"hitType":2,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"閃雷轟","note":"<speed:20000>\n<target action>\naction animation\nwait: 200\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1052,"animationId":77,"damage":{"critical":true,"elementId":5,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體3次基礎25點攻擊傷害，\n25%機率附加麻痺，此技能命中較低","effects":[
 		{"code":21,"dataId":19,"value1":0.25,"value2":0}
 	],"hitType":2,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"雷鳴球","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":1,"successRate":70,"tpCost":0,"tpGain":1},
-	{"id":1053,"animationId":86,"damage":{"critical":true,"elementId":8,"formula":"75 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性」給予敵方單體基礎75點攻擊傷害，\n50%機率附加失明","effects":[
-		{"code":21,"dataId":8,"value1":0.5,"value2":0}
+	{"id":1053,"animationId":86,"damage":{"critical":true,"elementId":8,"formula":"75 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性」給予敵方單體基礎75點攻擊傷害，\n25%機率附加失明","effects":[
+		{"code":21,"dataId":8,"value1":0.25,"value2":0}
 	],"hitType":2,"iconIndex":68,"message1":"","message2":"","mpCost":50,"name":"岩塵術","note":"<speed:20000>\n<target action>\naction animation\nwait: 56\naction effect\nwait: 24\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1054,"animationId":582,"damage":{"critical":true,"elementId":8,"formula":"b.isStateAffected(16) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性」給予敵方單體基礎100點攻擊傷害，對結冰\n的敵人追加200點攻擊傷害。","effects":[
 	],"hitType":2,"iconIndex":68,"message1":"","message2":"","mpCost":50,"name":"地刺爆","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 90\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1055,"animationId":758,"damage":{"critical":true,"elementId":8,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性&超長時間吟唱」給予敵方基礎50點\n攻擊傷害，附加中毒、猛毒、混亂。","effects":[
-		{"code":21,"dataId":6,"value1":1,"value2":0},
-		{"code":21,"dataId":7,"value1":1,"value2":0},
-		{"code":21,"dataId":10,"value1":1,"value2":0}
-	],"hitType":2,"iconIndex":18,"message1":"","message2":"","mpCost":300,"name":"臭之息","note":"<speed:-50000>\n<whole action>\naction animation\nwait: 75\naction effect\nwait: 30\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":2},
+	{"id":1055,"animationId":758,"damage":{"critical":true,"elementId":8,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性&長時間吟唱」給予敵方基礎50點\n攻擊傷害，25%附加中毒、混亂。","effects":[
+		{"code":21,"dataId":6,"value1":0.25,"value2":0},
+		{"code":21,"dataId":10,"value1":0.25,"value2":0}
+	],"hitType":2,"iconIndex":18,"message1":"","message2":"","mpCost":200,"name":"臭之息","note":"<speed:10000>\n<whole action>\naction animation\nwait: 75\naction effect\nwait: 30\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":2},
 	{"id":1056,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1057,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -3824,28 +3844,27 @@
 	{"id":1059,"animationId":514,"damage":{"critical":true,"elementId":11,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"20%機率直接將敵方單體一擊必殺。","effects":[
 		{"code":21,"dataId":1,"value1":0.2,"value2":0}
 	],"hitType":2,"iconIndex":10,"message1":"","message2":"","mpCost":250,"name":"咒殺","note":"<speed:20000>\n<target action>\naction animation\nwait: 45\naction effect\nwait: 3\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1060,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，自身TP+3\n附加「物攻、魔攻下降1階」持續5次行動。","effects":[
+	{"id":1060,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「物攻、魔攻下降1階」持續5次行動。","effects":[
 		{"code":32,"dataId":2,"value1":5,"value2":0},
 		{"code":32,"dataId":4,"value1":5,"value2":0}
 	],"hitType":1,"iconIndex":295,"message1":"攻擊！","message2":"","mpCost":50,"name":"力量打擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1061,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，自身TP+3\n附加「防禦、魔防下降1階」持續5次行動。","effects":[
+	{"id":1061,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「防禦、魔防下降1階」持續5次行動。","effects":[
 		{"code":32,"dataId":3,"value1":5,"value2":0},
 		{"code":32,"dataId":5,"value1":5,"value2":0}
 	],"hitType":1,"iconIndex":295,"message1":"攻擊！","message2":"","mpCost":50,"name":"防禦打擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1062,"animationId":401,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體3次基礎50點攻擊傷害，自身TP+1\n附加ATB擊退(小)，此技能命中較低","effects":[
+	{"id":1062,"animationId":401,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體3次基礎50點攻擊傷害，\n附加ATB擊退(小)，此技能命中較低","effects":[
 	],"hitType":1,"iconIndex":76,"message1":"","message2":"","mpCost":100,"name":"十字連斬","note":"<speed:20000>\n<target action>\naction animation\nwait: 36\naction effect\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-5000||0);})>\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":2,"successRate":70,"tpCost":0,"tpGain":1},
-	{"id":1063,"animationId":411,"damage":{"critical":true,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，自身TP+3\n附加「恢復效果下降50%」持續5次行動。","effects":[
+	{"id":1063,"animationId":411,"damage":{"critical":true,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「恢復效果下降50%」持續5次行動。","effects":[
 		{"code":21,"dataId":447,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":107,"message1":"攻擊！","message2":"","mpCost":100,"name":"致殘戟","note":"<speed:20000>\n<target action>\naction animation\nwait: 72\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1064,"animationId":606,"damage":{"critical":true,"elementId":1,"formula":"(b.hp*3<=b.mhp) ? 1050 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，自身TP+3\n若目標HP<33%，對敵人追加1000點攻擊傷害。","effects":[
+	{"id":1064,"animationId":606,"damage":{"critical":true,"elementId":1,"formula":"(b.hp*3<=b.mhp) ? 350 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3\n若目標HP<30%，對敵人追加300點攻擊傷害。","effects":[
 	],"hitType":1,"iconIndex":1310,"message1":"","message2":"","mpCost":100,"name":"斬首斧","note":"<speed:20000>\n<target action>\naction animation\nwait: 52\naction effect\nwait: 8\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1065,"animationId":517,"damage":{"critical":true,"elementId":3,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎300點攻擊傷害，自身TP+3\n此技能命中只有50%","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"攻擊！","message2":"","mpCost":100,"name":"通臂拳","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nshake screen: 5, 5, 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":50,"tpCost":0,"tpGain":3},
-	{"id":1066,"animationId":705,"damage":{"critical":true,"elementId":1,"formula":"b.isStateAffected(2) ? b.mhp * 0.2 : b.mhp * 2","type":0,"variance":20},"description":"100%機率直接將敵方單體一擊必殺，TP累積到100才能施放。","effects":[
-		{"code":21,"dataId":1,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"一刀兩斷","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 28\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":100,"tpGain":0},
-	{"id":1067,"animationId":25,"damage":{"critical":true,"elementId":1,"formula":"500 + (a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎500點攻擊傷害，TP累積到100\n才能施放。","effects":[
-	],"hitType":1,"iconIndex":97,"message1":"","message2":"","mpCost":0,"name":"勇氣一擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 116\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":100,"tpGain":1},
+	{"id":1065,"animationId":517,"damage":{"critical":true,"elementId":3,"formula":"b.isStateAffected(2) ? 500 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3，\n若目標為防禦狀態，對敵人追加450點攻擊傷害。","effects":[
+	],"hitType":1,"iconIndex":77,"message1":"攻擊！","message2":"","mpCost":100,"name":"通臂拳","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nshake screen: 5, 5, 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
+	{"id":1066,"animationId":705,"damage":{"critical":true,"elementId":1,"formula":"(b.hp*7>=b.mhp) ? 200 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3\n若目標HP>70%，對敵人追加150點攻擊傷害。","effects":[
+	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":100,"name":"一刀兩斷","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 28\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
+	{"id":1067,"animationId":25,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.atk / 2 - b.def / 3 ) + a.tp * 3","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，每有1點TP，\n提升3點傷害。","effects":[
+	],"hitType":1,"iconIndex":97,"message1":"","message2":"","mpCost":100,"name":"勇氣一擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 116\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":1},
 	{"id":1068,"animationId":106,"damage":{"critical":true,"elementId":0,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":399,"value1":1,"value2":0},
 		{"code":21,"dataId":399,"value1":0.5,"value2":0},
@@ -3891,16 +3910,36 @@
 		{"code":21,"dataId":394,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":0,"name":"魔力恢復","note":"<speed:20000>\n<target action>\naction animation\nwait: 64\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1082,"animationId":51,"damage":{"critical":false,"elementId":0,"formula":"a.mmp * 1","type":0,"variance":0},"description":"","effects":[
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0}
+		{"code":31,"dataId":2,"value1":3,"value2":0},
+		{"code":31,"dataId":3,"value1":3,"value2":0},
+		{"code":31,"dataId":4,"value1":3,"value2":0},
+		{"code":31,"dataId":5,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":7,"value1":3,"value2":0},
+		{"code":31,"dataId":2,"value1":3,"value2":0},
+		{"code":31,"dataId":3,"value1":3,"value2":0},
+		{"code":31,"dataId":4,"value1":3,"value2":0},
+		{"code":31,"dataId":5,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":7,"value1":3,"value2":0},
+		{"code":31,"dataId":2,"value1":3,"value2":0},
+		{"code":31,"dataId":3,"value1":3,"value2":0},
+		{"code":31,"dataId":4,"value1":3,"value2":0},
+		{"code":31,"dataId":5,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":7,"value1":3,"value2":0},
+		{"code":31,"dataId":2,"value1":3,"value2":0},
+		{"code":31,"dataId":3,"value1":3,"value2":0},
+		{"code":31,"dataId":4,"value1":3,"value2":0},
+		{"code":31,"dataId":5,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":7,"value1":3,"value2":0},
+		{"code":31,"dataId":2,"value1":3,"value2":0},
+		{"code":31,"dataId":3,"value1":3,"value2":0},
+		{"code":31,"dataId":4,"value1":3,"value2":0},
+		{"code":31,"dataId":5,"value1":3,"value2":0},
+		{"code":31,"dataId":6,"value1":3,"value2":0},
+		{"code":31,"dataId":7,"value1":3,"value2":0}
 	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"安特神威","note":"<speed:20000>\n<autoSkill:[1,1]>\n<target action>\naction animation\nwait: 56\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1083,"animationId":59,"damage":{"critical":true,"elementId":2,"formula":"a.atk / 2 - b.def / 3 ","type":0,"variance":20},"description":"","effects":[
 		{"code":44,"dataId":217,"value1":1,"value2":0}
@@ -4527,7 +4566,7 @@
 	{"id":1177,"animationId":955,"damage":{"critical":true,"elementId":8,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":2,"iconIndex":1408,"message1":"","message2":"","mpCost":0,"name":"第肆式‧削鐵如泥","note":"<speed:20000>\n<addEle:7>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 68\naction effect\nwait: 12\naction effect\nwait: 12\naction effect\nwait: 12\naction effect\nwait: 12\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1178,"animationId":956,"damage":{"critical":true,"elementId":8,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":1408,"message1":"","message2":"","mpCost":0,"name":"第伍式‧鐵甲金戈","note":"<speed:0>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 68\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 52\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\naction effect level: 5\nwait: 48\naction effect: ,,0;0;1,7;8\naction effect level: 1\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 20\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
+	],"hitType":1,"iconIndex":1408,"message1":"","message2":"","mpCost":0,"name":"第伍式‧鐵甲金戈","note":"<speed:0>\n<whole action>\n<Action Cutin Picture: ../pictures/ult_TATT>\n<action cutin>\n</action cutin>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 68\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 12\naction effect: ,,0;1;0,1;8\nwait: 52\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\nwait: 8\naction effect: ,,0;0;1,7;8\naction effect level: 5\nwait: 48\naction effect: ,,0;0;1,7;8\naction effect level: 1\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 4\naction effect: ,,0;0;1,7;8\nwait: 20\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
 	{"id":1179,"animationId":957,"damage":{"critical":true,"elementId":3,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":1,"iconIndex":1088,"message1":"","message2":"","mpCost":0,"name":"帝國格鬥術-長春藤","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\nwait: 20\naction effect\nwait: 4\ntarget move delta: 0 -500 30\nwait: 30\ntarget move delta: 0 500 20\nwait: 20\naction effect\nwait: 66\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1180,"animationId":958,"damage":{"critical":true,"elementId":1,"formula":"1","type":1,"variance":20},"description":"","effects":[
@@ -4540,7 +4579,7 @@
 	],"hitType":1,"iconIndex":1264,"message1":"","message2":"","mpCost":0,"name":"帝國長槍術-荊棘","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 44\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 26\naction effect\nwait: 20\naction effect\nwait: 12\naction effect: ,,0;1;0,1\nwait: 4\naction effect: ,,0;1;0,1\nwait: 4\naction effect: ,,0;1;0,1\nwait: 24\naction effect\nwait: 50\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1184,"animationId":962,"damage":{"critical":true,"elementId":0,"formula":"1","type":0,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":21,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"帝國亂鬥式‧百花撩亂","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation: target, mirror\nwait: 40\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>\n<技能後追加技能:[1182,1180,1179,1183,1181]>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
+	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"帝國亂鬥式‧百花撩亂","note":"<speed:20000>\n<whole action>\n<Action Cutin Picture: ../pictures/ult_MOLLY>\n<action cutin>\n</action cutin>\nwait for opacity\nopacity user: 0%, 20\naction animation: target, mirror\nwait: 40\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>\n<技能後追加技能:[1182,1180,1179,1183,1181]>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
 	{"id":1185,"animationId":963,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":2,"iconIndex":224,"message1":"","message2":"","mpCost":0,"name":"起爐灶","note":"<speed:10000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect: ,,0;0;1,4\nwait: 4\naction effect: ,,0;0;1,4\nwait: 4\naction effect: ,,0;0;1,4\nwait: 56\naction effect: ,,0;0;1,8\nwait: 4\naction effect: ,,0;0;1,8\nwait: 4\naction effect: ,,0;0;1,8\nwait: 40\naction effect: ,,0;1;1,1;4;8\nwait: 4\naction effect: ,,0;1;1,1;4;8\nwait: 4\naction effect: ,,0;1;1,1;4;8\nwait: 4\naction effect: ,,0;1;1,1;4;8\nwait: 4\naction effect: ,,0;1;1,1;4;8\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1186,"animationId":964,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[

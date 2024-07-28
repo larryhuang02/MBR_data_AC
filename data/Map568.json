@@ -3193,6 +3193,12 @@
 				1,
 				384
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_05\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_05\", 5);"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_bleeding",
 				12,

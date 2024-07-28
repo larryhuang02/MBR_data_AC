@@ -10052,6 +10052,12 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_02\", 2);"
+			]},
 			{"code":203,"indent":0,"parameters":[
 				7,
 				0,
@@ -11085,6 +11091,12 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_02\", 3);"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,

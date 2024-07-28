@@ -109609,6 +109609,12 @@
 				"A",
 				0
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_11\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_11\", 2);"
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
 				0,

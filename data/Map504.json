@@ -14328,6 +14328,12 @@
 			{"code":401,"indent":0,"parameters":[
 				"「吃飽了我們就走吧，去\\C[3]冒險者公會找奇羅\\C[0]。」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_01\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_01\", 5);"
+			]},
 			{"code":129,"indent":0,"parameters":[
 				32,
 				0,
@@ -20265,6 +20271,12 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_02\", 6);"
+			]},
 			{"code":121,"indent":0,"parameters":[
 				546,
 				546,
@@ -22502,6 +22514,15 @@
 				30
 			]},
 			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 8);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"Main_03\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"Main_04\");"
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,

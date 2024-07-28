@@ -40256,6 +40256,12 @@
 			{"code":401,"indent":1,"parameters":[
 				"已擊倒質化靈，記得回去與冒險者公會領取賞金！"
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_12\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_12\", 2);"
+			]},
 			{"code":132,"indent":1,"parameters":[
 				{"name":"m-art_BattleOpera","volume":50,"pitch":100,"pan":0}
 			]},

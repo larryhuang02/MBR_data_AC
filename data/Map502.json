@@ -4570,6 +4570,12 @@
 			]},
 			{"code":221,"indent":2,"parameters":[
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 3);"
+			]},
 			{"code":121,"indent":2,"parameters":[
 				543,
 				543,
@@ -4861,6 +4867,9 @@
 			]},
 			{"code":505,"indent":4,"parameters":[
 				{"code":16,"indent":null}
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.AddQuest(\"intelligence_04\");"
 			]},
 			{"code":122,"indent":4,"parameters":[
 				435,
@@ -5711,6 +5720,18 @@
 				0,
 				0,
 				1
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_04\");"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				434,

@@ -23458,6 +23458,12 @@
 					4
 				],"indent":null}
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_05\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_05\", 3);"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_33_1",
 				1,

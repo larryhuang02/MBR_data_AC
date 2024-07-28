@@ -3856,6 +3856,12 @@
 			{"code":401,"indent":2,"parameters":[
 				"你收服了幽魂！"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":402,"indent":1,"parameters":[
@@ -3980,6 +3986,12 @@
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"你收服了\\n[38]！"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -4106,6 +4118,12 @@
 			{"code":401,"indent":2,"parameters":[
 				"你收服了\\n[39]！"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":402,"indent":1,"parameters":[
@@ -4230,6 +4248,12 @@
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"你收服了\\n[35]！"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -4356,6 +4380,12 @@
 			{"code":401,"indent":2,"parameters":[
 				"你收服了\\n[36]！"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":402,"indent":1,"parameters":[
@@ -4480,6 +4510,12 @@
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"你收服了\\n[37]！"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_04\", 1);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_04\", 2);"
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
