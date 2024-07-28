@@ -3045,7 +3045,7 @@
 	0,
 	705,
 	0,
-	534,
+	0,
 	0,
 	532,
 	0,
@@ -3165,7 +3165,7 @@
 	558,
 	529,
 	268,
-	532,
+	0,
 	0,
 	534,
 	0,
@@ -5876,6 +5876,12 @@
 				0,
 				10
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_01\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_01\", 4);"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -6145,6 +6151,12 @@
 				32,
 				1,
 				false
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_02\", 5);"
 			]},
 			{"code":129,"indent":0,"parameters":[
 				33,
@@ -8296,6 +8308,12 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_05\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_05\", 6);"
 			]},
 			{"code":121,"indent":0,"parameters":[
 				546,

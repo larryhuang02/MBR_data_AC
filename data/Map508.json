@@ -10674,6 +10674,12 @@
 			{"code":242,"indent":0,"parameters":[
 				3
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_01\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_01\", 2);"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},

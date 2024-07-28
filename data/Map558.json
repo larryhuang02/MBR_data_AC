@@ -3632,6 +3632,15 @@
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_03\", 5);"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
 				1,

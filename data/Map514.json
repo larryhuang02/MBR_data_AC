@@ -45110,6 +45110,12 @@
 				1,
 				false
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_01\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_01\", 3);"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -45562,6 +45568,12 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\|\\|\\|\\^"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 6);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_03\", 7);"
 			]},
 			{"code":111,"indent":0,"parameters":[
 				4,
@@ -47332,6 +47344,9 @@
 				0,
 				0
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.AddQuest(\"intelligence_09\");"
+			]},
 			{"code":230,"indent":1,"parameters":[
 				60
 			]},
@@ -47811,6 +47826,18 @@
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_09\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_09\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_09\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_09\");"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -49540,6 +49567,87 @@
 				0,
 				1
 			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				438,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.AddQuest(\"intelligence_03\");"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				438,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				438,
+				0,
+				3,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				438,
+				0,
+				4,
+				0
+			]},
+			{"code":355,"indent":6,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":655,"indent":6,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":411,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
 			{"code":315,"indent":2,"parameters":[
 				0,
 				0,
@@ -49818,6 +49926,87 @@
 				1,
 				0,
 				1
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				438,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.AddQuest(\"intelligence_03\");"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				438,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				438,
+				0,
+				3,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				438,
+				0,
+				4,
+				0
+			]},
+			{"code":355,"indent":6,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":655,"indent":6,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":411,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":315,"indent":2,"parameters":[
 				0,
@@ -50149,6 +50338,87 @@
 				0,
 				1
 			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				438,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.AddQuest(\"intelligence_03\");"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				438,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				438,
+				0,
+				3,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				438,
+				0,
+				4,
+				0
+			]},
+			{"code":355,"indent":6,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":655,"indent":6,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":411,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
 			{"code":315,"indent":2,"parameters":[
 				0,
 				0,
@@ -50427,6 +50697,87 @@
 				1,
 				0,
 				1
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				438,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.AddQuest(\"intelligence_03\");"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				438,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				438,
+				0,
+				3,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				438,
+				0,
+				4,
+				0
+			]},
+			{"code":355,"indent":6,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+			]},
+			{"code":655,"indent":6,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":411,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":315,"indent":2,"parameters":[
 				0,
@@ -51257,6 +51608,18 @@
 			{"code":401,"indent":0,"parameters":[
 				"隊伍獲得EXP10000。"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_03\");"
+			]},
 			{"code":315,"indent":0,"parameters":[
 				0,
 				0,
@@ -52032,7 +52395,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_MAP_Gacha","direction":2,"pattern":1,"characterIndex":3},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
-				572,
+				577,
 				0
 			]},
 			{"code":111,"indent":1,"parameters":[
@@ -52111,6 +52474,27 @@
 	],"x":61,"y":15},
 	{"id":47,"name":"NPC01","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Evil_MZ","direction":2,"pattern":1,"characterIndex":7},"list":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				577,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.AddQuest(\"intelligence_02\");"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				577,
+				577,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Evil_MZ",
 				7,
@@ -52153,10 +52537,98 @@
 			{"code":401,"indent":0,"parameters":[
 				"走過路過不要錯過喔。」"
 			]},
-			{"code":121,"indent":0,"parameters":[
-				572,
-				572,
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":3,"indent":null},
+			{"code":3,"indent":null},
+			{"code":3,"indent":null},
+			{"code":3,"indent":null},
+			{"code":3,"indent":null},
+			{"code":2,"indent":null},
+			{"code":2,"indent":null},
+			{"code":2,"indent":null},
+			{"code":2,"indent":null},
+			{"code":2,"indent":null},
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":true,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":16},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":66},"directionFix":false,"image":{"tileId":0,"characterName":"Evil_MZ","direction":2,"pattern":1,"characterIndex":7},"list":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				577,
 				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.AddQuest(\"intelligence_02\");"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_02\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_02\");"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				577,
+				577,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Evil_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"神秘商人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「抽獎一次只要500\\g！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Evil_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"神秘商人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「虹獎機率5%、金獎機率10%、銀獎機率15%、"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"銅獎機率65%。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Evil_MZ",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"神秘商人"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「來喔，對冒險者們很有幫助的道具轉蛋，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"走過路過不要錯過喔。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -52609,6 +53081,9 @@
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_06\");"
+			]},
 			{"code":121,"indent":0,"parameters":[
 				575,
 				575,
@@ -52823,6 +53298,76 @@
 			{"code":123,"indent":2,"parameters":[
 				"A",
 				0
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				442,
+				0,
+				0,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 1);"
+			]},
+			{"code":655,"indent":3,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				442,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				442,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 4);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":122,"indent":2,"parameters":[
+				442,
+				442,
+				1,
+				0,
+				1
 			]},
 			{"code":115,"indent":2,"parameters":[
 			]},
@@ -53098,6 +53643,76 @@
 			]},
 			{"code":401,"indent":2,"parameters":[
 				"獲得\\NI[801]、\\NI[804]3瓶。"
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				442,
+				0,
+				0,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 1);"
+			]},
+			{"code":655,"indent":3,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				442,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				442,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 4);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":122,"indent":2,"parameters":[
+				442,
+				442,
+				1,
+				0,
+				1
 			]},
 			{"code":123,"indent":2,"parameters":[
 				"B",
@@ -53381,6 +53996,76 @@
 			{"code":401,"indent":2,"parameters":[
 				"獲得\\NI[824]、\\NI[830]10個。"
 			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				442,
+				0,
+				0,
+				0
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 1);"
+			]},
+			{"code":655,"indent":3,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				442,
+				0,
+				1,
+				0
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 2);"
+			]},
+			{"code":655,"indent":4,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				442,
+				0,
+				2,
+				0
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_06\", 3);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_06\", 4);"
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":122,"indent":2,"parameters":[
+				442,
+				442,
+				1,
+				0,
+				1
+			]},
 			{"code":123,"indent":2,"parameters":[
 				"C",
 				0
@@ -53589,6 +54274,9 @@
 				0,
 				0,
 				3
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_04\");"
 			]},
 			{"code":122,"indent":3,"parameters":[
 				434,
@@ -53799,6 +54487,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"貓咪的話，應該不至於跑太遠吧？"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_10\");"
+			]},
 			{"code":122,"indent":0,"parameters":[
 				439,
 				439,
@@ -53991,6 +54682,12 @@
 			{"code":401,"indent":2,"parameters":[
 				"隊伍獲得EXP5000。"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_14\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_14\");"
+			]},
 			{"code":315,"indent":2,"parameters":[
 				0,
 				0,
@@ -54108,6 +54805,12 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"抓到了小橘！"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_10\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_10\", 2);"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				439,
@@ -54695,6 +55398,9 @@
 			{"code":401,"indent":2,"parameters":[
 				"買吧。"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.AddQuest(\"intelligence_03\");"
+			]},
 			{"code":121,"indent":2,"parameters":[
 				544,
 				544,
@@ -54825,6 +55531,12 @@
 			]},
 			{"code":230,"indent":1,"parameters":[
 				60
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
 			]},
 			{"code":123,"indent":1,"parameters":[
 				"C",
@@ -60422,6 +61134,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"「嗯，讓我考慮一下再決定吧，謝謝老闆！」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_10\");"
+			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
@@ -60705,6 +61420,18 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"獲得了3個\\ni[304]、1點技能天賦點。"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_10\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_10\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_10\", 2);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_10\");"
 			]},
 			{"code":123,"indent":1,"parameters":[
 				"C",
@@ -62249,6 +62976,15 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_05\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_05\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_05\");"
 			]},
 			{"code":123,"indent":0,"parameters":[
 				"A",
@@ -64553,6 +65289,22 @@
 	],"x":2,"y":14},
 	{"id":135,"name":"EV135","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Actor2","direction":2,"pattern":1,"characterIndex":1},"list":[
+			{"code":111,"indent":0,"parameters":[
+				2,
+				"A",
+				1
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.AddQuest(\"intelligence_02\");"
+			]},
+			{"code":123,"indent":1,"parameters":[
+				"A",
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Actor2",
 				1,
@@ -64587,7 +65339,7 @@
 					"礦石換皮革",
 					"皮革換礦石"
 				],
-				1,
+				-2,
 				0,
 				2,
 				0
@@ -66426,6 +67178,36 @@
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
+			{"code":403,"indent":0,"parameters":[
+				6,
+				null
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_31_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「再讓我考慮一下好了。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Actor2",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"女冒險者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「沒問題沒問題，童叟無欺～」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
 			{"code":404,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
@@ -66529,6 +67311,15 @@
 			{"code":123,"indent":1,"parameters":[
 				"A",
 				0
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.AddQuest(\"intelligence_15\");"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_15\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_15\");"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_31_1",

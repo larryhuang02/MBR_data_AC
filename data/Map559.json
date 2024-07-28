@@ -2525,6 +2525,12 @@
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_03\", 2);"
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -2581,6 +2587,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「萬事拜託了，冒險者先生們。」"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 2);"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
@@ -2736,6 +2745,12 @@
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_03\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_03\", 6);"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
@@ -2943,7 +2958,7 @@
 				"老婦人"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「冒險者大人怎麼了嗎？」"
+				"「冒險者大人，這本書怎麼了嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",

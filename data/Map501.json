@@ -10790,6 +10790,15 @@
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_01\", 5);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"Main_01\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"Main_02\");"
+			]},
 			{"code":203,"indent":0,"parameters":[
 				30,
 				0,
@@ -10935,6 +10944,15 @@
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Coin","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_08\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_08\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_08\");"
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
@@ -11426,6 +11444,12 @@
 				5,
 				0
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"Main_02\", 4);"
+			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
 				262,
@@ -11587,6 +11611,15 @@
 			{"code":401,"indent":2,"parameters":[
 				"獲得了7000\\g。"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_08\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_08\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_08\");"
+			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
 				0
@@ -11739,6 +11772,15 @@
 			{"code":401,"indent":2,"parameters":[
 				"獲得了7000\\g。"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_08\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_08\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_08\");"
+			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
 				0
@@ -11829,6 +11871,15 @@
 				1,
 				0,
 				1
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_11\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_11\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_11\");"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -11980,6 +12031,15 @@
 				1,
 				0,
 				1
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_12\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_12\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_12\");"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -12318,6 +12378,15 @@
 			{"code":401,"indent":2,"parameters":[
 				"獲得了7000\\g。"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_08\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_08\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_08\");"
+			]},
 			{"code":123,"indent":2,"parameters":[
 				"A",
 				0
@@ -12445,6 +12514,15 @@
 				1,
 				0,
 				1
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_11\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_11\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_11\");"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -12597,6 +12675,15 @@
 				1,
 				0,
 				1
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_12\", 2);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_12\", 3);"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"SQSM.CompletQuest(\"intelligence_12\");"
 			]},
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -15619,6 +15706,15 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"Main_02\", 6);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompletQuest(\"Main_02\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"Main_03\");"
+			]},
 			{"code":203,"indent":0,"parameters":[
 				31,
 				0,
@@ -15769,6 +15865,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"已得知古菌森林通緝魔物的情報！"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_08\");"
+			]},
 			{"code":121,"indent":0,"parameters":[
 				556,
 				556,
@@ -15909,6 +16008,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"已得知南邊森林通緝魔物的情報！"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_11\");"
 			]},
 			{"code":121,"indent":0,"parameters":[
 				557,
@@ -16065,6 +16167,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"已得知南邊遺跡通緝魔物的情報！"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_12\");"
 			]},
 			{"code":121,"indent":0,"parameters":[
 				558,

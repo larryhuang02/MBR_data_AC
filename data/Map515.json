@@ -60738,7 +60738,7 @@
 			{"code":213,"indent":0,"parameters":[
 				23,
 				7,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -60758,7 +60758,7 @@
 			{"code":213,"indent":0,"parameters":[
 				1,
 				3,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
@@ -60805,7 +60805,7 @@
 			{"code":213,"indent":0,"parameters":[
 				23,
 				7,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -60914,7 +60914,7 @@
 			{"code":213,"indent":0,"parameters":[
 				23,
 				8,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -61070,7 +61070,7 @@
 			{"code":213,"indent":0,"parameters":[
 				3,
 				1,
-				true
+				false
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -61131,7 +61131,7 @@
 			{"code":213,"indent":0,"parameters":[
 				1,
 				5,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1",
@@ -61272,9 +61272,9 @@
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
 			]},
 			{"code":213,"indent":0,"parameters":[
-				-1,
+				23,
 				6,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -61439,7 +61439,7 @@
 			{"code":213,"indent":0,"parameters":[
 				23,
 				7,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -61600,7 +61600,7 @@
 			{"code":213,"indent":0,"parameters":[
 				3,
 				6,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_34_1",
@@ -61782,6 +61782,90 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"要省著點用。\\C[0]」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"如果忘記任務細節的話，可以翻開冒險手冊，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我都記錄在裡面了。"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chime1","volume":90,"pitch":90,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\c[6]※使用冒險手冊的方式："
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\c[0]點開主選單後，將選項選至任務日誌的位置點選確認鍵"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"即可使用。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"特定的情報能夠對情報點選確認鍵，開啟引導箭頭，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"讓玩家更容易的了解任務目標的位置，請多加利用。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"冒險手冊是由攸特進行第一人稱視角撰寫，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"所以並不會以＂任務＂，而是以＂情報＂來提示玩家。"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"所以不會出現所謂＂完成任務＂的訊息，請特別注意。"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"Main_01\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_01\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 4);"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
@@ -63830,6 +63914,12 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"已擊倒牛魔，記得回去與冒險者公會領取賞金！"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_08\", 1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_08\", 2);"
 			]},
 			{"code":132,"indent":1,"parameters":[
 				{"name":"m-art_BattleOpera","volume":50,"pitch":100,"pan":0}

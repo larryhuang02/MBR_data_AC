@@ -15277,8 +15277,10 @@
 		],"span":0}
 	]},
 	{"id":437,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":467,"x":132,"y":334,"hidden":false}
+	],"name":"鐵特","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":342,"indent":0,"parameters":[-1,0,0,100]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},

@@ -21883,7 +21883,7 @@
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":8,"value":1.5}
 	],"gold":0,"name":"森林巨蜥","note":"","params":[
-		750,
+		650,
 		500,
 		250,
 		150,
@@ -21914,7 +21914,7 @@
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":8,"value":1.5}
 	],"gold":0,"name":"森林巨鱷","note":"","params":[
-		850,
+		750,
 		500,
 		350,
 		300,
@@ -21943,7 +21943,7 @@
 		{"code":11,"dataId":8,"value":0.5},
 		{"code":11,"dataId":7,"value":0.5}
 	],"gold":0,"name":"森林獵豹","note":"","params":[
-		650,
+		550,
 		500,
 		300,
 		100,
@@ -21958,7 +21958,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":585},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":610},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":611},
-		{"conditionParam1":0,"conditionParam2":0.1,"conditionType":3,"rating":9,"skillId":1081}
+		{"conditionParam1":0,"conditionParam2":0.1,"conditionType":3,"rating":9,"skillId":1081},
+		{"conditionParam1":2,"conditionParam2":5,"conditionType":1,"rating":9,"skillId":977}
 	],"battlerHue":37,"battlerName":"KH06-1_Garuda_MV_08r","dropItems":[
 		{"kind":3,"dataId":1049,"denominator":1},
 		{"kind":1,"dataId":831,"denominator":1},
@@ -21992,7 +21993,7 @@
 		250,
 		450,
 		250,
-		500,
+		300,
 		200
 	]},
 	{"id":506,"actions":[
