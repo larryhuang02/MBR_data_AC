@@ -15709,6 +15709,9 @@
 		{"code":203,"indent":0,"parameters":[6,0,79,0,0]},
 		{"code":203,"indent":0,"parameters":[12,0,79,0,0]},
 		{"code":250,"indent":0,"parameters":[{"name":"Item1","volume":90,"pitch":100,"pan":0}]},
+		{"code":355,"indent":0,"parameters":["SQSM.AddQuest(\"intelligence_13\");"]},
+		{"code":655,"indent":0,"parameters":["SQSM.CompleteTaskForQuest(\"intelligence_13\", 1);"]},
+		{"code":655,"indent":0,"parameters":["SQSM.CompletQuest(\"intelligence_13\");"]},
 		{"code":126,"indent":0,"parameters":[304,0,0,3]},
 		{"code":122,"indent":0,"parameters":[434,434,1,0,1]},
 		{"code":101,"indent":0,"parameters":["",6,0,2]},
@@ -16005,7 +16008,13 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"荒星島下層遇怪","switchId":1,"trigger":0},
 	{"id":256,"list":[
-		{"code":355,"indent":0,"parameters":["$gameParty.members().forEach(btlr=>btlr.isDeathStateAffected()||btlr.recoverAll())"]},
+		{"code":111,"indent":0,"parameters":[0,578,0]},
+		{"code":314,"indent":1,"parameters":[0,0]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":411,"indent":0,"parameters":[]},
+		{"code":355,"indent":1,"parameters":["$gameParty.members().forEach(btlr=>btlr.isDeathStateAffected()||btlr.recoverAll())"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"攸特線專用旅館效果","switchId":1,"trigger":0},
 	{"id":257,"list":[
@@ -16279,8 +16288,12 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"馬大嬸寶箱","switchId":1,"trigger":0},
 	{"id":266,"list":[
+		{"code":111,"indent":0,"parameters":[1,262,0,124,1]},
+		{"code":333,"indent":1,"parameters":[-1,0,452]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"鐵獅敵人用","switchId":1,"trigger":0},
 	{"id":267,"list":[
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},

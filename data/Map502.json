@@ -4544,6 +4544,13 @@
 				0,
 				5
 			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -4757,7 +4764,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":4,"parameters":[
-				"「姓名．．．\\n[31]，職業．．．煉金術師．．．」"
+				"「姓名．．．\\n[31]，職業，煉金術師．．．」"
 			]},
 			{"code":213,"indent":4,"parameters":[
 				-1,
@@ -5266,6 +5273,35 @@
 				1,
 				false
 			]},
+			{"code":122,"indent":2,"parameters":[
+				40,
+				40,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":2,"parameters":[
+				1,
+				1,
+				40
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(0);"
+			]},
+			{"code":125,"indent":2,"parameters":[
+				0,
+				1,
+				40
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
+			]},
 			{"code":121,"indent":2,"parameters":[
 				542,
 				542,
@@ -5709,8 +5745,34 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈，沒有問題。」"
 			]},
+			{"code":122,"indent":0,"parameters":[
+				40,
+				40,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":0,"parameters":[
+				1,
+				1,
+				40
+			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameParty.selectPack(0);"
+			]},
+			{"code":125,"indent":0,"parameters":[
+				0,
+				1,
+				40
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -5933,20 +5995,6 @@
 			{"code":250,"indent":2,"parameters":[
 				{"name":"Move1","pan":0,"pitch":100,"volume":90}
 			]},
-			{"code":122,"indent":2,"parameters":[
-				40,
-				40,
-				0,
-				3,
-				7,
-				2,
-				0
-			]},
-			{"code":125,"indent":2,"parameters":[
-				1,
-				1,
-				40
-			]},
 			{"code":355,"indent":2,"parameters":[
 				"$gameParty.selectPack(0);"
 			]},
@@ -5955,11 +6003,6 @@
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"$gameSystem.partyMembers_delete(2);"
-			]},
-			{"code":125,"indent":2,"parameters":[
-				0,
-				1,
-				40
 			]},
 			{"code":122,"indent":2,"parameters":[
 				21,

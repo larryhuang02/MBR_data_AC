@@ -3535,8 +3535,10 @@
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":975,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":976,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":976,"animationId":694,"damage":{"critical":false,"elementId":0,"formula":"b.mp * 0.5","type":2,"variance":0},"description":"","effects":[
+		{"code":21,"dataId":6,"value1":1,"value2":0},
+		{"code":21,"dataId":12,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":226,"message1":"","message2":"","mpCost":10,"name":"易燃毒酒","note":"<speed:20000>\n<target action>\naction animation\nwait: 50\naction effect\nwait: 10\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":10},
 	{"id":977,"animationId":51,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":0,"variance":20},"description":"魯蘭裝備自動技能","effects":[
 		{"code":34,"dataId":6,"value1":1,"value2":0},
 		{"code":31,"dataId":6,"value1":3,"value2":0},
@@ -3712,15 +3714,19 @@
 		{"code":21,"dataId":17,"value1":0.3,"value2":0}
 	],"hitType":1,"iconIndex":122,"message1":"","message2":"","mpCost":0,"name":"殘影弦月斬","note":"<speed:20000>\n<altColor:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\nwait: 10\naction animation\nwait: 45\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 773: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
 	{"id":1022,"animationId":793,"damage":{"critical":true,"elementId":3,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
-		{"code":32,"dataId":3,"value1":2,"value2":0}
+		{"code":32,"dataId":3,"value1":2,"value2":0},
+		{"code":44,"dataId":266,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"鐵拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 80\naction effect\nshake screen: 9, 9, 15\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":3},
 	{"id":1023,"animationId":794,"damage":{"critical":true,"elementId":3,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍、地屬性」使用蟠龍棍猛力打擊地面，對敵方單體\n連續造成三次傷害，每次攻擊造成「防禦下降」1層。","effects":[
-		{"code":32,"dataId":3,"value1":2,"value2":0}
+		{"code":32,"dataId":3,"value1":2,"value2":0},
+		{"code":44,"dataId":266,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":75,"name":"鐵鏖","note":"<speed:20000>\n<addEle:8>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\naction effect level: 0.5\nwait: 105\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1024,"animationId":795,"damage":{"critical":true,"elementId":3,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍、風屬性」騰空而起使用蟠龍棍猛力墜擊地面引發\n爆風，對敵方全體造成傷害並解除防禦狀態。","effects":[
-		{"code":22,"dataId":2,"value1":1,"value2":0}
+		{"code":22,"dataId":2,"value1":1,"value2":0},
+		{"code":44,"dataId":266,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":100,"name":"鐵墜","note":"<speed:20000>\n<addEle:7>\n<whole action>\n<tpGain:0.25>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 130\nshake screen: 9, 9, 15\naction effect\naction effect level: 0.1\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 20\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1025,"animationId":796,"damage":{"critical":true,"elementId":3,"formula":"200 + a.atk / 2 ","type":1,"variance":20},"description":"「物理&鈍、刺屬性」將蟠龍棍奮力投出穿刺敵人，對敵方\n造成隨機三次無視防禦傷害。","effects":[
+		{"code":44,"dataId":266,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":100,"name":"鐵穿","note":"<speed:20000>\n<addEle:2>\n<target action>\nopacity user: 0%, 20\nmotion attack: user\naction animation\naction effect level: 0.5\nwait: 100\nshake screen: 9, 9, 15\naction effect\nwait: 35\nopacity user: 100%, 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1026,"animationId":797,"damage":{"critical":true,"elementId":2,"formula":"b.isStateAffected(2) ? 1000 + ( a.atk / 2 - b.def / 3 ) : 250 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&斬、刺屬性」使用古代遺物對敵人進行高\n能衝擊，對敵方造成多段無視防禦傷害並造成流血，對防禦狀態的敵人傷害提升。","effects":[
 		{"code":21,"dataId":17,"value1":1,"value2":0}

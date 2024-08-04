@@ -4616,6 +4616,45 @@
 			{"code":401,"indent":0,"parameters":[
 				"就要與整個人類為敵嗎？」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你知道你現在殺了我會有什麼後果嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那些遠在邊境的人們沒有人能去幫助他，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那些危害人類的魔獸沒人能去消滅。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你現在在做的事情！是在毀滅人類的未來！」"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				4,
 				8,
@@ -4631,7 +4670,79 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「整個人類？你真是太傲慢了。」"
+				"「人類的未來？你真是太傲慢了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我，不知道你去拯救那些人的理由，究竟"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是發自真心，亦或只是想博取名聲。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你確定，你不是是因為利益才去幫助他們的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「捨小就大，這麼簡單的道理你也不明白嗎？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"果然是小鬼。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你現在的憤慨，不過是因為你不是被拯救的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那方罷了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「因為你是小，而非大。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
@@ -4677,6 +4788,30 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"的那麼偉大！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「就算沒有你，他們也會自己找到新的路。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你不過只是個傲慢的偽善者而已！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -5135,18 +5270,6 @@
 				"鐵獅"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你善用了煉金術師的長處，擊敗了我。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_BlackLion",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"鐵獅"
-			]},
-			{"code":401,"indent":0,"parameters":[
 				"「哼．．．成王敗寇，我沒什麼好說的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
@@ -5326,6 +5449,21 @@
 			{"code":401,"indent":0,"parameters":[
 				"討厭的人。」"
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵獅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「就算我真的做錯了吧，也輪不到你來指責"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"我。」"
+			]},
 			{"code":213,"indent":0,"parameters":[
 				4,
 				8,
@@ -5354,6 +5492,21 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「哼，漂亮話誰都會講。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵獅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「像你這種肩上沒有承擔過任何擔子的小鬼，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"既天真，又愚蠢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -5413,6 +5566,69 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「已經要送我上路了嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵獅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「殺了我以後，你大概只能逃離地動城吧。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵獅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你這麼愚蠢，不妨踏上旅程看看，這個世界，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"會因為你，讓多少人失去求生的稻草。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你能做到的事情，我也一樣能辦到。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_1_hat",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\n[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「別把自己看得太偉大了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"鐵獅"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哈哈哈哈！記住你說的話。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",

@@ -2139,10 +2139,10 @@
 		{"code":11,"dataId":0,"value1":0,"value2":500},
 		{"code":12,"dataId":0,"value1":0,"value2":500}
 	],"hitType":0,"iconIndex":1651,"itypeId":1,"name":"彩虹糖","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items814.txt>","occasion":1,"price":2500,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":815,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":0},"description":"多種藥草精緻而成的救命丹，對\\N[31]而言還只是半成品，\n我方單體復活並回復HP、MP 100 點，但會永久減少10%HP上限。","effects":[
+	{"id":815,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"100","type":3,"variance":0},"description":"多種藥草精緻而成的救命丹，對\\N[31]而言還只是半成品，\n我方單體復活並回復HP、MP 100 點\\N[80]。","effects":[
 		{"code":22,"dataId":1,"value1":1,"value2":0},
 		{"code":12,"dataId":0,"value1":0,"value2":100}
-	],"hitType":0,"iconIndex":302,"itypeId":1,"name":"百草丸","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items815.txt>\n<ignoreIfDead>\n<effect_javascript:(function(s,t){ const paramId=0,decRate=0.1; t._paramPlus[paramId]-=~~((t.paramBase(paramId)+t.paramPlus(paramId))*decRate); })>","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":302,"itypeId":1,"name":"百草丸","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items815.txt>\n<ignoreIfDead>\n<effect_javascript:(function(s,t){ if($gameSwitches.value(578)) return; const paramId=0,decRate=0.1; t._paramPlus[paramId]-=~~((t.paramBase(paramId)+t.paramPlus(paramId))*decRate); })>","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":816,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"80","type":0,"variance":0},"description":"對身體負擔較少的香甜\\NI[816]，如果沒有這個，\\N[32]是絕對不\n肯喝下任何藥水的，我方單體TP恢復5點。","effects":[
 		{"code":13,"dataId":0,"value1":5,"value2":0}
 	],"hitType":0,"iconIndex":1606,"itypeId":1,"name":"蜂蜜","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items816.txt>","occasion":1,"price":150,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},

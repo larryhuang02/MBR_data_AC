@@ -1864,10 +1864,12 @@
 	],"iconIndex":1197,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"鷹眼","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":450,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 	],"iconIndex":140,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"開場滿跑條","note":"<Custom Apply Effect>\nuser._atbSpeed_tmp=BattleManager.atbTarget();\n{\nYanfly.Param.ATBInitSpeed_ori=Yanfly.Param.ATBInitSpeed||Yanfly.Param.ATBInitSpeed_ori;\nYanfly.Param.ATBInitSpeed='(()=>{ const rtv=this._atbSpeed_tmp||Yanfly.Param.ATBInitSpeed_ori; this._atbSpeed_tmp=undefined; return rtv; })()';\n}\n</Custom Apply Effect>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":451,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":452,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":451,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+		{"code":62,"dataId":3,"value":1}
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"保留TP狀態","note":"<alwaysNotCleared>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":452,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+		{"code":22,"dataId":0,"value":-10}
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"鐵獅打不中","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":453,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":454,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

@@ -14328,6 +14328,55 @@
 			{"code":401,"indent":0,"parameters":[
 				"「吃飽了我們就走吧，去\\C[3]冒險者公會找奇羅\\C[0]。」"
 			]},
+			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":222,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chime1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"在冒險手冊裡面新增了備忘錄功能，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"用來記錄一些能夠讓冒險任務變得更方便的前置準備工作，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"如果忘記可以做些什麼可以打開來看看。"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SQSM.AddQuest(\"intelligence_01\");"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 1);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 2);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 3);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.ShowTaskForQuest(\"intelligence_01\", 4);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"SQSM.CompleteTaskForQuest(\"intelligence_01\", 4);"
+			]},
 			{"code":355,"indent":0,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"Main_01\", 4);"
 			]},
