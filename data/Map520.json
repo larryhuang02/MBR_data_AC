@@ -4778,7 +4778,10 @@
 				"訓練家C"
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"「哎呀，真沒想到老婆子我居然會輸給新來的。」"
+				"「哎呀，真沒想到老婆子我居然會輸給"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"新來的。」"
 			]},
 			{"code":101,"indent":3,"parameters":[
 				"PeopleMZ_05",

@@ -9156,7 +9156,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「從\\n[32]大姐房間裡拿的那張相片，早就"
+				"「從\\n[32]大姐房間裡拿的那張畫像，早就"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"模糊不清了。」　　"
@@ -9239,7 +9239,7 @@
 				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當妳第一次出手攻擊我，我真的是嚇傻了。」　　"
+				"「當妳第一次出手攻擊我，我真的嚇傻了。」　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_03_1",
@@ -9798,6 +9798,21 @@
 			]},
 			{"code":405,"indent":0,"parameters":[
 				"\\TXTCENTER:\"但丁紅茶\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"不謹慎Brothers\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"御雪ユー\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"反動份子\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"沙耶\""
+			]},
+			{"code":405,"indent":0,"parameters":[
+				"\\TXTCENTER:\"阿破叩咪\""
 			]},
 			{"code":405,"indent":0,"parameters":[
 				""

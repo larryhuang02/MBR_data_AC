@@ -21916,7 +21916,7 @@
 	],"gold":0,"name":"森林巨鱷","note":"","params":[
 		750,
 		500,
-		350,
+		300,
 		300,
 		250,
 		150,
@@ -22047,7 +22047,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":4},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1134},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":870},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":876},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":976},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":553}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"kind":1,"dataId":830,"denominator":1},

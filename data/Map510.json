@@ -5630,6 +5630,12 @@
 			{"code":401,"indent":1,"parameters":[
 				"遊玩小遊戲獲得天賦能力點數來強化角色的技能效果。"
 			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]※天賦點是所有角色共用，請特別注意。"
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
 				0,
