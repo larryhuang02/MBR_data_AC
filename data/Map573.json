@@ -17101,33 +17101,9 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":352,"indent":0,"parameters":[
 			]},
-			{"code":102,"indent":0,"parameters":[
-				[
-					"繼續劇情",
-					"先等等"
-				],
-				1,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":0,"parameters":[
-				0,
-				"繼續劇情"
-			]},
-			{"code":123,"indent":1,"parameters":[
+			{"code":123,"indent":0,"parameters":[
 				"A",
 				0
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"先等等"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":404,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17252,15 +17228,48 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":205,"indent":0,"parameters":[
-				75,
+				-1,
 				{"list":[
-					{"code":19,"indent":null},
+					{"code":17,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				76,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				74,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				75,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -17294,6 +17303,16 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_1_bleeding",

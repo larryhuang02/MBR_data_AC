@@ -107205,8 +107205,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":14,"y":10},
-	null,
-	{"id":98,"name":"野怪模板","note":"<nonblocking>","pages":[
+	{"id":97,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"判斷依據：使用的圖片(12格一組視為同一個)"
@@ -107228,7 +107227,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107256,7 +107255,59 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":83,"y":30},
+	{"id":98,"name":"野怪模板","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				236
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":230,"indent":0,"parameters":[
+				300
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":42,"parameters":[
+						255
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":42,"parameters":[
+					255
+				],"indent":null}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				1
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":96,"y":0},
 	{"id":99,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107280,7 +107331,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107308,8 +107359,8 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
-	],"x":78,"y":14},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":78,"y":16},
 	{"id":100,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
@@ -107332,7 +107383,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107360,8 +107411,8 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
-	],"x":83,"y":30},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":68,"y":42},
 	{"id":101,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
@@ -107384,7 +107435,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107412,7 +107463,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":106,"y":38},
 	{"id":102,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107436,7 +107487,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107464,7 +107515,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":100,"y":57},
 	{"id":103,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107488,7 +107539,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107516,7 +107567,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":115,"y":62},
 	{"id":104,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107540,7 +107591,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107568,7 +107619,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":103,"y":75},
 	{"id":105,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107592,7 +107643,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107620,7 +107671,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":117,"y":84},
 	{"id":106,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107644,7 +107695,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107672,7 +107723,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":132,"y":95},
 	{"id":107,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107696,7 +107747,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107724,7 +107775,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":143,"y":76},
 	{"id":108,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107748,7 +107799,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107776,7 +107827,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":156,"y":63},
 	{"id":109,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107800,7 +107851,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107828,7 +107879,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":149,"y":40},
 	{"id":110,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107852,7 +107903,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107880,7 +107931,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":155,"y":10},
 	{"id":111,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107904,7 +107955,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107932,7 +107983,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":74,"y":64},
 	{"id":112,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -107956,7 +108007,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -107984,8 +108035,8 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
-	],"x":68,"y":42},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":11,"y":56},
 	{"id":113,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
@@ -108008,7 +108059,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108036,7 +108087,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":85,"y":91},
 	{"id":114,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -108060,7 +108111,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108088,7 +108139,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":91,"y":107},
 	{"id":115,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -108112,7 +108163,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108140,10 +108191,10 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":13,"y":83},
 	{"id":116,"name":"野怪模板","note":"<nonblocking>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"判斷依據：使用的圖片(12格一組視為同一個)"
 			]},
@@ -108165,7 +108216,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
 			]},
@@ -108192,8 +108243,8 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":4,"walkAnime":true}
-	],"x":11,"y":56},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":51,"y":97},
 	{"id":117,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
@@ -108216,7 +108267,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108244,7 +108295,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":46,"y":71},
 	{"id":118,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -108268,7 +108319,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108296,7 +108347,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":57,"y":4},
 	{"id":119,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -108320,7 +108371,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108348,8 +108399,8 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
-	],"x":51,"y":97},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":57,"y":61},
 	{"id":120,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":108,"indent":0,"parameters":[
@@ -108372,7 +108423,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108400,7 +108451,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":113,"y":13},
 	{"id":121,"name":"野怪模板","note":"<nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
@@ -108424,7 +108475,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -108452,7 +108503,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
 	],"x":114,"y":104},
 	{"id":122,"name":"EV122","note":"<採集物:300>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Flame","direction":8,"pattern":0,"characterIndex":7},"list":[
@@ -109685,7 +109736,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":230,"indent":0,"parameters":[
 				300
@@ -109713,6 +109764,110 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
-	],"x":57,"y":61}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":135,"y":23},
+	{"id":161,"name":"野怪模板","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				236
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":230,"indent":0,"parameters":[
+				300
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":42,"parameters":[
+						255
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":42,"parameters":[
+					255
+				],"indent":null}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				1
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":18,"y":9},
+	{"id":162,"name":"野怪模板","note":"<nonblocking>","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":108,"indent":0,"parameters":[
+				"判斷依據：使用的圖片(12格一組視為同一個)"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				""
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"改變行為後的事件，在還原時，"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"會還原成該事件設定的速度與頻率"
+			]},
+			{"code":117,"indent":0,"parameters":[
+				236
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":2,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Nature_Tiger","direction":4,"pattern":1,"characterIndex":1},"list":[
+			{"code":230,"indent":0,"parameters":[
+				300
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":42,"parameters":[
+						255
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":42,"parameters":[
+					255
+				],"indent":null}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				1
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":true,"trigger":4,"walkAnime":true}
+	],"x":134,"y":52}
 ]}

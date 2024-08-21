@@ -14624,7 +14624,7 @@
 				"「精靈不是應該都吃得很清淡、很樸素嗎！？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為什麼妳比正常人還會吃辣啊！」"
+				"為什麼妳比一般人還會吃辣啊！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				12,
@@ -22904,12 +22904,25 @@
 				20,
 				8
 			]},
-			{"code":203,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				579,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":203,"indent":1,"parameters":[
 				12,
 				0,
 				8,
 				17,
 				2
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"m-art_FloweringHill","volume":50,"pitch":100,"pan":0}
@@ -23026,44 +23039,108 @@
 			{"code":401,"indent":0,"parameters":[
 				"「歡迎歸隊，\\N[33]。」"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				0,
+				579,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_34_1",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[33]"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"「\\n[31]大哥，歡迎回來！」"
+			{"code":401,"indent":1,"parameters":[
+				"「\\n[31]大哥、二姐頭，歡迎回來！」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_34_1",
-				0,
+			{"code":101,"indent":1,"parameters":[
+				"BLR_33_1",
+				4,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
+				"\\N[34]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「\\N[33]，你回來啦，告訴你一件事，我們"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"要去荒星島探險喔。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_34_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
 				"\\N[33]"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"「二姐頭都跟我說了，我們要去沒人探索過"
+			{"code":401,"indent":1,"parameters":[
+				"「荒星島？那是什麼？」"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"的島探險對不對？」"
-			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":101,"indent":1,"parameters":[
 				"BLR_31_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[31]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
+				"「還沒有決定，晚點大哥再跟你說吧。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_34_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[33]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「\\n[31]大哥，歡迎回來！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_34_1",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[33]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「二姐頭都跟我說了，我們要去沒人探索過"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的島探險對不對？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_31_1",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":1,"parameters":[
 				"「還沒有決定。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -23103,6 +23180,50 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
 			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				579,
+				0
+			]},
+			{"code":221,"indent":1,"parameters":[
+			]},
+			{"code":203,"indent":1,"parameters":[
+				12,
+				0,
+				8,
+				17,
+				2
+			]},
+			{"code":205,"indent":1,"parameters":[
+				12,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":222,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":205,"indent":1,"parameters":[
+				12,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":1,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":205,"indent":0,"parameters":[
 				13,
 				{"list":[
@@ -23112,16 +23233,6 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				12,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -25023,6 +25134,11 @@
 				60
 			]},
 			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":129,"indent":0,"parameters":[
+				34,
+				1,
+				false
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,

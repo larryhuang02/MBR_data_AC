@@ -12651,6 +12651,19 @@
 			{"code":355,"indent":0,"parameters":["BattleManager.disableAbortEscapeSoundOnce();"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":111,"indent":0,"parameters":[0,581,0]},
+			{"code":111,"indent":1,"parameters":[12,"BattleManager._phase==='atb'"]},
+			{"code":121,"indent":2,"parameters":[581,581,1]},
+			{"code":108,"indent":2,"parameters":["關那個開關"]},
+			{"code":0,"indent":2,"parameters":[]},
+			{"code":412,"indent":1,"parameters":[]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":true,"turnValid":false},"list":[
 			{"code":333,"indent":0,"parameters":[-1,0,5]},
 			{"code":331,"indent":0,"parameters":[-1,1,0,400,false]},
@@ -12671,10 +12684,43 @@
 			{"code":401,"indent":0,"parameters":["\\{「鐵獅！我要殺了你！！！」"]},
 			{"code":250,"indent":0,"parameters":[{"name":"Fire8","volume":100,"pitch":100,"pan":0}]},
 			{"code":313,"indent":0,"parameters":[0,31,0,448]},
+			{"code":333,"indent":0,"parameters":[-1,0,453]},
 			{"code":224,"indent":0,"parameters":[[255,0,0,170],30,true]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"conditions":{"actorHp":30,"actorId":31,"actorValid":true,"enemyHp":60,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["\\{「咳！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「哼！就憑你這弱不禁風的身體，還想殺我，"]},
+			{"code":401,"indent":0,"parameters":["癡人說夢！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",6,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「即使我弱不禁風，我也能殺了你。」"]},
+			{"code":339,"indent":0,"parameters":[1,31,985,-2]},
+			{"code":339,"indent":0,"parameters":[1,31,985,-2]},
+			{"code":339,"indent":0,"parameters":[1,31,985,-2]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",7,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「噗哈。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「再來啊！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",7,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「紅色藥水．．．」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",0,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「真是有煉金術師風格的戰鬥方式啊。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",8,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「那就來看看是我先打爛你的臉，還是你先"]},
+			{"code":401,"indent":0,"parameters":["弄死我吧！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":60,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":3,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
 			{"code":401,"indent":0,"parameters":["\\n[48]"]},
 			{"code":401,"indent":0,"parameters":["「哼！還算有兩下子，不過憑這樣子就想殺我，"]},
@@ -12688,6 +12734,75 @@
 			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
 			{"code":401,"indent":0,"parameters":["\\n[31]"]},
 			{"code":401,"indent":0,"parameters":["「廢話真多！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":40,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":5,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",0,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「天真小鬼，要怪就怪你自己吧。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",7,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「如果你當初沒那麼多事，送大哥什麼百草丹，"]},
+			{"code":401,"indent":0,"parameters":["也就不會有後面那麼多狗屁事了。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",13,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「！！！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",12,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「難道．．．難道樂於助人是一種錯誤嗎？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「錯的人明明就是你！是你！都是你！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":20,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":7,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「沒有利益、沒有價值，誰還會多看你一眼！"]},
+			{"code":401,"indent":0,"parameters":["我們第一次去荒星島大敗而歸後，公會的人是"]},
+			{"code":401,"indent":0,"parameters":["怎麼對待血戰雄獅團的！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「你們這些天真的傢伙，大哥也是，事到如今"]},
+			{"code":401,"indent":0,"parameters":["才來後悔。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「我有錯？我有什麼錯？可笑！大家都是"]},
+			{"code":401,"indent":0,"parameters":["一丘之貉。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「那也不該是你犧牲別人的藉口！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「因為別人對你不公，你就也能這樣對待別人"]},
+			{"code":401,"indent":0,"parameters":["嗎？」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「這樣你和那些人有什麼不一樣！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":20,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":9,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「我跟他們一樣又怎麼樣？他們是人，我也是"]},
+			{"code":401,"indent":0,"parameters":["人，即使我錯了，也不由你說的來決定！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_BlackLion",4,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[48]"]},
+			{"code":401,"indent":0,"parameters":["「我自己做了什麼我自己清楚！是正是邪"]},
+			{"code":401,"indent":0,"parameters":["世人自有定奪！我不需要由你來審判我！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",13,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「你是想說你也做過好事是嗎！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",13,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「沒錯，但是。」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["「你現在就是做了壞事！而且我是你的仇人，"]},
+			{"code":401,"indent":0,"parameters":["現在在這裡，你只要知道這件事就夠了！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_31_1_hat",15,0,2]},
+			{"code":401,"indent":0,"parameters":["\\n[31]"]},
+			{"code":401,"indent":0,"parameters":["\\{「納命來！鐵獅！」"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":0,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -12729,9 +12844,15 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":true,"turnValid":false},"list":[
 			{"code":331,"indent":0,"parameters":[0,1,0,400,false]},
 			{"code":332,"indent":0,"parameters":[0,1,0,200]},
+			{"code":333,"indent":0,"parameters":[1,0,453]},
 			{"code":313,"indent":0,"parameters":[0,34,0,5]},
 			{"code":313,"indent":0,"parameters":[0,32,0,5]},
 			{"code":211,"indent":0,"parameters":[0]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
@@ -12874,9 +12995,10 @@
 			{"code":101,"indent":0,"parameters":["BLR_BlackLion",0,0,2]},
 			{"code":401,"indent":0,"parameters":["\\N[48]"]},
 			{"code":401,"indent":0,"parameters":["「．．．．．．」"]},
+			{"code":334,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":7,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":8,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_33_1_bleeding",14,0,2]},
 			{"code":401,"indent":0,"parameters":["\\N[34]"]},
 			{"code":401,"indent":0,"parameters":["「嗚！」"]},
@@ -12908,6 +13030,11 @@
 	],"name":"荒星砂蟲*8","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":339,"members":[
@@ -12920,6 +13047,11 @@
 	],"name":"荒星砂蟲*6","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":340,"members":[
@@ -12928,12 +13060,22 @@
 	],"name":"裂牙龍*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":341,"members":[
 		{"enemyId":521,"x":207,"y":443,"hidden":false}
 	],"name":"沙山馬牛","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -12944,12 +13086,22 @@
 	],"name":"荒星狼*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":343,"members":[
 		{"enemyId":519,"x":183,"y":400,"hidden":false}
 	],"name":"赤焰睺","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -12958,7 +13110,12 @@
 	],"name":"金鄉騎士","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":7,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":1}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
 	]},
 	{"id":345,"members":[
 		{"enemyId":517,"x":141,"y":334,"hidden":true},
@@ -12969,6 +13126,11 @@
 	],"name":"化靈*4, 質化靈","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":0,"enemyIndex":4,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":333,"indent":0,"parameters":[4,0,5]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":7,"turnEnding":false,"turnValid":true},"list":[
@@ -12996,6 +13158,11 @@
 	],"name":"矮丘人*5","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":347,"members":[
@@ -13009,6 +13176,11 @@
 	],"name":"矮丘人*4, 亞蜥人*3","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":348,"members":[
@@ -13018,6 +13190,11 @@
 		{"enemyId":508,"x":321,"y":298,"hidden":false}
 	],"name":"亞蜥人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13073,6 +13250,7 @@
 			{"code":121,"indent":1,"parameters":[22,22,0]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":22,"switchValid":true,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -13232,6 +13410,7 @@
 			{"code":355,"indent":1,"parameters":["BattleManager.clearDmgLog($gameTroop.members()[0]);"]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":30,"switchValid":true,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -13462,6 +13641,11 @@
 	],"name":"魔菌*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":363,"members":[
@@ -13471,6 +13655,11 @@
 		{"enemyId":491,"x":357,"y":367,"hidden":false}
 	],"name":"迷你花精*2, 魔菌*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13482,6 +13671,11 @@
 	],"name":"迷你菌人*2, 魔菌*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":365,"members":[
@@ -13492,6 +13686,11 @@
 	],"name":"迷你花精*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":366,"members":[
@@ -13501,6 +13700,11 @@
 		{"enemyId":493,"x":330,"y":385,"hidden":false}
 	],"name":"迷你菌人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13514,7 +13718,12 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":5,"turnEnding":false,"turnValid":true},"list":[
 			{"code":339,"indent":0,"parameters":[0,0,556,-1]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":1}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
 	]},
 	{"id":368,"members":[
 		{"enemyId":495,"x":183,"y":424,"hidden":false}
@@ -13525,6 +13734,7 @@
 			{"code":339,"indent":1,"parameters":[0,0,1085,-2]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1}
 	]},
@@ -13547,6 +13757,11 @@
 	],"name":"森林巨蜥*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":371,"members":[
@@ -13556,6 +13771,11 @@
 		{"enemyId":503,"x":400,"y":358,"hidden":false}
 	],"name":"森林巨鱷*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13568,6 +13788,11 @@
 	],"name":"森林霸主, 森林獵豹*2, 森林巨蜥*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":373,"members":[
@@ -13577,6 +13802,11 @@
 		{"enemyId":504,"x":234,"y":444,"hidden":false}
 	],"name":"森林獵豹*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13588,6 +13818,11 @@
 	],"name":"森林巨蜥*2, 森林巨鱷*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":375,"members":[
@@ -13598,6 +13833,11 @@
 	],"name":"森林獵豹*2, 森林巨鱷*2","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":376,"members":[
@@ -13606,6 +13846,11 @@
 		{"enemyId":514,"x":201,"y":376,"hidden":false}
 	],"name":"月剎, 寒蟬, 夜斷","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -14227,6 +14472,7 @@
 			{"code":355,"indent":1,"parameters":["BattleManager._forceActionQueue.length=0;"]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -14244,6 +14490,11 @@
 	],"name":"工作機器人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":394,"members":[
@@ -14253,6 +14504,11 @@
 		{"enemyId":499,"x":264,"y":418,"hidden":false}
 	],"name":"工作機器人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -14264,6 +14520,11 @@
 	],"name":"工作機器人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":396,"members":[
@@ -14274,6 +14535,11 @@
 	],"name":"工作機器人*4","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
+			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":397,"members":[
@@ -14283,6 +14549,11 @@
 		{"enemyId":501,"x":252,"y":418,"hidden":false}
 	],"name":"工作機器人, 工作機器人, 工作機器人, 工作機器人","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -14317,6 +14588,7 @@
 			{"code":355,"indent":1,"parameters":["BattleManager.clearDmgLog($gameTroop.members()[0]);"]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -14349,6 +14621,7 @@
 			{"code":355,"indent":1,"parameters":["BattleManager.clearDmgLog($gameTroop.members()[0]);"]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":117,"indent":0,"parameters":[267]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":21,"switchValid":false,"turnA":5,"turnB":0,"turnEnding":false,"turnValid":true},"list":[

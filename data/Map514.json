@@ -45123,7 +45123,37 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[32]、\\N[33]、\\N[34]暫時離開了隊伍！"
+				"\\N[32]、\\N[33]、\\N[34]暫時離開了隊伍！\\|\\|\\|\\^"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chime1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]現在可以進行自由活動，跟城鎮裡的人們對話可以更了解"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"時空背景，也會有一些人可能需要你的幫助。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]在不同日子裡，大家的生活作息也會有所不同，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你可能能邂逅新的人們，也可能會有其他人向你尋求幫助，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"如果有興趣的話不妨多留意看看。"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				262,
@@ -49685,7 +49715,7 @@
 				0
 			]},
 			{"code":355,"indent":3,"parameters":[
-				"SQSM.AddQuest(\"intelligence_03\");"
+				"SQSM.AddQuest(\"intelligence_07\");"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -49699,10 +49729,10 @@
 				0
 			]},
 			{"code":355,"indent":4,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 1);"
 			]},
 			{"code":655,"indent":4,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -49716,10 +49746,10 @@
 				0
 			]},
 			{"code":355,"indent":5,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":655,"indent":5,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -49733,10 +49763,10 @@
 				0
 			]},
 			{"code":355,"indent":6,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":655,"indent":6,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 4);"
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -50045,7 +50075,7 @@
 				0
 			]},
 			{"code":355,"indent":3,"parameters":[
-				"SQSM.AddQuest(\"intelligence_03\");"
+				"SQSM.AddQuest(\"intelligence_07\");"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -50059,10 +50089,10 @@
 				0
 			]},
 			{"code":355,"indent":4,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 1);"
 			]},
 			{"code":655,"indent":4,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -50076,10 +50106,10 @@
 				0
 			]},
 			{"code":355,"indent":5,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":655,"indent":5,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -50093,10 +50123,10 @@
 				0
 			]},
 			{"code":355,"indent":6,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":655,"indent":6,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 4);"
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -50456,7 +50486,7 @@
 				0
 			]},
 			{"code":355,"indent":3,"parameters":[
-				"SQSM.AddQuest(\"intelligence_03\");"
+				"SQSM.AddQuest(\"intelligence_07\");"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -50470,10 +50500,10 @@
 				0
 			]},
 			{"code":355,"indent":4,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 1);"
 			]},
 			{"code":655,"indent":4,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -50487,10 +50517,10 @@
 				0
 			]},
 			{"code":355,"indent":5,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":655,"indent":5,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -50504,10 +50534,10 @@
 				0
 			]},
 			{"code":355,"indent":6,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":655,"indent":6,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 4);"
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -50816,7 +50846,7 @@
 				0
 			]},
 			{"code":355,"indent":3,"parameters":[
-				"SQSM.AddQuest(\"intelligence_03\");"
+				"SQSM.AddQuest(\"intelligence_07\");"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -50830,10 +50860,10 @@
 				0
 			]},
 			{"code":355,"indent":4,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 1);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 1);"
 			]},
 			{"code":655,"indent":4,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -50847,10 +50877,10 @@
 				0
 			]},
 			{"code":355,"indent":5,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 2);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 2);"
 			]},
 			{"code":655,"indent":5,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
@@ -50864,10 +50894,10 @@
 				0
 			]},
 			{"code":355,"indent":6,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 3);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 3);"
 			]},
 			{"code":655,"indent":6,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 4);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 4);"
 			]},
 			{"code":0,"indent":6,"parameters":[
 			]},
@@ -51744,16 +51774,16 @@
 				1
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 4);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 4);"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"SQSM.ShowTaskForQuest(\"intelligence_03\", 5);"
+				"SQSM.ShowTaskForQuest(\"intelligence_07\", 5);"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"SQSM.CompleteTaskForQuest(\"intelligence_03\", 5);"
+				"SQSM.CompleteTaskForQuest(\"intelligence_07\", 5);"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"SQSM.CompletQuest(\"intelligence_03\");"
+				"SQSM.CompletQuest(\"intelligence_07\");"
 			]},
 			{"code":315,"indent":0,"parameters":[
 				0,

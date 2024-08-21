@@ -2768,7 +2768,7 @@
 	],"price":0,"wtypeId":0},
 	{"id":212,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+60。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0}
-	],"iconIndex":1539,"name":"魔導書《閃》","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2780,7 +2780,7 @@
 	],"price":0,"wtypeId":3},
 	{"id":213,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+60。","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":1}
-	],"iconIndex":1248,"name":"巨人誓言","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		60,
@@ -2792,7 +2792,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":214,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+30。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1197,"name":"燕尾流星","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		30,
@@ -2805,7 +2805,7 @@
 	{"id":215,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+30。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒","note":"<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		30,
@@ -2831,7 +2831,7 @@
 	{"id":217,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+70，緩慢回復MP。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.01}
-	],"iconIndex":1539,"name":"魔導書《閃》+1","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》+1","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2844,7 +2844,7 @@
 	{"id":218,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+80，緩慢回復MP。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.02}
-	],"iconIndex":1539,"name":"魔導書《閃》+2","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》+2","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2857,7 +2857,7 @@
 	{"id":219,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+90，可自動恢復MP（小）。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.03}
-	],"iconIndex":1539,"name":"魔導書《閃》+3","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》+3","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2870,7 +2870,7 @@
 	{"id":220,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+100，緩慢回復MP。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.04}
-	],"iconIndex":1539,"name":"魔導書《閃》+4","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》+4","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2883,7 +2883,7 @@
 	{"id":221,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+110，可自動恢復MP（中）。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.05}
-	],"iconIndex":1539,"name":"魔導書《閃》+5","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《閃》+5","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons212.txt>","params":[
 		0,
 		0,
 		0,
@@ -2895,7 +2895,7 @@
 	],"price":0,"wtypeId":3},
 	{"id":222,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+70，TP獲得量提升(小)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.1}
-	],"iconIndex":1248,"name":"巨人誓言+1","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言+1","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		70,
@@ -2907,7 +2907,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":223,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+80，TP獲得量提升(小)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.1}
-	],"iconIndex":1248,"name":"巨人誓言+2","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言+2","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		80,
@@ -2919,7 +2919,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":224,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+90，TP獲得量提升(中)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.3}
-	],"iconIndex":1248,"name":"巨人誓言+3","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言+3","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		90,
@@ -2931,7 +2931,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":225,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+100，TP獲得量提升(中)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.3}
-	],"iconIndex":1248,"name":"巨人誓言+4","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言+4","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		100,
@@ -2943,7 +2943,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":226,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+110，TP獲得量提升(大)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.5}
-	],"iconIndex":1248,"name":"巨人誓言+5","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
+	],"iconIndex":1248,"name":"巨人誓言+5","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons213.txt>","params":[
 		0,
 		0,
 		110,
@@ -2956,7 +2956,7 @@
 	{"id":227,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+35、暴擊率+2%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.02}
-	],"iconIndex":1197,"name":"燕尾流星+1","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星+1","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		35,
@@ -2969,7 +2969,7 @@
 	{"id":228,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+40、暴擊率+4%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.04}
-	],"iconIndex":1197,"name":"燕尾流星+2","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星+2","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		40,
@@ -2982,7 +2982,7 @@
 	{"id":229,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+45、暴擊率+6%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.06}
-	],"iconIndex":1197,"name":"燕尾流星+3","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星+3","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		45,
@@ -2995,7 +2995,7 @@
 	{"id":230,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+50、暴擊率+8%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.08}
-	],"iconIndex":1197,"name":"燕尾流星+4","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星+4","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		50,
@@ -3008,7 +3008,7 @@
 	{"id":231,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻、速度+55、暴擊率+10%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":1197,"name":"燕尾流星+5","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
+	],"iconIndex":1197,"name":"燕尾流星+5","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons214.txt>","params":[
 		0,
 		0,
 		55,
@@ -3018,11 +3018,11 @@
 		55,
 		0
 	],"price":0,"wtypeId":4},
-	{"id":232,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+35、命中+3%","etypeId":1,"traits":[
+	{"id":232,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+35、命中+3%","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.03},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒+1","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒+1","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		35,
@@ -3032,11 +3032,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":233,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+40、命中+6%","etypeId":1,"traits":[
+	{"id":233,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+40、命中+6%","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.06},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒+2","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒+2","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		40,
@@ -3046,11 +3046,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":234,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+45、命中+9%","etypeId":1,"traits":[
+	{"id":234,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+45、命中+9%","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.09},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒+3","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒+3","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		45,
@@ -3060,11 +3060,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":235,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+50、命中+12%","etypeId":1,"traits":[
+	{"id":235,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+50、命中+12%","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.12},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒+4","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒+4","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		50,
@@ -3074,11 +3074,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":236,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+55、命中+15%","etypeId":1,"traits":[
+	{"id":236,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻+55、命中+15%","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特枝枒+5","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
+	],"iconIndex":1106,"name":"安特枝枒+5","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons215.txt>","params":[
 		0,
 		0,
 		55,
@@ -3091,7 +3091,7 @@
 	{"id":237,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+110、幸運+40，可自動恢復MP（中）、我方全隊受到的恢復效果提升。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.05}
-	],"iconIndex":1539,"name":"魔導書《湧》","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《湧》","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
 		0,
 		0,
 		0,
@@ -3104,7 +3104,7 @@
 	{"id":238,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+110、魔防+40，可自動恢復MP（中），普通攻擊時減少對方一定比率的行動條進度。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.05}
-	],"iconIndex":1539,"name":"魔導書《撼》","note":"<weaponImg:Weapons3,4,1>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《撼》","note":"<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
 		0,
 		0,
 		0,
@@ -3117,7 +3117,7 @@
 	{"id":239,"animationId":5,"description":"「雷屬性」蘊含著雷之魔力的魔導書，一般的魔法師們常用\n的武器，魔攻+150，可自動恢復MP（中）、提高雷屬性傷害（中）。","etypeId":1,"traits":[
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":8,"value":0.05}
-	],"iconIndex":1539,"name":"魔導書《烈》","note":"<weaponImg:Weapons3,4,1>\n<屬性傷害倍率:[[5,1.30]]>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
+	],"iconIndex":1539,"name":"魔導書《烈》","note":"<屬性傷害倍率:[[5,1.30]]>\n<skill_id:980>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons237.txt>","params":[
 		0,
 		0,
 		0,
@@ -3129,7 +3129,7 @@
 	],"price":0,"wtypeId":3},
 	{"id":240,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+110、防禦+30、可自動恢復TP(中)。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":0.05}
-	],"iconIndex":1248,"name":"武神誓約","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
+	],"iconIndex":1248,"name":"武神誓約","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
 		0,
 		0,
 		110,
@@ -3141,7 +3141,7 @@
 	],"price":0,"wtypeId":12},
 	{"id":241,"animationId":21,"description":"「火、水屬性」鑲嵌著增幅力量的魔法石的武術手套，\n能讓使用者發揮出數倍的力量，物攻+150，TP獲得量提升(大)，普通攻擊時忽視敵人防禦力。","etypeId":1,"traits":[
 		{"code":23,"dataId":5,"value":1.5}
-	],"iconIndex":1248,"name":"修羅之願","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
+	],"iconIndex":1248,"name":"修羅之願","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
 		0,
 		0,
 		150,
@@ -3155,7 +3155,7 @@
 		{"code":23,"dataId":5,"value":1.5},
 		{"code":22,"dataId":8,"value":0.03},
 		{"code":22,"dataId":7,"value":0.03}
-	],"iconIndex":1248,"name":"天地霸者","note":"<weaponImg:Weapon_Gloves,5,0>\n<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
+	],"iconIndex":1248,"name":"天地霸者","note":"<skill_id:981>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons240.txt>","params":[
 		0,
 		150,
 		110,
@@ -3168,7 +3168,7 @@
 	{"id":243,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻+50、速度+100、暴擊率+20%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.2}
-	],"iconIndex":1197,"name":"長虹流星","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
+	],"iconIndex":1197,"name":"長虹流星","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
 		0,
 		0,
 		50,
@@ -3181,7 +3181,7 @@
 	{"id":244,"animationId":12,"description":"「刺屬性」以上好的木材與巨鹿的筋製成，以山民們的傳統\n工藝所製成的強弓，物攻+100、速度+50、暴擊率+10%，普通攻擊時給予敵人全能力降低1層，持續3回合。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":1197,"name":"秘林羽翼","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:979>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
+	],"iconIndex":1197,"name":"秘林羽翼","note":"<skill_id:979>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
 		0,
 		0,
 		100,
@@ -3202,7 +3202,7 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"iconIndex":1197,"name":"星月女神","note":"<weaponImg:Weapon_bows,1,2>\n<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
+	],"iconIndex":1197,"name":"星月女神","note":"<skill_id:982>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons243.txt>","params":[
 		0,
 		0,
 		75,
@@ -3212,11 +3212,11 @@
 		75,
 		0
 	],"price":0,"wtypeId":4},
-	{"id":246,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻+100、魔攻+50、命中+15%、普通攻擊時額外追加一次傷害判定，並加快自己下一次行動速度。","etypeId":1,"traits":[
+	{"id":246,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻+100、魔攻+50、命中+15%、普通攻擊時額外追加一次傷害判定，並加快自己下一次行動速度。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特神威","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
+	],"iconIndex":1106,"name":"安特神威","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
 		0,
 		0,
 		100,
@@ -3226,11 +3226,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":247,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻+50、魔攻+100、命中+15%，使用劍術後追擊一次隨機屬性的魔法傷害。","etypeId":1,"traits":[
+	{"id":247,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻+50、魔攻+100、命中+15%，使用劍術後追擊一次隨機屬性的魔法傷害。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1}
-	],"iconIndex":1106,"name":"安特神怒","note":"<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
+	],"iconIndex":1106,"name":"安特神怒","note":"<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
 		0,
 		0,
 		50,
@@ -3240,12 +3240,12 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":248,"animationId":7,"description":"「斬、冰屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻、速度+50、命中+15%，戰鬥開始時獲得『全能力提升』5層，持續3回合。","etypeId":1,"traits":[
+	{"id":248,"animationId":7,"description":"「斬、\\n[74]屬性」使用妖精森林守護神安特的樹枝削製而成的\n木劍，能強化精靈魔法的威力，物攻、魔攻、速度+50、命中+15%，戰鬥開始時獲得『全能力提升』5層，持續3回合。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":31,"dataId":1,"value":1},
 		{"code":31,"dataId":2,"value":1},
 		{"code":43,"dataId":1082,"value":1}
-	],"iconIndex":1106,"name":"安特神護","note":"<autoSkill:[1082,1]>\n<weaponImg:Weapon_Flower,1,1>\n<skill_id:983>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
+	],"iconIndex":1106,"name":"安特神護","note":"<autoSkill:[1082,1]>\n<skill_id: this.actorId && this.actorId()===31 ? 975 : 983 >\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons246.txt>","params":[
 		0,
 		0,
 		50,
