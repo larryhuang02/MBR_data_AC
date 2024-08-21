@@ -12954,7 +12954,7 @@
 				"接待員"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼，今天給他們一人一個極品的屎缺。」"
+				"「哼，今天所有爛任務都丟給他們。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -13154,15 +13154,12 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":17},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"第二天白天"
-			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":36},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"第三天白天"
@@ -16437,7 +16434,7 @@
 				"賞金獵人C"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他媽的，為了這破任務，我們搶啥啊！」"
+				"「為了這破任務，我們搶啥啊！」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -17184,25 +17181,6 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":11,"y":7},
 	{"id":49,"name":"EV049","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Evil Swordmen","direction":8,"pattern":1,"characterIndex":5},"list":[
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Evil Swordmen",
-				5,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"賞金獵人A"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「真別說，台上那妞是真的唱的挺好聽的。」"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":17},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Generals 2","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"第二天白天"

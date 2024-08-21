@@ -21630,7 +21630,7 @@
 		{"code":22,"dataId":9,"value":0.05},
 		{"code":23,"dataId":5,"value":2}
 	],"gold":1000,"name":"牛魔","note":"<regenHP:100,0>\n<showMpTp>","params":[
-		12000,
+		15000,
 		1000,
 		500,
 		400,
@@ -21678,7 +21678,7 @@
 		{"code":14,"dataId":19,"value":1},
 		{"code":13,"dataId":1,"value":0}
 	],"gold":2000,"name":"GXPT3000挖掘型","note":"<showMpTp>","params":[
-		18000,
+		20000,
 		2000,
 		400,
 		300,
@@ -21749,8 +21749,6 @@
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":1.5},
 		{"code":11,"dataId":4,"value":0.1},
 		{"code":11,"dataId":9,"value":0.1},
@@ -21781,8 +21779,6 @@
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":1.5},
 		{"code":11,"dataId":5,"value":0.1},
 		{"code":11,"dataId":6,"value":0.1},
@@ -21812,8 +21808,6 @@
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":1.5},
 		{"code":11,"dataId":4,"value":0.1},
 		{"code":11,"dataId":7,"value":0.1},
@@ -21844,8 +21838,6 @@
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":1.5},
 		{"code":11,"dataId":7,"value":0.1},
 		{"code":11,"dataId":8,"value":0.1},
@@ -21883,7 +21875,7 @@
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":8,"value":1.5}
 	],"gold":0,"name":"森林巨蜥","note":"","params":[
-		650,
+		600,
 		500,
 		250,
 		150,
@@ -21914,13 +21906,13 @@
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":8,"value":1.5}
 	],"gold":0,"name":"森林巨鱷","note":"","params":[
-		750,
+		700,
 		500,
 		300,
 		300,
 		250,
 		150,
-		150,
+		100,
 		200
 	]},
 	{"id":504,"actions":[
@@ -22152,7 +22144,7 @@
 		{"code":14,"dataId":19,"value":1},
 		{"code":13,"dataId":1,"value":0}
 	],"gold":0,"name":"鉚釘","note":"<Sideview battler: sv_Ogre>\n<showMpTp>","params":[
-		10000,
+		13500,
 		2000,
 		300,
 		300,
@@ -22238,7 +22230,7 @@
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":1,"value":0}
 	],"gold":0,"name":"太裟","note":"<Sideview battler: Package1_4>\n<showMpTp>","params":[
-		12000,
+		13500,
 		1000,
 		350,
 		200,
@@ -22417,7 +22409,7 @@
 		{"code":14,"dataId":19,"value":1},
 		{"code":13,"dataId":1,"value":0}
 	],"gold":2000,"name":"金鄉騎士","note":"<showMpTp>","params":[
-		15000,
+		18000,
 		2000,
 		400,
 		350,
@@ -22456,7 +22448,7 @@
 		{"code":14,"dataId":14,"value":1},
 		{"code":13,"dataId":19,"value":0.5}
 	],"gold":3000,"name":"質化靈","note":"<showMpTp>\n<regenMP:50,0>","params":[
-		12000,
+		15000,
 		3000,
 		100,
 		100,
@@ -22796,13 +22788,13 @@
 		175
 	]},
 	{"id":525,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1022},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1023},
+		{"conditionParam1":452,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1022},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1023},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1024},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1025},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1025},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1026},
 		{"conditionParam1":0,"conditionParam2":0.2,"conditionType":3,"rating":9,"skillId":987},
-		{"conditionParam1":0,"conditionParam2":0.5,"conditionType":2,"rating":3,"skillId":985},
+		{"conditionParam1":0,"conditionParam2":0.5,"conditionType":2,"rating":2,"skillId":985},
 		{"conditionParam1":6,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":986},
 		{"conditionParam1":7,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":986},
 		{"conditionParam1":8,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":986},

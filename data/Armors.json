@@ -12488,10 +12488,9 @@
 		0,
 		0
 	],"price":3000},
-	{"id":1020,"atypeId":39,"description":"「\\N[33]專用」裡頭放著用來獵殺惡魔的銀箭矢的箭矢筒，據說\n是獵魔人的愛用物，免疫混亂，戰鬥結束後保留現有TP，但TP消耗率變成2倍。","etypeId":2,"traits":[
-		{"code":14,"dataId":11,"value":1},
-		{"code":62,"dataId":3,"value":1}
-	],"iconIndex":203,"name":"秘銀箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1020.txt>\n<TpCostRate:2>","params":[
+	{"id":1020,"atypeId":39,"description":"「\\N[33]專用」裡頭放著用來獵殺惡魔的銀箭矢的箭矢筒，據說\n是獵魔人的愛用物，免疫中毒，減少TP技消耗的TP。","etypeId":2,"traits":[
+		{"code":14,"dataId":6,"value":1}
+	],"iconIndex":203,"name":"秘銀箭矢筒","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors1020.txt>\n<TpCostRate:0.8>","params":[
 		0,
 		0,
 		0,

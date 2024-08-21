@@ -1714,7 +1714,7 @@
 		{"code":22,"dataId":1,"value":0.05}
 	],"iconIndex":1673,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"劍意(1)","note":"<狀態新增變化ra:{\"393\":{\"移除\":[393],\"加入\":[392]}}>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":394,"autoRemovalTiming":2,"chanceByDamage":10,"traits":[
-	],"iconIndex":78,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":1,"name":"暈眩（休息）","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":4,"stepsToRemove":100},
+	],"iconIndex":78,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":1,"name":"暈眩（休息）","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":4,"stepsToRemove":100},
 	{"id":395,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
 	],"iconIndex":1669,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"地雷(5)","note":"<addStats_rmByTime:396>\n","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":396,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
@@ -1858,20 +1858,21 @@
 	{"id":448,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":21,"dataId":3,"value":1.5},
 		{"code":21,"dataId":5,"value":1.5}
-	],"iconIndex":13,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"打鐵獅攸特變超硬","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":13,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"打鐵獅攸特變超硬","note":"<Custom React Effect>\nif(!(value<target.hp)&&this.item().damage.type===1){\ntarget._forcedEvaded=true;\ntarget.result().evaded=true;\nvalue=0;\n$gameTemp.reserveCommonEvent(268);\n}\n</Custom React Effect>\n\n<Custom Respond Effect>\nif(target._forcedEvaded){\n  target.result().hpAffected=target.result().success=false;\n}\n\ntarget._forcedEvaded=false;\n</Custom Respond Effect>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":449,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":22,"dataId":2,"value":0.5}
 	],"iconIndex":1197,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"鷹眼","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":450,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 	],"iconIndex":140,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"開場滿跑條","note":"<Custom Apply Effect>\nuser._atbSpeed_tmp=BattleManager.atbTarget();\n{\nYanfly.Param.ATBInitSpeed_ori=Yanfly.Param.ATBInitSpeed||Yanfly.Param.ATBInitSpeed_ori;\nYanfly.Param.ATBInitSpeed='(()=>{ const rtv=this._atbSpeed_tmp||Yanfly.Param.ATBInitSpeed_ori; this._atbSpeed_tmp=undefined; return rtv; })()';\n}\n</Custom Apply Effect>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":451,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+	{"id":451,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 		{"code":62,"dataId":3,"value":1}
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"保留TP狀態","note":"<alwaysNotCleared>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"保留TP狀態","note":"<alwaysNotCleared>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":452,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
-		{"code":22,"dataId":0,"value":-10}
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"鐵獅打不中","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":0,"maxTurns":2,"message1":"","message2":"","message3":"","message4":"","minTurns":2,"motion":0,"name":"鐵獅切換攻擊模式","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":453,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+		{"code":23,"dataId":6,"value":0.2},
+		{"code":23,"dataId":7,"value":0.5}
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"鐵獅超硬打不太動","note":"<alwaysNotCleared>","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":454,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":455,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

@@ -2506,7 +2506,7 @@
 			]},
 			{"code":320,"indent":1,"parameters":[
 				80,
-				""
+				"。"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -2530,13 +2530,13 @@
 				2
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"使用道具不會有懲罰機制，使用房間的床鋪休息可以復活，"
+				"使用復活道具不會有懲罰機制，使用房間的床鋪休息可以"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"戰鬥結束後的TP可以被累積，大部分的野外怪物不會追逐"
+				"復活，大部分的野外怪物不會追逐玩家，推薦RPG程度一般"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"玩家，推薦RPG程度一般的玩家。"
+				"的玩家。"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -2560,36 +2560,6 @@
 			{"code":402,"indent":1,"parameters":[
 				0,
 				"是"
-			]},
-			{"code":313,"indent":2,"parameters":[
-				0,
-				31,
-				0,
-				451
-			]},
-			{"code":313,"indent":2,"parameters":[
-				0,
-				32,
-				0,
-				451
-			]},
-			{"code":313,"indent":2,"parameters":[
-				0,
-				33,
-				0,
-				451
-			]},
-			{"code":313,"indent":2,"parameters":[
-				0,
-				34,
-				0,
-				451
-			]},
-			{"code":313,"indent":2,"parameters":[
-				0,
-				48,
-				0,
-				451
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -2618,16 +2588,22 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"那麼故事即將開始。"
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"那麼故事即將開始。\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
 				1,
-				2
+				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"冒險，準備啟程了。"
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"冒險，準備啟程了。\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				180
