@@ -216,45 +216,30 @@
 		0
 	],"faceIndex":0,"faceName":"","traits":[
 	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-	{"id":23,"battlerName":"YT_E22","characterIndex":2,"characterName":"BLR_Yuter_MV20","classId":40,"equips":[
-		284,
-		1017,
+	{"id":23,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
-		1121,
-		0
-	],"faceIndex":0,"faceName":"BLR_E23_1","traits":[
-		{"code":53,"dataId":1,"value":1},
-		{"code":53,"dataId":2,"value":1},
-		{"code":53,"dataId":3,"value":1},
-		{"code":53,"dataId":4,"value":1},
-		{"code":53,"dataId":5,"value":1}
-	],"initialLevel":50,"maxLevel":99,"name":"寒蟬","nickname":"荒野雄獅","note":"<usedOnTags:[\"B\"]>","profile":""},
-	{"id":24,"battlerName":"YT_E23","characterIndex":3,"characterName":"BLR_Yuter_MV20","classId":41,"equips":[
-		284,
-		1017,
 		0,
-		1121,
-		0
-	],"faceIndex":0,"faceName":"BLR_E22_1","traits":[
-		{"code":53,"dataId":1,"value":1},
-		{"code":53,"dataId":2,"value":1},
-		{"code":53,"dataId":3,"value":1},
-		{"code":53,"dataId":4,"value":1},
-		{"code":53,"dataId":5,"value":1}
-	],"initialLevel":50,"maxLevel":99,"name":"夜斷","nickname":"荒野雄獅","note":"<usedOnTags:[\"B\"]>","profile":""},
-	{"id":25,"battlerName":"YT_E21","characterIndex":1,"characterName":"BLR_Yuter_MV20","classId":39,"equips":[
-		284,
-		1017,
 		0,
-		1121,
+		0,
 		0
-	],"faceIndex":7,"faceName":"BLR_E21_1","traits":[
-		{"code":53,"dataId":1,"value":1},
-		{"code":53,"dataId":2,"value":1},
-		{"code":53,"dataId":3,"value":1},
-		{"code":53,"dataId":4,"value":1},
-		{"code":53,"dataId":5,"value":1}
-	],"initialLevel":50,"maxLevel":99,"name":"月剎","nickname":"荒野雄獅","note":"<usedOnTags:[\"B\"]>","profile":""},
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":24,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":25,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 	{"id":26,"battlerName":"BLR_soldier_red","characterIndex":2,"characterName":"Recolor_Soldiers","classId":20,"equips":[
 		208,
 		1,
@@ -305,98 +290,86 @@
 		{"code":43,"dataId":584,"value":1},
 		{"code":62,"dataId":0,"value":1}
 	],"initialLevel":37,"maxLevel":37,"name":"小惡魔","nickname":"","note":"","profile":""},
-	{"id":31,"battlerName":"YT_1","characterIndex":0,"characterName":"BLR_Yuter_MV10","classId":21,"equips":[
-		212,
-		1005,
-		0,
-		983,
-		1051
-	],"faceIndex":0,"faceName":"BLR_31_1","traits":[
-	],"initialLevel":45,"maxLevel":99,"name":"攸特","nickname":"天才煉金術師","note":"<立繪if暱稱:{\"復仇者\":\"Actor_31_2\"}>","profile":"蘋薇冒險團的成員，飽讀詩書且幽默風趣，擁有不俗的煉金\n實力，是各大冒險者公會爭相邀請的搶手對象。"},
-	{"id":32,"battlerName":"YT_2","characterIndex":1,"characterName":"BLR_Yuter_MV10","classId":22,"equips":[
-		213,
-		1011,
-		985,
-		982,
-		1016
-	],"faceIndex":0,"faceName":"BLR_32_1","traits":[
-	],"initialLevel":50,"maxLevel":99,"name":"蘋薇","nickname":"永遠青春18歲","note":"<無視道具效果:[807,809]>","profile":"蘋薇冒險團的團長，樂天開朗且豪爽，有點好色且喜歡性騷\n擾，因為強悍的實力在冒險者之間聲名大噪。"},
-	{"id":33,"battlerName":"YT_3","characterIndex":3,"characterName":"BLR_Yuter_MV10","classId":23,"equips":[
-		214,
-		1017,
-		986,
-		984,
-		1022
-	],"faceIndex":0,"faceName":"BLR_34_1","traits":[
-	],"initialLevel":45,"maxLevel":99,"name":"魯蘭","nickname":"天真無邪","note":"","profile":"蘋薇冒險團的新進成員，天真無邪不諳世事，孤兒出身，所\n以有些憧憬家人，將攸特作為大哥一般尊敬。"},
-	{"id":34,"battlerName":"YT_4","characterIndex":2,"characterName":"BLR_Yuter_MV10","classId":24,"equips":[
-		215,
-		1023,
-		0,
-		981,
-		1040
-	],"faceIndex":0,"faceName":"BLR_33_1","traits":[
-	],"initialLevel":50,"maxLevel":99,"name":"奧維亞","nickname":"不苟言笑","note":"","profile":"蘋薇冒險團的副團長，有點嚴厲且不苟言笑，但非常關心同\n伴，為何會離開精靈森林，成為蘋薇的夥伴是個未解之謎。"},
-	{"id":35,"battlerName":"Monster_ Gazer01","characterIndex":2,"characterName":"KH07_MVmonster_01","classId":33,"equips":[
+	{"id":31,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":7,"faceName":"KH06-2_faces_MV_03","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"魔眼","nickname":"幽靈","note":"<魔獸>","profile":""},
-	{"id":36,"battlerName":"Monster_Owl01","characterIndex":0,"characterName":"KH06_MVmonster_01","classId":34,"equips":[
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":32,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":2,"faceName":"KH06-1_faces_MV_04","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"白鴞","nickname":"幽靈","note":"<魔獸>","profile":""},
-	{"id":37,"battlerName":"Monster_Sahuagin02","characterIndex":5,"characterName":"KH06_MVmonster_01","classId":35,"equips":[
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":33,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":7,"faceName":"KH06-1_faces_MV_04","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"魚人","nickname":"幽靈","note":"<魔獸>","profile":""},
-	{"id":38,"battlerName":"Monster_Slime01","characterIndex":1,"characterName":"Monster","classId":36,"equips":[
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":34,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":0,"faceName":"Recolor_Slimes","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"史萊姆","nickname":"幽靈","note":"<魔獸>","profile":""},
-	{"id":39,"battlerName":"Monster_Ogre02","characterIndex":2,"characterName":"Monster","classId":37,"equips":[
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":35,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":0,"faceName":"Recolor_Orcs","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"巨魔","nickname":"幽靈","note":"<魔獸>","profile":""},
-	{"id":40,"battlerName":"Monster_Ghost01","characterIndex":6,"characterName":"Monster","classId":38,"equips":[
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":36,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":0,"faceName":"Recolor_Ghosts","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"幽魂","nickname":"幽靈","note":"<魔獸>","profile":""},
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":37,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":38,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":39,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":40,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
+		0,
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 	{"id":41,"battlerName":"Package1_1","characterIndex":0,"characterName":"Package1","classId":26,"equips":[
 		251,
 		0,
@@ -454,18 +427,14 @@
 		0
 	],"faceIndex":7,"faceName":"Package2","traits":[
 	],"initialLevel":1,"maxLevel":99,"name":"機器人","nickname":"機器人","note":"","profile":""},
-	{"id":48,"battlerName":"BLR_BlackLion_SV","characterIndex":0,"characterName":"BLR_BlackLion","classId":25,"equips":[
-		283,
-		1017,
+	{"id":48,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
-		1119,
-		1120
-	],"faceIndex":0,"faceName":"BLR_BlackLion","traits":[
-		{"code":53,"dataId":1,"value":1},
-		{"code":53,"dataId":2,"value":1},
-		{"code":53,"dataId":4,"value":1},
-		{"code":53,"dataId":5,"value":1}
-	],"initialLevel":60,"maxLevel":99,"name":"鐵獅","nickname":"荒野雄獅","note":"<usedOnTags:[\"B\"]>","profile":"血戰雄獅團的團長，雖然長著一張兇惡的老臉，卻是月剎的\n血親弟弟，為人和善，夢想是將武道修練至登峰造極的地步。"},
+		0,
+		0,
+		0,
+		0
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 	{"id":49,"battlerName":"BLR_BlackLion_SV","characterIndex":3,"characterName":"BLR_BlackLion","classId":1,"equips":[
 		283,
 		1017,
@@ -674,48 +643,46 @@
 		0
 	],"faceIndex":0,"faceName":"","traits":[
 	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-	{"id":75,"battlerName":"BLR_AyaSV","characterIndex":0,"characterName":"","classId":40,"equips":[
+	{"id":75,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"影之雙子「天辰&綾香」","nickname":"","note":"<noShadow>","profile":""},
-	{"id":76,"battlerName":"YT_E21","characterIndex":0,"characterName":"","classId":41,"equips":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":76,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"月剎","nickname":"","note":"","profile":""},
-	{"id":77,"battlerName":"YT_E23","characterIndex":0,"characterName":"","classId":42,"equips":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":77,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"夜斷","nickname":"","note":"","profile":""},
-	{"id":78,"battlerName":"YT_E22","characterIndex":0,"characterName":"","classId":43,"equips":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":78,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"寒蟬","nickname":"","note":"","profile":""},
-	{"id":79,"battlerName":"Monster_ Gazer01","characterIndex":1,"characterName":"Nature_rabbits","classId":33,"equips":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	{"id":79,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
 		0,
 		0,
 		0
-	],"faceIndex":7,"faceName":"KH06-2_faces_MV_03","traits":[
-		{"code":62,"dataId":0,"value":1},
-		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"怪物競技場共用說明","nickname":"幽靈","note":"<魔獸>","profile":""},
+	],"faceIndex":0,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 	{"id":80,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
