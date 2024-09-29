@@ -57,7 +57,7 @@
 	{"type":1,"weaponImageId":15},
 	{"type":1,"weaponImageId":0},
 	{"type":1,"weaponImageId":25}
-],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Cobblestones1","battleback2Name":"Room1","battlerHue":0,"battlerName":"Animal_13_mouse","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":501,"elements":[
+],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Cobblestones1","battleback2Name":"Room1","battlerHue":0,"battlerName":"Animal_13_mouse","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":617,"elements":[
 	"",
 	"斬屬性",
 	"刺屬性",
@@ -87,6 +87,7 @@
 	false,
 	true
 ],"optDisplayTp":true,"optDrawTitle":true,"optExtraExp":false,"optFloorDeath":false,"optFollowers":false,"optSideView":true,"optSlipDeath":true,"optTransparent":false,"partyMembers":[
+	1
 ],"ship":{"bgm":{"name":"Vehicle_2_2","pan":0,"pitch":100,"volume":50},"characterIndex":1,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"skillTypes":[
 	"",
 	"魔法",
@@ -134,7 +135,7 @@
 	{"name":"Shop2","pan":0,"pitch":100,"volume":50},
 	{"name":"Item1","pan":0,"pitch":100,"volume":50},
 	{"name":"Item3","pan":0,"pitch":100,"volume":50}
-],"startMapId":2,"startX":0,"startY":1,"switches":[
+],"startMapId":617,"startX":13,"startY":115,"switches":[
 	"",
 	"-共用事件用-",
 	"製作者傳送門用",
@@ -1316,7 +1317,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":44004638,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":4422132,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",
