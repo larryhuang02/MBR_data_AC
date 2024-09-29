@@ -42,7 +42,7 @@
 	{"id":16,"animationId":209,"damage":{"critical":true,"elementId":1,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"附加石化","effects":[
 		{"code":21,"dataId":18,"value1":0.25,"value2":0}
 	],"hitType":1,"iconIndex":100,"message1":"","message2":"","mpCost":0,"name":"全體攻擊","note":"<speed:20000>\n<addEle:2>\n<whole action>\nmotion attack: user\naction animation\nwait: 32\naction effect\nwait: 10\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":17,"animationId":555,"damage":{"critical":false,"elementId":1,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"玩家用","effects":[
+	{"id":17,"animationId":555,"damage":{"critical":true,"elementId":1,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"玩家用","effects":[
 	],"hitType":1,"iconIndex":117,"message1":"","message2":"","mpCost":0,"name":"電鋸","note":"<speed:20000>\n<target action>\nmove user: target, FRONT BASE, 20\nface user: target\nwait for movement\nMOTION SPELL: user\nmotion attack: user\naction animation\nwait: 10\naction effect\nmotion attack: user\nwait: 7\naction effect\nwait: 5\naction effect\nwait: 3\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":18,"animationId":8,"damage":{"critical":true,"elementId":1,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"日炎刀，附加著火","effects":[
 		{"code":21,"dataId":12,"value1":0.5,"value2":0}
@@ -3533,450 +3533,234 @@
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":974,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":975,"animationId":991,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.mat / 2 - b.def / 6 - b.def / 6 )","type":1,"variance":20},"description":"攸特持劍普攻","effects":[
-		{"code":21,"dataId":17,"value1":0.1,"value2":0},
-		{"code":21,"dataId":19,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"雷切","note":"<speed:20000>\n<addEle:5>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 84\naction effect\nwait: 44\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":976,"animationId":694,"damage":{"critical":false,"elementId":0,"formula":"b.mp * 0.5","type":2,"variance":0},"description":"","effects":[
-		{"code":21,"dataId":6,"value1":1,"value2":0},
-		{"code":21,"dataId":12,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":226,"message1":"","message2":"","mpCost":10,"name":"易燃毒酒","note":"<speed:20000>\n<target action>\naction animation\nwait: 50\naction effect\nwait: 10\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":10},
-	{"id":977,"animationId":51,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":0,"variance":20},"description":"魯蘭裝備自動技能","effects":[
-		{"code":34,"dataId":6,"value1":1,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0}
-	],"hitType":0,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"奇襲","note":"<speed:20000>\n<autoSkill:[350]>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":978,"animationId":51,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":0,"variance":20},"description":"魯蘭裝備自動技能","effects":[
-		{"code":21,"dataId":449,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"鷹眼","note":"<speed:20000>\n<autoSkill:[350]>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":979,"animationId":987,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"魯蘭普攻","effects":[
-		{"code":21,"dataId":6,"value1":0.1,"value2":0},
-		{"code":21,"dataId":9,"value1":0.1,"value2":0},
-		{"code":32,"dataId":2,"value1":3,"value2":0},
-		{"code":32,"dataId":3,"value1":3,"value2":0},
-		{"code":32,"dataId":4,"value1":3,"value2":0},
-		{"code":32,"dataId":5,"value1":3,"value2":0},
-		{"code":32,"dataId":6,"value1":3,"value2":0},
-		{"code":32,"dataId":7,"value1":3,"value2":0}
-	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"眠毒箭","note":"<speed:10000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 48\naction effect\nIF user.isEquipped($dataArmors[1021])\naction effect level: 0.5\nwait: 4\naction effect\nwait: 1\naction effect level: 1\nEND\nwait: 36\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":980,"animationId":988,"damage":{"critical":true,"elementId":5,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"攸特普攻","effects":[
-		{"code":21,"dataId":19,"value1":0.1,"value2":0}
-	],"hitType":2,"iconIndex":1539,"message1":"攻擊！","message2":"","mpCost":0,"name":"雷閃","note":"<speed:20000>\n<target action>\naction effect loopAni: off\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 36\naction effect\nIF user.isEquipped($dataArmors[238])\neval: BattleManager._targets.map(t=>t.setATBSpeed(b._atbSpeed-2000));\nEND\nwait: 44\naction effect loopAni: off\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":981,"animationId":990,"damage":{"critical":true,"elementId":3,"formula":"a.isEquipped($dataWeapons[241]) ? 50 + ( a.atk / 2 - b.def / 3 ) : 50 + a.atk / 2 ","type":1,"variance":20},"description":"蘋維普攻","effects":[
-		{"code":21,"dataId":12,"value1":0.1,"value2":0},
-		{"code":21,"dataId":15,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"攻擊！","message2":"","mpCost":0,"name":"兩極掌","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect level: 0.5\naction effect: ,,0;1;0,4\nwait: 8\naction effect: ,,0;1;0,9\naction effect level: 1\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":2},
-	{"id":982,"animationId":987,"damage":{"critical":true,"elementId":2,"formula":"125 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"魯蘭普攻","effects":[
-		{"code":21,"dataId":6,"value1":0.1,"value2":0},
-		{"code":21,"dataId":9,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1197,"message1":"","message2":"","mpCost":0,"name":"眠毒箭","note":"<speed:10000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 48\naction effect\nIF user.isEquipped($dataArmors[1021])\naction effect level: 0.5\nwait: 4\naction effect\nwait: 1\naction effect level: 1\nEND\nwait: 36\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":983,"animationId":989,"damage":{"critical":true,"elementId":6,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"奧維亞普攻","effects":[
-		{"code":21,"dataId":16,"value1":0.1,"value2":0},
-		{"code":21,"dataId":17,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1106,"message1":"攻擊！","message2":"","mpCost":0,"name":"幻影冰斬","note":"<speed:20000>\n<addEle:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\naction effect\nIF user.isEquipped($dataWeapons[246])\nwait: 4\naction effect\nwait: 4\nEND\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nif(user.isEquipped($dataWeapons[246])) speed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":984,"animationId":288,"damage":{"critical":true,"elementId":4,"formula":"150 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」用拳頭向地面注入魔力，讓火炎從地面噴出\n傷害敵人，機率著火，出招後可以加快下一回合的行動。","effects":[
-		{"code":21,"dataId":12,"value1":1,"value2":0},
-		{"code":21,"dataId":14,"value1":0.25,"value2":0},
-		{"code":44,"dataId":215,"value1":1,"value2":0}
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":30,"name":"大地火炎","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 66\nANIMATION 67: target\nshake screen: 9, 9, 15\naction effect\nwait: 40\nopacity user: 100%\n<effect_javascript:(function(a,b){ if(a.isStateAffected(412)) this.itemEffectAddState(b,{dataId:12,value1:0.2}); })>\nwait for opacity\n</whole action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":985,"animationId":510,"damage":{"critical":false,"elementId":0,"formula":"a.isEquipped($dataArmors[1051])?   450  :  300","type":3,"variance":0},"description":"","effects":[
-	],"hitType":0,"iconIndex":321,"message1":"攻擊！","message2":"","mpCost":0,"name":"紅色藥水","note":"<speed:20000>\n","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":986,"animationId":510,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"","effects":[
-		{"code":22,"dataId":8,"value1":1,"value2":0},
-		{"code":22,"dataId":9,"value1":1,"value2":0},
-		{"code":22,"dataId":10,"value1":1,"value2":0},
-		{"code":22,"dataId":11,"value1":1,"value2":0},
-		{"code":22,"dataId":18,"value1":1,"value2":0},
-		{"code":22,"dataId":6,"value1":1,"value2":0},
-		{"code":22,"dataId":7,"value1":1,"value2":0},
-		{"code":22,"dataId":12,"value1":1,"value2":0},
-		{"code":22,"dataId":13,"value1":1,"value2":0},
-		{"code":22,"dataId":14,"value1":1,"value2":0},
-		{"code":22,"dataId":15,"value1":1,"value2":0},
-		{"code":22,"dataId":16,"value1":1,"value2":0},
-		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":894,"message1":"攻擊！","message2":"","mpCost":0,"name":"黑色藥粉","note":"<speed:20000>\n","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":987,"animationId":510,"damage":{"critical":false,"elementId":0,"formula":"350","type":0,"variance":0},"description":"","effects":[
-		{"code":12,"dataId":0,"value1":0,"value2":200}
-	],"hitType":0,"iconIndex":328,"message1":"攻擊！","message2":"","mpCost":0,"name":"藍色藥水","note":"<speed:20000>\n","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":2000,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":988,"animationId":806,"damage":{"critical":true,"elementId":1,"formula":"(250 + a.atk / 2 - b.def / 3) * 0.7","type":1,"variance":20},"description":"五連擊","effects":[
-		{"code":21,"dataId":10,"value1":0.5,"value2":0},
-		{"code":21,"dataId":17,"value1":0.5,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"疾風嵐狼拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\nshake screen: 9, 9, 15\naction effect\naction effect level: 0.25\nwait: 10\naction effect\nwait: 5\naction effect\nwait: 10\naction effect\nwait: 5\naction effect\nwait: 40\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":989,"animationId":805,"damage":{"critical":true,"elementId":3,"formula":"150 + (a.atk / 2 - b.def / 3) * 0.7","type":1,"variance":20},"description":"「物理&鈍屬性」對敵人快速的連續猛擊，出招後可以加快\n下一回合的行動。","effects":[
-		{"code":21,"dataId":10,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":50,"name":"狼撩亂","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 10\naction effect level: 0.5\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\naction effect level: 1\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":990,"animationId":760,"damage":{"critical":true,"elementId":3,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍屬性」對敵人快速的連續猛擊，出招後可以加快\n下一回合的行動。","effects":[
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":50,"name":"閃光連擊","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 20\naction effect\nwait: 30\nshake screen: 9, 9, 15\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":991,"animationId":761,"damage":{"critical":true,"elementId":3,"formula":"150 + (a.atk / 2 - b.def / 3)","type":1,"variance":20},"description":"「物理&鈍屬性」凝聚氣勁，對敵人擊出強力的一擊，解除\n敵人防禦狀態並造成「防禦下降」2層。","effects":[
-		{"code":22,"dataId":2,"value1":1,"value2":0},
-		{"code":32,"dataId":3,"value1":2,"value2":0},
-		{"code":32,"dataId":3,"value1":2,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":70,"name":"破擊","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 45\nshake screen: 9, 9, 15\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":992,"animationId":762,"damage":{"critical":true,"elementId":3,"formula":"100 + (a.atk / 2 - b.def / 3)","type":1,"variance":20},"description":"「物理&鈍屬性」凝聚氣勁，擊出強力的衝擊波及敵人，對\n敵方全體造成三次傷害並減少敵方的MP。","effects":[
-		{"code":12,"dataId":0,"value1":0,"value2":-50}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":100,"name":"脈衝破擊","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 45\naction effect level: 0.35\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 15\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":993,"animationId":763,"damage":{"critical":true,"elementId":3,"formula":"150 + (a.atk / 2 - b.def / 3) + a.tp * 5","type":1,"variance":20},"description":"「物理&鈍屬性」凝聚氣勁，對敵人擊出強力的一擊後，打出\n強力的衝擊波及敵方全體，TP越多造成的傷害越高。","effects":[
-		{"code":22,"dataId":2,"value1":1,"value2":0},
-		{"code":12,"dataId":0,"value1":0,"value2":-50}
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":100,"name":"破擊連段","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 45\nshake screen: 9, 9, 15\naction effect\nwait: 40\naction effect: opponents\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":994,"animationId":764,"damage":{"critical":true,"elementId":1,"formula":"100 + (a.atk / 2 - b.def / 3)","type":1,"variance":20},"description":"「物理&斬屬性」此技能爆擊率較高，快速拔出武器，以瞬間\n爆發力斬向敵人的劍術，機率流血。","effects":[
-		{"code":21,"dataId":17,"value1":0.3,"value2":0}
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":50,"name":"居合","note":"<speed:20000>\n<crit:45>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":995,"animationId":765,"damage":{"critical":true,"elementId":1,"formula":"250","type":1,"variance":20},"description":"「物理&斬&風屬性」快速拔出武器，斬出三道襲向敵人的\n劍氣，給予敵方全體250點左右的固定傷害，機率流血。","effects":[
-		{"code":21,"dataId":17,"value1":0.3,"value2":0}
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":80,"name":"劍氣","note":"<speed:20000>\n<addEle:7>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 45\naction effect\nwait: 20\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":996,"animationId":766,"damage":{"critical":true,"elementId":12,"formula":"(a.atk / 2 - b.def / 3) + a.agi * 0.5","type":1,"variance":20},"description":"「物理&鈍屬性」以輕盈的身法對敵人進行連續踢擊，速度\n可提升技能威力。","effects":[
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":100,"name":"舞踏","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 55\naction effect\nwait: 17\naction effect\nwait: 17\naction effect\nwait: 45\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":997,"animationId":798,"damage":{"critical":true,"elementId":3,"formula":"40","type":1,"variance":20},"description":"哈哈哈單體攻擊拉，預設是普攻，因為作為敵方角色，所以\n沒有放進去武器中","effects":[
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"古代遺物「一體炮刃」","note":"<speed:20000>\n<addEle:12>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 50\naction effect\nwait: 25\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":998,"animationId":799,"damage":{"critical":true,"elementId":3,"formula":"20","type":1,"variance":20},"description":"哈哈哈群體攻擊拉","effects":[
-	],"hitType":0,"iconIndex":1248,"message1":"","message2":"","mpCost":100,"name":"古代遺物「Double-AK」","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 120\nANIMATION 803: target\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nANIMATION 803: target\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":999,"animationId":800,"damage":{"critical":true,"elementId":3,"formula":"40","type":1,"variance":20},"description":"哈哈哈單體攻擊拉","effects":[
-	],"hitType":0,"iconIndex":1248,"message1":"","message2":"","mpCost":200,"name":"古代遺物「連刃追炮」","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\naffect effect level: 2\naction effect\nwait: 25\naffect effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1000,"animationId":801,"damage":{"critical":true,"elementId":3,"formula":"20","type":1,"variance":20},"description":"哈哈哈單體攻擊拉，預設是普攻，因為作為敵方角色，沒有\n放進去武器中","effects":[
-	],"hitType":0,"iconIndex":1248,"message1":"","message2":"","mpCost":100,"name":"古代遺物「The-AK47」","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 50\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 70\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 25\naffect effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1001,"animationId":284,"damage":{"critical":true,"elementId":5,"formula":"a.isStateAffected(405) ? 100 + a.mat / 2   : 100 + ( a.mat / 2 - b.mdf / 3 ) ","type":1,"variance":20},"description":"「魔法&雷屬性」將魔力注入書本之中，呼喚小型雷電攻擊敵\n人造成二次傷害，機率麻痺。","effects":[
-		{"code":21,"dataId":19,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1539,"message1":"","message2":"","mpCost":50,"name":"雷之煉金書","note":"<speed:20000>\n<effect_javascript:(function(a,b){if(a.isStateAffected(404)) b.gainMp(-b.mmp*0.05);})>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\nwait: 35\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":4,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1002,"animationId":285,"damage":{"critical":false,"elementId":0,"formula":"a.isStateAffected(406) ? 150 + a.luk * 0.2 + b.mhp * 0.1 : 150 + a.luk * 0.2","type":3,"variance":20},"description":"將魔力注入書本之中展開治癒法陣，回復我方全體的HP並\n解除中毒、猛毒狀態，除此之外運氣會提升治癒量。","effects":[
-		{"code":22,"dataId":6,"value1":1,"value2":0},
-		{"code":22,"dataId":7,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":1536,"message1":"","message2":"","mpCost":70,"name":"體之煉金書","note":"<speed:20000>\n<effect_javascript:(function(a,b){if(a.isStateAffected(407))[6,7,8,9,10,11,12,13,14,15,16,17,18,19].forEach(function(id){b.removeState(id);})})>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\nwait: 60\nopacity user: 100%, 20\nwait for opacity\n</whole action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":4,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1003,"animationId":286,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"「需吟唱」將魔力注入書本之中展開防禦法陣，我方全體\n『防禦、魔法防禦』上升2層。","effects":[
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":44,"dataId":213,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":1538,"message1":"","message2":"","mpCost":100,"name":"盾之煉金書","note":"<speed:15000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\nwait: 60\nopacity user: 100%, 20\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":4,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1004,"animationId":287,"damage":{"critical":true,"elementId":5,"formula":"25 + a.mat / 2","type":1,"variance":20},"description":"「魔法&雷屬性」將魔力注入書本之中作為炸彈扔出，引發大\n範圍雷爆攻擊敵人，造成多次無視防禦傷害，機率麻痺。","effects":[
-		{"code":44,"dataId":214,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1539,"message1":"","message2":"","mpCost":0,"name":"轟雷煉金書","note":"<speed:20000>\n<effect_javascript:(function(a,b){ if(a.isStateAffected(410)) b._buffs.forEach(function(x,i,arr){ if(0<x) arr[i]=0; }); })>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 500>\n<Action Cutin Picture: ../pictures/TK31>\n<Action Cutin Scale: 0.5>\n<Action Cutin Forced Offset Y: +10>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Up4>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\naffect effect level: 0.1\nwait: 30\naction effect\naffect effect level: 0.5\nwait: 40\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naffect effect level: 1\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect\nwait: 30\naffect effect level: 1.5\nwait: 15\naction effect\nwait: 15\naction effect: opponents\nwait: 10\nshake screen: 9, 9, 15\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naffect effect level: 2\naction effect: opponents\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":4,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1005,"animationId":288,"damage":{"critical":true,"elementId":4,"formula":"150 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」用拳頭向地面注入魔力，讓火炎從地面噴出\n傷害敵人，機率著火，出招後可以加快下一回合的行動。","effects":[
-		{"code":21,"dataId":12,"value1":0.25,"value2":0},
-		{"code":44,"dataId":215,"value1":1,"value2":0}
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":30,"name":"大地火炎","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 66\nANIMATION 67: target\nshake screen: 9, 9, 15\naction effect\nwait: 40\nopacity user: 100%\n<effect_javascript:(function(a,b){ if(a.isStateAffected(412)) this.itemEffectAddState(b,{dataId:12,value1:0.2}); })>\nwait for opacity\n</whole action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1006,"animationId":289,"damage":{"critical":true,"elementId":9,"formula":"a.isStateAffected(2) && a.isStateAffected(415) ? 400 + ( a.mat / 2 - b.mdf / 3 ) * 2 : 150 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」用拳頭向地面注入魔力，讓瀑布從地面噴出\n傷害敵人，機率潮濕，出招後可以加快下一回合的行動。","effects":[
-		{"code":21,"dataId":15,"value1":0.2,"value2":0}
-	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":30,"name":"大地噴泉","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 66\nANIMATION 290: target\nshake screen: 9, 9, 15\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</whole action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1007,"animationId":291,"damage":{"critical":true,"elementId":12,"formula":"a.isStateAffected(417) ? 450 + ( a.atk / 2 - b.def / 3 ) : 300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍&爆裂屬性」將互相排斥的兩極屬性壓縮成不穩定\n能量後對敵人轟出，攻擊單體敵人，並波及附近的其他敵人。","effects":[
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":80,"name":"兩極強襲","note":"<speed:20000>\n<addEle:3>\n<target action>\n<tpGain:0.25>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 77\nshake screen: 9, 9, 15\naction effect\nwait: 33\nif user.isStateAffected(416)\n  action effect level: 0.2\nelse\n  action effect level: 0.075\nend\n  action effect: opponents\n  wait: 10\n  action effect: opponents\n  wait: 10\n  action effect: opponents\n  wait: 10\n  action effect: opponents\n  wait: 10\n  action effect: opponents\nwait: 33\naffect effect level: 1.0\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1008,"animationId":292,"damage":{"critical":true,"elementId":1,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&水&火屬性」對敵人連續放出水與火屬性的能量衝擊\n，造成傷害並減少敵方的MP。","effects":[
-		{"code":44,"dataId":212,"value1":1,"value2":0},
-		{"code":12,"dataId":0,"value1":-0.05,"value2":0}
-	],"hitType":1,"iconIndex":1506,"message1":"","message2":"","mpCost":0,"name":"兩極波動","note":"<speed:20000>\n<addEle:9>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 500>\n<Action Cutin Picture: ../pictures/TK32>\n<Action Cutin Scale: 0.5>\n<Action Cutin Forced Offset Y: +10>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Up4>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\naction effect level: 0.5\nwait: 77\naction effect: ,,0;1;0,9\nwait: 7\naction effect: ,,0;1;0,4\nwait: 7\naction effect: ,,0;1;0,9\nwait: 7\naction effect: ,,0;1;0,4\nwait: 7\naction effect: ,,0;1;0,9\nwait: 7\naction effect: ,,0;1;0,4\nwait: 7\naction effect: ,,0;1;0,9\nwait: 7\naction effect: ,,0;1;0,4\nwait: 20\naction effect: ,,0;1;0,9\nwait: 30\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1009,"animationId":293,"damage":{"critical":true,"elementId":8,"formula":"250 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&刺、土屬性」射出帶有地脈力量的箭矢\n對敵人造成二次傷害，機率石化。","effects":[
-		{"code":21,"dataId":18,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1186,"message1":"","message2":"","mpCost":50,"name":"地靈之箭","note":"<speed:10000>\nif user.isStateAffected(421)\n<crit:20>\nelse\n<crit:0>\nend\n<addEle:2>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\nwait: 50\nif user.isStateAffected(422)\naction effect level: 0.5\nwait: 10\naction effect: opponents\nelse\naction effect\nend\nwait: 1\naction effect level: 1\nwait: 40\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":5,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1010,"animationId":294,"damage":{"critical":true,"elementId":8,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&刺、土屬性」射出帶有地脈力量的箭矢\n炸裂大地，對敵人全體造成傷害，並造成「防禦下降」1層。","effects":[
-		{"code":32,"dataId":3,"value1":2,"value2":0},
-		{"code":44,"dataId":218,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1186,"message1":"","message2":"","mpCost":50,"name":"裂岩之箭","note":"<speed:10000>\n<addEle:2>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\nshake screen: 9, 9, 15\nif user.isStateAffected(423)\naction effect level: 0.5\nwait: 5\naction effect: opponents\nwait: 5\naction effect: opponents\nelse\naction effect: opponents\nend\nwait: 20\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":5,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1011,"animationId":295,"damage":{"critical":true,"elementId":7,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&刺、風屬性」射出帶有暴風力量的箭矢，\n在命中目標後會擴散襲捲至敵方全體，機率出血。","effects":[
-		{"code":21,"dataId":17,"value1":0.2,"value2":0}
-	],"hitType":1,"iconIndex":1189,"message1":"","message2":"","mpCost":50,"name":"神風之箭","note":"<speed:10000>\n<addEle:2>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 50\naction effect\nwait: 10\nif user.isStateAffected(423)\naction effect level: 1.5\nwait: 10\naction effect\nelse\naction effect level: 0.5\nwait: 10\naction effect: opponents\nend\naction effect level: 1\nwait: 1\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":5,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1012,"animationId":296,"damage":{"critical":true,"elementId":3,"formula":"a.isStateAffected(427) ? 300 + (a.atk / 2 - b.def / 3 ) + a.mp * 0.3 : 300 + (a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&鈍屬性」拿出巨大的箭矢進行射擊，對\n敵人全體造成傷害，必定命中。","effects":[
-	],"hitType":0,"iconIndex":1184,"message1":"","message2":"","mpCost":0,"name":"好大的一支啊","note":"<speed:0>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 500>\n<Action Cutin Picture: ../pictures/TK33>\n<Action Cutin Scale: 0.5>\n<Action Cutin Forced Offset Y: +10>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Up4>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 45\nshake screen: 9, 9, 15\naction effect\nshake screen: 9, 9, 15\nwait: 50\naction effect level: 0.1\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 2\nshake screen: 9, 9, 15\naction effect\nwait: 20\naction effect level: 1\nwait: 1\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":5,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1013,"animationId":297,"damage":{"critical":true,"elementId":1,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」以極快的身法出劍，用超高速斬擊隨機進行\n多次攻擊，機率流血。","effects":[
-		{"code":21,"dataId":17,"value1":0.2,"value2":0},
-		{"code":44,"dataId":216,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1104,"message1":"","message2":"","mpCost":40,"name":"幻影劍舞","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 0\naction animation\naction effect level: 0.5\nwait: 20\naction effect\nwait: 20\naction effect\nshake screen: 6, 9, 7\n<effect_javascript:(function(a,b){ if(a.isStateAffected(430)) this.itemEffectAddState(a,{dataId:438,value1:1}); })>\nopacity user: 100%\nIMMORTAL: TARGETS,FALSE\n</target action>\n</finish action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1014,"animationId":299,"damage":{"critical":true,"elementId":6,"formula":"200 + ( a.mat / 2  - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」使用精靈魔法凝結冰柱對敵方造成多次攻擊\n，並減少敵方MP，機率結冰。","effects":[
-		{"code":44,"dataId":216,"value1":1,"value2":0},
-		{"code":21,"dataId":16,"value1":0.1,"value2":0},
-		{"code":12,"dataId":0,"value1":0,"value2":-50}
-	],"hitType":1,"iconIndex":65,"message1":"","message2":"","mpCost":60,"name":"幻影冰柱","note":"<speed:20000>\n<target action>\n<effect_javascript:(function(a,b){if(a.isStateAffected(431)) b.gainTp(-b.tp*0.02);})>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\naction effect level: 0.1\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1015,"animationId":299,"damage":{"critical":true,"elementId":6,"formula":"200 + ( a.mat / 2  - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」使用精靈魔法凝結冰柱對敵方造成多次攻擊\n，並減少敵方MP，機率結冰。","effects":[
-		{"code":44,"dataId":216,"value1":1,"value2":0},
-		{"code":21,"dataId":16,"value1":0.1,"value2":0},
-		{"code":12,"dataId":0,"value1":-0.01,"value2":-50}
-	],"hitType":1,"iconIndex":65,"message1":"","message2":"","mpCost":60,"name":"幻影冰柱","note":"<speed:20000>\n<target action>\n<effect_javascript:(function(a,b){if(a.isStateAffected(431)) b.gainTp(-b.tp*0.02);})>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 40\naction effect\naction effect level: 0.1\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\naction effect level: 1\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1016,"animationId":298,"damage":{"critical":true,"elementId":6,"formula":"a.isStateAffected(439) ? 350 + ( a.atk / 2 + a.mat / 2 - b.def / 3 - b.mdf / 6 )   : 200 + ( a.atk / 2 + a.mat / 2 - b.def / 3 - b.mdf / 6 )","type":1,"variance":20},"description":"「物理&斬、冰屬性」以極快的身法出劍，混合了精靈魔法\n使出的多段斬擊，機率結冰，魔法攻擊力也會提升威力。","effects":[
-		{"code":21,"dataId":16,"value1":0.1,"value2":0},
-		{"code":44,"dataId":220,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1113,"message1":"","message2":"","mpCost":100,"name":"幻影冰刃","note":"<speed:20000>\n<addEle:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction effect level: 0.3\naction animation\nwait: 20\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 15\naction effect\nwait: 10\naction effect\nwait: 15\naction effect\nif user.isStateAffected(433)\naction effect level: 0.4\nwait: 25\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,50,75,128,32)\nwait: 1\neval: eval(decodeURIComponent(\"AudioManager.playSe(%7Bname%3A%22ice12%22%2C%20volume%3A%20100%2C%20pitch%3A%20100%2C%20pan%3A%200%2C%20pos%3A0%7D)\"))\nwait: 15\naction effect: opponents\nwait: 15\nelse\nwait: 30\nend\naction effect level: 1\nopacity user: 100%\nwait for opacity","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":3,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1017,"animationId":297,"damage":{"critical":true,"elementId":1,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"天賦用","effects":[
-		{"code":21,"dataId":17,"value1":0.2,"value2":0}
-	],"hitType":1,"iconIndex":1104,"message1":"","message2":"","mpCost":0,"name":"幻影劍舞","note":"<speed:20000>\n<target action>\n<autoSkill:[1,1]>\nwait for opacity\nopacity all friends: 0%, 0\naction animation\naction effect level: 0.25\nwait: 20\naction effect\nwait: 20\naction effect\nshake screen: 6, 9, 7\nopacity all friends: 100%\nIMMORTAL: TARGETS,FALSE\n</target action>\n</finish action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1018,"animationId":300,"damage":{"critical":true,"elementId":1,"formula":"a.isStateAffected(436) ? 200 + (a.atk / 2 + a.mat * 1 - b.def / 3 - b.mdf / 6 )   : 200 + (a.atk / 2 + a.mat / 2 - b.def / 3 - b.mdf / 6 )","type":1,"variance":20},"description":"「物理&斬、冰屬性」混合了精靈魔法猛力斬出帶有寒氣的\n劍氣，對敵方全體造成多次傷害，機率結冰，此技能擁有較高的暴擊率，，魔法攻擊力也會提升威力。","effects":[
-		{"code":44,"dataId":216,"value1":1,"value2":0},
-		{"code":21,"dataId":16,"value1":0.1,"value2":0}
-	],"hitType":1,"iconIndex":1113,"message1":"","message2":"","mpCost":0,"name":"幻影幽氣刃","note":"<speed:20000>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 500>\n<Action Cutin Picture: ../pictures/TK34>\n<Action Cutin Scale: 0.5>\n<Action Cutin Forced Offset Y: +10>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Up4>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines>\n<crit:25>\n<effect_javascript:(function(a,b){ if(a.isStateAffected(435)) this.itemEffectAddState(a,{dataId:437,value1:1}); })>\n<addEle:6>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect level: 0.3\naction effect\nwait: 20\naction effect\nwait: 70\nshake screen: 9, 9, 15\naction effect level: 0.75\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 20\nopacity user: 100%\naction effect level: 1\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":3,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1019,"animationId":767,"damage":{"critical":true,"elementId":1,"formula":"( a.atk / 2 - b.def / 3 ) + b.hp * 0.01","type":1,"variance":20},"description":"「物理&斬屬性」揮舞手中的弦月環對敵方全體造成多次傷害\n，機率流血，此技能對血量越高的敵人造成的傷害越高。","effects":[
-		{"code":21,"dataId":17,"value1":0.3,"value2":0}
-	],"hitType":1,"iconIndex":122,"message1":"","message2":"","mpCost":80,"name":"弦月圓斬","note":"<speed:20000>\n<altColor:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\nwait: 10\naction animation\nwait: 45\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 25\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1020,"animationId":770,"damage":{"critical":true,"elementId":1,"formula":"( a.atk / 2 - b.def / 3 ) + (b.mhp - b.hp) * 0.01","type":1,"variance":20},"description":"「物理&斬屬性」揮舞手中的弦月環對敵方全體造成多次傷害\n，機率流血，此技能對血量越低的敵人造成的傷害越高。","effects":[
-		{"code":21,"dataId":17,"value1":0.3,"value2":0}
-	],"hitType":1,"iconIndex":122,"message1":"","message2":"","mpCost":100,"name":"迴旋圓斬","note":"<speed:20000>\n<altColor:1>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 10\naction animation\nwait: 41\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 57\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 20\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1021,"animationId":772,"damage":{"critical":true,"elementId":1,"formula":"( a.atk / 2 - b.def / 3 ) +  b.hp * 0.01","type":1,"variance":20},"description":"「物理&斬屬性」揮舞手中的弦月環對敵方全體造成多次傷害\n，機率流血，此技能對造成一定比例的血量固定傷害。","effects":[
-		{"code":21,"dataId":17,"value1":0.3,"value2":0}
-	],"hitType":1,"iconIndex":122,"message1":"","message2":"","mpCost":0,"name":"殘影弦月斬","note":"<speed:20000>\n<altColor:1>\n<target action>\nwait for opacity\nopacity user: 0%, 20\nwait: 10\naction animation\nwait: 45\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 773: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nANIMATION 771: target\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\naction effect\nwait: 7\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1022,"animationId":793,"damage":{"critical":true,"elementId":3,"formula":"0 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
-		{"code":32,"dataId":3,"value1":2,"value2":0}
-	],"hitType":1,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"鐵拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 80\naction effect\nshake screen: 9, 9, 15\nwait: 20\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":1023,"animationId":794,"damage":{"critical":true,"elementId":3,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍、地屬性」使用蟠龍棍猛力打擊地面，對敵方單體\n連續造成三次傷害，每次攻擊造成「防禦下降」1層。","effects":[
-		{"code":32,"dataId":3,"value1":2,"value2":0},
-		{"code":44,"dataId":266,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":75,"name":"鐵鏖","note":"<speed:20000>\n<addEle:8>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\naction effect level: 0.5\nwait: 105\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1024,"animationId":795,"damage":{"critical":true,"elementId":3,"formula":"300 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍、風屬性」騰空而起使用蟠龍棍猛力墜擊地面引發\n爆風，對敵方全體造成傷害並解除防禦狀態。","effects":[
-		{"code":22,"dataId":2,"value1":1,"value2":0},
-		{"code":44,"dataId":266,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":100,"name":"鐵墜","note":"<speed:20000>\n<addEle:7>\n<whole action>\n<tpGain:0.25>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 130\nshake screen: 9, 9, 15\naction effect\naction effect level: 0.1\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 20\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1025,"animationId":796,"damage":{"critical":true,"elementId":3,"formula":"200 + a.atk / 2 ","type":1,"variance":20},"description":"「物理&鈍、刺屬性」將蟠龍棍奮力投出穿刺敵人，對敵方\n造成隨機三次無視防禦傷害。","effects":[
-		{"code":44,"dataId":266,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":1522,"message1":"","message2":"","mpCost":100,"name":"鐵穿","note":"<speed:20000>\n<addEle:2>\n<target action>\nopacity user: 0%, 20\nmotion attack: user\naction animation\naction effect level: 0.5\nwait: 100\nshake screen: 9, 9, 15\naction effect\nwait: 35\nopacity user: 100%, 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":2,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1026,"animationId":797,"damage":{"critical":true,"elementId":2,"formula":"b.isStateAffected(2) ? 1000 + ( a.atk / 2 - b.def / 3 ) : 250 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「需詠唱」「物理&斬、刺屬性」使用古代遺物對敵人進行高\n能衝擊，對敵方造成多段無視防禦傷害並造成流血，對防禦狀態的敵人傷害提升。","effects":[
-		{"code":21,"dataId":17,"value1":1,"value2":0},
-		{"code":44,"dataId":266,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":29,"message1":"","message2":"","mpCost":0,"name":"螺旋磚頭「GXPT-DRILL」","note":"<speed:10000>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 500>\n<Action Cutin Picture: ../pictures/TK48>\n<Action Cutin Scale: 0.5>\n<Action Cutin Forced Offset Y: +10>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Up4>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines>\n<target action>\n<addEle:1>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 90\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 50\naction effect level: 2\nANIMATION 713: target\nshake screen: 9, 9, 30\naction effect\nwait: 22\nANIMATION 713: target\nshake screen: 9, 9, 30\naction effect\nwait: 30\nopacity user: 100%\naction effect level: 1\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1027,"animationId":802,"damage":{"critical":true,"elementId":3,"formula":"40","type":1,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":1248,"message1":"","message2":"","mpCost":0,"name":"奧義「雙子共舞」","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 50\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 70\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 50\naction effect\nwait: 30\naction effect\nANIMATION 804: target\nwait: 5\nANIMATION 803: target\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\nANIMATION 803: target\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\naction effect: opponents\nwait: 10\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nwait: 10\nANIMATION 800: target\nwait: 10\naction effect\nshake screen: 9, 9, 15\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 10\nshake screen: 9, 9, 15\naction effect\nwait: 10\naction effect\nwait: 50\naffect effect level: 4\neval: BattleManager.radiusWaveEffect_genAtTarget(0,0,68,16,128,32)\naction effect: opponents\nshake screen: 9, 9, 15\naction effect\nwait: 25\nopacity user: 100%\nwait for opacity\n</target action>\n<After ATB Eval>\nspeed=BattleManager.atbTarget()>>1;\n</After ATB Eval>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":14,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1028,"animationId":109,"damage":{"critical":true,"elementId":0,"formula":"500","type":1,"variance":0},"description":"","effects":[
-	],"hitType":0,"iconIndex":66,"message1":"","message2":"","mpCost":0,"name":"雷爆","note":"<speed:0>\n<whole action>\naction animation\nwait: 80\naction effect\nwait: 24\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1029,"animationId":62,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp) * 0.2","type":4,"variance":20},"description":"回復使用者已損失MP的20%","effects":[
-	],"hitType":0,"iconIndex":8,"message1":"","message2":"","mpCost":0,"name":"休息","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1030,"animationId":42,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp)*0.5","type":0,"variance":20},"description":"清除使用者所有狀態異常與能力下降，並附加「萬靈」。\n※萬靈：免疫全狀態異常，持續3次行動。","effects":[
-		{"code":22,"dataId":6,"value1":1,"value2":0},
-		{"code":22,"dataId":7,"value1":1,"value2":0},
-		{"code":22,"dataId":8,"value1":1,"value2":0},
-		{"code":22,"dataId":9,"value1":1,"value2":0},
-		{"code":22,"dataId":10,"value1":1,"value2":0},
-		{"code":22,"dataId":11,"value1":1,"value2":0},
-		{"code":22,"dataId":12,"value1":1,"value2":0},
-		{"code":22,"dataId":13,"value1":1,"value2":0},
-		{"code":22,"dataId":14,"value1":1,"value2":0},
-		{"code":22,"dataId":15,"value1":1,"value2":0},
-		{"code":22,"dataId":16,"value1":1,"value2":0},
-		{"code":22,"dataId":17,"value1":1,"value2":0},
-		{"code":22,"dataId":18,"value1":1,"value2":0},
-		{"code":22,"dataId":19,"value1":1,"value2":0},
-		{"code":34,"dataId":0,"value1":1,"value2":0},
-		{"code":34,"dataId":1,"value1":1,"value2":0},
-		{"code":34,"dataId":2,"value1":1,"value2":0},
-		{"code":34,"dataId":3,"value1":1,"value2":0},
-		{"code":34,"dataId":4,"value1":1,"value2":0},
-		{"code":34,"dataId":5,"value1":1,"value2":0},
-		{"code":34,"dataId":6,"value1":1,"value2":0},
-		{"code":34,"dataId":7,"value1":1,"value2":0},
-		{"code":21,"dataId":71,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":79,"message1":"","message2":"","mpCost":100,"name":"萬靈聖潔","note":"<speed:20000>\n<target action>\naction animation\nwait: 124\naction effect\nwait: 24\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":975,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":976,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":977,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":978,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":979,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":980,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":981,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":982,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":983,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":984,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":985,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":986,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":987,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":988,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":989,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":990,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":991,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":992,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":993,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":994,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":995,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":996,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":997,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":998,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":999,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1000,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1001,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1002,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1003,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1004,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1005,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1006,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1007,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1008,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1009,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1010,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1011,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1012,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1013,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1014,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1015,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1016,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1017,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1018,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1019,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1020,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1021,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1022,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1023,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1024,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1025,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1026,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1027,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1028,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1029,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1030,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1031,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1032,"animationId":240,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp)*0.5","type":0,"variance":20},"description":"使用者「全能力上升3階」持續9次行動。","effects":[
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0}
-	],"hitType":0,"iconIndex":1614,"message1":"","message2":"","mpCost":150,"name":"祝福","note":"<speed:20000>\n<target action>\naction animation\nwait: 90\naction effect\nwait: 10\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1032,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1033,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1034,"animationId":567,"damage":{"critical":false,"elementId":0,"formula":"(a.mmp - a.mp)*0.5","type":0,"variance":20},"description":"「長時間詠唱」使用者獲得10層『大地護盾』。","effects":[
-		{"code":21,"dataId":101,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":128,"message1":"","message2":"","mpCost":250,"name":"大地護盾","note":"<speed:0>\n<target action>\naction animation\nwait: 102\naction effect\nwait: 10\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1035,"animationId":41,"damage":{"critical":false,"elementId":0,"formula":"150 + a.luk * 0.2","type":3,"variance":20},"description":"回復自身150點HP，除此之外每點運氣會額外恢復0.3點HP。","effects":[
-	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":100,"name":"療癒之風","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 24\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1036,"animationId":45,"damage":{"critical":false,"elementId":0,"formula":"250 + a.luk * 0.6","type":3,"variance":20},"description":"回復自身250點HP，除此之外每點運氣會額外恢復0.6點HP。","effects":[
-	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":150,"name":"療癒之水","note":"<speed:20000>\n<target action>\naction animation\nwait: 48\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1034,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1035,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1036,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1037,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1038,"animationId":511,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加著火","effects":[
-		{"code":21,"dataId":12,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":64,"message1":"攻擊！","message2":"","mpCost":50,"name":"火焰咒","note":"<speed:20000>\n<target action>\naction animation\nwait: 70\naction effect\nwait: 6\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1039,"animationId":66,"damage":{"critical":true,"elementId":4,"formula":"b.isStateAffected(17) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，對流血\n的敵人追加200點攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"炎柱","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1040,"animationId":369,"damage":{"critical":true,"elementId":4,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&火屬性」給予敵方單體基礎100點攻擊傷害，此技能\n基礎爆擊率額外提升30%。","effects":[
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"震炎爆","note":"<speed:20000>\n<crit:30>\n<target action>\naction animation\nwait: 55\naction effect\nwait: 5\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1041,"animationId":611,"damage":{"critical":true,"elementId":7,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加流血","effects":[
-		{"code":21,"dataId":17,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 112\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1042,"animationId":92,"damage":{"critical":true,"elementId":7,"formula":"a.mat / 2 - b.mdf / 3 ","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方單體隨機3次攻擊傷害，10%機率\n附加流血，此技能命中較低","effects":[
-		{"code":21,"dataId":17,"value1":0.1,"value2":0}
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":50,"name":"連風刃","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":1,"successRate":80,"tpCost":0,"tpGain":1},
-	{"id":1043,"animationId":93,"damage":{"critical":true,"elementId":7,"formula":"300 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&風屬性」給予敵方基礎300點攻擊傷害，\n附加ATB擊退(特大)","effects":[
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":300,"name":"退擊風刃","note":"<speed:20000>\n<whole action>\naction animation\nwait: 80\naction effect\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-20000||0);})>\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1044,"animationId":81,"damage":{"critical":true,"elementId":9,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎100點攻擊傷害，\n25%機率附加潮濕","effects":[
-		{"code":21,"dataId":15,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":67,"message1":"攻擊！","message2":"","mpCost":50,"name":"潮濕水球","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1045,"animationId":786,"damage":{"critical":true,"elementId":9,"formula":"b.isStateAffected(12) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎100點攻擊傷害，對著火\n的敵人追加200點攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":50,"name":"蒸氣湧泉","note":"<speed:20000>\n<target action>\naction animation\nwait: 88\naction effect\nwait: 80\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1046,"animationId":787,"damage":{"critical":true,"elementId":9,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&水屬性」給予敵方單體基礎25點攻擊傷害，並且\n減少敵人MP300","effects":[
-	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":100,"name":"渦流侵蝕","note":"<speed:20000>\n<target action>\naction animation\nwait: 110\n<effect_javascript:(function(a,b){b.gainMp(-300); b.gainTp(0); })>\naction effect\nwait: 10\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":10},
-	{"id":1047,"animationId":71,"damage":{"critical":true,"elementId":6,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎100點攻擊傷害，\n10%機率附加結冰","effects":[
-		{"code":21,"dataId":16,"value1":0.1,"value2":0}
-	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":50,"name":"凍結","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1048,"animationId":697,"damage":{"critical":true,"elementId":6,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方單體基礎25點攻擊傷害，\n30%機率附加結冰","effects":[
-		{"code":21,"dataId":16,"value1":0.3,"value2":0}
-	],"hitType":2,"iconIndex":65,"message1":"攻擊！","message2":"","mpCost":150,"name":"急凍衝擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 5\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1049,"animationId":74,"damage":{"critical":true,"elementId":6,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&冰屬性」給予敵方基礎50點攻擊傷害，\n附加「速度下降2階」持續5次行動。","effects":[
-		{"code":32,"dataId":6,"value1":5,"value2":0},
-		{"code":32,"dataId":6,"value1":5,"value2":0}
-	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":100,"name":"吹雪","note":"<speed:20000>\n<whole action>\naction animation\nwait: 52\naction effect\nwait: 12\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1050,"animationId":76,"damage":{"critical":true,"elementId":5,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體基礎100點攻擊傷害，\n10%機率附加麻痺","effects":[
-		{"code":21,"dataId":19,"value1":0.1,"value2":0}
-	],"hitType":2,"iconIndex":66,"message1":"攻擊！","message2":"","mpCost":50,"name":"落雷術","note":"<speed:20000>\n<target action>\naction animation\nwait: 24\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1051,"animationId":610,"damage":{"critical":true,"elementId":5,"formula":"b.isStateAffected(15) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體基礎100點攻擊傷害，對潮濕\n的敵人追加200點攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"閃雷轟","note":"<speed:20000>\n<target action>\naction animation\nwait: 200\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1052,"animationId":77,"damage":{"critical":true,"elementId":5,"formula":"25 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&雷屬性」給予敵方單體3次基礎25點攻擊傷害，\n25%機率附加麻痺，此技能命中較低","effects":[
-		{"code":21,"dataId":19,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"雷鳴球","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":1,"successRate":70,"tpCost":0,"tpGain":1},
-	{"id":1053,"animationId":86,"damage":{"critical":true,"elementId":8,"formula":"75 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性」給予敵方單體基礎75點攻擊傷害，\n25%機率附加失明","effects":[
-		{"code":21,"dataId":8,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":68,"message1":"","message2":"","mpCost":50,"name":"岩塵術","note":"<speed:20000>\n<target action>\naction animation\nwait: 56\naction effect\nwait: 24\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1054,"animationId":582,"damage":{"critical":true,"elementId":8,"formula":"b.isStateAffected(16) ? 300 + ( a.mat / 2 - b.mdf / 3 ) : 100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性」給予敵方單體基礎100點攻擊傷害，對結冰\n的敵人追加200點攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":68,"message1":"","message2":"","mpCost":50,"name":"地刺爆","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 90\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1055,"animationId":758,"damage":{"critical":true,"elementId":8,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「魔法&土屬性&長時間吟唱」給予敵方基礎50點\n攻擊傷害，25%附加中毒、混亂。","effects":[
-		{"code":21,"dataId":6,"value1":0.25,"value2":0},
-		{"code":21,"dataId":10,"value1":0.25,"value2":0}
-	],"hitType":2,"iconIndex":18,"message1":"","message2":"","mpCost":200,"name":"臭之息","note":"<speed:10000>\n<whole action>\naction animation\nwait: 75\naction effect\nwait: 30\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":2000,"stypeId":1,"successRate":90,"tpCost":0,"tpGain":2},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1038,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1039,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1040,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1041,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1042,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1043,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1044,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1045,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1046,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1047,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1048,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1049,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1050,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1051,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1052,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1053,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1054,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1055,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1056,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1057,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1058,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"X","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1059,"animationId":514,"damage":{"critical":true,"elementId":11,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"20%機率直接將敵方單體一擊必殺。","effects":[
-		{"code":21,"dataId":1,"value1":0.2,"value2":0}
-	],"hitType":2,"iconIndex":10,"message1":"","message2":"","mpCost":250,"name":"咒殺","note":"<speed:20000>\n<target action>\naction animation\nwait: 45\naction effect\nwait: 3\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1060,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「物攻、魔攻下降1階」持續5次行動。","effects":[
-		{"code":32,"dataId":2,"value1":5,"value2":0},
-		{"code":32,"dataId":4,"value1":5,"value2":0}
-	],"hitType":1,"iconIndex":295,"message1":"攻擊！","message2":"","mpCost":50,"name":"力量打擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1061,"animationId":541,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「防禦、魔防下降1階」持續5次行動。","effects":[
-		{"code":32,"dataId":3,"value1":5,"value2":0},
-		{"code":32,"dataId":5,"value1":5,"value2":0}
-	],"hitType":1,"iconIndex":295,"message1":"攻擊！","message2":"","mpCost":50,"name":"防禦打擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1062,"animationId":401,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體3次基礎50點攻擊傷害，\n附加ATB擊退(小)，此技能命中較低","effects":[
-	],"hitType":1,"iconIndex":76,"message1":"","message2":"","mpCost":100,"name":"十字連斬","note":"<speed:20000>\n<target action>\naction animation\nwait: 36\naction effect\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-5000||0);})>\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":2,"successRate":70,"tpCost":0,"tpGain":1},
-	{"id":1063,"animationId":411,"damage":{"critical":true,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎100點攻擊傷害，攻擊後TP+3\n附加「恢復效果下降50%」持續5次行動。","effects":[
-		{"code":21,"dataId":447,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":107,"message1":"攻擊！","message2":"","mpCost":100,"name":"致殘戟","note":"<speed:20000>\n<target action>\naction animation\nwait: 72\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1064,"animationId":606,"damage":{"critical":true,"elementId":1,"formula":"(b.hp*3<=b.mhp) ? 350 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3\n若目標HP<30%，對敵人追加300點攻擊傷害。","effects":[
-	],"hitType":1,"iconIndex":1310,"message1":"","message2":"","mpCost":100,"name":"斬首斧","note":"<speed:20000>\n<target action>\naction animation\nwait: 52\naction effect\nwait: 8\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":2000,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1065,"animationId":517,"damage":{"critical":true,"elementId":3,"formula":"b.isStateAffected(2) ? 500 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3，\n若目標為防禦狀態，對敵人追加450點攻擊傷害。","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"攻擊！","message2":"","mpCost":100,"name":"通臂拳","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nshake screen: 5, 5, 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1066,"animationId":705,"damage":{"critical":true,"elementId":1,"formula":"(b.hp*7>=b.mhp) ? 200 + ( a.atk / 2 - b.def / 3 ) : 50 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，攻擊後TP+3\n若目標HP>70%，對敵人追加150點攻擊傷害。","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":100,"name":"一刀兩斷","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 28\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":3},
-	{"id":1067,"animationId":25,"damage":{"critical":true,"elementId":1,"formula":"50 + ( a.atk / 2 - b.def / 3 ) + a.tp * 3","type":1,"variance":20},"description":"「物理」給予敵方單體基礎50點攻擊傷害，每有1點TP，\n提升3點傷害。","effects":[
-	],"hitType":1,"iconIndex":97,"message1":"","message2":"","mpCost":100,"name":"勇氣一擊","note":"<speed:20000>\n<target action>\naction animation\nwait: 116\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":2,"successRate":90,"tpCost":0,"tpGain":1},
-	{"id":1068,"animationId":106,"damage":{"critical":true,"elementId":0,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":399,"value1":1,"value2":0},
-		{"code":21,"dataId":399,"value1":0.5,"value2":0},
-		{"code":21,"dataId":399,"value1":0.5,"value2":0}
-	],"hitType":0,"iconIndex":218,"message1":"","message2":"","mpCost":100,"name":"地雷埋入","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1069,"animationId":107,"damage":{"critical":false,"elementId":0,"formula":"b.isStateAffected(399) * 300 + b.isStateAffected(398) * 600 + b.isStateAffected(397) * 900 + b.isStateAffected(396) * 1200 + b.isStateAffected(395) * 1500","type":1,"variance":0},"description":"","effects":[
-	],"hitType":0,"iconIndex":218,"message1":"","message2":"","mpCost":0,"name":"地雷引爆","note":"<speed:20000>\n<whole action>\naction animation\nwait: 24\naction effect\nwait: 24\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1070,"animationId":620,"damage":{"critical":false,"elementId":0,"formula":"b.isStateAffected(399) * 300 + b.isStateAffected(398) * 600 + b.isStateAffected(397) * 900 + b.isStateAffected(396) * 1200 + b.isStateAffected(395) * 1500","type":0,"variance":0},"description":"","effects":[
-		{"code":32,"dataId":6,"value1":2,"value2":0},
-		{"code":32,"dataId":6,"value1":2,"value2":0}
-	],"hitType":0,"iconIndex":62,"message1":"","message2":"","mpCost":0,"name":"蜘蛛網","note":"<speed:20000>\n<target action>\naction animation\nwait: 24\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1071,"animationId":518,"damage":{"critical":true,"elementId":2,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":17,"value1":0.25,"value2":0},
-		{"code":21,"dataId":19,"value1":0.25,"value2":0},
-		{"code":32,"dataId":0,"value1":2,"value2":0},
-		{"code":32,"dataId":0,"value1":2,"value2":0}
-	],"hitType":1,"iconIndex":5,"message1":"","message2":"","mpCost":0,"name":"血盆大口","note":"<speed:20000>\n<target action>\naction animation\nwait: 64\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1072,"animationId":60,"damage":{"critical":true,"elementId":11,"formula":"100 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":9,"value1":0.2,"value2":0},
-		{"code":21,"dataId":8,"value1":0.2,"value2":0}
-	],"hitType":2,"iconIndex":5,"message1":"","message2":"","mpCost":100,"name":"暗影術","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1073,"animationId":523,"damage":{"critical":true,"elementId":1,"formula":"150 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":17,"value1":1,"value2":0},
-		{"code":44,"dataId":253,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":105,"message1":"","message2":"","mpCost":0,"name":"秘林獵殺","note":"<speed:20000>\n<target action>\naction animation\nwait: 64\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":6,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1074,"animationId":106,"damage":{"critical":true,"elementId":0,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":399,"value1":1,"value2":0},
-		{"code":21,"dataId":399,"value1":0.5,"value2":0}
-	],"hitType":0,"iconIndex":218,"message1":"","message2":"","mpCost":100,"name":"地雷埋入","note":"<speed:20000>\n<whole action>\naction animation\nwait: 40\naction effect\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1075,"animationId":67,"damage":{"critical":true,"elementId":4,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":0,"name":"精靈烈火","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1076,"animationId":82,"damage":{"critical":true,"elementId":9,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":0,"name":"精靈水球","note":"<speed:20000>\n<target action>\naction animation\nwait: 36\naction effect\nwait: 24\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1077,"animationId":92,"damage":{"critical":true,"elementId":9,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":69,"message1":"","message2":"","mpCost":0,"name":"精靈暴風","note":"<speed:20000>\n<target action>\naction animation\nwait: 28\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1078,"animationId":87,"damage":{"critical":true,"elementId":8,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":68,"message1":"","message2":"","mpCost":0,"name":"精靈飛岩","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1079,"animationId":71,"damage":{"critical":true,"elementId":6,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":0,"name":"精靈寒霜","note":"<speed:20000>\n<target action>\naction animation\nwait: 40\naction effect\nwait: 20\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1080,"animationId":77,"damage":{"critical":true,"elementId":5,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"「物理&斬屬性」用超高速斬擊攻擊敵方隨機三人","effects":[
-	],"hitType":2,"iconIndex":65,"message1":"","message2":"","mpCost":0,"name":"精靈閃電","note":"<speed:20000>\n<target action>\naction animation\nwait: 36\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1081,"animationId":45,"damage":{"critical":false,"elementId":0,"formula":"a.mmp * 1","type":4,"variance":0},"description":"","effects":[
-		{"code":21,"dataId":394,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":0,"name":"魔力恢復","note":"<speed:20000>\n<target action>\naction animation\nwait: 64\naction effect\nwait: 4\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1082,"animationId":51,"damage":{"critical":false,"elementId":0,"formula":"a.mmp * 1","type":0,"variance":0},"description":"","effects":[
-		{"code":31,"dataId":2,"value1":3,"value2":0},
-		{"code":31,"dataId":3,"value1":3,"value2":0},
-		{"code":31,"dataId":4,"value1":3,"value2":0},
-		{"code":31,"dataId":5,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":7,"value1":3,"value2":0},
-		{"code":31,"dataId":2,"value1":3,"value2":0},
-		{"code":31,"dataId":3,"value1":3,"value2":0},
-		{"code":31,"dataId":4,"value1":3,"value2":0},
-		{"code":31,"dataId":5,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":7,"value1":3,"value2":0},
-		{"code":31,"dataId":2,"value1":3,"value2":0},
-		{"code":31,"dataId":3,"value1":3,"value2":0},
-		{"code":31,"dataId":4,"value1":3,"value2":0},
-		{"code":31,"dataId":5,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":7,"value1":3,"value2":0},
-		{"code":31,"dataId":2,"value1":3,"value2":0},
-		{"code":31,"dataId":3,"value1":3,"value2":0},
-		{"code":31,"dataId":4,"value1":3,"value2":0},
-		{"code":31,"dataId":5,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":7,"value1":3,"value2":0},
-		{"code":31,"dataId":2,"value1":3,"value2":0},
-		{"code":31,"dataId":3,"value1":3,"value2":0},
-		{"code":31,"dataId":4,"value1":3,"value2":0},
-		{"code":31,"dataId":5,"value1":3,"value2":0},
-		{"code":31,"dataId":6,"value1":3,"value2":0},
-		{"code":31,"dataId":7,"value1":3,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"安特神威","note":"<speed:20000>\n<autoSkill:[1,1]>\n<target action>\naction animation\nwait: 56\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1083,"animationId":59,"damage":{"critical":true,"elementId":2,"formula":"a.atk / 2 - b.def / 3 ","type":0,"variance":20},"description":"","effects":[
-		{"code":44,"dataId":217,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":2,"message1":"","message2":"","mpCost":0,"name":"毒液噴射","note":"<speed:10000>\n<whole action>\naction animation\nwait: 40\naction effect\nwait: 20\n</whole action>","occasion":1,"repeats":2,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1084,"animationId":38,"damage":{"critical":true,"elementId":2,"formula":"b.isStateAffected(2) ? b.mhp * 1 : b.mhp * 0.2","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"衝撞","note":"<speed:20000>\n<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-5000||0);})>\n<addEle:3>\n<whole action>\naction animation\nwait: 28\naction effect\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":20,"tpGain":1},
-	{"id":1085,"animationId":52,"damage":{"critical":true,"elementId":2,"formula":"b.isStateAffected(2) ? b.mhp * 1 : b.mhp * 0.2","type":0,"variance":20},"description":"","effects":[
-		{"code":13,"dataId":0,"value1":30,"value2":0},
-		{"code":11,"dataId":0,"value1":0,"value2":-500},
-		{"code":32,"dataId":3,"value1":5,"value2":0},
-		{"code":32,"dataId":3,"value1":5,"value2":0},
-		{"code":31,"dataId":2,"value1":5,"value2":0},
-		{"code":31,"dataId":2,"value1":5,"value2":0},
-		{"code":31,"dataId":6,"value1":5,"value2":0},
-		{"code":31,"dataId":6,"value1":5,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"沸騰","note":"<speed:20000>\n<target action>\naction animation\nwait: 60\naction effect\nwait: 12\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1086,"animationId":37,"damage":{"critical":true,"elementId":2,"formula":"b.isStateAffected(2) ? b.mhp * 1 : b.mhp * 0.2","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":10,"value1":0.3,"value2":0},
-		{"code":12,"dataId":0,"value1":0,"value2":-50}
-	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"咆哮","note":"<speed:20000>\n<whole action>\naction animation\nwait: 48\naction effect\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":10,"tpGain":1},
-	{"id":1087,"animationId":705,"damage":{"critical":true,"elementId":1,"formula":"b.isStateAffected(2) ? b.mhp * 0.2 : b.mhp * 2","type":1,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"一刀兩斷","note":"<speed:20000>\n<target action>\naction animation\nwait: 80\naction effect\nwait: 28\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":80,"tpGain":1},
-	{"id":1088,"animationId":67,"damage":{"critical":true,"elementId":4,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":0,"variance":20},"description":"","effects":[
-		{"code":31,"dataId":2,"value1":5,"value2":0},
-		{"code":31,"dataId":2,"value1":5,"value2":0},
-		{"code":31,"dataId":6,"value1":5,"value2":0},
-		{"code":31,"dataId":6,"value1":5,"value2":0},
-		{"code":21,"dataId":29,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"狂暴","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":50,"tpGain":0},
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1059,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1060,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1061,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1062,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1063,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1064,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1065,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1066,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1067,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1068,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1069,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1070,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1071,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1072,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1073,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1074,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1075,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1076,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1077,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1078,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1079,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1080,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1081,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1082,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1083,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1084,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1085,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1086,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1087,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1088,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1089,"animationId":931,"damage":{"critical":true,"elementId":11,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":1,"iconIndex":71,"message1":"","message2":"","mpCost":1,"name":"罪孽荊棘","note":"<addEle:1,2>\n<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 15\naction animation\nwait: 90\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 85\neval: BattleManager.radiusWaveEffect_genAtSubject(200,80,300,65,75,['multiply','rgba(0,0,0,-1)'],true);\naction effect\nwait: 30\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
 	{"id":1090,"animationId":930,"damage":{"critical":true,"elementId":11,"formula":"1","type":1,"variance":20},"description":"","effects":[

@@ -2037,14 +2037,14 @@
 	0,
 	0,
 	0,
-	110,
 	0,
 	0,
 	0,
 	0,
 	0,
 	0,
-	110,
+	0,
+	0,
 	0,
 	0,
 	0,
@@ -4006,8 +4006,8 @@
 			{"code":102,"indent":0,"parameters":[
 				[
 					"特典房是什麼？",
-					"【DLC施工中】隱藏故事是什麼？",
-					"【DLC施工中】絕無城是什麼？",
+					"隱藏故事是什麼？",
+					"絕無城是什麼？",
 					"原來有密技是什麼？",
 					"離開"
 				],
@@ -4133,7 +4133,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"【DLC施工中】隱藏故事是什麼？"
+				"隱藏故事是什麼？"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4216,7 +4216,7 @@
 				"「若您對於他的故事，想要更了解．．．"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"請去打開上面的開關。」"
+				"可以去跟咕咕咕說話。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4228,10 +4228,37 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「本故事的長度約8～10小時，"
+				"「本團隊的咕咕咕替他製作了一個專屬的"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"主筆：咕咕咕。」"
+				"獨立故事，長度約8～10小時。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「考量到本故事資料與主線篇章沒有繼承使用"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"，所以最後將這篇章由DLC改為獨立故事。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「其他的內容，歡迎你去確認囉。」"
 			]},
 			{"code":108,"indent":1,"parameters":[
 				"變數21=時間(幀數)"
@@ -4263,7 +4290,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
-				"【DLC施工中】絕無城是什麼？"
+				"絕無城是什麼？"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4507,6 +4534,26 @@
 	],"x":5,"y":8},
 	{"id":3,"name":"EV003","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Switch01","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":115,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"廢棄資料"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"因為主標題不用切換到攸特線"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"所以這裡不用觸發下列程式碼"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"ConfigManager.allClear=true;"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"ConfigManager.save();"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"-----------------說明結束------------------"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -4537,12 +4584,6 @@
 				"A",
 				0
 			]},
-			{"code":355,"indent":1,"parameters":[
-				"ConfigManager.allClear=true;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"ConfigManager.save();"
-			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
 				0,
@@ -4554,6 +4595,12 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"「喔？您對神秘故事感興趣？」"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"ConfigManager.allClear=true;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"ConfigManager.save();"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4626,6 +4673,20 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Switch01","direction":6,"pattern":1,"characterIndex":0},"list":[
+			{"code":115,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"廢棄資料"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"因為主標題不用切換到攸特線"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"所以這裡不用觸發下列程式碼"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"-----------------說明結束------------------"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_studio_AC",
 				0,
@@ -4684,11 +4745,124 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_studio_01","direction":8,"pattern":1,"characterIndex":5},"list":[
+			{"code":102,"indent":0,"parameters":[
+				[
+					"進入Steam商店頁面『百草的願望』",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"進入Steam商店頁面『百草的願望』"
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"待商店完成後更新"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":12,"y":2},
 	{"id":4,"name":"EV004","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Crystal","direction":2,"pattern":1,"characterIndex":7},"list":[
-			{"code":205,"indent":0,"parameters":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]※小提示："
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"本章節為DLC部分，請確認你擁有相關的檔案才能"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"正常進行喔！"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"ImageManager.otherFiles_addLoad('data/Map601.json');"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\TXTCENTER:\"確認中\"\\..\\..\\..\\..\\..\\..\\^"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"ImageManager.isReady()"
+			]},
+			{"code":113,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"ImageManager.otherFiles_getData('data/Map513.json')"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[6]確認擁有絕無城DLC部份，是否前往絕無城？"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"前往",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"前往"
+			]},
+			{"code":205,"indent":2,"parameters":[
 				-1,
 				{"list":[
 					{"code":37,"indent":null},
@@ -4697,19 +4871,19 @@
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
-			{"code":505,"indent":0,"parameters":[
+			{"code":505,"indent":2,"parameters":[
 				{"code":37,"indent":null}
 			]},
-			{"code":505,"indent":0,"parameters":[
+			{"code":505,"indent":2,"parameters":[
 				{"code":12,"indent":null}
 			]},
-			{"code":505,"indent":0,"parameters":[
+			{"code":505,"indent":2,"parameters":[
 				{"code":38,"indent":null}
 			]},
-			{"code":250,"indent":0,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Teleport","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":224,"indent":0,"parameters":[
+			{"code":224,"indent":2,"parameters":[
 				[
 					255,
 					255,
@@ -4719,16 +4893,49 @@
 				30,
 				false
 			]},
-			{"code":230,"indent":0,"parameters":[
+			{"code":230,"indent":2,"parameters":[
 				30
 			]},
-			{"code":201,"indent":0,"parameters":[
+			{"code":201,"indent":2,"parameters":[
 				0,
 				601,
 				10,
 				148,
 				8,
 				0
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				3,
+				1,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\TXTCENTER:\"無法找到 DLC 。\""
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
