@@ -1358,112 +1358,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":2,"y":2},
-	{"id":2,"name":"EV002","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":108,"indent":0,"parameters":[
-				"幫翻小幫手"
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"@NULLTRIGGER"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"這個不要刪掉"
-			]},
-			{"code":355,"indent":0,"parameters":[
-				"{ let evt=$gameMap._events[1],key=this.getEvt()._tmp_牌類id; console.log(key);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"if(!evt._newFlips) evt._newFlips=[];"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"if(!evt._ctr) evt._ctr=[];"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"evt._newFlips.push(this.getEvt()._tmp_事件id);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"evt._ctr[key]|=0; ++evt._ctr[key];"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"evt._flips|=0; ++evt._flips;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"evt._score|=0;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"}"
-			]},
-			{"code":111,"indent":0,"parameters":[
-				12,
-				"!($gameMap._events[1]._newFlips.length&1)"
-			]},
-			{"code":355,"indent":1,"parameters":[
-				"{ let evt=$gameMap._events[1],key=this.getEvt()._tmp_牌類id;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"let id1=evt._newFlips.pop(),id2=evt._newFlips.pop(); console.log(id1,id2);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"if($gameTemp._成功ㄇ=!(evt._ctr[key]&1)){ evt._score+=2;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"$gameSelfSwitches.setValue([$gameMap._mapId,id1,\"B\"],true);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"$gameSelfSwitches.setValue([$gameMap._mapId,id2,\"B\"],true);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"}else evt._flips-=2;"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"$gameSelfSwitches.setValue([$gameMap._mapId,id1,\"A\"],false);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"$gameSelfSwitches.setValue([$gameMap._mapId,id2,\"A\"],false);"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"--evt._ctr[$gameMap._events[id1].event().meta.牌類id];"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"--evt._ctr[$gameMap._events[id2].event().meta.牌類id];"
-			]},
-			{"code":655,"indent":1,"parameters":[
-				"}"
-			]},
-			{"code":111,"indent":1,"parameters":[
-				12,
-				"$gameTemp._成功ㄇ"
-			]},
-			{"code":213,"indent":2,"parameters":[
-				-1,
-				4,
-				true
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":213,"indent":2,"parameters":[
-				-1,
-				7,
-				true
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":0,"y":0},
-	{"id":3,"name":"EV003","note":"<牌類id:1>","pages":[
+	{"id":2,"name":"EV002","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1484,22 +1379,22 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":4,"y":4},
-	{"id":4,"name":"EV004","note":"<牌類id:1>","pages":[
+	],"x":4,"y":8},
+	{"id":3,"name":"EV003","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1520,22 +1415,22 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":6,"y":4},
-	{"id":5,"name":"EV005","note":"<牌類id:2>","pages":[
+	],"x":6,"y":8},
+	{"id":4,"name":"EV004","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1556,58 +1451,22 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":1},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":8,"y":4},
-	{"id":6,"name":"EV006","note":"<牌類id:2>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":1},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":1},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":10,"y":4},
-	{"id":7,"name":"EV007","note":"<牌類id:3>","pages":[
+	],"x":8,"y":8},
+	{"id":5,"name":"EV005","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1643,7 +1502,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
 	],"x":4,"y":6},
-	{"id":8,"name":"EV008","note":"<牌類id:3>","pages":[
+	{"id":6,"name":"EV006","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1679,7 +1538,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
 	],"x":6,"y":6},
-	{"id":9,"name":"EV009","note":"<牌類id:4>","pages":[
+	{"id":7,"name":"EV007","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1700,14 +1559,14 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -1715,7 +1574,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
 	],"x":8,"y":6},
-	{"id":10,"name":"EV010","note":"<牌類id:4>","pages":[
+	{"id":8,"name":"EV008","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1736,22 +1595,22 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":10,"y":6},
-	{"id":11,"name":"EV011","note":"<牌類id:5>","pages":[
+	],"x":4,"y":4},
+	{"id":9,"name":"EV009","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1772,22 +1631,22 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":4,"y":8},
-	{"id":12,"name":"EV012","note":"<牌類id:5>","pages":[
+	],"x":6,"y":4},
+	{"id":10,"name":"EV010","note":"<牌類id:3>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
@@ -1808,235 +1667,245 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":4},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":6,"y":8},
-	{"id":13,"name":"EV013","note":"<牌類id:6>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+	],"x":8,"y":4},
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	null,
+	{"id":19,"name":"EV019","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
+				"$gamePlayer.reserveTransfer($gameMap._mapId,6,6);"
 			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
+			{"code":112,"indent":0,"parameters":[
 			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_等待上升幀數=$gameTemp._打地鼠_等待上升幀數||[ 120,180]; // 左小右大"
 			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_逐漸上升幀數=$gameTemp._打地鼠_逐漸上升幀數||[  60,120]; // 左小右大"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_等待下沉幀數=$gameTemp._打地鼠_等待下沉幀數||[  30, 60]; // 左小右大"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_逐漸下沉幀數=$gameTemp._打地鼠_逐漸下沉幀數||[ 180,240]; // 左小右大"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_被點等待幀數=$gameTemp._打地鼠_被點等待幀數||[  30, 30]; // 左小右大"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_可點範圍=$gameTemp._打地鼠_可點範圍||[5,5]; // 開始上升過m幀後到下沉結束n幀前"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_點擊動畫id=$gameTemp._打地鼠_點擊動畫id||[[1,],[1,]]; // 動畫選擇清單: 無開關、\"A\""
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_上升動畫id=41;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_下沉動畫id=41;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_點到變數加一id=[31,32];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_開關權重=$gameTemp._打地鼠_開關權重||[1,1]; // 無開關、\"A\""
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_取範圍=$gameTemp._打地鼠_取範圍||(vec2=>~~(Math.random()*(vec2[1]-vec2[0]+1)+vec2[0]));"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_可以被點=$gameTemp._打地鼠_可以被點||(evt=>{ let rtv;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"let ctrKey='_打地鼠_'+evt._打地鼠_state;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(ctrKey==='_打地鼠_逐漸出現') rtv=evt[ctrKey+'max']-evt[ctrKey]>=$gameTemp._打地鼠_可點範圍[0];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"else if(ctrKey==='_打地鼠_等待下沉') rtv=true;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"else if(ctrKey==='_打地鼠_逐漸下沉') rtv=evt[ctrKey]>=$gameTemp._打地鼠_可點範圍[1];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"return rtv;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"});"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_測試被點=$gameTemp._打地鼠_測試被點||((evt,i)=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"let sp=SceneManager._scene._chr2sp.get(evt); const pt=sp.toLocal(TouchInput),a=sp.anchor;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!Input.isTriggered(''+(i+97))&&!(TouchInput.isTriggered()&&new Rectangle(-a.x*sp.width,-a.y*sp.height,sp.width,sp.height).contains(pt.x,pt.y))) return;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"let sel=0|!!$gameSelfSwitches.value([$gameMap._mapId,evt._eventId,\"A\"]),vid=$gameTemp._打地鼠_點到變數加一id[sel];"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._打地鼠_state='被點等待'; evt.requestAnimation($gameTemp._打地鼠_點擊動畫id[sel].rnd1());"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"$gameVariables.setValue(vid,$gameVariables.value(vid)+1);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}); $gameTemp._打地鼠_被點等待=$gameTemp._打地鼠_被點等待||(evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_被點等待) evt._打地鼠_被點等待max=evt._打地鼠_被點等待=$gameTemp._打地鼠_取範圍($gameTemp._打地鼠_被點等待幀數);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"--evt._打地鼠_被點等待;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_被點等待) evt._打地鼠_state='等待出現';"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"});"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_等待出現=$gameTemp._打地鼠_等待出現||(evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_等待出現){ evt._打地鼠_等待出現max=evt._打地鼠_等待出現=$gameTemp._打地鼠_取範圍($gameTemp._打地鼠_等待上升幀數); let s=Math.random()*($gameTemp._打地鼠_開關權重[0]+$gameTemp._打地鼠_開關權重[1]); $gameSelfSwitches.setValue([$gameMap._mapId,evt._eventId,\"A\"],s<$gameTemp._打地鼠_開關權重[0]); }"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"--evt._打地鼠_等待出現; evt._opacity=0;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_等待出現){ evt._打地鼠_state='逐漸出現'; evt.requestAnimation($gameTemp._打地鼠_上升動畫id); }"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"return $gameTemp._打地鼠_可以被點(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}); $gameTemp._打地鼠_逐漸出現=$gameTemp._打地鼠_逐漸出現||(evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_逐漸出現) evt._打地鼠_逐漸出現max=evt._打地鼠_逐漸出現=$gameTemp._打地鼠_取範圍($gameTemp._打地鼠_逐漸上升幀數);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"--evt._打地鼠_逐漸出現; evt._opacity=255; let sp=SceneManager._scene._chr2sp.get(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._patternRect[3]=((evt._打地鼠_逐漸出現max-evt._打地鼠_逐漸出現)/evt._打地鼠_逐漸出現max);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_逐漸出現) evt._打地鼠_state='等待下沉';"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"return $gameTemp._打地鼠_可以被點(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"});"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp._打地鼠_等待下沉=$gameTemp._打地鼠_等待下沉||(evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_等待下沉) evt._打地鼠_等待下沉max=evt._打地鼠_等待下沉=$gameTemp._打地鼠_取範圍($gameTemp._打地鼠_等待下沉幀數);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"--evt._打地鼠_等待下沉; evt._opacity=255;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_等待下沉){ evt._打地鼠_state='逐漸下沉'; evt.requestAnimation($gameTemp._打地鼠_下沉動畫id); }"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"return $gameTemp._打地鼠_可以被點(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}); $gameTemp._打地鼠_逐漸下沉=$gameTemp._打地鼠_逐漸下沉||(evt=>{"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_逐漸下沉) evt._打地鼠_逐漸下沉max=evt._打地鼠_逐漸下沉=$gameTemp._打地鼠_取範圍($gameTemp._打地鼠_逐漸下沉幀數);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"--evt._打地鼠_逐漸下沉; evt._opacity=255; let sp=SceneManager._scene._chr2sp.get(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"evt._patternRect[3]=(evt._打地鼠_逐漸下沉/evt._打地鼠_逐漸下沉max);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_逐漸下沉) evt._打地鼠_state='等待出現';"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"return $gameTemp._打地鼠_可以被點(evt);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"});"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"[2,3,4,5,6,7,8,9,10,].forEach((i,ii)=>{ let evt=$gameMap._events[i],sp=SceneManager._scene._chr2sp.get(evt); if(!sp) return;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"let key=[$gameMap._mapId,i,\"B\"]; sp.scale.set(2); "
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if(!evt._打地鼠_state) evt._打地鼠_state='等待出現';"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"if($gameTemp['_打地鼠_'+evt._打地鼠_state](evt)) $gameTemp._打地鼠_測試被點(evt,ii);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"});"
+			]},
+			{"code":230,"indent":1,"parameters":[
+				1
+			]},
+			{"code":111,"indent":1,"parameters":[
+				11,
+				"cancel"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\V[31]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\V[32]"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":5},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":5},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":8,"y":8},
-	{"id":14,"name":"EV014","note":"<牌類id:6>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":5},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":5},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":10,"y":8},
-	{"id":15,"name":"EV015","note":"<牌類id:7>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":6},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":6},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":4,"y":10},
-	{"id":16,"name":"EV016","note":"<牌類id:7>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":6},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":6},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":6,"y":10},
-	{"id":17,"name":"EV017","note":"<牌類id:8>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":8,"y":10},
-	{"id":18,"name":"EV018","note":"<牌類id:8>","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":1,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_牌類id=this.getEvt().event().meta.牌類id;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2]._tmp_事件id=this._eventId;"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameMap._events[2].start();"
-			]},
-			{"code":123,"indent":0,"parameters":[
-				"A",
-				0
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"B","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"Actor1","direction":8,"pattern":1,"characterIndex":7},"list":[
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":10,"y":10}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":3,"walkAnime":false}
+	],"x":16,"y":0}
 ]}
