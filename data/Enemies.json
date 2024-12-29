@@ -20852,125 +20852,130 @@
 		900
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":473,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":1,"skillId":1209},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":9,"skillId":1210},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":9,"skillId":1211},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1212}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+		{"code":22,"dataId":0,"value":1}
+	],"gold":0,"name":"刀疤","note":"<Sideview battler: BLR_GreenLeafSV04>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	],"meta":{}},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":474,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":1,"skillId":1222},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1223},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1224}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+	],"gold":0,"name":"傅面","note":"<Sideview battler: BLR_GreenLeafSV03>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	],"meta":{}},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":475,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":5,"skillId":1215},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1214},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1213},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1216}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+	],"gold":0,"name":"曉卒","note":"<Sideview battler: BLR_GreenLeafSV02>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	],"meta":{}},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":476,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":5,"skillId":1217},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1218},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1219},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1221}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+	],"gold":0,"name":"重影","note":"<Sideview battler: BLR_GreenLeafSV01>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	],"meta":{}},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":477,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1230},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1226},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1227},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1228},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1229},
+		{"conditionParam1":10,"conditionParam2":10,"conditionType":1,"rating":5,"skillId":1230}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+		{"code":22,"dataId":0,"value":1}
+	],"gold":0,"name":"路人甲","note":"<Sideview battler: SV_onlooker01>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	],"meta":{}},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":478,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":5,"skillId":1231},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1232},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1233},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1234},
+		{"conditionParam1":0.6,"conditionParam2":0.6,"conditionType":3,"rating":5,"skillId":1235}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+		{"code":22,"dataId":0,"value":1}
+	],"gold":0,"name":"超級路人甲2","note":"<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>","params":[
+		7500,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
-	]},
+		1,
+		900,
+		1,
+		900,
+		800,
+		900
+	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":479,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[
