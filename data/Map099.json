@@ -7343,7 +7343,7 @@
 				" } }"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				" SoundManager.playEvasion();"
+				" SoundManager.playEvasion(); { const sc=SceneManager._scene,sps=sc&&sc._spriteset,tm=sps&&sps._tilemap; tm._needsRepaint=true; }"
 			]},
 			{"code":655,"indent":1,"parameters":[
 				"} xy[0]=x; xy[1]=y; } }"

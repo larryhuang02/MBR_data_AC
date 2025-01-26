@@ -1902,7 +1902,7 @@
 		0
 	],"price":1000},
 	{"id":160,"atypeId":33,"description":"「女用頭盔」魔攻+30、魔防，角色死亡時發動【天使賜福】\n※天使賜福：我方全體「全能力上升1階」持續9次行動。","etypeId":3,"traits":[
-	],"iconIndex":146,"name":"神聖頭鍊","note":"<死時技能:[[925,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
+	],"iconIndex":146,"name":"神聖頭鍊","note":"<死時技能:[[926,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
 		0,
 		0,
 		30,
@@ -4424,15 +4424,16 @@
 		0,
 		0
 	],"price":0},
-	{"id":371,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":371,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+20、迴避+25%，可自動恢復MP(小)","etypeId":4,"traits":[
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":8,"value":0.03}
+	],"iconIndex":154,"name":"炎魔忍衣","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
 		0,
 		0,
 		0,
+		20,
 		0,
-		0,
-		0,
+		20,
 		0,
 		0
 	],"price":0},
@@ -7720,18 +7721,18 @@
 		0,
 		0
 	],"price":500},
-	{"id":644,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":644,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+50，爆擊率+15%","etypeId":2,"traits":[
+		{"code":22,"dataId":2,"value":0.15}
+	],"iconIndex":203,"name":"糖心筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>","params":[
 		0,
 		0,
+		50,
 		0,
-		0,
-		0,
+		50,
 		0,
 		0,
 		0
-	],"price":0},
+	],"price":10000},
 	{"id":645,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[

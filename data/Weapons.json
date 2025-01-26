@@ -690,19 +690,20 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":54,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":54,"animationId":8,"description":"「斬+火屬性」物攻+175、魔攻+125、命中+50%、速度+50。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":53,"dataId":1,"value":1},
+		{"code":22,"dataId":0,"value":0.5}
+	],"iconIndex":1280,"name":"真炎劍","note":"<skill_id:201>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons54.txt>","params":[
 		0,
 		0,
+		175,
 		0,
+		125,
 		0,
-		0,
-		0,
-		0,
+		50,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":0,"wtypeId":2},
 	{"id":55,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -1251,19 +1252,18 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":96,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":96,"animationId":504,"description":"「刺屬性」物攻、魔攻、幸運+100","etypeId":1,"traits":[
+		{"code":31,"dataId":2,"value":0}
+	],"iconIndex":1196,"name":"糖心弓","note":"<武器>\n<weaponImg:Weapon_candy,6,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons96.txt>\n絕無城","params":[
 		0,
 		0,
+		100,
+		0,
+		100,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0,"wtypeId":0},
+		100
+	],"price":10000,"wtypeId":4},
 	{"id":97,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -1696,19 +1696,19 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":130,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":130,"animationId":209,"description":"「斬、刺屬性」物攻+125，魔攻+90，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":31,"dataId":2,"value":0}
+	],"iconIndex":1164,"name":"妃糖鞭","note":"<武器>\n<weaponImg:Weapon_candy,4,1>\n<skill_id:12>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons130.txt>\n絕無城","params":[
 		0,
 		0,
+		125,
 		0,
-		0,
-		0,
+		90,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":10000,"wtypeId":5},
 	{"id":131,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -2469,19 +2469,20 @@
 		0,
 		0
 	],"price":350,"wtypeId":7},
-	{"id":189,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":189,"animationId":621,"description":"「斬、鈍屬性」物攻+200、爆擊率+10%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":31,"dataId":3,"value":0},
+		{"code":22,"dataId":2,"value":0.1}
+	],"iconIndex":1148,"name":"拐杖斧","note":"<武器>\n<weaponImg:Weapon_candy,3,1>\n<skill_id:488>\n絕無城\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons189.txt>","params":[
 		0,
 		0,
-		0,
+		200,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":10000,"wtypeId":7},
 	{"id":190,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
