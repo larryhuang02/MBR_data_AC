@@ -20804,12 +20804,13 @@
 		900
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":470,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1192}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-	],"gold":0,"name":"道具店老闆娘","note":"<Sideview battler: People4_2AveryMZSV>\n<Sideview Weapon: 23>","params":[
+	],"gold":0,"name":"道具店老闆娘","note":"<Sideview battler: People4_4_2>\n<Sideview Weapon: 23>","params":[
 		7500,
 		10,
 		1,
@@ -20966,63 +20967,102 @@
 		900
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":478,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1230},
-		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1226},
-		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1227},
-		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1228},
-		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1229},
-		{"conditionParam1":10,"conditionParam2":10,"conditionType":1,"rating":5,"skillId":1230}
+		{"conditionParam1":0,"conditionParam2":0.2,"conditionType":3,"rating":9,"skillId":1226},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1227},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1228},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1229}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1}
-	],"gold":0,"name":"路人甲","note":"<Sideview battler: SV_onlooker01>\n<Sideview Weapon: 23>","params":[
-		7500,
-		10,
-		1,
-		900,
-		1,
-		900,
-		800,
-		900
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":2,"value":0.04},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":31,"dataId":3,"value":0},
+		{"code":11,"dataId":6,"value":1.5},
+		{"code":11,"dataId":5,"value":1.5},
+		{"code":11,"dataId":1,"value":0.5},
+		{"code":11,"dataId":2,"value":0.5},
+		{"code":11,"dataId":3,"value":0.25},
+		{"code":11,"dataId":10,"value":0.5},
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":1,"value":0.25},
+		{"code":12,"dataId":0,"value":0.25},
+		{"code":12,"dataId":3,"value":0.25},
+		{"code":12,"dataId":2,"value":0.25},
+		{"code":12,"dataId":5,"value":0.5},
+		{"code":12,"dataId":6,"value":0.5}
+	],"gold":0,"name":"路人甲","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":700,\"def\":800,\"mdf\":650,\"agi\":600,\"luk\":550,\"hp\":45000,\"mp\":3000}>\n<Sideview battler: SV_onlooker01>\n<Sideview Weapon: 23>","params":[
+		35000,
+		2000,
+		600,
+		750,
+		600,
+		750,
+		550,
+		500
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":479,"actions":[
-		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":5,"skillId":1231},
-		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1232},
-		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1233},
-		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":5,"skillId":1234},
-		{"conditionParam1":0.6,"conditionParam2":0.6,"conditionType":3,"rating":5,"skillId":1235}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1231},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1235},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1236}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1}
-	],"gold":0,"name":"超級路人甲2","note":"<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>","params":[
-		7500,
-		10,
-		1,
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":2,"value":0.04},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":31,"dataId":3,"value":0},
+		{"code":11,"dataId":6,"value":1.5},
+		{"code":11,"dataId":5,"value":1.5},
+		{"code":11,"dataId":1,"value":0.5},
+		{"code":11,"dataId":2,"value":0.5},
+		{"code":11,"dataId":3,"value":0.25},
+		{"code":11,"dataId":10,"value":0.25},
+		{"code":11,"dataId":4,"value":0.25},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":1,"value":0.25},
+		{"code":12,"dataId":0,"value":0.25},
+		{"code":12,"dataId":3,"value":0.25},
+		{"code":12,"dataId":2,"value":0.25},
+		{"code":12,"dataId":5,"value":0.5},
+		{"code":12,"dataId":6,"value":0.5}
+	],"gold":0,"name":"超級路人甲2","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":1050,\"mdf\":1050,\"agi\":950,\"luk\":800,\"hp\":60000,\"mp\":8000}>\n<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>","params":[
+		50000,
+		5000,
+		750,
 		900,
-		1,
+		750,
 		900,
 		800,
-		900
+		650
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":480,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1251},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1251},
 		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":5,"skillId":1246},
 		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":5,"skillId":1247},
 		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1248},
 		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1249},
-		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":5,"skillId":1250}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1250}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1}
 	],"gold":0,"name":"忠之琳","note":"<Sideview battler: SV_Gomez>\n<Sideview Weapon: 23>","params":[
 		7500,
 		10,
