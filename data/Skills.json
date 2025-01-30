@@ -4409,8 +4409,8 @@
 	],"hitType":1,"iconIndex":224,"message1":"","message2":"","mpCost":0,"name":"片牛肉","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\neval: { const m=window._transparentBmps; if(!m) window._transparentBmps=new Map(); }\neval: BattleManager._targets.forEach(btlr=>{ const m=window._transparentBmps,sp=btlr.getSprite(), bmp=sp._bak_switchToBmp||(sp._bak_switchToBmp=sp._effectTarget.bitmap), tbmpKey=bmp.width+','+bmp.height; let newBmp=m.get(tbmpKey); if(!newBmp) m.set(tbmpKey,newBmp=new Bitmap(bmp.width,bmp.height)); sp.switchToBmp_hLine(newBmp, 45 , -80 , 50 ); });\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\neval: BattleManager._targets.forEach(btlr=>{ const sp=btlr.getSprite(), bmp=sp._bak_switchToBmp; sp.switchToBmp_hLine(sp._bak_switchToBmp,120,-bmp.height,bmp.height); });\nwait: 10\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1191,"animationId":969,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":1,"iconIndex":224,"message1":"","message2":"","mpCost":1,"name":"@死鬼你看不到明天的太陽了！","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 24\naction effect\nwait: 12\naction effect\nwait: 40\naction effect\nwait: 32\naction effect\nwait: 36\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1192,"animationId":970,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":1,"name":"@六寶玉露瓶","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 56\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 40\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1192,"animationId":970,"damage":{"critical":false,"elementId":0,"formula":"9999","type":3,"variance":0},"description":"","effects":[
+	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":1,"name":"六寶玉露瓶","note":"<setup action>\nEVAL: SceneManager._scene._logWindow.visible=false;\nDISPLAY ACTION\n</setup action>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\neval: if(!$gameTemp._動畫1041非全畫面){ let anid=$gameTemp._動畫1041非全畫面=JsonEx.makeDeepCopy($dataAnimations[1041]); if(anid){ anid.id=$dataAnimations.length; anid.position=1; $dataAnimations.push(anid); } }\neval: { let ani=new Sprite_Animation(),obj=new Sprite_Character(); obj.position.set(408,312); ani.startScreenFlash=()=>{}; ani.setup(obj,$gameTemp._動畫1041非全畫面); SceneManager._scene.addChild(ani); SceneManager.add_additionalUpdate(()=>{if(!(0<ani._duration)&&ani.parent){ ani.parent.removeChild(ani); return true; } if(!(SceneManager._scene instanceof Scene_Battle)) return true; }); }\nwait: 128\nACTION ANIMATION: target, mirror\nwait: 160\naction effect\nwait: 110\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1193,"animationId":971,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":1,"name":"@八卦圖","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 56\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 40\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1194,"animationId":972,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
@@ -4422,7 +4422,7 @@
 	{"id":1197,"animationId":975,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":2,"iconIndex":67,"message1":"","message2":"","mpCost":1,"name":"@四河扇","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 56\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 40\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1198,"animationId":976,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":1,"name":"@火神鐲","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 56\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 40\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":2,"iconIndex":64,"message1":"","message2":"","mpCost":1,"name":"火神鐲","note":"<setup action>\nEVAL: SceneManager._scene._logWindow.visible=false;\nDISPLAY ACTION\n</setup action>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\neval: if(!$gameTemp._動畫1041非全畫面){ let anid=$gameTemp._動畫1041非全畫面=JsonEx.makeDeepCopy($dataAnimations[1041]); if(anid){ anid.id=$dataAnimations.length; anid.position=1; $dataAnimations.push(anid); } }\neval: { let ani=new Sprite_Animation(),obj=new Sprite_Character(); obj.position.set(408,312); ani.startScreenFlash=()=>{}; ani.setup(obj,$gameTemp._動畫1041非全畫面); SceneManager._scene.addChild(ani); SceneManager.add_additionalUpdate(()=>{if(!(0<ani._duration)&&ani.parent){ ani.parent.removeChild(ani); return true; } if(!(SceneManager._scene instanceof Scene_Battle)) return true; }); }\nwait: 128\naction animation\nwait: 116\naction effect\nwait: 8\naction effect\nwait: 8\naction effect\nwait: 76\naction effect\nwait: 60\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1199,"animationId":977,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":1,"name":"@四象劍陣","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 56\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 40\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1200,"animationId":978,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
@@ -4478,28 +4478,79 @@
 	{"id":1225,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"@綠葉傭兵團！全員進攻！","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1226,"animationId":1012,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":1,"name":"食慾拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 1\neval: BattleManager._action.subject().getSprite().集氣_gen(90,50,0.75,3,20,-40,\"img/pictures/Hungry.png\",[[1.0/1.5,\"img/pictures/Hungry.png\"]],40,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},); \nwait: 87\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1227,"animationId":1013,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":70,"message1":"","message2":"","mpCost":1,"name":"陽光拳","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 52\naction effect\nwait: 108\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1228,"animationId":1011,"damage":{"critical":false,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":127,"message1":"","message2":"","mpCost":1,"name":"餐盤斬","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 156\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 50\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1229,"animationId":1014,"damage":{"critical":false,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"偶像格鬥術","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 28\naction effect\nwait: 12\naction effect\nwait: 12\naction effect\nwait: 20\naction effect\nwait: 16\naction effect\nwait: 80\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":11,"dataId":0,"value1":0.2,"value2":0},
+		{"code":12,"dataId":0,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"食慾拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 1\neval: BattleManager._action.subject().getSprite().集氣_gen(90,50,0.75,3,20,-40,\"img/pictures/Hungry.png\",[[1.0/1.5,\"img/pictures/Hungry.png\"]],40,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},); \nwait: 87\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1227,"animationId":1013,"damage":{"critical":false,"elementId":0,"formula":"300","type":2,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":13,"value1":1,"value2":0},
+		{"code":21,"dataId":8,"value1":1,"value2":0},
+		{"code":21,"dataId":10,"value1":1,"value2":0}
+	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":300,"name":"陽光拳","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 52\naction effect\nwait: 108\nEVAL: self.addState(221);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1228,"animationId":1011,"damage":{"critical":true,"elementId":1,"formula":"200 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":13,"value1":1,"value2":0},
+		{"code":21,"dataId":17,"value1":1,"value2":0}
+	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":500,"name":"餐盤斬","note":"<addEle:10,10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 156\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 50\nEVAL: self.addState(221);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1229,"animationId":1014,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+		{"code":32,"dataId":3,"value1":3,"value2":0}
+	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"偶像格鬥術","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 28\naction effect\nwait: 12\naction effect\nwait: 12\naction effect\nwait: 20\naction effect\nwait: 16\naction effect\nwait: 80\nEVAL: self.addState(221);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1230,"animationId":1015,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":1,"name":"超級大胃王藍","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 28\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,-10,-40,\"img/pictures/Recolor_Sailors.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 87\naction effect\neval: $gameTroop.members()[0].transform(478)\nwait: 180\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1231,"animationId":1022,"damage":{"critical":true,"elementId":0,"formula":"1","type":3,"variance":20},"description":"","effects":[
+		{"code":34,"dataId":0,"value1":1,"value2":0},
+		{"code":34,"dataId":1,"value1":1,"value2":0},
+		{"code":34,"dataId":2,"value1":1,"value2":0},
+		{"code":34,"dataId":3,"value1":1,"value2":0},
+		{"code":34,"dataId":4,"value1":1,"value2":0},
+		{"code":34,"dataId":5,"value1":1,"value2":0},
+		{"code":34,"dataId":6,"value1":1,"value2":0},
+		{"code":34,"dataId":7,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"超級大胃王藍","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 28\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,-10,-40,\"img/pictures/Recolor_Sailors.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 87\neval: $gameTroop.members()[0].transform(479)\nEVAL: self.addState(454);\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainHp(btlr.mhp));\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainMp(btlr.mmp));\naction effect\nwait: 180\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1231,"animationId":1022,"damage":{"critical":true,"elementId":0,"formula":"1","type":0,"variance":20},"description":"","effects":[
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":3,"value1":9,"value2":0},
+		{"code":31,"dataId":4,"value1":9,"value2":0},
+		{"code":31,"dataId":5,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0},
+		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":44,"dataId":272,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"美食聖鬥術","note":"<speed:20000>\n<target action>\naction animation: user, mirror\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 30\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":0,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1232,"animationId":1016,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"分切","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1233,"animationId":1017,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"插刺","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1234,"animationId":1018,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"舀","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\naction effect\nwait: 40\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1235,"animationId":1019,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"脂肪熱量波","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 116\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 60\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1236,"animationId":1020,"damage":{"critical":true,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"營養玉","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,120,-260,\"img/pictures/White.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 112\naction effect\nwait: 160\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"美食聖鬥術","note":"<speed:20000>\n<target action>\naction animation: user, mirror\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 30\nEVAL: self.addState(455);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":0,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1232,"animationId":1016,"damage":{"critical":true,"elementId":1,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+		{"code":22,"dataId":2,"value1":1,"value2":0},
+		{"code":21,"dataId":17,"value1":1,"value2":0}
+	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"分切","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1233,"animationId":1017,"damage":{"critical":true,"elementId":2,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":8,"value1":1,"value2":0},
+		{"code":21,"dataId":13,"value1":1,"value2":0}
+	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"插刺","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1234,"animationId":1018,"damage":{"critical":true,"elementId":3,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+		{"code":32,"dataId":2,"value1":3,"value2":0},
+		{"code":32,"dataId":3,"value1":3,"value2":0},
+		{"code":32,"dataId":4,"value1":3,"value2":0},
+		{"code":32,"dataId":5,"value1":3,"value2":0},
+		{"code":32,"dataId":6,"value1":3,"value2":0},
+		{"code":32,"dataId":7,"value1":3,"value2":0},
+		{"code":32,"dataId":2,"value1":3,"value2":0},
+		{"code":32,"dataId":3,"value1":3,"value2":0},
+		{"code":32,"dataId":4,"value1":3,"value2":0},
+		{"code":32,"dataId":5,"value1":3,"value2":0},
+		{"code":32,"dataId":6,"value1":3,"value2":0},
+		{"code":32,"dataId":7,"value1":3,"value2":0}
+	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"舀","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\naction effect\nwait: 40\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1235,"animationId":1019,"damage":{"critical":true,"elementId":0,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"脂肪熱量波","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 116\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 60\nEVAL: self.addState(455);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1236,"animationId":1020,"damage":{"critical":true,"elementId":0,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":77,"message1":"","message2":"","mpCost":1,"name":"營養玉","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,115,-260,\"img/pictures/White.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 112\naction effect\nwait: 160\nEVAL: self.addState(455);\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1237,"animationId":1021,"damage":{"critical":false,"elementId":0,"formula":"","type":0,"variance":20},"description":"","effects":[
 		{"code":31,"dataId":0,"value1":9,"value2":0},
 		{"code":31,"dataId":0,"value1":9,"value2":0},
@@ -4541,8 +4592,9 @@
 		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":31,"dataId":7,"value1":9,"value2":0},
-		{"code":11,"dataId":0,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":1,"name":"不能輸啊......路人甲先生！","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nEVAL: $gameTemp._bgm_backup=AudioManager.saveBgm();\nwait: 60\nAudioManager.playBgm({name:\"親吻死者\",volume:50,pitch:100,pan:0,});\nwait: 1060\nAudioManager.fadeOutBgm(3);\nwait: 180\naction effect\nwait: 30\nEVAL: AudioManager.playBgm($gameTemp._bgm_backup);\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+		{"code":11,"dataId":0,"value1":1,"value2":0},
+		{"code":22,"dataId":454,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":1,"name":"不能輸啊......路人甲先生！","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nEVAL: $gameTemp._bgm_backup=AudioManager.saveBgm();\nwait: 60\nEVAL AudioManager.playBgm({name:\"親吻死者\",volume:50,pitch:100,pan:0,});\nwait: 1060\nAudioManager.fadeOutBgm(3);\nwait: 180\naction effect\neval: $gameTroop.members()[0].transform(478)\nwait: 30\nEVAL: AudioManager.playBgm($gameTemp._bgm_backup);\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1238,"animationId":1024,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"影子劇團‧開幕","note":"<speed:20000>\n<setup action>\nEVAL: $gameTemp._雷歐娜_演員set=[459,460,461];\nEVAL: $gameTemp._雷歐娜_演員蒐集=self.opponentsUnit().members().filter(btlr=>btlr.isAlive());\nEVAL: $gameTemp._雷歐娜_演員set=$gameTemp._雷歐娜_演員set.slice(0,$gameTemp._雷歐娜_演員蒐集.length); // 或是玩家方隊友太少ㄌ，把後面多ㄉ直接切掉\n\nEVAL: self.opponentsUnit().members().forEach(function(btlr){ this.forEach(i=>btlr.removeState(i)); },[459,460,461]); // 清掉\n\nclear battle log\ndisplay action\nperform start\nwait for movement\ncast animation\nwait for animation\n</setup action>\n\n<effect_javascript:(function(a,b){ const arr=$gameTemp._雷歐娜_演員set,sel=arr.rnd1(),idx=arr.indexOf(sel); if(0<=idx){ arr.splice(idx,1); b.addState(sel); } })>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1239,"animationId":1025,"damage":{"critical":false,"elementId":0,"formula":"b.isStateAffected(460) ? b.mmp * 0 : 0","type":4,"variance":0},"description":"","effects":[
@@ -4567,8 +4619,8 @@
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":1,"name":"性感香港腳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 48\naction effect\nwait: 70\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1249,"animationId":1034,"damage":{"critical":false,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"抓狂的地爆斧","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\nEVAL: $gameScreen.startTint([-120,-120,-120,],80);\nwait: 80\nEVAL: $gameScreen.startTint([0,0,0,],20);\nwait: 40\nEVAL: $gameScreen.startTint([50,50,50,],30);\nshake screen: 15, 8, 20\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nwait: 4\naction effect\nEVAL: $gameScreen.startTint([0,0,0,],30);\nwait: 34\nopacity user: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1250,"animationId":1035,"damage":{"critical":false,"elementId":0,"formula":"9999","type":1,"variance":0},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"怨念的劈柴斧","note":"<speed:20000>\n<target action>\nwait for opacity\nEVAL: $gameTemp._怨念的劈柴斧_sv對象=(BattleManager._targets[0] instanceof Game_Actor)?\"img/sv_actors/\"+BattleManager._targets[0].battlerName()+\".png\":\"\";\nopacity not focus: 0%, 20\n\naction animation\nwait: 100\naction effect\nwait: 70\nopacity not focus: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1250,"animationId":1040,"damage":{"critical":false,"elementId":0,"formula":"9999","type":1,"variance":0},"description":"","effects":[
+	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"怨念的劈柴斧","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity not focus: 0%, 20\nopacity user: 0%, 20\nEVAL: $gameTemp._怨念的劈柴斧_sv對象=(BattleManager._targets[0] instanceof Game_Actor)?\"img/sv_actors/\"+BattleManager._targets[0].battlerName()+\".png\":\"\";\naction animation\nwait: 20\nEVAL: $gameScreen.startTint([-120,-120,-120,],80);\nwait: 80\naction effect\nIF BattleManager._targets[0].result().isHit()\nANIMATION 1035: target\nopacity target: 0%, 0\nEVAL: AudioManager.playSe({name:\"Scream\",volume:100,pan:0,pitch:150})\nEND\nwait: 30\nEVAL: $gameScreen.startTint([0,0,0,],40);\nwait: 40\nopacity not focus: 100%\nopacity user: 100%\nopacity target: 100%\naction effect loopAni: on\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1251,"animationId":1036,"damage":{"critical":false,"elementId":0,"formula":"1","type":1,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"牽羊號衝擊","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 132\naction effect\nwait: 120\nopacity user: 100%\n</whole action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1252,"animationId":1037,"damage":{"critical":true,"elementId":12,"formula":"1","type":1,"variance":20},"description":"","effects":[
@@ -4579,16 +4631,67 @@
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"血腥瑪麗","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1255,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"香烤海魚","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1256,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1257,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1258,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1259,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1260,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1256,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
+		{"code":21,"dataId":261,"value1":1,"value2":0},
+		{"code":21,"dataId":262,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":405,"message1":"","message2":"","mpCost":0,"name":"香菜薄荷鮮果汁","note":"<speed:20000>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1257,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
+		{"code":21,"dataId":101,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":1741,"message1":"","message2":"","mpCost":0,"name":"辣炒福壽螺","note":"<speed:20000>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1258,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"糖醋垃圾魚","note":"<speed:20000>\n<After ATB Eval>\nspeed=BattleManager.atbTarget();\n</After ATB Eval>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1259,"animationId":65,"damage":{"critical":true,"elementId":11,"formula":"300","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":7,"value1":1,"value2":0},
+		{"code":21,"dataId":10,"value1":1,"value2":0},
+		{"code":21,"dataId":1,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":1610,"message1":"","message2":"","mpCost":0,"name":"皮蛋榴槤拌飯","note":"<target action>\nwait for opacity\naction animation\nwait: 40\naction effect\nwait: 40\nEVAL: self.addState(221);\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainTp(-30));\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1260,"animationId":101,"damage":{"critical":true,"elementId":11,"formula":"150","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":18,"value1":1,"value2":0},
+		{"code":21,"dataId":19,"value1":1,"value2":0},
+		{"code":32,"dataId":0,"value1":9,"value2":0},
+		{"code":32,"dataId":0,"value1":9,"value2":0},
+		{"code":32,"dataId":1,"value1":9,"value2":0},
+		{"code":32,"dataId":1,"value1":9,"value2":0},
+		{"code":32,"dataId":2,"value1":9,"value2":0},
+		{"code":32,"dataId":2,"value1":9,"value2":0},
+		{"code":32,"dataId":3,"value1":9,"value2":0},
+		{"code":32,"dataId":3,"value1":9,"value2":0},
+		{"code":32,"dataId":4,"value1":9,"value2":0},
+		{"code":32,"dataId":4,"value1":9,"value2":0},
+		{"code":32,"dataId":5,"value1":9,"value2":0},
+		{"code":32,"dataId":5,"value1":9,"value2":0},
+		{"code":32,"dataId":6,"value1":9,"value2":0},
+		{"code":32,"dataId":6,"value1":9,"value2":0},
+		{"code":32,"dataId":7,"value1":9,"value2":0},
+		{"code":32,"dataId":7,"value1":9,"value2":0}
+	],"hitType":0,"iconIndex":1769,"message1":"","message2":"","mpCost":0,"name":"鳳梨豬腦湯","note":"<target action>\nwait for opacity\naction animation\nwait: 40\naction effect\nwait: 40\nEVAL: self.addState(221);\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainTp(-30));\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1261,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1262,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

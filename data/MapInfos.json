@@ -603,7 +603,7 @@
 	{"id":601,"expanded":true,"name":"MAP601_絕無城樓梯","order":490,"parentId":600,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 	{"id":602,"expanded":true,"name":"MAP602_教學關劇情","order":491,"parentId":601,"scrollX":1404,"scrollY":776.5714285714286},
 	{"id":603,"expanded":false,"name":"MAP603_教學關大廳","order":492,"parentId":602,"scrollX":1390.2857142857142,"scrollY":889.7142857142857},
-	{"id":604,"expanded":true,"name":"MAP604_美食殿堂","order":493,"parentId":602,"scrollX":3395.5555555555557,"scrollY":2209.3333333333335},
+	{"id":604,"expanded":true,"name":"MAP604_美食殿堂","order":493,"parentId":602,"scrollX":3380,"scrollY":2194},
 	{"id":605,"expanded":false,"name":"MAP605_美食殿堂2F","order":494,"parentId":604,"scrollX":1404,"scrollY":790.2857142857142},
 	{"id":606,"expanded":false,"name":"MAP606_備用","order":495,"parentId":602,"scrollX":1092,"scrollY":614.6666666666666},
 	{"id":607,"expanded":false,"name":"MAP607_備用","order":496,"parentId":602,"scrollX":1092,"scrollY":614.6666666666666},
