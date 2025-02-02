@@ -14514,6 +14514,18 @@
 		],"span":0}
 	]},
 	{"id":431,"members":[
+	],"name":"預開魔化小飛","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":432,"members":[
+	],"name":"預開小飛四人","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":433,"members":[
 		{"enemyId":459,"x":144,"y":415,"hidden":false}
 	],"name":"∞黃金∞","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
@@ -14677,199 +14689,77 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
-	{"id":432,"members":[
-		{"enemyId":446,"x":132,"y":442,"hidden":false}
-	],"name":"咕咕咕","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":313,"indent":0,"parameters":[0,0,0,194]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「我們就當作是切磋，點到為止就好。」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「畢竟我也不像天使一樣喜歡虐待玩家。」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「我喜歡創作愛與和平的故事，所以\\c[5]技能都會以恢復性質為"]},
-			{"code":401,"indent":0,"parameters":["主。\\c[0]」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「但是因為天使說不能太容易讓玩家過關，所以如果我的"]},
-			{"code":401,"indent":0,"parameters":["恢復技能超過你的HP上限值的話會變成相應扣除的數值，"]},
-			{"code":401,"indent":0,"parameters":["要小心喔。」"]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":9,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":333,"indent":0,"parameters":[0,0,148]},
-			{"code":337,"indent":0,"parameters":[0,163,false]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「我要準備放奧義囉，記得要把HP維持在低血量狀態喔。」"]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":10,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「surprise！」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「\\C[10]在我的黑暗空間裡面任何迴避都是沒有用的！\\C[0]」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「哈哈哈！創作讓人胃痛又悲傷的故事才是我的價值所在"]},
-			{"code":401,"indent":0,"parameters":["！」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「我會慢慢把你折磨致死！讓你感受我做月藍時感受到的"]},
-			{"code":401,"indent":0,"parameters":["痛苦！」"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["咕咕咕"]},
-			{"code":401,"indent":0,"parameters":["「去ＳＰＡ！」"]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":14,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「維皮，你有沒有發現？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_01_1",12,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[1]"]},
-			{"code":401,"indent":0,"parameters":["「發現什麼！？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「這隻鴿子在光明型態的時候只會用各式恢復"]},
-			{"code":401,"indent":0,"parameters":["和強化技能。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「只要我們壓低ＨＰ和ＭＰ，就可以輕鬆應對"]},
-			{"code":401,"indent":0,"parameters":["它，甚至還能從中撈到一點好處。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「相反的，\\C[10]牠在黑暗型態的時候，攻擊的傷害"]},
-			{"code":401,"indent":0,"parameters":["都是固定的，只要我們的ＨＰ越少，受到的傷"]},
-			{"code":401,"indent":0,"parameters":["害就越輕。\\C[0]」"]},
-			{"code":101,"indent":0,"parameters":["BLR_01_1",3,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[1]"]},
-			{"code":401,"indent":0,"parameters":["「那我們不管牠在哪種型態，只要都維持低血"]},
-			{"code":401,"indent":0,"parameters":["線不就可以輕鬆打贏牠了嗎？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「不，應該沒那麼簡單．．．這隻鴿子給人的"]},
-			{"code":401,"indent":0,"parameters":["感覺那麼惹人厭．．．相信牠一定還有後手。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",3,0,2]},
-			{"code":401,"indent":0,"parameters":["\\N[3]"]},
-			{"code":401,"indent":0,"parameters":["「千萬不要掉以輕心！畢竟那可是那個惡名昭"]},
-			{"code":401,"indent":0,"parameters":["彰的月藍傳奇作者製作的隱藏ＢＯＳＳ啊！」"]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":9,"turnEnding":false,"turnValid":true},"list":[
-			{"code":333,"indent":0,"parameters":[0,0,148]},
-			{"code":337,"indent":0,"parameters":[0,163,false]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":1},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":336,"indent":0,"parameters":[0,448]},
-			{"code":333,"indent":0,"parameters":[-1,0,177]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":433,"members":[
-		{"enemyId":452,"x":237,"y":444,"hidden":false},
-		{"enemyId":449,"x":102,"y":331,"hidden":false},
-		{"enemyId":457,"x":309,"y":328,"hidden":false}
-	],"name":"牙籤","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":339,"indent":0,"parameters":[0,0,951,-2]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":80,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":250,"indent":0,"parameters":[{"name":"44_Door8_B","volume":90,"pitch":100,"pan":0}]},
-			{"code":224,"indent":0,"parameters":[[255,0,0,170],60,false]},
-			{"code":231,"indent":0,"parameters":[1,"TK_Hua He2",0,0,70,70,100,100,255,0]},
-			{"code":232,"indent":0,"parameters":[1,0,0,0,200,70,100,100,255,0,10,true]},
-			{"code":224,"indent":0,"parameters":[[255,255,255,170],60,true]},
-			{"code":336,"indent":0,"parameters":[0,453]},
-			{"code":235,"indent":0,"parameters":[1]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
 	{"id":434,"members":[
-		{"enemyId":458,"x":117,"y":370,"hidden":false}
-	],"name":"材材","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["材材"]},
-			{"code":401,"indent":0,"parameters":["辛苦了好幾天，終於可以好好睡覺了。"]},
-			{"code":101,"indent":0,"parameters":["",0,0,2]},
-			{"code":401,"indent":0,"parameters":["材材"]},
-			{"code":401,"indent":0,"parameters":["誰都不要來吵我。"]},
-			{"code":333,"indent":0,"parameters":[0,0,232]},
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0},
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["BLR_01_1",5,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[1]"]},
-			{"code":401,"indent":0,"parameters":["「人家在睡覺耶？我們是不是不要打擾她比較"]},
-			{"code":401,"indent":0,"parameters":["好啊？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「維皮，你太天真了。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「你看她嘴上說著要睡覺，實際上還是會對我"]},
-			{"code":401,"indent":0,"parameters":["們發動攻擊。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「這應該就是傳說中的\\C[11]夢遊\\C[0]。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「聽說夢遊的人都不太容易清醒，我們要趁這"]},
-			{"code":401,"indent":0,"parameters":["個時候對她多造成一點傷害。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",2,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「不然等她清醒可就討不到好處了。」"]},
-			{"code":101,"indent":0,"parameters":["BLR_01_1",1,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[1]"]},
-			{"code":401,"indent":0,"parameters":["「可是我們在人家睡覺的時候打擾對方，她會"]},
-			{"code":401,"indent":0,"parameters":["不會有起床氣啊？」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",0,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「所以我們要\\C[2]抓準時機啊，見好就收。\\C[0]」"]},
-			{"code":101,"indent":0,"parameters":["BLR_03_1",0,0,2]},
-			{"code":401,"indent":0,"parameters":["\\n[3]"]},
-			{"code":401,"indent":0,"parameters":["「\\C[2]就像我們開雷娜小姐玩笑一樣。\\C[0]」"]},
+	],"name":"預開天使","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":435,"members":[
-		{"enemyId":460,"x":174,"y":444,"hidden":false}
-	],"name":"樺城","pages":[
+	],"name":"預開柏林","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":436,"members":[
-		{"enemyId":461,"x":213,"y":325,"hidden":false}
-	],"name":"毅茶祀","pages":[
+	],"name":"預開牙籤與五虎將","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":437,"members":[
-		{"enemyId":467,"x":132,"y":334,"hidden":false}
-	],"name":"鐵特","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":342,"indent":0,"parameters":[-1,0,0,100]},
+	],"name":"預開茶祀","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":438,"members":[
+		{"enemyId":470,"x":183,"y":355,"hidden":false}
+	],"name":"預開夢跟茶鴦","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":439,"members":[
+		{"enemyId":478,"x":159,"y":361,"hidden":false}
+	],"name":"預開雪葉跟潼恩","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":440,"members":[
+	],"name":"預開霍恩與雷歐娜","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":441,"members":[
+	],"name":"預開馬大嬸","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":442,"members":[
 		{"enemyId":470,"x":183,"y":355,"hidden":false}
 	],"name":"道具店老闆娘","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
-	{"id":439,"members":[
+	{"id":443,"members":[
+	],"name":"預開哈瑞","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":444,"members":[
+		{"enemyId":467,"x":132,"y":334,"hidden":false}
+	],"name":"預開鐵特與茉莉","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0}
+	]},
+	{"id":445,"members":[
 		{"enemyId":478,"x":159,"y":361,"hidden":false}
 	],"name":"路人甲","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
@@ -15045,50 +14935,14 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
-	{"id":440,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":441,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":442,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":443,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":444,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
-	{"id":445,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
-	]},
 	{"id":446,"members":[
-	],"name":"","pages":[
+	],"name":"預開綠葉傭兵團","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":447,"members":[
-	],"name":"","pages":[
+	],"name":"預開忠之琳","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
