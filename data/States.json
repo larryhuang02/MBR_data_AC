@@ -938,7 +938,7 @@
 	{"id":199,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 	],"iconIndex":3,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"徐如林","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":200,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"進入絕無城技能升級","note":"<附魔類型:castle>\n<alwaysNotCleared>","overlay":0,"priority":1,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":201,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 		{"code":11,"dataId":11,"value":1.1}
 	],"iconIndex":1712,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"駭惡LV1","note":"<狀態新增變化ra:{\"201\":{\"移除\":[201],\"加入\":[202]}}>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
@@ -1691,8 +1691,8 @@
 		{"code":22,"dataId":1,"value":-1},
 		{"code":22,"dataId":4,"value":-1}
 	]},
-	{"id":360,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":360,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+	],"iconIndex":1772,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"大地怒獅","note":"<Custom Deselect Effect>\n { let skillId=429; if(b.result().isHit()&&this.isDamage()&&this.item()!==$dataSkills[skillId]){ let act=new Game_Action(a); act.setSkill(skillId); b._result=new Game_ActionResult(); act.apply(b); } } \n</Custom Deselect Effect>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":361,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":362,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

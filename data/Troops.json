@@ -15,9 +15,7 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":5,"x":255,"y":349,"hidden":false},
-		{"enemyId":5,"x":78,"y":403,"hidden":false},
-		{"enemyId":5,"x":213,"y":444,"hidden":false}
+		{"enemyId":5,"x":255,"y":349,"hidden":false}
 	],"name":"TEST","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -33,6 +31,7 @@
 			{"code":412,"indent":0,"parameters":[]},
 			{"code":355,"indent":0,"parameters":["$gameTemp[$gameTemp.tmp]=true;"]},
 			{"code":313,"indent":0,"parameters":[0,0,0,100]},
+			{"code":313,"indent":0,"parameters":[0,0,0,200]},
 			{"code":318,"indent":0,"parameters":[0,11,0,193]},
 			{"code":318,"indent":0,"parameters":[0,7,0,157]},
 			{"code":318,"indent":0,"parameters":[0,7,0,150]},
