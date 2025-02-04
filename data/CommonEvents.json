@@ -15818,7 +15818,7 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
 	{"id":272,"list":[
-		{"code":355,"indent":0,"parameters":["{ let 候選技能組=[1232,1233,1234]; // 這邊記得改"]},
+		{"code":355,"indent":0,"parameters":["{ let 候選技能組=[1327,1328,1329]; // 這邊記得改"]},
 		{"code":655,"indent":0,"parameters":["let 機率表={}; for(let s=222;s<=230;s+=2) 機率表[s-1]=機率表[s]=(s-220)/20; if(Utils.isOptionValid('test')) console.log(機率表);"]},
 		{"code":655,"indent":0,"parameters":["let 追擊機率=0; for(let s=230;s>=221;--s) if($gameTroop.members()[0].isStateAffected(s)){ 追擊機率=機率表[s]; break; }"]},
 		{"code":655,"indent":0,"parameters":["$gameTemp._所有行動=[]; for(let 技能3=[];;){"]},

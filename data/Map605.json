@@ -8915,7 +8915,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
+				1221,
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
@@ -9011,7 +9011,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
+				1221,
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
@@ -9807,7 +9807,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
+				1221,
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
@@ -9969,8 +9969,8 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
-				true
+				1221,
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Sailors",
@@ -10430,12 +10430,16 @@
 			]},
 			{"code":404,"indent":0,"parameters":[
 			]},
+			{"code":283,"indent":0,"parameters":[
+				"chocolate",
+				""
+			]},
 			{"code":132,"indent":0,"parameters":[
 				{"name":"03_Endless_Battle","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":301,"indent":0,"parameters":[
 				0,
-				439,
+				445,
 				false,
 				false
 			]},
@@ -10762,7 +10766,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
+				1221,
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
@@ -10889,35 +10893,41 @@
 			{"code":205,"indent":0,"parameters":[
 				2,
 				{"list":[
+					{"code":44,"parameters":[
+						{"name":"Wind2","volume":90,"pitch":150,"pan":0}
+					],"indent":null},
+					{"code":36,"indent":null},
 					{"code":42,"parameters":[
 						200
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
+						2
 					],"indent":null},
 					{"code":42,"parameters":[
 						150
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":null},
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
-						100
+						75
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":null},
-					{"code":42,"parameters":[
-						50
-					],"indent":null},
-					{"code":15,"parameters":[
-						3
-					],"indent":null},
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
 						0
 					],"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Wind2","volume":90,"pitch":150,"pan":0}
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -10926,7 +10936,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
+					2
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -10936,28 +10946,18 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":null}
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
-					100
+					75
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					50
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				],"indent":null}
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -10974,30 +10974,21 @@
 			{"code":205,"indent":0,"parameters":[
 				2,
 				{"list":[
-					{"code":42,"parameters":[
-						50
-					],"indent":0},
 					{"code":15,"parameters":[
-						3
+						2
 					],"indent":0},
 					{"code":42,"parameters":[
-						100
+						75
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":0},
+						2
+					],"indent":null},
 					{"code":42,"parameters":[
 						150
-					],"indent":0},
-					{"code":15,"parameters":[
-						3
-					],"indent":0},
-					{"code":42,"parameters":[
-						200
-					],"indent":0},
-					{"code":15,"parameters":[
-						3
 					],"indent":null},
+					{"code":15,"parameters":[
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
 						255
 					],"indent":null},
@@ -11005,44 +10996,29 @@
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					50
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
+					2
 				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
-					100
+					75
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":0}
+					2
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
 					150
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					200
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
 				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -11094,35 +11070,41 @@
 			{"code":205,"indent":0,"parameters":[
 				4,
 				{"list":[
+					{"code":44,"parameters":[
+						{"name":"Wind2","volume":90,"pitch":150,"pan":0}
+					],"indent":null},
+					{"code":36,"indent":null},
 					{"code":42,"parameters":[
 						200
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
+						2
 					],"indent":null},
 					{"code":42,"parameters":[
 						150
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":null},
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
-						100
+						75
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":null},
-					{"code":42,"parameters":[
-						50
-					],"indent":null},
-					{"code":15,"parameters":[
-						3
-					],"indent":null},
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
 						0
 					],"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Wind2","volume":90,"pitch":150,"pan":0}
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -11131,7 +11113,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
+					2
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -11141,28 +11123,18 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":null}
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
-					100
+					75
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					50
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				],"indent":null}
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -11179,30 +11151,21 @@
 			{"code":205,"indent":0,"parameters":[
 				4,
 				{"list":[
-					{"code":42,"parameters":[
-						50
-					],"indent":0},
 					{"code":15,"parameters":[
-						3
+						2
 					],"indent":0},
 					{"code":42,"parameters":[
-						100
+						75
 					],"indent":null},
 					{"code":15,"parameters":[
-						3
-					],"indent":0},
+						2
+					],"indent":null},
 					{"code":42,"parameters":[
 						150
-					],"indent":0},
-					{"code":15,"parameters":[
-						3
-					],"indent":0},
-					{"code":42,"parameters":[
-						200
-					],"indent":0},
-					{"code":15,"parameters":[
-						3
 					],"indent":null},
+					{"code":15,"parameters":[
+						2
+					],"indent":0},
 					{"code":42,"parameters":[
 						255
 					],"indent":null},
@@ -11210,44 +11173,29 @@
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					50
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
+					2
 				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
-					100
+					75
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					3
-				],"indent":0}
+					2
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
 					150
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":42,"parameters":[
-					200
-				],"indent":0}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					3
 				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					2
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":42,"parameters":[
@@ -11375,6 +11323,9 @@
 			{"code":205,"indent":0,"parameters":[
 				8,
 				{"list":[
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
 					{"code":4,"indent":null},
 					{"code":4,"indent":null},
 					{"code":4,"indent":null},
@@ -11387,6 +11338,11 @@
 					{"code":39,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
@@ -11472,7 +11428,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
-				1039,
+				1221,
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
@@ -11563,8 +11519,15 @@
 						3
 					],"indent":null},
 					{"code":15,"parameters":[
-						5
+						30
 					],"indent":null},
+					{"code":14,"parameters":[
+						0,
+						3
+					],"indent":null},
+					{"code":15,"parameters":[
+						30
+					],"indent":0},
 					{"code":14,"parameters":[
 						0,
 						3
@@ -11580,8 +11543,19 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					5
+					30
 				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					30
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":14,"parameters":[
