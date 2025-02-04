@@ -1,0 +1,13 @@
+<pictures:[
+{
+"id":"981",
+"positionReference":"target",
+"position":[[240,-120],[240,-120],[240,-120]],
+"animationFrames":[3,13,16],
+"alpha":[0,1,0],
+"imgReflect":true,
+"imgPath":"img/pictures/Swords_01.png",
+"imgOrigin":"50%,0%,0%",
+"imgFrame":[[0,0,0,192],[0,0,135,192],[0,0,135,192]]
+}
+]>

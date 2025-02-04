@@ -1,0 +1,13 @@
+<pictures:[
+{
+"id":"981",
+"positionReference":"target",
+"position":[[245,-125],[245,-125],[245,-125]],
+"animationFrames":[3,13,16],
+"alpha":[0,1,0],
+"imgReflect":true,
+"imgPath":"img/pictures/gun_01.png",
+"imgOrigin":"50%,0%,0%",
+"imgFrame":[[0,0,0,192],[0,0,120,192],[0,0,120,192]]
+}
+]>
