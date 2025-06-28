@@ -366,8 +366,22 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":158,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"脫殼的白蟻，想吃下去需要不少勇氣，\n若已\\it[6]或\\it[7]，我方全體MP回復 70%，反之獲得\\it[7]","effects":[
 	],"hitType":0,"iconIndex":267,"itypeId":1,"name":"脫殼白蟻豆","note":"<道具>\n<speed:20000>\n<effect_javascript:(function(a,b){if(b.isStateAffected(6)||b.isStateAffected(7)){b.gainMp(b.mmp*0.7);}else b.addState(7);})>\n<道具額外文字檔:BLR_custom/detail/item/Items158.txt>","occasion":0,"price":5000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":159,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":159,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"400","type":4,"variance":0},"description":"我方全體MP回復 400 點，解除全狀態異常","effects":[
+		{"code":22,"dataId":6,"value1":1,"value2":0},
+		{"code":22,"dataId":7,"value1":1,"value2":0},
+		{"code":22,"dataId":8,"value1":1,"value2":0},
+		{"code":22,"dataId":9,"value1":1,"value2":0},
+		{"code":22,"dataId":10,"value1":1,"value2":0},
+		{"code":22,"dataId":11,"value1":1,"value2":0},
+		{"code":22,"dataId":12,"value1":1,"value2":0},
+		{"code":22,"dataId":13,"value1":1,"value2":0},
+		{"code":22,"dataId":14,"value1":1,"value2":0},
+		{"code":22,"dataId":15,"value1":1,"value2":0},
+		{"code":22,"dataId":16,"value1":1,"value2":0},
+		{"code":22,"dataId":17,"value1":1,"value2":0},
+		{"code":22,"dataId":18,"value1":1,"value2":0},
+		{"code":22,"dataId":19,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":1788,"itypeId":1,"name":"糖霜餅乾","note":"<道具>\n<speed:20000>\n絕無城-入門試煉01，第三妖精獲得\n<道具額外文字檔:BLR_custom/detail/item/Items159.txt>","occasion":0,"price":5800,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":160,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":161,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1263,8 +1277,9 @@
 		{"code":42,"dataId":0,"value1":50,"value2":0},
 		{"code":42,"dataId":1,"value1":50,"value2":0}
 	],"hitType":0,"iconIndex":1652,"itypeId":1,"name":"聖獸結晶","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items412.txt>\n","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":413,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":413,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"5","type":0,"variance":0},"description":"妖魔般毒蛇的蛇膽\n永久能力道具，使用後HP上限+2。","effects":[
+		{"code":42,"dataId":0,"value1":2,"value2":0}
+	],"hitType":0,"iconIndex":622,"itypeId":1,"name":"蛇膽","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items413.txt>\n","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":414,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":415,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1844,14 +1859,14 @@
 	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"新婚紀念品D","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":702,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":121,"itypeId":1,"name":"新婚紀念品E","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":703,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":704,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":705,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":706,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":703,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
+	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"富胖的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items703.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":704,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
+	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"爾貝媽的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items704.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":705,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
+	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"莉比卡的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items705.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":706,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
+	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"莉比卡的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items705.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":707,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":708,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

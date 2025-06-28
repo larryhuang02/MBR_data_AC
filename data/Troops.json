@@ -1,7 +1,7 @@
 [
 	null,
 	{"id":1,"members":[
-		{"enemyId":541,"x":234,"y":382,"hidden":false}
+		{"enemyId":2,"x":117,"y":415,"hidden":false}
 	],"name":"ＴＥＳＴ","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":25,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -11,11 +11,15 @@
 			{"code":314,"indent":1,"parameters":[0,0]},
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":412,"indent":0,"parameters":[]},
+			{"code":318,"indent":0,"parameters":[0,10,0,409]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":5,"x":255,"y":349,"hidden":false}
+		{"enemyId":5,"x":255,"y":349,"hidden":false},
+		{"enemyId":5,"x":141,"y":439,"hidden":false},
+		{"enemyId":5,"x":348,"y":433,"hidden":false},
+		{"enemyId":5,"x":120,"y":349,"hidden":false}
 	],"name":"TEST","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -60,8 +64,21 @@
 			{"code":318,"indent":0,"parameters":[0,8,0,395]},
 			{"code":318,"indent":0,"parameters":[0,8,0,399]},
 			{"code":318,"indent":0,"parameters":[0,8,0,400]},
+			{"code":318,"indent":0,"parameters":[0,10,0,406]},
+			{"code":318,"indent":0,"parameters":[0,10,0,407]},
+			{"code":318,"indent":0,"parameters":[0,10,0,408]},
+			{"code":318,"indent":0,"parameters":[0,10,0,409]},
+			{"code":318,"indent":0,"parameters":[0,10,0,410]},
+			{"code":318,"indent":0,"parameters":[0,17,0,776]},
+			{"code":318,"indent":0,"parameters":[0,17,0,777]},
+			{"code":312,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1}
 	]},
 	{"id":3,"members":[
 	],"name":"","pages":[
@@ -13085,32 +13102,58 @@
 		],"span":0}
 	]},
 	{"id":342,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":589,"x":450,"y":337,"hidden":false},
+		{"enemyId":589,"x":315,"y":367,"hidden":false},
+		{"enemyId":589,"x":195,"y":328,"hidden":false},
+		{"enemyId":589,"x":171,"y":444,"hidden":false},
+		{"enemyId":589,"x":63,"y":387,"hidden":false},
+		{"enemyId":589,"x":396,"y":444,"hidden":false}
+	],"name":"可愛的山雞*6","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75,\"5\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":343,"members":[
-	],"name":"","pages":[
+		{"enemyId":590,"x":171,"y":444,"hidden":false}
+	],"name":"多頭蛇","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":344,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":591,"x":408,"y":361,"hidden":false},
+		{"enemyId":591,"x":342,"y":444,"hidden":false},
+		{"enemyId":593,"x":156,"y":397,"hidden":false}
+	],"name":"打草驚蛇*2, 刃牙狼","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":345,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":592,"x":105,"y":313,"hidden":false},
+		{"enemyId":592,"x":270,"y":358,"hidden":false},
+		{"enemyId":592,"x":198,"y":444,"hidden":false},
+		{"enemyId":589,"x":411,"y":325,"hidden":false},
+		{"enemyId":589,"x":381,"y":424,"hidden":false}
+	],"name":"溫馴的鳥*3, 可愛的山雞*2","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":346,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":593,"x":354,"y":408,"hidden":false},
+		{"enemyId":593,"x":144,"y":331,"hidden":false},
+		{"enemyId":593,"x":189,"y":444,"hidden":false}
+	],"name":"刃牙狼*3","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
