@@ -575,19 +575,19 @@
 		{"code":11,"dataId":10,"value":0.5},
 		{"code":11,"dataId":11,"value":0}
 	],"iconIndex":1550,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"死神之力","note":"<loopAni:267>","overlay":0,"priority":85,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":112,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":170,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-光炎","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
+	{"id":112,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":1792,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-光炎","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":11,"dataId":4,"value":1.5},
 		{"code":11,"dataId":10,"value":1.5}
 	]},
-	{"id":113,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":174,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-渢","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
+	{"id":113,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":1793,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-渢","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":11,"dataId":9,"value":1.5},
 		{"code":11,"dataId":7,"value":1.5}
 	]},
-	{"id":114,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":172,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-震雷","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
+	{"id":114,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":1794,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"破勢-震雷","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":8,"value":1.5}
 	]},
-	{"id":115,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":168,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"究極全破勢","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
+	{"id":115,"autoRemovalTiming":2,"chanceByDamage":100,"iconIndex":1795,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"究極全破勢","note":"","overlay":0,"priority":99,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":11,"dataId":4,"value":2.5},
 		{"code":11,"dataId":5,"value":2.5},
 		{"code":11,"dataId":6,"value":2.5},
@@ -1556,19 +1556,39 @@
 	{"id":360,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
 	],"iconIndex":1772,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"大地怒獅","note":"<Custom Deselect Effect>\n { let skillId=429; if(b.result().isHit()&&this.isDamage()&&this.item()!==$dataSkills[skillId]){ let act=new Game_Action(a); act.setSkill(skillId); b._result=new Game_ActionResult(); act.apply(b); } } \n</Custom Deselect Effect>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":361,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":362,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"箭矢補充","note":"<Custom Turn End Effect>\nif ($gameParty.inBattle()) { // 確保只在戰鬥中執行\n    let itemId = 582; // 道具ID，請自行修改\n    let maxAmount = 99;\n    let gainChance = 0.5; // 0.0 - 1.0 機率\n    let equippedCount = 0;\n\n    // 遍歷隊伍成員，計算裝備該道具的人數\n    $gameParty.members().forEach(actor => {\n        if (actor.isEquipped($dataArmors[644])) { // 644 是【弓箭筒】的裝備 ID，請自行修改\n            equippedCount++;\n        }\n    });\n\n    // 按裝備人數執行效果A\n    for (let i = 0; i < equippedCount; i++) {\n        let currentAmount = $gameParty.numItems($dataItems[itemId]);\n\n        if (currentAmount < maxAmount && Math.random() < gainChance) {\n            $gameParty.gainItem($dataItems[itemId], 1);\n            console.log(\"獲得箭矢\");\n        }\n    }\n}\n</Custom Turn End Effect>","overlay":0,"priority":1,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":362,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+		{"code":12,"dataId":0,"value":2},
+		{"code":12,"dataId":1,"value":2},
+		{"code":12,"dataId":2,"value":2},
+		{"code":12,"dataId":3,"value":2},
+		{"code":12,"dataId":4,"value":2},
+		{"code":12,"dataId":5,"value":2},
+		{"code":12,"dataId":6,"value":2},
+		{"code":12,"dataId":7,"value":2}
+	],"iconIndex":78,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"name":"碎界","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":363,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":364,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":365,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":366,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
-	{"id":367,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
-	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	],"iconIndex":1796,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"魔劍庇護","note":"<法力護盾:1>","overlay":0,"priority":1,"removeAtBattleEnd":true,"removeByDamage":true,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":364,"autoRemovalTiming":1,"chanceByDamage":100,"traits":[
+		{"code":14,"dataId":1,"value":1}
+	],"iconIndex":1697,"maxTurns":3,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"不滅星碎陣","note":"<loopAni:272>","overlay":0,"priority":90,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":365,"autoRemovalTiming":2,"chanceByDamage":100,"traits":[
+		{"code":22,"dataId":1,"value":0.15}
+	],"iconIndex":1789,"maxTurns":10,"message1":"","message2":"","message3":"","message4":"","minTurns":10,"motion":0,"name":"物理迴避戲法","note":"<field>","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":366,"autoRemovalTiming":1,"chanceByDamage":25,"traits":[
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":4,"value":0.5},
+		{"code":21,"dataId":2,"value":1.1},
+		{"code":21,"dataId":3,"value":1.1},
+		{"code":21,"dataId":4,"value":1.1},
+		{"code":21,"dataId":5,"value":1.1},
+		{"code":21,"dataId":6,"value":1.1},
+		{"code":21,"dataId":7,"value":1.1}
+	],"iconIndex":1787,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"精靈憑依-玩家用","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
+	{"id":367,"autoRemovalTiming":1,"chanceByDamage":25,"traits":[
+		{"code":22,"dataId":1,"value":-10},
+		{"code":22,"dataId":4,"value":-10}
+	],"iconIndex":1692,"maxTurns":9,"message1":"","message2":"","message3":"","message4":"","minTurns":9,"motion":0,"name":"心眼鎖定","note":"","overlay":0,"priority":50,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":368,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[
 	],"iconIndex":0,"maxTurns":1,"message1":"","message2":"","message3":"","message4":"","minTurns":1,"motion":0,"name":"","note":"","overlay":0,"priority":50,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100},
 	{"id":369,"autoRemovalTiming":0,"chanceByDamage":100,"traits":[

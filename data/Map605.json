@@ -7650,10 +7650,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嘖，沿路上擺著一堆美食，結果老娘吃都"
+				"「嘖，沿路上擺著一堆美食，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"不能吃，氣死了。」\\|\\|\\^"
+				"要不是怕胖不能多吃，氣死老娘了。」\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -7665,7 +7665,7 @@
 				"\\N[4]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「糖果屋的小餅乾好好吃喔。」\\|\\^"
+				"「不過好多好多糖果好好吃喔。」\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -7704,10 +7704,10 @@
 				"\\N[8]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小風說，不管我胖成什麼樣子他都喜歡，"
+				"「不管我胖成什麼樣子，小風應該都會喜歡我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"我一直吃．．．應該不會怎樣吧？」\\|\\|\\^"
+				"吧？我一直吃．．．應該不會怎樣吧？」\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -7719,7 +7719,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊！氣死了，居然讓我來闖這關。」\\|\\^"
+				"「啊！氣死了，讓四位妙齡少女闖來闖這關。」\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -7731,11 +7731,11 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等我出去一定要把果凍扔進粉碎機裡！」\\|\\|\\^"
+				"「等人家出去一定要把那果凍扔進粉碎機裡！」\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
-				10,
+				1,
 				0,
 				2
 			]},
@@ -7743,7 +7743,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「算我一份！」\\|\\^"
+				"「雖然老娘沒見過什麼粉碎機．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但還是算我一份！」\\|\\^"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -7767,10 +7770,25 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"\\TXTCENTER:\"女子聲：　　　　　　　　　\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"原來之前還發生過這種事啊。\\|\\|\\^\""
+				"\\TXTCENTER:\"原來之前還發生過這種事啊。\"\\|\\|\\^"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				2,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"女子聲：　　　　　　　　　　　　　　　　　　　　　　\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"泉晨鎮最近開了一間新的吃到飽餐廳，下次一起去逛逛吧？\"\\|\\|\\^"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -7782,28 +7800,76 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"泉晨鎮最近開了一間新的吃到飽餐廳，下次一起去逛逛吧？\\|\\|\\^\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　　　"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
+				"\\TXTCENTER:\"女子聲：　\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"贊成！！！\\.\\.\\|\\^\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"DEBUG"
+			]},
+			{"code":408,"indent":0,"parameters":[
+				"避免加速玩家沒有站到指定位置"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":122,"indent":1,"parameters":[
+				269,
+				269,
+				0,
+				3,
+				5,
+				-1,
+				0
+			]},
+			{"code":122,"indent":1,"parameters":[
+				270,
+				270,
+				0,
+				3,
+				5,
+				-1,
+				1
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				269,
+				0,
+				21,
+				0
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				270,
+				0,
+				11,
+				0
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":230,"indent":2,"parameters":[
+				1
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":230,"indent":1,"parameters":[
+				1
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"---"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls",
@@ -7869,21 +7935,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「妳們就是挑戰者？」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Kids F",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"？？？"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「那個阿姨怎麼看起來很生氣的樣子，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"好像馬麻喔，天天在生氣。」"
-			]},
 			{"code":203,"indent":0,"parameters":[
 				7,
 				0,
@@ -7948,7 +7999,7 @@
 					{"code":3,"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
+				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
@@ -7972,6 +8023,21 @@
 				{"code":29,"parameters":[
 					4
 				],"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Kids F",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"？？？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個阿姨怎麼看起來很生氣的樣子，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"好像馬麻喔，天天在生氣。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -8074,7 +8140,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
-				10,
+				0,
 				0,
 				2
 			]},
@@ -8090,7 +8156,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				9,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -8226,7 +8292,7 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				2,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_1",
@@ -8721,36 +8787,6 @@
 				"「跟妳們說過多少次了，這樣真的很羞恥。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
-				2,
-				{"list":[
-					{"code":2,"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
-					{"code":3,"indent":null},
-					{"code":4,"indent":null},
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":2,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":3,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
 				4,
 				{"list":[
 					{"code":4,"indent":null},
@@ -8779,6 +8815,36 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				2,
+				{"list":[
+					{"code":2,"indent":null},
+					{"code":4,"indent":null},
+					{"code":4,"indent":null},
+					{"code":3,"indent":null},
+					{"code":4,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":2,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
@@ -8898,6 +8964,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"「咳咳！總之呢，各位美麗的小姐，妳們好。」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
+			]},
 			{"code":231,"indent":0,"parameters":[
 				1,
 				"Recolor_Sailors_2",
@@ -8909,6 +8978,9 @@
 				100,
 				50,
 				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"きらきら輝く6","volume":90,"pitch":100,"pan":0}
@@ -8994,6 +9066,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"友好相處，做個朋友吧。」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
+			]},
 			{"code":231,"indent":0,"parameters":[
 				1,
 				"Recolor_Sailors",
@@ -9005,6 +9080,9 @@
 				100,
 				50,
 				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"きらきら輝く4","volume":90,"pitch":100,"pan":0}
@@ -9137,7 +9215,7 @@
 					{"code":3,"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
+				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
@@ -9526,7 +9604,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
-				9,
+				7,
 				0,
 				2
 			]},
@@ -9534,7 +9612,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不是，妳們在開玩笑吧？」"
+				"「蛤？老娘有沒有聽錯．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"妳們在開玩笑吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -9551,7 +9632,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				7,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -9648,10 +9729,10 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴，是我今天出門沒看黃曆，還是我餓到"
+				"「小鈴，是我今天出門沒看黃曆，還是老娘"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"發瘋了？」"
+				"吃到了大麻蛋糕？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				7,
@@ -9673,14 +9754,11 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雷娜姐姐，我這裡有一根雞肉棒妳先拿去吃"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"吧。」"
+				"「我猜是今天不宜出門．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_1",
-				12,
+				3,
 				0,
 				2
 			]},
@@ -9688,10 +9766,33 @@
 				"\\N[8]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「還是要打嗎？這樣好嗎？要是我們把你打"
+				"「要打架嗎？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"受傷了．．．」"
+				"人家裡氣很大的說．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小心你們幾個別受傷了．．．」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				7,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls",
@@ -9703,7 +9804,7 @@
 				"淑芬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳敢！？」"
+				"「妳敢！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Magic5","volume":90,"pitch":100,"pan":0}
@@ -9711,7 +9812,7 @@
 			{"code":213,"indent":0,"parameters":[
 				4,
 				5,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Bunny Girls",
@@ -9770,28 +9871,11 @@
 			{"code":401,"indent":0,"parameters":[
 				"一個女孩子因為我而落淚，我都會心痛的。」"
 			]},
-			{"code":205,"indent":0,"parameters":[
-				7,
-				{"list":[
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				8,
-				{"list":[
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
 			]},
 			{"code":231,"indent":0,"parameters":[
-				3,
+				1,
 				"Recolor_Sailors_3",
 				1,
 				0,
@@ -9802,8 +9886,11 @@
 				50,
 				0
 			]},
+			{"code":230,"indent":0,"parameters":[
+				1
+			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"きらきら輝く4","volume":90,"pitch":100,"pan":0}
+				{"name":"きらきら輝く6","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":212,"indent":0,"parameters":[
 				5,
@@ -9811,7 +9898,7 @@
 				false
 			]},
 			{"code":232,"indent":0,"parameters":[
-				3,
+				1,
 				0,
 				1,
 				0,
@@ -9825,7 +9912,7 @@
 				true
 			]},
 			{"code":232,"indent":0,"parameters":[
-				3,
+				1,
 				0,
 				1,
 				0,
@@ -9839,7 +9926,7 @@
 				true
 			]},
 			{"code":235,"indent":0,"parameters":[
-				3
+				1
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Girls",
@@ -9998,7 +10085,7 @@
 			{"code":213,"indent":0,"parameters":[
 				7,
 				6,
-				false
+				true
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -10255,6 +10342,9 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
 				12,
@@ -10452,12 +10542,16 @@
 			{"code":205,"indent":0,"parameters":[
 				2,
 				{"list":[
+					{"code":36,"indent":null},
 					{"code":29,"parameters":[
 						5
 					],"indent":null},
 					{"code":1,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":29,"parameters":[
@@ -10470,6 +10564,7 @@
 			{"code":205,"indent":0,"parameters":[
 				3,
 				{"list":[
+					{"code":36,"indent":0},
 					{"code":29,"parameters":[
 						5
 					],"indent":null},
@@ -10478,6 +10573,9 @@
 					{"code":18,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":29,"parameters":[
@@ -10496,6 +10594,7 @@
 			{"code":205,"indent":0,"parameters":[
 				4,
 				{"list":[
+					{"code":36,"indent":0},
 					{"code":29,"parameters":[
 						5
 					],"indent":null},
@@ -10503,7 +10602,10 @@
 					{"code":1,"indent":null},
 					{"code":17,"indent":null},
 					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":29,"parameters":[
@@ -10621,19 +10723,54 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":205,"indent":0,"parameters":[
+				3,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				4,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
 				{"list":[
+					{"code":35,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
 					{"code":2,"indent":null},
-					{"code":19,"indent":null},
+					{"code":36,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":35,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":2,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
+				{"code":36,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				5,
@@ -10655,6 +10792,9 @@
 			{"code":205,"indent":0,"parameters":[
 				11,
 				{"list":[
+					{"code":44,"parameters":[
+						{"name":"49_Open8_B","volume":90,"pitch":100,"pan":0}
+					],"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
 						30
@@ -10667,6 +10807,11 @@
 					{"code":37},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"49_Open8_B","volume":90,"pitch":100,"pan":0}
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":17}
@@ -10709,6 +10854,26 @@
 				],"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
+				3,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				4,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
 				5,
 				{"list":[
 					{"code":1,"indent":null},
@@ -10749,6 +10914,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"「一定什麼難關都能夠過去的。」"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
+			]},
 			{"code":231,"indent":0,"parameters":[
 				1,
 				"Recolor_Sailors",
@@ -10760,6 +10928,9 @@
 				100,
 				50,
 				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"きらきら輝く4","volume":90,"pitch":100,"pan":0}
@@ -10810,7 +10981,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「路人甲先生．．．我們沒有在對的時間點"
+				"「路人甲先生．．．我沒有在對的時間點"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"相遇。」"
@@ -11046,6 +11217,16 @@
 				{"code":16,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
 					{"code":16,"indent":null},
@@ -11225,7 +11406,7 @@
 			{"code":213,"indent":0,"parameters":[
 				4,
 				11,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Kids F",
@@ -11306,7 +11487,7 @@
 			{"code":213,"indent":0,"parameters":[
 				8,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_05_1",
@@ -11370,19 +11551,68 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":39,"indent":null}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				true
+			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
 				{"list":[
+					{"code":18,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":19,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":18,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
 			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				11,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_08_2",
-				1,
+				"BLR_08_1",
+				15,
 				0,
 				2
 			]},
@@ -11411,6 +11641,9 @@
 				1,
 				true
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
+			]},
 			{"code":231,"indent":0,"parameters":[
 				1,
 				"Recolor_Sailors_3",
@@ -11422,6 +11655,9 @@
 				100,
 				50,
 				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"きらきら輝く4","volume":90,"pitch":100,"pan":0}
@@ -11475,7 +11711,10 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				12,
-				false
+				true
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Bunny Girls",
@@ -11489,9 +11728,104 @@
 			{"code":401,"indent":0,"parameters":[
 				"「嗯！妹妹妳也有興趣嗎！？」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_08_2",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[8]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊．．．等等～等等～」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_08_2",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[8]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「人家腦子好亂．．．」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":16,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":19,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				13,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
-				15,
+				14,
 				0,
 				2
 			]},
@@ -11499,7 +11833,37 @@
 				"\\N[4]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「欸？什麼什麼？還要在這邊在多待一下嗎？」"
+				"「欸？大家是怎麼了？沒有要走嗎？」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				4,
+				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_04_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[4]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「既然這樣．．．兔兔先回去把糖果吃光光！」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -11514,20 +11878,37 @@
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
-					{"code":14,"parameters":[
-						0,
-						3
-					],"indent":null},
-					{"code":15,"parameters":[
-						30
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
 					],"indent":null},
 					{"code":14,"parameters":[
 						0,
 						3
 					],"indent":null},
-					{"code":15,"parameters":[
-						30
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
 					],"indent":0},
+					{"code":14,"parameters":[
+						0,
+						3
+					],"indent":null},
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+					],"indent":0},
+					{"code":14,"parameters":[
+						0,
+						3
+					],"indent":null},
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+					],"indent":null},
+					{"code":14,"parameters":[
+						0,
+						3
+					],"indent":null},
+					{"code":44,"parameters":[
+						{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+					],"indent":null},
 					{"code":14,"parameters":[
 						0,
 						3
@@ -11536,14 +11917,8 @@
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":14,"parameters":[
-					0,
-					3
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -11553,9 +11928,42 @@
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					30
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
 				],"indent":0}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+				],"indent":0}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":14,"parameters":[
@@ -11587,8 +11995,63 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哎呀哎呀。」\\|\\^"
 			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":230,"indent":0,"parameters":[
+				180
+			]},
 			{"code":108,"indent":0,"parameters":[
-				"結束，天使自己接。"
+				"判斷餅乾吃了沒，有沒有騙糖果精靈"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				8,
+				159
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Fairies",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"氣死人了！妳們不是說餅乾會吃完嗎？"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"怎麼\\ii[159]還有剩！"
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Buzzer2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"糖果精靈的好感下降！"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				""
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"(大概吧．．．)"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				606,
+				15,
+				8,
+				8,
+				0
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -11644,5 +12107,257 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":21,"y":6},
+	{"id":12,"name":"機器人G","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1085},"directionFix":false,"image":{"tileId":0,"characterName":"Robot-1","direction":8,"pattern":1,"characterIndex":3},"list":[
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				2,
+				"A",
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「加油！」"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_G",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「怎麼？要領取ＧＧ的救命寶箱嗎？」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"救命寶箱，這是什麼？",
+					"領取",
+					"先離開"
+				],
+				2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"救命寶箱，這是什麼？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「這是\\C[2]『賭注』\\C[0]，ＧＧ均會在三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的BOSS前面等你，賭你\\C[2]能否用\\C[3]起始資源\\C[0]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"就打贏關卡頭目？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「若你\\C[2]不領取\\C[0]寶箱，在三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"結束後，將能夠取得\\C[2]較多的獎勵\\C[0]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「反之．．．一旦你領取寶箱，等三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"結束後，就只能夠拿到較少的獎勵，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]救命寶箱拿越多、獎勵越少\\C[0]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「用人類的話來說．．．就是倒吃甘蔗～"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"不拿寶箱就是先苦後甘、"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"拿了寶箱就是先甘後苦。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「要不要開啟救命寶箱，自己好好思考吧！」"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"領取"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「確定要領取ＧＧ的救命寶箱嗎？」"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確定領取",
+					"沒事，我手滑"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確定領取"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":128,"indent":2,"parameters":[
+				871,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":126,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				214,
+				0,
+				0,
+				20
+			]},
+			{"code":126,"indent":2,"parameters":[
+				215,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得\\ni[96]10個、\\ni[214]20個、"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\na[871]、\\ni[215]。"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				273,
+				273,
+				1,
+				0,
+				1
+			]},
+			{"code":123,"indent":2,"parameters":[
+				"A",
+				0
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"沒事，我手滑"
+			]},
+			{"code":119,"indent":2,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"先離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":11,"y":8},
 	null
 ]}
