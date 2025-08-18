@@ -20449,9 +20449,9 @@
 		{"conditionParam1":410,"conditionParam2":0,"conditionType":4,"rating":1,"skillId":1198},
 		{"conditionParam1":411,"conditionParam2":0,"conditionType":4,"rating":2,"skillId":1199},
 		{"conditionParam1":411,"conditionParam2":0,"conditionType":4,"rating":2,"skillId":1200},
-		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1201},
-		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1202},
-		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1203}
+		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":6,"skillId":1201},
+		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":6,"skillId":1202},
+		{"conditionParam1":412,"conditionParam2":0,"conditionType":4,"rating":6,"skillId":1203}
 	],"battlerHue":0,"battlerName":"DLC_4emperor_Shadow","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20508,13 +20508,14 @@
 		600
 	]},
 	{"id":459,"actions":[
-		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":1,"skillId":1205},
-		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":1,"skillId":1206},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1207},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1208},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1209},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1210},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1211}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1209},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1208},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1205},
+		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":5,"skillId":1206},
+		{"conditionParam1":0,"conditionParam2":6,"conditionType":1,"rating":5,"skillId":1207},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1211}
 	],"battlerHue":0,"battlerName":"DLC_4emperor_Beevo","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20560,7 +20561,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"@碧瑚","note":"","params":[
+	],"gold":0,"name":"碧瑚","note":"","params":[
 		40000,
 		9999,
 		500,
@@ -21108,7 +21109,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1361},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1362},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1363},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1364}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1364}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21168,7 +21170,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1357},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1358},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1359},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1360}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1360}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21228,7 +21231,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1365},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1366},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1367},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1368}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1368}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21288,8 +21292,9 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1369},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1370},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1371},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1372},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1373}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1372},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1373}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21463,17 +21468,15 @@
 		10
 	]},
 	{"id":482,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1376}
+	],"battlerHue":0,"battlerName":"WHITE","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
+		{"code":22,"dataId":1,"value":-1}
+	],"gold":0,"name":"大地種子","note":"","params":[
+		3000,
 		0,
 		10,
 		10,
@@ -21483,16 +21486,14 @@
 		10
 	]},
 	{"id":483,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1378}
+	],"battlerHue":0,"battlerName":"box","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
+		{"code":22,"dataId":1,"value":-1}
+	],"gold":0,"name":"大地魔花","note":"<死時技能:[[1377,1]]>","params":[
 		100,
 		0,
 		10,
@@ -21503,22 +21504,19 @@
 		10
 	]},
 	{"id":484,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+	],"battlerHue":0,"battlerName":"Earth","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
+		{"code":22,"dataId":1,"value":-1}
+	],"gold":0,"name":"遙望之壁","note":"","params":[
+		10000,
 		0,
 		10,
+		999,
 		10,
-		10,
-		10,
+		999,
 		10,
 		10
 	]},
