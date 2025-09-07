@@ -1534,6 +1534,9 @@
 			{"code":408,"indent":0,"parameters":[
 				"極慢：0"
 			]},
+			{"code":108,"indent":0,"parameters":[
+				"超極慢：-20000"
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
