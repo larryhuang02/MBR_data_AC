@@ -11151,7 +11151,7 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_Actor_Angel","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
-				11,
+				2,
 				0,
 				2
 			]},
@@ -11159,7 +11159,7 @@
 				"\\n[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「達令自己一個人沒問題嗎．．．」"
+				"「達令～人家沒跟達令在一起～」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

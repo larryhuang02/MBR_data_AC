@@ -1865,8 +1865,8 @@
 	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"爾貝媽的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items704.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":705,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
 	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"莉比卡的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items705.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":706,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"欠條，上面寫著借款人的個人資料與備註。\n細節請按下\\i[1638]確認。","effects":[
-	],"hitType":0,"iconIndex":193,"itypeId":2,"name":"莉比卡的欠條","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items705.txt>","occasion":3,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":706,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":707,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":708,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

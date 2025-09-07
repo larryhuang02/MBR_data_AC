@@ -83,13 +83,7 @@
 		{"code":22,"dataId":1,"value":-1},
 		{"code":22,"dataId":4,"value":-1}
 	]},
-	{"id":20,"autoRemovalTiming":1,"chanceByDamage":25,"iconIndex":1771,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"overlay":0,"name":"入侵","note":"","priority":50,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
-		{"code":21,"dataId":2,"value":0.5},
-		{"code":21,"dataId":3,"value":0.5},
-		{"code":21,"dataId":4,"value":0.5},
-		{"code":21,"dataId":5,"value":0.5},
-		{"code":21,"dataId":6,"value":0.5},
-		{"code":21,"dataId":7,"value":0.5}
+	{"id":20,"autoRemovalTiming":1,"chanceByDamage":25,"iconIndex":1771,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":5,"motion":0,"overlay":0,"name":"入侵","note":"實際效果做在每個機器人enemy的行動內\n僅對絕無城部分的機器人有設計","priority":50,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 	]},
 	{"id":21,"autoRemovalTiming":1,"chanceByDamage":100,"iconIndex":14,"maxTurns":5,"message1":"","message2":"","message3":"","message4":"","minTurns":3,"motion":0,"name":"冷血","note":"","overlay":0,"priority":30,"releaseByDamage":false,"removeAtBattleEnd":true,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":0,"stepsToRemove":100,"traits":[
 		{"code":22,"dataId":2,"value":0.35},

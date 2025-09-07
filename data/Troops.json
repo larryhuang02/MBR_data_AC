@@ -13164,40 +13164,80 @@
 		],"span":0}
 	]},
 	{"id":348,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":595,"x":153,"y":379,"hidden":false},
+		{"enemyId":598,"x":297,"y":444,"hidden":false}
+	],"name":"烈焰武衛, 冰衛護者","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":349,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":596,"x":198,"y":444,"hidden":false},
+		{"enemyId":597,"x":405,"y":193,"hidden":false},
+		{"enemyId":597,"x":120,"y":217,"hidden":false}
+	],"name":"蠍型重炮獸, 鐵刺浮爪*2","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":350,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":599,"x":426,"y":358,"hidden":false},
+		{"enemyId":599,"x":321,"y":444,"hidden":false},
+		{"enemyId":595,"x":159,"y":391,"hidden":false}
+	],"name":"次元哨兵*2, 烈焰武衛","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":351,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":597,"x":354,"y":217,"hidden":false},
+		{"enemyId":597,"x":117,"y":226,"hidden":false},
+		{"enemyId":598,"x":249,"y":408,"hidden":false}
+	],"name":"鐵刺浮爪*2, 冰衛護者","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":352,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":596,"x":192,"y":444,"hidden":false},
+		{"enemyId":599,"x":462,"y":337,"hidden":false},
+		{"enemyId":599,"x":462,"y":444,"hidden":false},
+		{"enemyId":597,"x":324,"y":217,"hidden":false}
+	],"name":"蠍型重炮獸, 次元哨兵*2, 鐵刺浮爪","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@NOTE"]},
+			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75}>"]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":353,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":600,"x":160,"y":384,"hidden":false},
+		{"enemyId":601,"x":112,"y":444,"hidden":false}
+	],"name":"次元鐵衛, 次元鐵衛","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":111,"indent":0,"parameters":[0,4,0]},
+			{"code":333,"indent":1,"parameters":[0,0,50]},
+			{"code":333,"indent":1,"parameters":[1,0,50]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":0}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":4,"turnEnding":false,"turnValid":true},"list":[
+			{"code":121,"indent":0,"parameters":[21,21,0]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":2,"turnB":4,"turnEnding":false,"turnValid":true},"list":[
+			{"code":121,"indent":0,"parameters":[22,22,0]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":1}
 	]},
 	{"id":354,"members":[
 	],"name":"","pages":[

@@ -4920,8 +4920,17 @@
 		0,
 		150
 	],"price":0},
-	{"id":411,"atypeId":14,"description":"月藍國的最終神衣，創造者似乎很著重大膽的外觀設計。\n防禦、魔防、幸運+150，被爆擊率-100%","etypeId":4,"traits":[
-		{"code":22,"dataId":3,"value":1}
+	{"id":411,"atypeId":14,"description":"月藍國的最終神衣，創造者似乎很著重大膽的外觀設計。\n雙防+150，抗爆率+100%，大幅提高八種元素抗性","etypeId":4,"traits":[
+		{"code":53,"dataId":4,"value":1},
+		{"code":22,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":11,"dataId":5,"value":0.5},
+		{"code":11,"dataId":6,"value":0.5},
+		{"code":11,"dataId":7,"value":0.5},
+		{"code":11,"dataId":8,"value":0.5},
+		{"code":11,"dataId":9,"value":0.5},
+		{"code":11,"dataId":10,"value":0.5},
+		{"code":11,"dataId":11,"value":0.5}
 	],"iconIndex":7,"name":"神衣「Tifa」","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors411.txt>","params":[
 		0,
 		0,
@@ -4930,7 +4939,7 @@
 		0,
 		150,
 		0,
-		150
+		0
 	],"price":0},
 	{"id":412,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
@@ -10629,8 +10638,8 @@
 		0,
 		200
 	],"price":0},
-	{"id":877,"atypeId":31,"description":"「兼用飾品」HP、MP上限、全能力+100，免疫全狀態異常\n中幅提升自身斬刺鈍屬、八種元素抗性，","etypeId":5,"traits":[
-		{"code":14,"dataId":6,"value":1},
+	{"id":877,"atypeId":31,"description":"HP、MP上限、全能力+100，免疫全狀態異常\n大幅提升自身斬刺鈍屬抗性。","etypeId":5,"traits":[
+		{"code":53,"dataId":5,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
 		{"code":14,"dataId":9,"value":1},
@@ -10644,27 +10653,19 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
-		{"code":11,"dataId":3,"value":0.7},
-		{"code":11,"dataId":4,"value":0.7},
-		{"code":11,"dataId":5,"value":0.7},
-		{"code":11,"dataId":6,"value":0.7},
-		{"code":11,"dataId":7,"value":0.7},
-		{"code":11,"dataId":8,"value":0.7},
-		{"code":11,"dataId":9,"value":0.7},
-		{"code":11,"dataId":10,"value":0.7},
-		{"code":11,"dataId":11,"value":0.7}
-	],"iconIndex":134,"name":"露西之環","note":"<autoState:78>","params":[
-		120,
-		120,
-		120,
-		120,
-		120,
-		120,
-		120,
-		120
-	],"price":2},
+		{"code":11,"dataId":1,"value":0.5},
+		{"code":11,"dataId":2,"value":0.5},
+		{"code":11,"dataId":3,"value":0.5}
+	],"iconIndex":134,"name":"露西之環","note":"<autoState:78>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors877.txt>","params":[
+		100,
+		100,
+		100,
+		100,
+		100,
+		100,
+		100,
+		100
+	],"price":0},
 	{"id":878,"atypeId":31,"description":"「兼用飾品」全能力+100","etypeId":5,"traits":[
 	],"iconIndex":142,"name":"摘星手套","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors878.txt>","params":[
 		0,
