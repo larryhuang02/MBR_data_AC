@@ -13222,6 +13222,25 @@
 		{"enemyId":600,"x":160,"y":384,"hidden":false},
 		{"enemyId":601,"x":112,"y":444,"hidden":false}
 	],"name":"次元鐵衛, 次元鐵衛","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":250,"indent":0,"parameters":[{"name":"Wind1","volume":90,"pitch":150,"pan":0}]},
+			{"code":250,"indent":0,"parameters":[{"name":"Move7_B","volume":90,"pitch":150,"pan":0}]},
+			{"code":224,"indent":0,"parameters":[[255,255,255,170],30,false]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,680,180,100,100,75,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,600,180,100,100,150,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,520,180,100,100,255,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,440,180,100,100,255,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,360,180,100,100,150,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":231,"indent":0,"parameters":[1,"BLR_GreenLeafSV01_01",0,0,300,180,100,100,75,0]},
+			{"code":230,"indent":0,"parameters":[5]},
+			{"code":235,"indent":0,"parameters":[1]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":111,"indent":0,"parameters":[0,4,0]},
 			{"code":333,"indent":1,"parameters":[0,0,50]},
@@ -14829,13 +14848,16 @@
 		],"span":0}
 	]},
 	{"id":443,"members":[
+		{"enemyId":472,"x":144,"y":367,"hidden":false}
 	],"name":"預開哈瑞","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":122,"indent":0,"parameters":[444,444,0,0,1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
 	{"id":444,"members":[
-		{"enemyId":467,"x":132,"y":334,"hidden":false}
+		{"enemyId":470,"x":228,"y":328,"hidden":false},
+		{"enemyId":471,"x":135,"y":400,"hidden":false}
 	],"name":"預開鐵特與茉莉","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":0,"indent":0,"parameters":[]}
@@ -15339,8 +15361,78 @@
 		{"enemyId":475,"x":216,"y":295,"hidden":false},
 		{"enemyId":476,"x":303,"y":361,"hidden":false},
 		{"enemyId":477,"x":111,"y":370,"hidden":false}
-	],"name":"預開綠葉傭兵團","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+	],"name":"綠葉傭兵團","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":333,"indent":0,"parameters":[-1,0,5]},
+			{"code":333,"indent":0,"parameters":[0,1,5]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":2,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["Recolor_Evil Generals M",3,0,2]},
+			{"code":401,"indent":0,"parameters":["傅面"]},
+			{"code":401,"indent":0,"parameters":["「唉呦！重影啊，你這魔法真厲害！」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Ninjas",2,0,2]},
+			{"code":401,"indent":0,"parameters":["重影"]},
+			{"code":401,"indent":0,"parameters":["「這叫做忍術．．．．．．」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Evil Generals M",3,0,2]},
+			{"code":401,"indent":0,"parameters":["傅面"]},
+			{"code":401,"indent":0,"parameters":["「隨便啦！都它娘的一樣！」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Evil Swordmen",3,0,2]},
+			{"code":401,"indent":0,"parameters":["刀疤"]},
+			{"code":401,"indent":0,"parameters":["「沒錯，這什麼忍術真厲害，你上哪學的啊？」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Evil Swordmen",3,0,2]},
+			{"code":401,"indent":0,"parameters":["刀疤"]},
+			{"code":401,"indent":0,"parameters":["「被那些娘們打一點也不痛耶。」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Thieves",3,0,2]},
+			{"code":401,"indent":0,"parameters":["曉卒"]},
+			{"code":401,"indent":0,"parameters":["「哈哈哈！打我啊打我啊！一點也不痛！」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Ninjas",2,0,2]},
+			{"code":401,"indent":0,"parameters":["重影"]},
+			{"code":401,"indent":0,"parameters":["「你們都是屍體，被打當然不痛了。」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Ninjas",2,0,2]},
+			{"code":401,"indent":0,"parameters":["重影"]},
+			{"code":401,"indent":0,"parameters":["「你們不要這麼肆無忌憚，我的魔力也不是"]},
+			{"code":401,"indent":0,"parameters":["無限的。」"]},
+			{"code":101,"indent":0,"parameters":["Recolor_Ninjas",2,0,2]},
+			{"code":401,"indent":0,"parameters":["重影"]},
+			{"code":401,"indent":0,"parameters":["「等等要是玩脫了，你們不到一個小時就得"]},
+			{"code":401,"indent":0,"parameters":["回地府報到了。」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":4,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_02_1",1,0,2]},
+			{"code":401,"indent":0,"parameters":["\\N[2]"]},
+			{"code":401,"indent":0,"parameters":["「大家！集中攻擊重影先生！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_02_1",1,0,2]},
+			{"code":401,"indent":0,"parameters":["\\N[2]"]},
+			{"code":401,"indent":0,"parameters":["「這個魔法，應該只要打倒施術者就能解除！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_02_1",10,1,2]},
+			{"code":401,"indent":0,"parameters":["其實人家也不確定是不是這樣．．．．．．"]},
+			{"code":101,"indent":0,"parameters":["BLR_02_1",10,1,2]},
+			{"code":401,"indent":0,"parameters":["要是真的像我猜的一樣．．．"]},
+			{"code":401,"indent":0,"parameters":["這個魔法不就是．．．"]},
+			{"code":101,"indent":0,"parameters":["BLR_02_1",10,1,2]},
+			{"code":401,"indent":0,"parameters":["這樣的話．．．\\N[11]她．．．"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":6,"turnEnding":false,"turnValid":true},"list":[
+			{"code":101,"indent":0,"parameters":["BLR_11_01",3,0,2]},
+			{"code":401,"indent":0,"parameters":["\\N[11]"]},
+			{"code":401,"indent":0,"parameters":["「嘖！麻煩死了！就算要我攻擊施術者，"]},
+			{"code":401,"indent":0,"parameters":["但是那些傢伙一直妨礙我啊！」"]},
+			{"code":101,"indent":0,"parameters":["BLR_16_1",1,0,2]},
+			{"code":401,"indent":0,"parameters":["\\N[16]"]},
+			{"code":401,"indent":0,"parameters":["「打倒YH).§㊣，停止◎＜∕！」"]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":582,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":108,"indent":0,"parameters":["【小老鼠PARALLEL】為程式判斷用，不可刪除"]},
+			{"code":111,"indent":0,"parameters":[5,0,1,1]},
+			{"code":333,"indent":1,"parameters":[-1,1,5]},
+			{"code":333,"indent":1,"parameters":[-1,0,1]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
