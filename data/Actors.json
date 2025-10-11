@@ -183,15 +183,14 @@
 		0
 	],"faceIndex":0,"faceName":"BLR_BigSun","traits":[
 	],"initialLevel":1,"maxLevel":99,"name":"大陽","nickname":"","note":"","profile":""},
-	{"id":19,"battlerName":"BLR_WindRinRin_MZ_SV","characterIndex":2,"characterName":"BLR_Yuter_MV01","classId":8,"equips":[
+	{"id":19,"battlerName":"","characterIndex":0,"characterName":"Monster_20190405_1372700","classId":20,"equips":[
 		155,
-		606,
+		0,
 		35,
 		334,
-		857
-	],"faceIndex":1,"faceName":"BLR_07_1","traits":[
-		{"code":43,"dataId":148,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"TEST","nickname":"穿越者","note":"","profile":"王都考古團的分隊長，擁有相當程度的戰鬥能力，沒人知道\n她到底是出生於哪裡，身分是個謎，除此之外癡迷壯漢。"},
+		0
+	],"faceIndex":1,"faceName":"","traits":[
+	],"initialLevel":1,"maxLevel":1,"name":"玩家","nickname":"玩家","note":"","profile":""},
 	{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,

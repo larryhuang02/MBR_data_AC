@@ -963,11 +963,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6900,
+	6924,
+	6924,
+	6924,
+	6904,
 	6896,
 	6896,
 	6896,
@@ -1063,11 +1063,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	7958,
+	7962,
+	7955,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1163,11 +1163,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	7964,
+	1584,
+	7961,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1263,11 +1263,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	1584,
+	1584,
+	1584,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1363,11 +1363,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	1584,
+	1584,
+	1584,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1463,11 +1463,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	1584,
+	1584,
+	1584,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1563,11 +1563,11 @@
 	6896,
 	6896,
 	6896,
-	6896,
-	6896,
-	6896,
-	6896,
-	6896,
+	6920,
+	1584,
+	1584,
+	1584,
+	6912,
 	6896,
 	6896,
 	6896,
@@ -1663,11 +1663,11 @@
 	6924,
 	6924,
 	6924,
-	6924,
-	6924,
-	6924,
-	6924,
-	6924,
+	6934,
+	1584,
+	1584,
+	1584,
+	6936,
 	6904,
 	6896,
 	6896,
@@ -41165,50 +41165,6 @@
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
 	5,
 	0,
 	0,
@@ -41253,108 +41209,7 @@
 	0,
 	0,
 	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
 	5,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
-	0,
 	0,
 	0,
 	0,
@@ -41454,7 +41309,7 @@
 	0,
 	0,
 	0,
-	0,
+	5,
 	0,
 	0,
 	0,
@@ -41554,7 +41409,7 @@
 	0,
 	0,
 	0,
-	0,
+	5,
 	0,
 	0,
 	0,
@@ -41654,6 +41509,7 @@
 	0,
 	0,
 	0,
+	5,
 	0,
 	0,
 	0,
@@ -41665,6 +41521,150 @@
 	0,
 	0,
 	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	5,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	5,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	5,
 	0,
 	0,
 	0,
@@ -60100,7 +60100,7 @@
 				0
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"$gameParty.selectPack(2);"
+				"$gameParty.selectPack(3);"
 			]},
 			{"code":281,"indent":0,"parameters":[
 				0
@@ -60399,21 +60399,9 @@
 				"「隊長則是讓\\N[11]妳來擔任！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
-				8,
+				-1,
 				8,
 				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\n[2]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「達令～人家沒跟達令在一起～」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				2,
@@ -60430,13 +60418,13 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳們的目標也很簡單．．．"
+				"「妳們的目標也很簡單．．．在這遺跡的深處，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"在這遺跡的深處，有著一個古代遺物「創造"
+				"有著一個古代遺物「王之遺珍」，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"之盒」，只要妳們能夠取回遺物即可！」"
+				"只要妳們能夠取回遺物即可！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -60451,7 +60439,7 @@
 				"「你們把它拿回來以後，我就會幫你們打開"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"通往下一個關卡的門！」"
+				"通往大廳的門！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -60470,7 +60458,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
-				0,
+				6,
 				0,
 				2
 			]},
@@ -60478,10 +60466,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過古代遺物本來就是很搶手的東西，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"說不定會有其他人跟你們搶！」"
+				"「小心被人捷足先登了喔，喔齁齁～」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -60489,7 +60474,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_02",
+				"BLR_11_01",
 				2,
 				0,
 				2
@@ -60498,7 +60483,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可能會有其他競爭者是嗎，"
+				"「意思是會有臭小偷嗎？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"看起來要趕時間了．．．」"
@@ -60678,91 +60663,68 @@
 			{"code":401,"indent":0,"parameters":[
 				"默哀。」"
 			]},
-			{"code":213,"indent":0,"parameters":[
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
+					{"code":4,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
 				2,
-				8,
-				true
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				30
-			]},
-			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				3
-			]},
-			{"code":117,"indent":0,"parameters":[
-				258
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_JellySlime",
-				0,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"小果凍"
+				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而那個箱子裡面，放著各位的一些起始裝備"
+				"「別再碎碎念了，你就等著看好戲吧！」"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"，記得出發前去拿啊！」"
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				30
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":1,"indent":null},
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":38,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
 			]},
-			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				4
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
 			]},
-			{"code":117,"indent":0,"parameters":[
-				258
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_JellySlime",
-				6,
-				0,
-				2
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"小果凍"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「也別忘記\\C[2]\\{儲物箱！\\C[0]\\}"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"裡面或許有你們其他隊夥伴的善心喔。」"
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				30
-			]},
-			{"code":122,"indent":0,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":0,"parameters":[
-				258
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -60777,16 +60739,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"雖然說我們的戰鬥力絕對沒問題．．．"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -60935,8 +60887,6 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":34,"indent":null}
 			]},
-			{"code":222,"indent":0,"parameters":[
-			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"03_Passage_of_Eternal_Times","volume":50,"pitch":100,"pan":0}
 			]},
@@ -60983,20 +60933,6 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
-				9,
-				{"list":[
-					{"code":3,"indent":null},
-					{"code":19,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":3,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":19,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
 				10,
 				{"list":[
 					{"code":1,"indent":null},
@@ -61013,11 +60949,25 @@
 			{"code":205,"indent":0,"parameters":[
 				158,
 				{"list":[
-					{"code":1,"indent":null},
 					{"code":3,"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":1,"indent":null},
+					{"code":3,"indent":null},
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
@@ -61027,6 +60977,18 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				1,
+				true
+			]},
+			{"code":222,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -61039,6 +61001,11 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「你們回來啦，有把古代遺物帶回來嗎？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61062,94 +61029,23 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「剛剛進遺跡的時候忘記問你，你要古代遺物"
+				"「剛剛進遺跡的時候忘記問你，那個王之遺珍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"做什麼？」"
-			]},
-			{"code":242,"indent":0,"parameters":[
-				3
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_JellySlime",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"小果凍"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「其實我也不知道有什麼用，就是覺得很帥，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"所以才請你們幫我找？」"
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				7,
-				8,
-				false
-			]},
-			{"code":213,"indent":0,"parameters":[
-				8,
-				8,
-				false
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_06_1",
-				9,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[6]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_16_1",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[16]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_02_1",
-				5,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[2]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
-			]},
-			{"code":221,"indent":0,"parameters":[
-			]},
-			{"code":241,"indent":0,"parameters":[
-				{"name":"2000_Shop3","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Sword4","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":108,"indent":0,"parameters":[
-				"亮出球棒 痛扁一頓小果凍"
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
+				"是做什麼用的啊？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				1,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				13,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -61161,7 +61057,967 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哇！你亮出球棒做什麼！？你舉起來幹嘛！」"
+				"「做什麼用的？沒做什麼阿，就是這次的考核"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"目標！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「你們該不會連看都沒看到，沒有取回來吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯，當然有看到過．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是個圓圓軟軟的淡綠色東西。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「呶～我手上的這個就是了吧！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊！太棒了！你們果然是最厲害的！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個．．．重影，你拿去吧。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸？這是什麼麼意思？」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那個什麼王之遺珍我們拿到了，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但重影比我更需要，所以讓給他了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊？又讓給他了，這樣考驗就算失敗了喔。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸！可是你又說這東西沒什麼用。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「既然沒什麼用，那送給他也沒什麼關係吧？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然的確沒什麼用，但那是我的．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"本果凍擺放的東西，哪有把本果凍的東西"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"拿去送人的道理？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「小氣鬼！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嘿嘿嘿，誰叫本果凍是關主呢？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「小果凍君，這東西就送給我們咩～"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"反正這可愛的古代遺物對你也不重要。」"
+			]},
+			{"code":242,"indent":0,"parameters":[
+				2
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				12,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「居然說本果凍的便便可愛，真．．．」\\|\\^"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				1,
+				true
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊！沒事，不是便便，絕對不是便便。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				8,
+				true
+			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"2000_Shop3","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「便便？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_06_1",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「排泄物？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_16_1",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[16]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我居然還拿在手上！？」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不．．．不可能啊，陛下怎麼會指派這個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"任務給我？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這沒道理啊，應該是大家聽錯了吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「對咩對咩，聽錯了聽錯了，本爺絕對不認識"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"那個高印堂老爺爺，也絕對沒有跟他商量這場"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"考驗。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				1,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				13,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「總之，什麼都沒發生，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"一切什麼事情都沒發生！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「假的，耳朵業障重！」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				8,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				10,
+				8,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				8,
+				true
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Sword4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					255,
+					255,
+					255
+				],
+				15,
+				false
+			]},
+			{"code":230,"indent":0,"parameters":[
+				15
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Sword6","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哇！妳拔刀出來做什麼！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「還有妳！亮出球棒做什麼！？明明是法師"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"哪來的球棒？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_06_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不解．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_06_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「系統告訴我，炙肉串＋１。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_06_1",
+				12,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「膠狀物的肉肉能炙燒出美美口感。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_06_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[6]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我．．．負責切切跟燒火。」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Wind7","volume":90,"pitch":50,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				15
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Wind7","volume":90,"pitch":50,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然人家不擅長料理，但也知道肉先捶打"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"捶打，可以軟化肉質、增加嫩度。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然不知道像是水母般的肉打起來會不會"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"散架，但本小姐有實踐的精神！」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「．．．」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「調味交給人家好了，人家知道達令喜歡怎麼"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"樣的味道。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_16_1",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[16]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我█▼吃！」"
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「反對暴力～\\{反對暴力！～」\\|\\|\\^"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{\\{\\{「反對暴力！」\\|\\^"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"jelly-kick","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow6","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow10","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"jelly-kick","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow10","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow2","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"jelly-kick","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow2","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[2]報告～這個肉有點難切。\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[5]從這裡從這裡，從這個洞督進去！\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{「住手！」"
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Blow4","volume":90,"pitch":100,"pan":0}
@@ -61177,7 +62033,7 @@
 				true
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Blow4","volume":90,"pitch":100,"pan":0}
+				{"name":"Blow6","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -61188,10 +62044,71 @@
 				],
 				15,
 				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Blow4","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[4]嗯？什麼東西噴出來了？\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[5]大概是Ｘ汁吧，保留好，　　　　\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[5]說不定還可以多做一道九轉大腸。\""
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{\\{「住手！」"
+			]},
 			{"code":224,"indent":0,"parameters":[
 				[
 					255,
@@ -61203,7 +62120,7 @@
 				true
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Blow3","volume":90,"pitch":60,"pan":0}
+				{"name":"Blow6","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -61216,7 +62133,16 @@
 				true
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Blow3","volume":90,"pitch":60,"pan":0}
+				{"name":"jelly-kick","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow10","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"jelly-kick","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -61229,7 +62155,7 @@
 				true
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Blow3","volume":90,"pitch":60,"pan":0}
+				{"name":"Blow10","volume":90,"pitch":60,"pan":0}
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -61239,6 +62165,161 @@
 					170
 				],
 				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"slimejump","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow2","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Blow8","volume":90,"pitch":60,"pan":0}
+			]},
+			{"code":224,"indent":0,"parameters":[
+				[
+					255,
+					0,
+					0,
+					170
+				],
+				15,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[6]只切＃※☆夠吃●☆？\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[5]說得也是，那品涵妳把剩下的部分都切掉好了。\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\TXTCENTER:\"\\C[5]留下張嘴巴能說話就可以了。\""
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\{\\{\\{「住手啊啊啊啊！」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				120
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				645,
+				14,
+				11,
+				4,
+				0
+			]},
+			{"code":203,"indent":0,"parameters":[
+				2,
+				0,
+				0,
+				0,
+				0
+			]},
+			{"code":203,"indent":0,"parameters":[
+				163,
+				0,
+				13,
+				11,
+				0
+			]},
+			{"code":203,"indent":0,"parameters":[
+				8,
+				0,
+				12,
+				11,
+				6
+			]},
+			{"code":203,"indent":0,"parameters":[
+				9,
+				0,
+				13,
+				10,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
+				10,
+				0,
+				13,
+				12,
+				8
+			]},
+			{"code":203,"indent":0,"parameters":[
+				158,
+				0,
+				16,
+				10,
+				4
+			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"03_Passage_of_Eternal_Times","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					0,
+					0,
+					0,
+					0
+				],
+				60,
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
@@ -61255,7 +62336,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				11,
+				2,
 				0,
 				2
 			]},
@@ -61270,7 +62351,43 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				11,
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這手感真好啊～。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗚嗚嗚～」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「總之，我們應該算是通過考驗了吧？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
 				0,
 				2
 			]},
@@ -61290,10 +62407,10 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．古代遺物．．．」"
+				"「可是．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Sword4","volume":90,"pitch":100,"pan":0}
+				{"name":"Sword6","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61322,6 +62439,76 @@
 			{"code":401,"indent":0,"parameters":[
 				"打了！」"
 			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				12
+			]},
+			{"code":117,"indent":0,"parameters":[
+				258
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Key","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				163
+			]},
+			{"code":117,"indent":0,"parameters":[
+				258
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「門開了，你們走進去後就可以回到大廳了，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影也可以傳送回王都了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_JellySlime",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「後面你們自便，本果凍要去療傷了．．．」"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
 				4,
@@ -61332,7 +62519,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是的，這麼兇以後小心嫁不出去。」"
+				"「妳這麼兇以後小心嫁不出去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61362,8 +62549,8 @@
 				"一開始就該把你往死裡扁。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_02",
-				3,
+				"BLR_11_01",
+				11,
 				0,
 				2
 			]},
@@ -61371,14 +62558,161 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你先走吧。」"
+				"「把你打的比渦蟲還要扁！」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				20
+			]},
+			{"code":212,"indent":0,"parameters":[
+				163,
+				479,
+				false
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":203,"indent":0,"parameters":[
+				163,
+				0,
+				0,
+				0,
+				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				20
+			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":230,"indent":0,"parameters":[
+				90
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":4,"indent":null},
+					{"code":3,"indent":null},
+					{"code":3,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":3,"indent":null},
+					{"code":3,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
+					{"code":3,"indent":null},
+					{"code":3,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":4,"indent":null},
+					{"code":3,"indent":null},
+					{"code":3,"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":38,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
 			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"Scene1","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
-				3,
+				4,
 				0,
 				2
 			]},
@@ -61386,7 +62720,104 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「幫我把那個古代遺物拿去交給帕卡爺爺。」"
+				"「從這裡，應該就可以離開了對吧。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
+					{"code":3,"indent":null},
+					{"code":4,"indent":null},
+					{"code":17,"indent":null},
+					{"code":38,"indent":null},
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「記得要把這個『\\{古代遺物\\}』"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"交給帕卡爺爺啊。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -61398,11 +62829,11 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．」"
+				"「陛下他．．．不會收吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
-				11,
+				14,
 				0,
 				2
 			]},
@@ -61410,7 +62841,73 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好啦，別婆婆媽媽的，本小姐叫你去就去！」"
+				"「哈哈，想當然。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				1,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「啊～對了。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
@@ -61445,6 +62942,11 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":213,"indent":0,"parameters":[
+				158,
+				1,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
 				2,
@@ -61456,6 +62958,64 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「這麼多！？全都是古代遺物？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				10,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當然不是，你以為這東西多到爛大街嗎？"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"只是我虧欠帕卡爺爺的一些心意而已。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不過．．．其中這一個倒是古代遺物，雖然"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"功能有點雞肋，但就送給你吧。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「至於他的功能，相信帕卡爺爺自己能夠研究"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"出來。」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -61497,10 +63057,29 @@
 				"「好吧，我就不過問了，小姐，謝謝妳，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"因為有妳的幫助，柚曦應該很快就可以被"
+				"希望柚曦很快就可以被放出來。」"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"放出來了。」"
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":15,"parameters":[
+						60
+					],"indent":null},
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					60
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -61516,6 +63095,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"我們的婚禮。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -61540,6 +63129,212 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「那我就先離開了，真的很謝謝你們。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":15,"parameters":[
+						30
+					],"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					30
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				158,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":44,"parameters":[
+						{"name":"Move1","volume":90,"pitch":100,"pan":0}
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Move1","volume":90,"pitch":100,"pan":0}
+				],"indent":null}
+			]},
+			{"code":203,"indent":0,"parameters":[
+				158,
+				0,
+				0,
+				0,
+				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":37,"indent":null},
+					{"code":29,"parameters":[
+						3
+					],"indent":null},
+					{"code":2,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":38,"indent":null},
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":37,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					3
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":2,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				9,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「妳們看什麼看啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -61577,17 +63372,13 @@
 			{"code":401,"indent":0,"parameters":[
 				"「．．．．．．」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				11,
-				0,
-				2
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「妳們看什麼看啊！」"
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				7,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61601,15 +63392,62 @@
 			{"code":401,"indent":0,"parameters":[
 				"「一群笨機器，哼！走了啦！」"
 			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				90,
+				true
+			]},
 			{"code":230,"indent":0,"parameters":[
-				60
+				120
+			]},
+			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				647,
+				1,
+				1,
+				0,
+				0
+			]},
+			{"code":122,"indent":0,"parameters":[
+				91,
+				91,
+				0,
+				0,
+				155
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":155},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":12,"y":6},
 	{"id":2,"name":"小果凍","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":false,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"$JellySlime","direction":2,"pattern":1,"characterIndex":0},"list":[
@@ -61623,82 +63461,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「而那個箱子裡面，放著各位的一些起始裝備"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"，記得出發前去拿啊！」"
-			]},
-			{"code":102,"indent":0,"parameters":[
-				[
-					"我想問問道具裝備如何分配？",
-					"沒事"
-				],
-				1,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":0,"parameters":[
-				0,
-				"我想問問道具裝備如何分配？"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_JellySlime",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"小果凍"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「偷偷告訴你小祕密，入門挑戰並不會很困難，"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"每隊\\C[2]入場後\\C[0]都能拿到\\C[2]基礎裝備跟道具\\C[0]。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_JellySlime",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"小果凍"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「只是．．．若你在主線時有細心的去闖蕩"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"世界，可能會拿到許多神兵與高階補品。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_JellySlime",
-				6,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"小果凍"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「若想要通關更加順利，你只要思考"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"\\C[2]高級裝備跟高級補品\\C[0]如何分配就好，其他的就"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"不重要了！」"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"沒事"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":404,"indent":0,"parameters":[
+				"「祝各位挑戰順利。」"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -61708,7 +63471,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
 	],"x":13,"y":9},
 	{"id":3,"name":"EV003","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":5,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
 			]},
@@ -61755,130 +63518,11 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":127,"indent":0,"parameters":[
-				39,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":127,"indent":0,"parameters":[
-				163,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				44,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				74,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				104,
-				0,
-				0,
-				2,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				375,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				406,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				346,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				604,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				616,
-				0,
-				0,
-				1,
-				false
-			]},
-			{"code":128,"indent":0,"parameters":[
-				674,
-				0,
-				0,
-				2,
-				false
-			]},
-			{"code":126,"indent":0,"parameters":[
-				6,
-				0,
-				0,
-				10
-			]},
-			{"code":126,"indent":0,"parameters":[
-				36,
-				0,
-				0,
-				10
-			]},
-			{"code":126,"indent":0,"parameters":[
-				96,
-				0,
-				0,
-				5
-			]},
-			{"code":126,"indent":0,"parameters":[
-				124,
-				0,
-				0,
-				10
-			]},
-			{"code":126,"indent":0,"parameters":[
-				154,
-				0,
-				0,
-				10
-			]},
-			{"code":126,"indent":0,"parameters":[
-				214,
-				0,
-				0,
-				3
-			]},
-			{"code":126,"indent":0,"parameters":[
-				272,
-				0,
-				0,
-				10
-			]},
 			{"code":126,"indent":0,"parameters":[
 				364,
 				0,
 				0,
-				10
+				3
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -61887,7 +63531,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得起始裝備與補品！"
+				"獲得\\ni[364]3個。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -61895,14 +63539,14 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":14,"y":8},
+	],"x":22,"y":53},
 	{"id":4,"name":"儲物箱","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"fsm_trolley01","direction":2,"pattern":1,"characterIndex":6},"list":[
 			{"code":355,"indent":0,"parameters":[
@@ -73229,7 +74873,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -73245,7 +74889,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -73350,6 +74994,19 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Computer","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":0,"parameters":[
+				91,
+				91,
+				0,
+				0,
+				129
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":242,"indent":0,"parameters":[
 				3
 			]},
@@ -73363,7 +75020,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「很好～接下來只要解除這最後的屏障．．．」\\|\\.\\^"
+				"「很好～這最後的的屏障也解除了．．．」\\|\\.\\^"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Machine","volume":90,"pitch":100,"pan":0}
@@ -73968,13 +75625,6 @@
 			{"code":132,"indent":0,"parameters":[
 				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
 			]},
-			{"code":122,"indent":0,"parameters":[
-				91,
-				91,
-				0,
-				0,
-				129
-			]},
 			{"code":242,"indent":0,"parameters":[
 				3
 			]},
@@ -74134,19 +75784,6 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Computer","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":122,"indent":0,"parameters":[
-				91,
-				91,
-				0,
-				0,
-				130
-			]},
-			{"code":230,"indent":0,"parameters":[
-				60
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
 				0,
@@ -74279,6 +75916,13 @@
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":122,"indent":0,"parameters":[
+				91,
+				91,
+				0,
+				0,
+				130
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -74306,24 +75950,13 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Move1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":201,"indent":0,"parameters":[
-				0,
-				646,
-				19,
-				33,
-				8,
-				0
-			]},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":65,"y":17},
 	{"id":143,"name":"EV143","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":205,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
@@ -74333,16 +75966,13 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[142].start();"
-			]},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":64,"y":17},
 	{"id":144,"name":"EV144","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":207,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
@@ -74352,16 +75982,13 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":1,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"$gameMap._events[142].start();"
-			]},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":66,"y":17},
 	{"id":145,"name":"EV145","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":215,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
@@ -74371,7 +75998,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":130},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":129},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":6,"pattern":2,"characterIndex":5},"list":[
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
@@ -74679,7 +76306,83 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":80,"y":92},
-	null,
+	{"id":157,"name":"EV157","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				124,
+				0,
+				0,
+				3
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[124]3個。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":38,"y":90},
 	{"id":158,"name":"重影","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Ninjas","direction":8,"pattern":1,"characterIndex":2},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -74688,5 +76391,439 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
-	],"x":0,"y":12}
+	],"x":0,"y":12},
+	{"id":159,"name":"EV159","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				213,
+				0,
+				0,
+				5
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[213]5個。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":62,"y":84},
+	{"id":160,"name":"EV160","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				364,
+				0,
+				0,
+				3
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[364]3個。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":89,"y":56},
+	{"id":161,"name":"EV161","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Move1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":201,"indent":0,"parameters":[
+				0,
+				646,
+				19,
+				33,
+				8,
+				0
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
+	],"x":65,"y":11},
+	{"id":162,"name":"機器人G","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1085},"directionFix":false,"image":{"tileId":0,"characterName":"Robot-1","direction":2,"pattern":1,"characterIndex":3},"list":[
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				2,
+				"A",
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「加油！」"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_G",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「怎麼？要領取ＧＧ的救命寶箱嗎？」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"救命寶箱，這是什麼？",
+					"領取",
+					"先離開"
+				],
+				2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"救命寶箱，這是什麼？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「這是\\C[2]『賭注』\\C[0]，ＧＧ均會在三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"的BOSS前面等你，賭你\\C[2]能否用\\C[3]起始資源\\C[0]"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"就打贏關卡頭目？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「若你\\C[2]不領取\\C[0]寶箱，在三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"結束後，將能夠取得\\C[2]較多的獎勵\\C[0]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「反之．．．一旦你領取寶箱，等三場入門試煉"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"結束後，就只能夠拿到較少的獎勵，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]救命寶箱拿越多、獎勵越少\\C[0]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「用人類的話來說．．．就是倒吃甘蔗～"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"不拿寶箱就是先苦後甘、"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"拿了寶箱就是先甘後苦。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「要不要開啟救命寶箱，自己好好思考吧！」"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"領取"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「確定要領取ＧＧ的救命寶箱嗎？」"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確定領取",
+					"沒事，我手滑"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確定領取"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				80,
+				0,
+				0,
+				20
+			]},
+			{"code":126,"indent":2,"parameters":[
+				214,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				215,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得\\ni[96]10個、\\ni[80]10個、"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\ni[214]20個、\\ni[215]。"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				273,
+				273,
+				1,
+				0,
+				1
+			]},
+			{"code":123,"indent":2,"parameters":[
+				"A",
+				0
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"沒事，我手滑"
+			]},
+			{"code":119,"indent":2,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"先離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":64,"y":12},
+	{"id":163,"name":"小果凍(扁)","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"$JellySlime2","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":5,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
+	],"x":0,"y":13}
 ]}

@@ -11458,7 +11458,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":20,"y":15},
+	],"x":12,"y":14},
 	{"id":11,"name":"風之星2","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"PeopleMV_BLR_Adult02_1","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -11522,7 +11522,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":21,"y":14},
+	],"x":21,"y":11},
 	{"id":12,"name":"如如2","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"2000_Actor1","direction":2,"pattern":1,"characterIndex":5},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -11586,7 +11586,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":22,"y":15},
+	],"x":30,"y":14},
 	{"id":13,"name":"主事件","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":230,"indent":0,"parameters":[
@@ -11648,7 +11648,7 @@
 				{"name":"26 To the last fight_MV","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":108,"indent":0,"parameters":[
-				"先清空1號、2號包，避免主線中有殘留的內容"
+				"先清空1號、2號包、3號包，避免主線中有殘留的內容"
 			]},
 			{"code":408,"indent":0,"parameters":[
 				"玩家隊伍預設是0號包"
@@ -11658,6 +11658,9 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameParty.clearPack(2);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameParty.clearPack(3);"
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"移除會影響劇情的道具"
@@ -12222,10 +12225,18 @@
 				1,
 				true
 			]},
-			{"code":222,"indent":0,"parameters":[
+			{"code":108,"indent":0,"parameters":[
+				"---"
+			]},
+			{"code":129,"indent":0,"parameters":[
+				19,
+				0,
+				true
 			]},
 			{"code":211,"indent":0,"parameters":[
-				0
+				1
+			]},
+			{"code":222,"indent":0,"parameters":[
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -12250,10 +12261,10 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"接下來，你將操控\\C[2]三個隊伍\\C[6]的人員，分別挑戰\\C[2]三個不同的"
+				"接下來，你將操控\\C[2]三個隊伍\\C[6]，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"入門考驗\\C[6]。"
+				"分別挑戰\\C[2]三個不同的入門考驗\\C[6]。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -12265,13 +12276,13 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"為了方便操控，三個隊伍的隊長，\\C[2]暫時\\C[6]由"
+				"\\C[2]\\N[4]隊伍\\C[6]將挑戰關卡一、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]、\\N[10]、\\N[11]擔任。"
+				"\\C[2]\\N[10]隊伍\\C[6]將挑戰關卡二、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\C[3]※自由組隊功能將於入門考驗結束後開放！"
+				"\\C[2]\\N[11]隊伍\\C[6]將挑戰關卡三。"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -12283,10 +12294,30 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"另外，非常重要的一點．．．"
+				"另外需要注意的是，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"三個隊伍的\\C[2]背包並不共用\\C[6]！"
+				"三個隊伍均會\\C[2]配給起始裝備與道具\\C[6]。"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"並且，三個隊伍\\C[2]\\{背包並不共用\\C[6]！"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				14
+			]},
+			{"code":117,"indent":0,"parameters":[
+				258
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -12298,10 +12329,10 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"而你主線篇章、當前身上的裝備與道具，"
+				"所以在出發前，建議你在主線篇章獲得的所有裝備與資源，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"預設在\\C[2]隊伍一\\C[6]內。"
+				"通通先放到\\C[2]\\{儲物箱\\C[6]內！"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -12313,13 +12344,27 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"至於現在很多人身上都沒有裝備．．．"
+				"將不用的東西放入儲物箱，操控需要的人物來拿資源，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"以及第二、三隊的背包該如何處理．．．"
+				"進而達到資源的轉移。"
 			]},
-			{"code":401,"indent":0,"parameters":[
-				"請先讓我賣個關子吧！"
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				18
+			]},
+			{"code":117,"indent":0,"parameters":[
+				258
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -12331,10 +12376,50 @@
 				"\\C[6]※小提示"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"現在讓您自由切換隊伍來看看技能，研究完畢後再找"
+				"除了轉移物資外，你也可以跟\\C[2]機器人Ｇ\\C[6]對話，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"小果凍談話吧！"
+				"趁機整理裝備，例如買一些新補給，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"或賣掉過時的補品裝備。"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\C[6]※小提示"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"若有不太理解的部分，可以多跟大家說說話，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"等全部準備好後，再跟小果凍談話吧！"
+			]},
+			{"code":122,"indent":0,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":0,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":0,"parameters":[
+				258
+			]},
+			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":122,"indent":0,"parameters":[
 				91,
@@ -12343,10 +12428,7 @@
 				0,
 				11
 			]},
-			{"code":121,"indent":0,"parameters":[
-				60,
-				60,
-				0
+			{"code":222,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -12362,7 +12444,184 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":9,"y":15},
-	null,
+	{"id":14,"name":"儲物箱","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"fsm_trolley01","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這是儲物箱，請問要做什麼？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"打開儲物箱",
+					"這是做什麼用的？",
+					"離開"
+				],
+				2,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"打開儲物箱"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameTemp.depository_open(1);"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"這是做什麼用的？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"儲物箱類似MMORPG的\\C[2]倉庫\\C[0]，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"玩家可以將不用的東西放到儲物箱內，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"之後再切換成其他隊伍時，將可以來儲物箱這邊拿取物資。"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				92,
+				0,
+				0,
+				0
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"你現在操控的是\\C[6]無隊伍《玩家本體》\\C[0]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"身上的\\C[2]所有東西均不會帶關卡\\C[0]內，"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"建議您將\\C[2]身上的所有東西\\C[0]都丟到儲物箱內吧！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				92,
+				0,
+				1,
+				0
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"你現在操控的是\\C[6]隊伍一《兔兔隊》\\C[0]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"當前角色身上的裝備、背包內的補品、"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"會帶入\\C[2]關卡一\\C[0]中"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":111,"indent":3,"parameters":[
+				1,
+				92,
+				0,
+				2,
+				0
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"你現在操控的是\\C[6]隊伍二《風哥隊》\\C[0]"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"當前角色身上的裝備、背包內的補品、"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"會帶入\\C[2]關卡二\\C[0]中"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"你現在操控的是\\C[6]隊伍三《如如隊》\\C[0]"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"當前角色身上的裝備、背包內的補品、"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"會帶入\\C[2]關卡三\\C[0]中"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":19,"y":13},
 	{"id":15,"name":"準備換人","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":60,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":221,"indent":0,"parameters":[
@@ -12406,6 +12665,7 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
+					"無隊伍《玩家本體》",
 					"隊伍一《兔兔隊》",
 					"隊伍二《風哥隊》",
 					"隊伍三《如如隊》"
@@ -12417,6 +12677,36 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
+				"無隊伍《玩家本體》"
+			]},
+			{"code":221,"indent":1,"parameters":[
+			]},
+			{"code":121,"indent":1,"parameters":[
+				38,
+				38,
+				1
+			]},
+			{"code":121,"indent":1,"parameters":[
+				39,
+				39,
+				1
+			]},
+			{"code":121,"indent":1,"parameters":[
+				40,
+				40,
+				1
+			]},
+			{"code":122,"indent":1,"parameters":[
+				92,
+				92,
+				0,
+				0,
+				0
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
 				"隊伍一《兔兔隊》"
 			]},
 			{"code":221,"indent":1,"parameters":[
@@ -12446,7 +12736,7 @@
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":402,"indent":0,"parameters":[
-				1,
+				2,
 				"隊伍二《風哥隊》"
 			]},
 			{"code":221,"indent":1,"parameters":[
@@ -12476,7 +12766,7 @@
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":402,"indent":0,"parameters":[
-				2,
+				3,
 				"隊伍三《如如隊》"
 			]},
 			{"code":221,"indent":1,"parameters":[
@@ -12571,6 +12861,53 @@
 				1,
 				false
 			]},
+			{"code":129,"indent":0,"parameters":[
+				19,
+				1,
+				false
+			]},
+			{"code":111,"indent":0,"parameters":[
+				1,
+				92,
+				0,
+				0,
+				0
+			]},
+			{"code":129,"indent":1,"parameters":[
+				19,
+				0,
+				false
+			]},
+			{"code":314,"indent":1,"parameters":[
+				0,
+				0
+			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				21,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":1,"parameters":[
+				1,
+				1,
+				21
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameParty.selectPack(0);"
+			]},
+			{"code":125,"indent":1,"parameters":[
+				0,
+				1,
+				21
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":111,"indent":0,"parameters":[
 				1,
 				92,
@@ -12602,8 +12939,27 @@
 				0,
 				0
 			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				21,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":1,"parameters":[
+				1,
+				1,
+				21
+			]},
 			{"code":355,"indent":1,"parameters":[
-				"$gameParty.selectPack(0);"
+				"$gameParty.selectPack(1);"
+			]},
+			{"code":125,"indent":1,"parameters":[
+				0,
+				1,
+				21
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -12640,8 +12996,27 @@
 				0,
 				0
 			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				21,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":1,"parameters":[
+				1,
+				1,
+				21
+			]},
 			{"code":355,"indent":1,"parameters":[
-				"$gameParty.selectPack(1);"
+				"$gameParty.selectPack(2);"
+			]},
+			{"code":125,"indent":1,"parameters":[
+				0,
+				1,
+				21
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -12678,8 +13053,27 @@
 				0,
 				0
 			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				21,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":1,"parameters":[
+				1,
+				1,
+				21
+			]},
 			{"code":355,"indent":1,"parameters":[
-				"$gameParty.selectPack(2);"
+				"$gameParty.selectPack(3);"
+			]},
+			{"code":125,"indent":1,"parameters":[
+				0,
+				1,
+				21
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -12724,6 +13118,9 @@
 	],"x":9,"y":16},
 	{"id":16,"name":"小果凍","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"$JellySlime","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
 				0,
@@ -12734,15 +13131,16 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「怎麼？關於大家的技能都研究好了嗎？」"
+				"「怎麼？都整備好了嗎？」"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
 					"準備挑戰",
 					"大家的技能好像變多了？",
+					"道具要分成三隊，該怎麼分啊？？",
 					"離開"
 				],
-				2,
+				3,
 				0,
 				2,
 				0
@@ -12751,10 +13149,142 @@
 				0,
 				"準備挑戰"
 			]},
-			{"code":242,"indent":1,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"$gameSelfSwitches.value([$gameMap._mapId, 19, \"A\"])"
+			]},
+			{"code":111,"indent":2,"parameters":[
+				12,
+				"$gameSelfSwitches.value([$gameMap._mapId, 20, \"A\"])"
+			]},
+			{"code":111,"indent":3,"parameters":[
+				12,
+				"$gameSelfSwitches.value([$gameMap._mapId, 21, \"A\"])"
+			]},
+			{"code":119,"indent":4,"parameters":[
+				"02"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":1,"parameters":[
+				0,
+				1,
+				true
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
 				2
 			]},
-			{"code":223,"indent":1,"parameters":[
+			{"code":401,"indent":1,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「等等！怎麼小隊的\\C[2]起始寶箱沒有打開\\C[0]？"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"你要他們空手作戰？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「\\C[2]三個小隊的寶箱\\C[0]都要打開喔！」"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"----"
+			]},
+			{"code":118,"indent":1,"parameters":[
+				"02"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				92,
+				0,
+				0,
+				0
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":2,"parameters":[
+				0,
+				1,
+				true
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「等等，你怎麼用你自己的人物跟我說話？"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"你現在操控的是\\C[6]無隊伍《玩家本體》\\C[0]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"身上的\\C[2]所有東西均不會帶關卡\\C[0]內。」"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「第一戰是兔兔小姐，要入場請操作\\C[2]\\N[4]\\C[0]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"來跟我說話。」"
+			]},
+			{"code":119,"indent":2,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				92,
+				0,
+				1,
+				0
+			]},
+			{"code":242,"indent":2,"parameters":[
+				2
+			]},
+			{"code":223,"indent":2,"parameters":[
 				[
 					-255,
 					-255,
@@ -12764,28 +13294,157 @@
 				120,
 				false
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"BLR_JellySlime",
 				6,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"小果凍"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「那麼．．．祝大家好運～」\\|\\^"
 			]},
-			{"code":230,"indent":1,"parameters":[
+			{"code":230,"indent":2,"parameters":[
 				120
 			]},
-			{"code":201,"indent":1,"parameters":[
+			{"code":108,"indent":2,"parameters":[
+				"先把金幣還給 隊伍0<玩家本體>"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"讓隊伍1~3身上確定都沒有金幣"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(0);"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":2,"parameters":[
+				1,
+				1,
+				21
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(1);"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":2,"parameters":[
+				1,
+				1,
+				22
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(2);"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				23,
+				23,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":2,"parameters":[
+				1,
+				1,
+				23
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(3);"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				24,
+				24,
+				0,
+				3,
+				7,
+				2,
+				0
+			]},
+			{"code":125,"indent":2,"parameters":[
+				1,
+				1,
+				24
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(0);"
+			]},
+			{"code":125,"indent":2,"parameters":[
+				0,
+				1,
+				21
+			]},
+			{"code":125,"indent":2,"parameters":[
+				0,
+				1,
+				22
+			]},
+			{"code":125,"indent":2,"parameters":[
+				0,
+				1,
+				23
+			]},
+			{"code":125,"indent":2,"parameters":[
+				0,
+				1,
+				24
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"出發"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameParty.selectPack(1);"
+			]},
+			{"code":201,"indent":2,"parameters":[
 				0,
 				604,
 				17,
 				7,
 				8,
 				0
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_JellySlime",
+				5,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「第一戰是兔兔小姐，要入場請操作\\C[2]\\N[4]\\C[0]"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"來跟我說話。」"
+			]},
+			{"code":119,"indent":2,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -12844,10 +13503,70 @@
 			{"code":401,"indent":1,"parameters":[
 				"看一下吧！」"
 			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
+				"道具要分成三隊，該怎麼分啊？？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_JellySlime",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「偷偷告訴你小祕密，入門挑戰並不會很困難，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"每隊\\C[2]入場後\\C[0]都能拿到\\C[2]基礎裝備跟道具\\C[0]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_JellySlime",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「只是．．．若你在主線時有細心的去闖蕩"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"世界，可能會拿到許多神兵與高階補品。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_JellySlime",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"小果凍"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「若想要通關更加順利，你只要思考"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]高級裝備跟高級補品\\C[0]如何分配就好，其他的就"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"不重要了！」"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				3,
 				"離開"
 			]},
 			{"code":0,"indent":1,"parameters":[
@@ -12860,7 +13579,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}
-	],"x":21,"y":12},
+	],"x":21,"y":13},
 	{"id":17,"name":"EV017","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":101,"indent":0,"parameters":[
@@ -12899,5 +13618,1082 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
-	],"x":21,"y":26}
+	],"x":21,"y":26},
+	{"id":18,"name":"機器人G","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1085},"directionFix":false,"image":{"tileId":0,"characterName":"Robot-1","direction":2,"pattern":1,"characterIndex":3},"list":[
+			{"code":111,"indent":0,"parameters":[
+				1,
+				92,
+				0,
+				0,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「怎麼？有什麼東西想買賣嗎？」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「你現在操控的是\\C[6]無隊伍《玩家本體》\\C[0]，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"ＧＧ只把商品賣給\\N[4]、\\N[10]、\\N[11]。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「不過！建議你把背包內\\C[2]不用的東西通通"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都賣掉\\C[0]！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「都到絕無城了，\\C[2]沒有任務\\C[6]跟你\\C[2]收怪物素材\\C[6]、"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]低階補品\\C[6]也用不到\\C[0]，\\C[2]低階裝備\\C[6]更是沒用。\\C[0]」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「趁著個機會，好好賣掉不用的東西吧！」"
+			]},
+			{"code":302,"indent":1,"parameters":[
+				0,
+				0,
+				0,
+				0,
+				false
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「怎麼？有什麼東西想買賣嗎？」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"購買補品",
+					"購買裝備",
+					"有什麼推薦購買的嗎？",
+					"離開"
+				],
+				3,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"購買補品"
+			]},
+			{"code":302,"indent":1,"parameters":[
+				0,
+				6,
+				0,
+				0,
+				false
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				36,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				76,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				95,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				96,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				216,
+				1,
+				15000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				124,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				154,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				212,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				213,
+				1,
+				25000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				255,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				272,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				260,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				364,
+				0,
+				0
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"購買裝備"
+			]},
+			{"code":302,"indent":1,"parameters":[
+				1,
+				25,
+				1,
+				10000,
+				false
+			]},
+			{"code":605,"indent":1,"parameters":[
+				1,
+				57,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				1,
+				175,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				604,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				607,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				607,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				615,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				616,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				851,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				852,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				853,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				854,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				855,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				856,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				857,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				858,
+				1,
+				150000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				873,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				874,
+				0,
+				0
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				2,
+				"有什麼推薦購買的嗎？"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「偷偷告訴你，其實三個教學關卡都不會很難，"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"所以沒有必買的東西。」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				6,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「不過！會建議你把背包內\\C[2]不用的東西通通"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"都賣掉\\C[0]！」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「都到絕無城了，\\C[2]沒有任務\\C[6]跟你\\C[2]收怪物素材\\C[6]、"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]低階補品\\C[6]也用不到\\C[0]，\\C[2]低階裝備\\C[6]更是沒用。\\C[0]」"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"BLR_G",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「趁著個機會，好好更新一下背包吧！」"
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				3,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":23,"y":13},
+	{"id":19,"name":"EV019","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":5,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這是隊伍一的起始裝備，只有操控\\N[4]才能打開！"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				4,
+				4,
+				0
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確定打開",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確定打開"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":2,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":2,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":2,"parameters":[
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":127,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				130,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				163,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				189,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				44,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				74,
+				0,
+				0,
+				3,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				347,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				374,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				375,
+				0,
+				0,
+				2,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				644,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				674,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":126,"indent":2,"parameters":[
+				6,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				36,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				5
+			]},
+			{"code":126,"indent":2,"parameters":[
+				364,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				582,
+				0,
+				0,
+				99
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得起始裝備與補品！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":11,"y":14},
+	{"id":20,"name":"EV020","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":5,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這是隊伍二的起始裝備，只有操控\\N[10]才能打開！"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				4,
+				10,
+				0
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確定打開",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確定打開"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":2,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":2,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":2,"parameters":[
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":127,"indent":2,"parameters":[
+				10,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				45,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				163,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				97,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				44,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				74,
+				0,
+				0,
+				2,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				104,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				374,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				375,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				406,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				346,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				644,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				674,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":126,"indent":2,"parameters":[
+				6,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				36,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				5
+			]},
+			{"code":126,"indent":2,"parameters":[
+				272,
+				0,
+				0,
+				5
+			]},
+			{"code":126,"indent":2,"parameters":[
+				364,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				582,
+				0,
+				0,
+				99
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得起始裝備與補品！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":19,"y":10},
+	{"id":21,"name":"EV021","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":5,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這是隊伍三的起始裝備，只有操控\\N[11]才能打開！"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				4,
+				11,
+				0
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確定打開",
+					"離開"
+				],
+				1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確定打開"
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":2,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":2,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":2,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":2,"parameters":[
+			]},
+			{"code":250,"indent":2,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":127,"indent":2,"parameters":[
+				39,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":127,"indent":2,"parameters":[
+				163,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				44,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				74,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				104,
+				0,
+				0,
+				2,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				375,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				406,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				346,
+				0,
+				0,
+				1,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				674,
+				0,
+				0,
+				2,
+				false
+			]},
+			{"code":126,"indent":2,"parameters":[
+				6,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				36,
+				0,
+				0,
+				10
+			]},
+			{"code":126,"indent":2,"parameters":[
+				96,
+				0,
+				0,
+				5
+			]},
+			{"code":126,"indent":2,"parameters":[
+				272,
+				0,
+				0,
+				5
+			]},
+			{"code":126,"indent":2,"parameters":[
+				364,
+				0,
+				0,
+				10
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"獲得起始裝備與補品！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":402,"indent":1,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":31,"y":14}
 ]}
