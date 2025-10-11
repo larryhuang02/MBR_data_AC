@@ -7706,7 +7706,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":642,"atypeId":23,"description":"「花香兔兔專用副手」攻擊、魔攻+5，爆擊率+10%","etypeId":2,"traits":[
+	{"id":642,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+5，爆擊率+10%","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.1}
 	],"iconIndex":203,"name":"弓箭筒","note":"<防具>\nCp1最果之雨村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors642.txt>","params":[
 		0,
@@ -7718,7 +7718,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":643,"atypeId":23,"description":"「花香兔兔專用副手」攻擊、魔攻+10，爆擊率+15%","etypeId":2,"traits":[
+	{"id":643,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+10，爆擊率+15%","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.15}
 	],"iconIndex":203,"name":"強化弓箭筒","note":"<防具>\nCp2卡姆城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors643.txt>","params":[
 		0,

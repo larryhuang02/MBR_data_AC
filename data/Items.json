@@ -371,22 +371,8 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":158,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"脫殼的白蟻，想吃下去需要不少勇氣，\n若已\\it[6]或\\it[7]，我方全體MP回復 70%，反之獲得\\it[7]","effects":[
 	],"hitType":0,"iconIndex":267,"itypeId":1,"name":"脫殼白蟻豆","note":"<道具>\n<speed:20000>\n<effect_javascript:(function(a,b){if(b.isStateAffected(6)||b.isStateAffected(7)){b.gainMp(b.mmp*0.7);}else b.addState(7);})>\n<道具額外文字檔:BLR_custom/detail/item/Items158.txt>","occasion":0,"price":5000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":159,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"400","type":4,"variance":0},"description":"我方全體MP回復 400 點，解除全狀態異常","effects":[
-		{"code":22,"dataId":6,"value1":1,"value2":0},
-		{"code":22,"dataId":7,"value1":1,"value2":0},
-		{"code":22,"dataId":8,"value1":1,"value2":0},
-		{"code":22,"dataId":9,"value1":1,"value2":0},
-		{"code":22,"dataId":10,"value1":1,"value2":0},
-		{"code":22,"dataId":11,"value1":1,"value2":0},
-		{"code":22,"dataId":12,"value1":1,"value2":0},
-		{"code":22,"dataId":13,"value1":1,"value2":0},
-		{"code":22,"dataId":14,"value1":1,"value2":0},
-		{"code":22,"dataId":15,"value1":1,"value2":0},
-		{"code":22,"dataId":16,"value1":1,"value2":0},
-		{"code":22,"dataId":17,"value1":1,"value2":0},
-		{"code":22,"dataId":18,"value1":1,"value2":0},
-		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":1788,"itypeId":1,"name":"糖霜餅乾","note":"<道具>\n<speed:20000>\n絕無城-入門試煉01，第三妖精獲得\n<道具額外文字檔:BLR_custom/detail/item/Items159.txt>","occasion":0,"price":5800,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
+	{"id":159,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":160,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":161,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -796,7 +782,7 @@
 	{"id":273,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"聽說是從某個動漫作品ㄎ一ㄤ過來的...\n我方全體HP回復 1 點，解除\\it[9]","effects":[
 		{"code":22,"dataId":9,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1605,"itypeId":1,"name":"廣智的襪子","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items273.txt>","occasion":0,"price":10,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":274,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"當你開始習慣阿忠的味道，覺得「好像還行」時，為避免罹患\n失嗅症，請立刻聞聞它。我方全體解除3層瘴氣、it[6]、it[7]。","effects":[
+	{"id":274,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"當你開始習慣阿忠的味道，覺得「好像還行」時，為避免罹患失嗅症，\n請立刻聞聞它。我方全體解除3層瘴氣、但獲得\\it[6]、\\it[7]。","effects":[
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
@@ -1033,14 +1019,14 @@
 		{"code":21,"dataId":19,"value1":0.2,"value2":0},
 		{"code":21,"dataId":71,"value1":0.35,"value2":0}
 	],"hitType":2,"iconIndex":1769,"itypeId":1,"name":"七彩菇菇鍋","note":"<道具>\n<sortingKey:300.09>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":0,"price":15000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":330,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"非常重要，用來阻隔氣味、保護自己，以及避免勾起某些人的\n心理創傷，免疫瘴氣狀態，持續5次行動。","effects":[
+	{"id":330,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"非常重要，用來阻隔氣味、保護自己，以及避免勾起某些人的\n心理創傷，免疫瘴氣狀態，持續5次行動。","effects":[
 		{"code":21,"dataId":198,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":151,"itypeId":1,"name":"防毒面具","note":"<道具>\n\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":1,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":331,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"能暫時讓這可怕的地獄變成人類能生存的環境，「場景結界」\n瘴氣、中毒、猛毒、侵蝕免疫，結界持續5回合。","effects":[
+	{"id":331,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"能暫時讓這可怕的地獄變成人類能生存的環境，「場景結界」\n瘴氣、中毒、猛毒、侵蝕免疫，結界持續5回合。","effects":[
 		{"code":21,"dataId":194,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":207,"itypeId":1,"name":"空氣清淨機","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":1,"price":2,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
-	{"id":332,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":332,"animationId":592,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"2000","type":2,"variance":50},"description":"「魔法&暗屬性」甜到喉嚨發苦的餅乾，很適合丟給別人吃，\n限戰鬥中使用，給予敵方單體無視防禦的大量MP攻擊傷害。","effects":[
+	],"hitType":2,"iconIndex":1788,"itypeId":1,"name":"甜膩膩餅乾","note":"<道具>\n<speed:20000>\n絕無城-入門試煉01，第三妖精獲得\n<道具額外文字檔:BLR_custom/detail/item/Items332.txt>","occasion":1,"price":100,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":333,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":334,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

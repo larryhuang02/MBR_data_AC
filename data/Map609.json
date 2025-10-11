@@ -37739,8 +37739,8 @@
 				"「討．．．討債！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_01_1",
-				4,
+				"BLR_01_2",
+				11,
 				0,
 				2
 			]},
@@ -37748,7 +37748,7 @@
 				"\\n[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「修但幾咧！」"
+				"「\\{修但幾咧！\\}」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"PeopleMZ_BLR_05",
@@ -40219,17 +40219,21 @@
 			{"code":205,"indent":0,"parameters":[
 				5,
 				{"list":[
+					{"code":36,"indent":null},
+					{"code":38,"indent":0},
 					{"code":16,"indent":null},
-					{"code":38,"indent":null},
 					{"code":35,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
+				{"code":36,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":38,"indent":null}
+				{"code":38,"indent":0}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":35,"indent":null}
@@ -47094,7 +47098,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"BLR_10_1",
 				10,
-				1,
+				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -60899,7 +60903,7 @@
 				0,
 				0,
 				60,
-				true
+				false
 			]},
 			{"code":232,"indent":1,"parameters":[
 				5,

@@ -18302,6 +18302,9 @@
 				"SceneManager._scene._chr2sp.get($gameMap._events[12]).tilemapColorTone_ignore_set(true);"
 			]},
 			{"code":355,"indent":0,"parameters":[
+				"SceneManager._scene._chr2sp.get($gameMap._events[15]).tilemapColorTone_ignore_set(true);"
+			]},
+			{"code":355,"indent":0,"parameters":[
 				"SceneManager._scene._chr2sp.get($gameMap._events[27]).tilemapColorTone_ignore_set(true);"
 			]},
 			{"code":355,"indent":0,"parameters":[
@@ -18318,6 +18321,9 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager._scene._chr2sp.get($gameMap._events[34]).tilemapColorTone_ignore_set(true);"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"SceneManager._scene._chr2sp.get($gameMap._events[41]).tilemapColorTone_ignore_set(true);"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				30
@@ -23571,6 +23577,133 @@
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
+			{"code":205,"indent":0,"parameters":[
+				41,
+				{"list":[
+					{"code":42,"parameters":[
+						0
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":42,"parameters":[
+					0
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				15,
+				{"list":[
+					{"code":42,"parameters":[
+						255
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":42,"parameters":[
+					255
+				],"indent":null}
+			]},
+			{"code":222,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"spotlight","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":203,"indent":0,"parameters":[
+				15,
+				0,
+				50,
+				19,
+				2
+			]},
+			{"code":203,"indent":0,"parameters":[
+				41,
+				0,
+				50,
+				19,
+				8
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[this._eventId]._mskctr=32;"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"!(--$gameMap._events[this._eventId]._mskctr>0)"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._events[this._eventId]._mskctr=undefined;"
+			]},
+			{"code":113,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"{ let evts=$gameMap._events,val=evts[this._eventId]._mskctr;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"[41].forEach(id=>evts[id]._opacity=255*(32-val)/32.0);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}"
+			]},
+			{"code":230,"indent":1,"parameters":[
+				1
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[this._eventId]._mskctr=32;"
+			]},
+			{"code":112,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"!(--$gameMap._events[this._eventId]._mskctr>0)"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"$gameMap._events[this._eventId]._mskctr=undefined;"
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"{ let evts=$gameMap._events,val=evts[this._eventId]._mskctr;"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"[15].forEach(id=>evts[id].locate(-1,-1));"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"}"
+			]},
+			{"code":113,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"{ let evts=$gameMap._events,val=evts[this._eventId]._mskctr;"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"[15].forEach(id=>evts[id]._opacity=255*val/32.0);"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}"
+			]},
+			{"code":230,"indent":1,"parameters":[
+				1
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":413,"indent":0,"parameters":[
+			]},
 			{"code":102,"indent":0,"parameters":[
 				[
 					"怎麼突然跟我說話了？"
@@ -24081,6 +24214,11 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
 			]},
+			{"code":213,"indent":0,"parameters":[
+				41,
+				8,
+				true
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -24100,7 +24238,7 @@
 				"{ let evts=$gameMap._events,val=evts[this._eventId]._mskctr;"
 			]},
 			{"code":655,"indent":2,"parameters":[
-				"[10,34].forEach(id=>evts[id].locate(-1,-1));"
+				"[10,34,41].forEach(id=>evts[id].locate(-1,-1));"
 			]},
 			{"code":655,"indent":2,"parameters":[
 				"}"
@@ -24115,7 +24253,7 @@
 				"{ let evts=$gameMap._events,val=evts[this._eventId]._mskctr;"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				"[10,34].forEach(id=>evts[id]._opacity=255*val/32.0);"
+				"[10,34,41].forEach(id=>evts[id]._opacity=255*val/32.0);"
 			]},
 			{"code":655,"indent":1,"parameters":[
 				"}"
@@ -24217,7 +24355,15 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
 	],"x":52,"y":8},
-	null,
+	{"id":41,"name":"玩家人偶","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Monster_20190405_1372700","direction":2,"pattern":1,"characterIndex":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
+	],"x":5,"y":29},
 	null,
 	null,
 	null,

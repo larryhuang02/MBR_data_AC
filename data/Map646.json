@@ -9647,7 +9647,7 @@
 				0,
 				645,
 				65,
-				18,
+				12,
 				2,
 				0
 			]},
@@ -9829,6 +9829,9 @@
 				15,
 				false
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Jump2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
@@ -9875,39 +9878,12 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「給我把東西放下！」"
+				"「王之遺珍給我放下！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
 				8,
 				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「真是煩死了。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「跟這些不怎麼說話的笨機器進來已經讓我"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"夠煩了，現在又多了一個不安定因素。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -9951,7 +9927,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10034,7 +10010,7 @@
 			{"code":213,"indent":0,"parameters":[
 				2,
 				7,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10069,7 +10045,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				6,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -10099,15 +10075,6 @@
 				9,
 				8,
 				true
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"Recolor_Ninjas",
-				2,
-				1,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"破解封印裝置花太多時間了嗎？"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -10161,10 +10128,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過很可惜，我剛把最後的封印破解完，"
+				"「不過很可惜，王之遺珍已經被我捷足"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"古代遺物被我捷足先登了。」"
+				"先登了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -10179,7 +10146,7 @@
 				"「也要感謝你們為我做嫁衣，如果沒有你們，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"前面的機關只有我一個人大概也要破解一段"
+				"前面的考驗只有我一個人大概也要破解一段"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"時間。」"
@@ -10216,10 +10183,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小果凍說我們必須要拿到古代遺物，"
+				"「小果凍說我們必須要拿到王之遺珍，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"他才會給我們鑰匙耶。」"
+				"考驗才會通過耶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_02",
@@ -10514,18 +10481,27 @@
 			{"code":401,"indent":0,"parameters":[
 				"達西村，所以跟她有點關係。」"
 			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當時還聽了柚曦小姐好長好長的故事。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
-				1,
+				8,
 				true
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -10657,7 +10633,7 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				8,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -10674,11 +10650,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"過分的事情，所以我很怕．．．」"
 			]},
-			{"code":213,"indent":0,"parameters":[
-				9,
-				8,
-				false
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
 				2,
@@ -10693,6 +10664,11 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"放過她，讓她過平靜的生活。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -10792,11 +10768,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"情報，我都要掌握清楚才行。」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				9,
-				8,
-				false
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -10934,7 +10905,7 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				11,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -11154,8 +11125,16 @@
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
+				8,
+				true
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"落下1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
 				7,
-				false
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -11462,10 +11441,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只要我幫忙回收世界各地的古代遺物，"
+				"「說只要交辦好他給我的任務，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"他就替柚曦減刑。」"
+				"每完成一件就能夠替柚曦減低刑期。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -11496,10 +11475,25 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以我就在世界各地不停地奔走，而這個"
+				"「所以我就在世界各地不停地奔走，完成"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"古代遺物，就是我實現夢想的其中一塊碎片。」"
+				"他指派給我的事務。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「而取回這遺跡的王之遺珍，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就是我實現夢想的其中一塊碎片。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -11760,7 +11754,12 @@
 			{"code":213,"indent":0,"parameters":[
 				9,
 				1,
-				false
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -11772,7 +11771,54 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「機器人偶！？那不是夢幻古代遺物．．．」"
+				"「機器人偶，夢幻古代遺物．．．」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「原本我就在懷疑那位穿著比基尼、把機器"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"穿在身上的那位小姐身份。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「可沒想到這位忍者裝束的美女居然就是了。」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				9,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -11788,6 +11834,60 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"柚曦的刑期不知道可以縮短多少時間。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「加上是賭約的話，可以省事不少．．．」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				15,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸欸欸！先收起你那鬼注意！」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -11826,11 +11926,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「這方法，最好。」"
 			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				false
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
 				0,
@@ -11842,11 +11937,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「主人，很強。」"
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				8,
-				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -11863,7 +11953,12 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				8,
-				false
+				true
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -13072,7 +13167,7 @@
 				11,
 				{"list":[
 					{"code":41,"parameters":[
-						"!coffin",
+						"coffin",
 						1
 					],"indent":null},
 					{"code":0}
@@ -13080,7 +13175,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":41,"parameters":[
-					"!coffin",
+					"coffin",
 					1
 				],"indent":null}
 			]},
@@ -13088,7 +13183,7 @@
 				12,
 				{"list":[
 					{"code":41,"parameters":[
-						"!coffin",
+						"coffin",
 						1
 					],"indent":null},
 					{"code":0}
@@ -13096,7 +13191,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":41,"parameters":[
-					"!coffin",
+					"coffin",
 					1
 				],"indent":null}
 			]},
@@ -13104,7 +13199,7 @@
 				12,
 				{"list":[
 					{"code":41,"parameters":[
-						"!coffin",
+						"coffin",
 						1
 					],"indent":null},
 					{"code":0}
@@ -13112,7 +13207,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":41,"parameters":[
-					"!coffin",
+					"coffin",
 					1
 				],"indent":null}
 			]},
@@ -14209,6 +14304,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"「願賭服輸。」"
 			]},
+			{"code":241,"indent":0,"parameters":[
+				{"name":"Scene1","volume":50,"pitch":100,"pan":0}
+			]},
 			{"code":204,"indent":0,"parameters":[
 				8,
 				6,
@@ -14243,6 +14341,9 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":204,"indent":0,"parameters":[
 				2,
@@ -14297,10 +14398,55 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「來，這是古代遺物。」"
+				"「來，王之遺珍就給妳們了。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「哇～好可愛的東西喔！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				9,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「圓圓軟軟的，表現有彩虹色般的反光，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但本體是淡綠色、還香氣奇異。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				8,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「資料庫沒這東西．．．是全新的．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"藥品、還是法寶？？？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -14326,9 +14472,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「怎麼了？」"
-			]},
-			{"code":241,"indent":0,"parameters":[
-				{"name":"Scene1","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -14449,7 +14592,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喂，\\N[2]。」"
+				"「喂，達令獸。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -14488,7 +14631,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．」"
+				"「嗯！？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -14528,6 +14671,31 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「重影是吧，跟我們來。」"
+			]},
+			{"code":223,"indent":0,"parameters":[
+				[
+					-255,
+					-255,
+					-255,
+					0
+				],
+				60,
+				false
+			]},
+			{"code":242,"indent":0,"parameters":[
+				2
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「等下聽我安排．．．」\\|\\^"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
