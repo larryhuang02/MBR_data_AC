@@ -20468,6 +20468,21 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_studio_AC",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟，不具備高精度人偶中樞的２０００型，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"換個核心與修復外骨骼即可。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_studio_AC",
 				2,
 				0,
 				2
@@ -20476,10 +20491,22 @@
 				"作者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．不過可能線沒接好，記憶有點損壞"
+				"「啊．．．不過畢竟亂關機、又或者可能線"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，畢竟當時那根木棍不知道是要插前面還是插"
+				"沒接好，記憶有點損壞。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_studio_AC",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"作者"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「畢竟當時那根木棍不知道是要插前面還是插"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"後面。」"
@@ -21458,7 +21485,7 @@
 				"\\n[3]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「抱歉，她的身體有些問題．．．恐怕不能"
+				"「抱歉，露西的身體有些問題．．．恐怕不能"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"很好的跟妳說話。」"
