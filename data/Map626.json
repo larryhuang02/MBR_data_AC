@@ -5570,7 +5570,7 @@
 				38,
 				1,
 				0,
-				50
+				1
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -5588,7 +5588,7 @@
 				38,
 				1,
 				0,
-				20
+				1
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -5606,7 +5606,7 @@
 				38,
 				1,
 				0,
-				10
+				1
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -5883,8 +5883,8 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
-	],"x":12,"y":7},
-	{"id":4,"name":"EV004_投數計算","note":"","pages":[
+	],"x":11,"y":7},
+	{"id":4,"name":"EV004_投數計算/獎勵結算","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":29,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				1,
@@ -6169,17 +6169,13 @@
 			{"code":401,"indent":3,"parameters":[
 				"您沒有射中任何一次標靶！\\|\\|\\|\\^"
 			]},
-			{"code":250,"indent":3,"parameters":[
-				{"name":"Coin","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"",
+			{"code":201,"indent":3,"parameters":[
 				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"您獲得了\\V[23]枚代幣。"
+				647,
+				19,
+				15,
+				8,
+				0
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -6195,50 +6191,572 @@
 				2
 			]},
 			{"code":401,"indent":3,"parameters":[
-				"您一共獲得了\\V[38]分！\\|\\|\\|\\^"
+				"總共命中了\\V[38]次標靶！\\|\\|\\|\\^"
 			]},
 			{"code":111,"indent":3,"parameters":[
 				1,
 				38,
 				0,
-				50,
-				1
-			]},
-			{"code":122,"indent":4,"parameters":[
-				38,
-				38,
-				4,
-				0,
-				50
+				1,
+				0
 			]},
 			{"code":122,"indent":4,"parameters":[
 				23,
 				23,
 				3,
+				0,
+				12
+			]},
+			{"code":122,"indent":4,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"",
+				0,
 				1,
-				38
+				1
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"最終獎勵乘以1.2倍！"
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":4,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":4,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":4,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":111,"indent":4,"parameters":[
+				1,
+				38,
+				0,
+				2,
+				0
+			]},
+			{"code":122,"indent":5,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				15
+			]},
+			{"code":122,"indent":5,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":5,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"最終獎勵乘以1.5倍！"
+			]},
+			{"code":401,"indent":5,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":5,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":5,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":5,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				38,
+				0,
+				3,
+				0
+			]},
+			{"code":122,"indent":6,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				18
+			]},
+			{"code":122,"indent":6,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":6,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"最終獎勵乘以1.8倍！"
+			]},
+			{"code":401,"indent":6,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":6,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":6,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":6,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":411,"indent":5,"parameters":[
+			]},
+			{"code":111,"indent":6,"parameters":[
+				1,
+				38,
+				0,
+				4,
+				0
+			]},
+			{"code":122,"indent":7,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				21
+			]},
+			{"code":122,"indent":7,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":7,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"最終獎勵乘以2.1倍！"
+			]},
+			{"code":401,"indent":7,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":7,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":7,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":7,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":7,"parameters":[
+			]},
+			{"code":411,"indent":6,"parameters":[
+			]},
+			{"code":111,"indent":7,"parameters":[
+				1,
+				38,
+				0,
+				5,
+				0
+			]},
+			{"code":122,"indent":8,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				24
+			]},
+			{"code":122,"indent":8,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":8,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"最終獎勵乘以2.4倍！"
+			]},
+			{"code":401,"indent":8,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":8,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":8,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":8,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":8,"parameters":[
+			]},
+			{"code":411,"indent":7,"parameters":[
+			]},
+			{"code":111,"indent":8,"parameters":[
+				1,
+				38,
+				0,
+				6,
+				0
+			]},
+			{"code":122,"indent":9,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				27
+			]},
+			{"code":122,"indent":9,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":9,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"最終獎勵乘以2.7倍！"
+			]},
+			{"code":401,"indent":9,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":9,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":9,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":9,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":9,"parameters":[
+			]},
+			{"code":411,"indent":8,"parameters":[
+			]},
+			{"code":111,"indent":9,"parameters":[
+				1,
+				38,
+				0,
+				7,
+				0
+			]},
+			{"code":122,"indent":10,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				3
+			]},
+			{"code":101,"indent":10,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":10,"parameters":[
+				"最終獎勵乘以3倍！"
+			]},
+			{"code":401,"indent":10,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":10,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":10,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":10,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":10,"parameters":[
+			]},
+			{"code":411,"indent":9,"parameters":[
+			]},
+			{"code":111,"indent":10,"parameters":[
+				1,
+				38,
+				0,
+				8,
+				0
+			]},
+			{"code":122,"indent":11,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				33
+			]},
+			{"code":122,"indent":11,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":11,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":11,"parameters":[
+				"最終獎勵乘以3.3倍！"
+			]},
+			{"code":401,"indent":11,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":11,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":11,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":11,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":11,"parameters":[
+			]},
+			{"code":411,"indent":10,"parameters":[
+			]},
+			{"code":111,"indent":11,"parameters":[
+				1,
+				38,
+				0,
+				9,
+				0
+			]},
+			{"code":122,"indent":12,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				36
+			]},
+			{"code":122,"indent":12,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
+			]},
+			{"code":101,"indent":12,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":12,"parameters":[
+				"最終獎勵乘以3.6倍！"
+			]},
+			{"code":401,"indent":12,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":12,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":12,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":12,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":12,"parameters":[
+			]},
+			{"code":411,"indent":11,"parameters":[
+			]},
+			{"code":122,"indent":12,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				4
+			]},
+			{"code":101,"indent":12,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":12,"parameters":[
+				"最終獎勵乘以4倍！"
+			]},
+			{"code":401,"indent":12,"parameters":[
+				"獲得\\V[23]枚代幣！"
+			]},
+			{"code":250,"indent":12,"parameters":[
+				{"name":"SlotMachine_Coins","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":122,"indent":12,"parameters":[
+				277,
+				277,
+				1,
+				1,
+				23
+			]},
+			{"code":201,"indent":12,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":0,"indent":12,"parameters":[
+			]},
+			{"code":412,"indent":11,"parameters":[
+			]},
+			{"code":0,"indent":11,"parameters":[
+			]},
+			{"code":412,"indent":10,"parameters":[
+			]},
+			{"code":0,"indent":10,"parameters":[
+			]},
+			{"code":412,"indent":9,"parameters":[
+			]},
+			{"code":0,"indent":9,"parameters":[
+			]},
+			{"code":412,"indent":8,"parameters":[
+			]},
+			{"code":0,"indent":8,"parameters":[
+			]},
+			{"code":412,"indent":7,"parameters":[
+			]},
+			{"code":0,"indent":7,"parameters":[
+			]},
+			{"code":412,"indent":6,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
+			{"code":412,"indent":4,"parameters":[
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
 			{"code":412,"indent":3,"parameters":[
 			]},
-			{"code":250,"indent":3,"parameters":[
-				{"name":"Coin","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"您獲得了\\V[23]枚代幣。"
-			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
 			{"code":412,"indent":2,"parameters":[
-			]},
-			{"code":222,"indent":2,"parameters":[
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -6255,18 +6773,7 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
 	],"x":10,"y":7},
-	{"id":5,"name":"計分板","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":29,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":355,"indent":0,"parameters":[
-				"SceneManager.showNumBoard(\"我方積分\",$gameVariables.value(38),{title:\"我方積分：\",loc:\"DR\",width:300,height:100,color:2});"
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
-	],"x":11,"y":7},
+	null,
 	{"id":6,"name":"給你選擇用的標靶","note":"<strtByAny><nonblocking>","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":441,"variableValid":true,"variableValue":1},"directionFix":true,"image":{"tileId":0,"characterName":"PeopleMV_BLR_Kids01_1","direction":4,"pattern":1,"characterIndex":0},"list":[
 			{"code":0,"indent":0,"parameters":[
@@ -6329,17 +6836,7 @@
 	],"x":0,"y":1},
 	{"id":8,"name":"EV008_起始教學","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
-			{"code":121,"indent":0,"parameters":[
-				21,
-				30,
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				40,
-				0,
-				0,
-				0
+			{"code":222,"indent":0,"parameters":[
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Chime1","volume":90,"pitch":100,"pan":0}
@@ -6348,6 +6845,9 @@
 				2,
 				"A",
 				1
+			]},
+			{"code":241,"indent":1,"parameters":[
+				{"name":"m-art_FussPanic","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -6359,7 +6859,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"初次進行\\C[4]《天堂路射手》\\C[0]將進行遊戲說明。\""
+				"\\TXTCENTER:\"初次進行\\C[4]《射飛鏢》\\C[0]將進行遊戲說明。\""
 			]},
 			{"code":118,"indent":1,"parameters":[
 				"遊戲說明"
@@ -6374,7 +6874,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"每次遊戲投射十隻飛鏢，分數越高，獲得的代幣越多。\""
+				"\\TXTCENTER:\"每次遊戲投射十隻飛鏢，命中的次數越多，獲得的代幣越多。\""
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
@@ -6484,7 +6984,7 @@
 				""
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"\\TXTCENTER:\"\\C[6]恭喜您已成功通關外傳『百草的祈願』，\""
+				"\\TXTCENTER:\"\\C[6]已檢測到您的steam收藏庫中持有外傳『百草的祈願』，\""
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"\\TXTCENTER:\"解鎖了新的飛鏢與靶心造型。\""
@@ -6894,9 +7394,9 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"簡單模式",
-					"普通模式",
-					"困難模式"
+					"簡單模式（代幣1.2倍）",
+					"普通模式（代幣2倍）",
+					"困難模式（代幣3倍）"
 				],
 				-1,
 				-1,
@@ -6905,7 +7405,21 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"簡單模式"
+				"簡單模式（代幣1.2倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				12
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
 			]},
 			{"code":122,"indent":1,"parameters":[
 				21,
@@ -6918,7 +7432,14 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"普通模式"
+				"普通模式（代幣2倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				2
 			]},
 			{"code":122,"indent":1,"parameters":[
 				21,
@@ -6931,7 +7452,14 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
-				"困難模式"
+				"困難模式（代幣3倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				3
 			]},
 			{"code":122,"indent":1,"parameters":[
 				21,
@@ -6971,6 +7499,9 @@
 				0,
 				1,
 				0
+			]},
+			{"code":242,"indent":0,"parameters":[
+				3
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
@@ -7491,9 +8022,6 @@
 				2,
 				0
 			]},
-			{"code":230,"indent":1,"parameters":[
-				180
-			]},
 			{"code":355,"indent":1,"parameters":[
 				"$gameMap._events[2]._moveSpeed=5;"
 			]},
@@ -7507,7 +8035,16 @@
 				180
 			]},
 			{"code":355,"indent":1,"parameters":[
+				"$gameMap._events[2]._moveSpeed=5;"
+			]},
+			{"code":230,"indent":1,"parameters":[
+				180
+			]},
+			{"code":355,"indent":1,"parameters":[
 				"$gameMap._events[2]._moveSpeed=4;"
+			]},
+			{"code":230,"indent":1,"parameters":[
+				180
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -7550,7 +8087,7 @@
 				2
 			]},
 			{"code":355,"indent":4,"parameters":[
-				"$gameMap._events[2]._moveSpeed=2;"
+				"$gameMap._events[2]._moveSpeed=5;"
 			]},
 			{"code":0,"indent":4,"parameters":[
 			]},
@@ -7604,7 +8141,7 @@
 			{"code":412,"indent":2,"parameters":[
 			]},
 			{"code":230,"indent":2,"parameters":[
-				90
+				60
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -7676,13 +8213,7 @@
 				"開關10_判定飛鏢尚在飛行中"
 			]},
 			{"code":108,"indent":0,"parameters":[
-				"05 = 現有金幣"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"03 = 要投入的金幣"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"04 = 判斷投入的金幣數量是否為正確單位"
+				"03 = 投入的金幣"
 			]},
 			{"code":408,"indent":0,"parameters":[
 				"03最後會變成代幣數量"

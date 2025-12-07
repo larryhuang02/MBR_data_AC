@@ -1,6 +1,6 @@
 {"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[
 ],"encounterStep":30,"height":130,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":56,"width":140,"data":[
-	5888,
+	1544,
 	0,
 	0,
 	0,
@@ -109310,7 +109310,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}
 	],"x":0,"y":1},
 	{"id":2,"name":"吹風順序","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -109757,7 +109757,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -110204,7 +110204,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -110651,7 +110651,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -111098,7 +111098,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -111545,7 +111545,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":4,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":40,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
 				278,
@@ -111670,6 +111670,11 @@
 	],"x":4,"y":5},
 	{"id":5,"name":"EV005","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":241,"indent":0,"parameters":[
+				{"name":"m-art_FussPanic","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":222,"indent":0,"parameters":[
+			]},
 			{"code":111,"indent":0,"parameters":[
 				2,
 				"A",
@@ -111800,13 +111805,6 @@
 				"A",
 				0
 			]},
-			{"code":122,"indent":0,"parameters":[
-				26,
-				26,
-				0,
-				1,
-				25
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -111854,18 +111852,18 @@
 				"隨機順序吹（代幣3倍）"
 			]},
 			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				3
+			]},
+			{"code":122,"indent":1,"parameters":[
 				40,
 				40,
 				0,
 				0,
 				6
-			]},
-			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
-				3,
-				0,
-				3
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -111882,8 +111880,8 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"簡單地圖（代幣0.5倍）",
-					"普通地圖（代幣1倍）",
+					"簡單地圖（代幣1.2倍）",
+					"普通地圖（代幣1.5倍）",
 					"高手地圖（代幣2倍）",
 					"地獄地圖（代幣3倍）"
 				],
@@ -111894,14 +111892,21 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"簡單地圖（代幣0.5倍）"
+				"簡單地圖（代幣1.2倍）"
 			]},
 			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
+				23,
+				23,
+				3,
+				0,
+				12
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
 				4,
 				0,
-				2
+				10
 			]},
 			{"code":122,"indent":1,"parameters":[
 				38,
@@ -111915,7 +111920,21 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"普通地圖（代幣1倍）"
+				"普通地圖（代幣1.5倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				15
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
 			]},
 			{"code":122,"indent":1,"parameters":[
 				38,
@@ -111932,8 +111951,8 @@
 				"高手地圖（代幣2倍）"
 			]},
 			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
+				23,
+				23,
 				3,
 				0,
 				2
@@ -111953,8 +111972,8 @@
 				"地獄地圖（代幣3倍）"
 			]},
 			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
+				23,
+				23,
 				3,
 				0,
 				3
@@ -111982,10 +112001,9 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"微風【3秒】（代幣0.5倍）",
-					"烈風【2秒】（代幣1倍）",
-					"颱風【1秒】（代幣2倍）",
-					"殺了我【0.5秒】（代幣3倍）"
+					"微風【3秒】（代幣1.2倍）",
+					"烈風【2秒】（代幣1.5倍）",
+					"颱風【1秒】（代幣3倍）"
 				],
 				-1,
 				-1,
@@ -111994,7 +112012,21 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"微風【3秒】（代幣0.5倍）"
+				"微風【3秒】（代幣1.2倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				12
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
 			]},
 			{"code":122,"indent":1,"parameters":[
 				39,
@@ -112003,18 +112035,25 @@
 				0,
 				4
 			]},
-			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
-				4,
-				0,
-				2
-			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"烈風【2秒】（代幣1倍）"
+				"烈風【2秒】（代幣1.5倍）"
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				3,
+				0,
+				15
+			]},
+			{"code":122,"indent":1,"parameters":[
+				23,
+				23,
+				4,
+				0,
+				10
 			]},
 			{"code":122,"indent":1,"parameters":[
 				39,
@@ -112027,41 +112066,21 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
-				"颱風【1秒】（代幣2倍）"
+				"颱風【1秒】（代幣3倍）"
 			]},
 			{"code":122,"indent":1,"parameters":[
-				39,
-				39,
-				0,
-				0,
-				2
-			]},
-			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
-				3,
-				0,
-				2
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				3,
-				"殺了我【0.5秒】（代幣3倍）"
-			]},
-			{"code":122,"indent":1,"parameters":[
-				39,
-				39,
-				0,
-				0,
-				1
-			]},
-			{"code":122,"indent":1,"parameters":[
-				26,
-				26,
+				23,
+				23,
 				3,
 				0,
 				3
+			]},
+			{"code":122,"indent":1,"parameters":[
+				26,
+				26,
+				3,
+				0,
+				2
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -112585,6 +112604,63 @@
 			{"code":401,"indent":0,"parameters":[
 				"ＧＯ！\\|\\^"
 			]},
+			{"code":111,"indent":0,"parameters":[
+				1,
+				38,
+				0,
+				16,
+				1
+			]},
+			{"code":241,"indent":1,"parameters":[
+				{"name":"33 Emergency_MV","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":1,"parameters":[
+				1,
+				38,
+				0,
+				11,
+				1
+			]},
+			{"code":241,"indent":2,"parameters":[
+				{"name":"fsm04_Battle04","volume":70,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":111,"indent":2,"parameters":[
+				1,
+				38,
+				0,
+				6,
+				1
+			]},
+			{"code":241,"indent":3,"parameters":[
+				{"name":"m-art_IntoTheWonderland","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":411,"indent":2,"parameters":[
+			]},
+			{"code":241,"indent":3,"parameters":[
+				{"name":"40 Something is born_MV","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":412,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":122,"indent":0,"parameters":[
 				268,
 				268,
@@ -112630,7 +112706,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":0,"y":8},
+	],"x":2,"y":0},
 	{"id":6,"name":"EV006","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":21,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":111,"indent":0,"parameters":[
@@ -112741,20 +112817,28 @@
 			{"code":401,"indent":1,"parameters":[
 				"沒能成功抵達終點！\\|\\|\\|\\^"
 			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Coin","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"您獲得了\\V[23]枚代幣。"
-			]},
 			{"code":235,"indent":1,"parameters":[
 				3
+			]},
+			{"code":201,"indent":1,"parameters":[
+				0,
+				647,
+				19,
+				15,
+				8,
+				0
+			]},
+			{"code":121,"indent":1,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
 			]},
 			{"code":222,"indent":1,"parameters":[
 			]},
@@ -112769,262 +112853,16 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":4,"walkAnime":true}
 	],"x":0,"y":4},
-	{"id":7,"name":"電玩遊戲機","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_MAPitem02","direction":4,"pattern":1,"characterIndex":6},"list":[
-			{"code":118,"indent":0,"parameters":[
-				"金幣不正確"
-			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				29,
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				40,
-				0,
-				0,
-				0
-			]},
-			{"code":101,"indent":0,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"要投入多少\\G？"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\C[3]※以100\\G為1單位，每100\\G可兌換為1代幣，"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"投0或按X退出。"
-			]},
-			{"code":103,"indent":0,"parameters":[
-				23,
-				5
-			]},
-			{"code":111,"indent":0,"parameters":[
-				1,
-				24,
-				0,
-				0,
-				0
-			]},
-			{"code":250,"indent":1,"parameters":[
-				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":115,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":411,"indent":0,"parameters":[
-			]},
-			{"code":122,"indent":1,"parameters":[
-				25,
-				25,
-				0,
-				3,
-				7,
-				2,
-				0
-			]},
-			{"code":122,"indent":1,"parameters":[
-				24,
-				24,
-				0,
-				1,
-				23
-			]},
-			{"code":111,"indent":1,"parameters":[
-				1,
-				25,
-				1,
-				23,
-				1
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"身上沒那麼多\\G！"
-			]},
-			{"code":119,"indent":2,"parameters":[
-				"金幣不正確"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":122,"indent":1,"parameters":[
-				24,
-				24,
-				5,
-				0,
-				100
-			]},
-			{"code":111,"indent":1,"parameters":[
-				1,
-				24,
-				0,
-				0,
-				0
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Coin","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				23,
-				23,
-				4,
-				0,
-				100
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"投入數目不正確！"
-			]},
-			{"code":119,"indent":2,"parameters":[
-				"金幣不正確"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"",
-				0,
-				1,
-				1
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"請選擇想玩的遊戲。"
-			]},
-			{"code":102,"indent":1,"parameters":[
-				[
-					"白虎洞Plus+：與痛苦同行",
-					"牙籤與竹筍",
-					"手牽手心連心",
-					"天堂路射手",
-					"彈跳甲魚湯",
-					"四戀楚歌挲草啦！"
-				],
-				-1,
-				-1,
-				1,
-				1
-			]},
-			{"code":402,"indent":1,"parameters":[
-				0,
-				"白虎洞Plus+：與痛苦同行"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"白虎洞加強版小遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
-				1,
-				"牙籤與竹筍"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"打地鼠遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
-				2,
-				"手牽手心連心"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"翻牌小遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
-				3,
-				"天堂路射手"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"飛鏢小遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
-				4,
-				"彈跳甲魚湯"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"跳跳小遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
-				5,
-				"四戀楚歌挲草啦！"
-			]},
-			{"code":108,"indent":2,"parameters":[
-				"出餐小遊戲"
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":404,"indent":1,"parameters":[
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":412,"indent":0,"parameters":[
-			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":3,"y":0},
+	null,
 	{"id":8,"name":"EV019_變數註解","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Actor1","direction":2,"pattern":1,"characterIndex":0},"list":[
 			{"code":108,"indent":0,"parameters":[
 				"開關01_遊戲開始"
 			]},
 			{"code":108,"indent":0,"parameters":[
-				"變數03 = 要投入的金幣"
+				"變數3 = 投入機台代幣"
 			]},
 			{"code":408,"indent":0,"parameters":[
-				"變數04 = 判斷投入的金幣數量是否為正確單位"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"變數05 = 現有金幣 最後會變成代幣數量"
-			]},
-			{"code":408,"indent":0,"parameters":[
-				"變數06 = 成功抵達終點的獲得代幣數量"
-			]},
-			{"code":108,"indent":0,"parameters":[
 				"變數17 = 生命值"
 			]},
 			{"code":408,"indent":0,"parameters":[
@@ -113042,7 +112880,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":0,"y":0},
+	],"x":0,"y":14},
 	{"id":9,"name":"EV009","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Door2","direction":4,"pattern":0,"characterIndex":7},"list":[
 			{"code":0,"indent":0,"parameters":[
