@@ -57,7 +57,7 @@
 	{"type":1,"weaponImageId":15},
 	{"type":1,"weaponImageId":0},
 	{"type":1,"weaponImageId":25}
-],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Cobblestones1","battleback2Name":"Room1","battlerHue":0,"battlerName":"Animal_14_lizard","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":647,"elements":[
+],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Cobblestones1","battleback2Name":"Room1","battlerHue":0,"battlerName":"Animal_14_lizard","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":621,"elements":[
 	"",
 	"斬屬性",
 	"刺屬性",
@@ -135,7 +135,7 @@
 	{"name":"Shop2","pan":0,"pitch":100,"volume":50},
 	{"name":"Item1","pan":0,"pitch":100,"volume":50},
 	{"name":"Item3","pan":0,"pitch":100,"volume":50}
-],"startMapId":647,"startX":19,"startY":16,"switches":[
+],"startMapId":623,"startX":14,"startY":35,"switches":[
 	"",
 	"-共用事件用-",
 	"製作者傳送門用",
@@ -815,7 +815,7 @@
 		368,
 		859
 	],"level":99}
-],"testTroopId":353,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
+],"testTroopId":442,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
 	"",
 	"-共用判定用No1~100-",
 	"心理測驗用",
@@ -1261,9 +1261,9 @@
 	"先給哪本書",
 	"熟操餐點加密",
 	"客人生氣讀秒",
-	"",
-	"",
-	"",
+	"開鎖需求經驗",
+	"開鎖現在經驗",
+	"哈瑞boss補血量計次",
 	"",
 	"",
 	"",
@@ -1317,7 +1317,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":302133,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":69795831,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",
