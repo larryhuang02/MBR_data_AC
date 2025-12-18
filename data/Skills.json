@@ -3407,120 +3407,80 @@
 	],"hitType":0,"iconIndex":70,"message1":"","message2":"","mpCost":0,"name":"奉獻","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":930,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"-月藍BOSS用-","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":931,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-		{"code":31,"dataId":0,"value1":9,"value2":0},
-		{"code":31,"dataId":1,"value1":9,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"技能強化","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":13,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":932,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
-		{"code":12,"dataId":0,"value1":0.25,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"全體補血","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":933,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"b. mhp * 1.25","type":3,"variance":0},"description":"","effects":[
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體補血","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":934,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b. mmp * 0.5","type":4,"variance":0},"description":"","effects":[
-		{"code":13,"dataId":0,"value1":20,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體補TP 補MP","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":935,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"b. mhp * 0.5","type":3,"variance":0},"description":"","effects":[
-		{"code":44,"dataId":121,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"鴿子的善意","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":936,"animationId":2,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"黑暗鴿子轉換","note":"<effect_javascript:(function(subject,target){target._buffs.forEach(function(x,i,a){a[i]=-a[i];});})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":937,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.stateRate(1)===0 || b.isStateResist(1) ? (b.hp * 0.99) : (0)","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":1,"value1":10,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體100%咒殺","note":"<effect_javascript:(function(a,b){b.gainTp(-100);})>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":938,"animationId":679,"damage":{"critical":true,"elementId":1,"formula":"500 + ( a.atk / 2 - b.def / 3 ) * 0.7","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":6,"value1":1,"value2":0},
-		{"code":21,"dataId":7,"value1":1,"value2":0},
-		{"code":21,"dataId":8,"value1":1,"value2":0},
-		{"code":21,"dataId":9,"value1":1,"value2":0},
-		{"code":21,"dataId":10,"value1":1,"value2":0},
-		{"code":21,"dataId":11,"value1":1,"value2":0},
-		{"code":21,"dataId":15,"value1":1,"value2":0},
-		{"code":21,"dataId":14,"value1":1,"value2":0},
-		{"code":21,"dataId":16,"value1":1,"value2":0},
-		{"code":21,"dataId":17,"value1":1,"value2":0},
-		{"code":21,"dataId":18,"value1":1,"value2":0},
-		{"code":21,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":60,"name":"全異常狀態","note":"<speed:20000>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":939,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.1","type":1,"variance":0},"description":"","effects":[
-		{"code":21,"dataId":184,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"扣100TP+永生禁錮","note":"<effect_javascript:(function(a,b){b.gainTp(-5);})>","occasion":1,"repeats":5,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":940,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.1","type":1,"variance":0},"description":"","effects":[
-		{"code":44,"dataId":120,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"特殊狀態逆轉","note":"","occasion":1,"repeats":3,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":941,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"(b.mhp - b.hp) * 2","type":1,"variance":0},"description":"","effects":[
-		{"code":44,"dataId":120,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"鴿子的惡意","note":"","occasion":1,"repeats":3,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":942,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	{"id":931,"animationId":-1,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"給予自己「火之護盾」狀態，一旦受到攻擊傷害後狀態解除\n※綠精加護：細節請按下\\i[1638]確認","effects":[
+		{"code":21,"dataId":440,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":64,"message1":"","message2":"","mpCost":50,"name":"@火之護盾","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":932,"animationId":-1,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"給予自己「雷之護盾」狀態，一旦受到攻擊傷害後狀態解除\n※綠精加護：細節請按下\\i[1638]確認","effects":[
+		{"code":21,"dataId":441,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"@雷之護盾","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":933,"animationId":-1,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"給予自己「土之護盾」狀態，一旦受到攻擊傷害後狀態解除\n※綠精加護：細節請按下\\i[1638]確認","effects":[
+		{"code":21,"dataId":442,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":66,"message1":"","message2":"","mpCost":50,"name":"@土之護盾","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":934,"animationId":557,"damage":{"critical":false,"elementId":0,"formula":"(b.mp / b.mmp * 100 * 10) + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"「物理&無屬性」王國軍官的成名劍技，對敵人造成隨機\n兩次傷害，忽視敵人屬性抗性，敵人現有的MP越多傷害越高。","effects":[
+	],"hitType":1,"iconIndex":97,"message1":"","message2":"","mpCost":100,"name":"劍之揮舞","note":"<speed:20000>\n<target action>\naction animation\nwait: 48\naction effect\nwait: 16\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":935,"animationId":560,"damage":{"critical":false,"elementId":0,"formula":"(b.hp / b.mhp * 100 * 15) + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"「物理&無屬性」王國軍官的成名劍技奧義，對敵人造成隨機\n兩次傷害，忽視敵人屬性抗性，敵人現有的HP越多傷害越高。","effects":[
+	],"hitType":1,"iconIndex":97,"message1":"","message2":"","mpCost":0,"name":"劍之狂亂","note":"<speed:20000>\n<whole action>\naction animation\nwait: 30\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nshake screen: 5, 5, 20\nwait: 10\naction effect\nwait: 10\naction effect\nshake screen: 5, 5, 20\nwait: 12\naction effect\nwait: 12\nshake screen: 5, 5, 20\naction effect\nwait: 12\naction effect\nwait: 60\n</whole action>","occasion":1,"repeats":5,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":18,"successRate":100,"tpCost":50,"tpGain":0},
+	{"id":936,"animationId":177,"damage":{"critical":false,"elementId":0,"formula":"500 + a.mat / 2","type":3,"variance":20},"description":"大量回復我方全體的HP，並解除全異常狀態，\n此外施法者的魔法攻擊力會額外提高治癒量。","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
 		{"code":22,"dataId":8,"value1":1,"value2":0},
 		{"code":22,"dataId":9,"value1":1,"value2":0},
 		{"code":22,"dataId":10,"value1":1,"value2":0},
 		{"code":22,"dataId":11,"value1":1,"value2":0},
+		{"code":22,"dataId":12,"value1":1,"value2":0},
+		{"code":22,"dataId":13,"value1":1,"value2":0},
 		{"code":22,"dataId":14,"value1":1,"value2":0},
 		{"code":22,"dataId":15,"value1":1,"value2":0},
 		{"code":22,"dataId":16,"value1":1,"value2":0},
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
-		{"code":22,"dataId":19,"value1":1,"value2":0},
-		{"code":11,"dataId":0,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"天使鴿子轉換","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":943,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"500","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（全體退條2500）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-2500||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":944,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"250","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（隨機退條2500）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-2500||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":6,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":945,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"10000","type":1,"variance":20},"description":"","effects":[
-	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（單體退條10000）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-10000||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":946,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"500","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":17,"value1":1,"value2":0},
-		{"code":21,"dataId":11,"value1":1,"value2":0},
-		{"code":21,"dataId":197,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":947,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"5000","type":3,"variance":20},"description":"","effects":[
-		{"code":13,"dataId":0,"value1":20,"value2":0},
-		{"code":21,"dataId":196,"value1":1,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"針灸","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":948,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"5000","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":198,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"牙籤盔甲","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":949,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"100","type":1,"variance":0},"description":"","effects":[
-		{"code":22,"dataId":221,"value1":1,"value2":0},
-		{"code":22,"dataId":222,"value1":1,"value2":0},
-		{"code":22,"dataId":223,"value1":1,"value2":0},
-		{"code":22,"dataId":224,"value1":1,"value2":0},
-		{"code":22,"dataId":225,"value1":1,"value2":0},
-		{"code":22,"dataId":226,"value1":1,"value2":0},
-		{"code":22,"dataId":227,"value1":1,"value2":0},
-		{"code":22,"dataId":228,"value1":1,"value2":0},
-		{"code":22,"dataId":229,"value1":1,"value2":0},
-		{"code":22,"dataId":230,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"牙籤反擊","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":950,"animationId":23,"damage":{"critical":true,"elementId":1,"formula":"b.isStateAffected(2) ? 4000 : 1000","type":1,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"破甲斬","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":951,"animationId":106,"damage":{"critical":true,"elementId":1,"formula":"200","type":0,"variance":20},"description":"","effects":[
-		{"code":44,"dataId":124,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"忍獸召喚","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":952,"animationId":23,"damage":{"critical":true,"elementId":1,"formula":"200","type":1,"variance":20},"description":"","effects":[
-		{"code":44,"dataId":123,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"疾如風","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":953,"animationId":23,"damage":{"critical":true,"elementId":7,"formula":"1000","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":199,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"徐如林","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":954,"animationId":51,"damage":{"critical":true,"elementId":7,"formula":"1000","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":101,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"不動如山","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":955,"animationId":51,"damage":{"critical":true,"elementId":4,"formula":"1000","type":1,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"侵略如火","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
+		{"code":22,"dataId":19,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":80,"name":"淨神術","note":"<speed:20000>\n<target action>\nMOTION SKILL: user\naction animation\nwait: 70\naction effect\nwait: 10\n</target action>\n","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":2000,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":2},
+	{"id":937,"animationId":177,"damage":{"critical":false,"elementId":10,"formula":"","type":3,"variance":20},"description":"「魔法&光屬性&需吟唱」給予敵方全體攻擊傷害，消耗全部MP\n並依照自身現有MP增傷，使用後對我方全體施放『淨神術』。","effects":[
+	],"hitType":2,"iconIndex":72,"message1":"","message2":"","mpCost":0,"name":"@白翼輝光","note":"<speed:20000>\n<target action>\nMOTION SKILL: user\naction animation\nwait: 70\naction effect\nwait: 10\n</target action>\n","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":2000,"stypeId":18,"successRate":100,"tpCost":100,"tpGain":2},
+	{"id":938,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"500","type":0,"variance":20},"description":"「需吟唱」小幅增加除了自己以外，全部隊友的ATB速度條。","effects":[
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":150,"name":"@號令","note":"<effect_javascript:(function(a,b){\n  if (b !== a && b.isActor() && a.isActor()) {\n    b.setATBSpeed((b._atbSpeed || 0) + 2500);\n  }\n})(a,b);>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":939,"animationId":0,"damage":{"critical":true,"elementId":1,"formula":"(a.tp * 10) + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"@鬥氣劍","note":"<effect_javascript:(function(a,b){\n  if (b.isDead && b.isDead()) {\n    a.gainTp(10);\n  }\n})(a,b);>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":940,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"200 + a.luk * 0.3","type":3,"variance":20},"description":"(a.tp * 10) + a.atk / 2 - b.def / 3","effects":[
+		{"code":34,"dataId":2,"value1":1,"value2":0},
+		{"code":34,"dataId":3,"value1":1,"value2":0},
+		{"code":34,"dataId":4,"value1":1,"value2":0},
+		{"code":34,"dataId":5,"value1":1,"value2":0},
+		{"code":34,"dataId":6,"value1":1,"value2":0},
+		{"code":34,"dataId":7,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":30,"name":"@仙靈箭","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":5,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":941,"animationId":0,"damage":{"critical":false,"elementId":11,"formula":"(a.mhp * 1 - a.hp * 1 ) / 2","type":3,"variance":20},"description":"「魔法&暗屬性」源自於三色果實的特殊魔法，某個花瓶女孩\n用得爛到出神入化……吸收敵人單體HP。","effects":[
+	],"hitType":2,"iconIndex":71,"message1":"","message2":"","mpCost":10,"name":"生命吸收","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":942,"animationId":0,"damage":{"critical":false,"elementId":11,"formula":"(a.mmp * 1 - a.mp * 1 ) / 2","type":3,"variance":20},"description":"「魔法&暗屬性」源自於三色果實的特殊魔法，一樣沒什麼用，\n希望這次變強了……吸收敵人單體MP。","effects":[
+	],"hitType":2,"iconIndex":71,"message1":"","message2":"","mpCost":10,"name":"魔力吸收","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":943,"animationId":0,"damage":{"critical":false,"elementId":11,"formula":"(a.mmp * 1 - a.mp * 1 ) / 2","type":0,"variance":20},"description":"源自於三色果實的特殊魔法，當年唯一有用的初始技能，\n省下買解毒藥的錢，我方單體解除全異常狀態並附加「萬靈」。","effects":[
+		{"code":21,"dataId":71,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":180,"message1":"","message2":"","mpCost":50,"name":"淨化 I","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":944,"animationId":0,"damage":{"critical":false,"elementId":12,"formula":"300 + a.mat / 2 ","type":1,"variance":20},"description":"「魔法&爆裂屬性」引發強烈的爆裂魔法，給予敵方全體\n約300左右無視防禦的傷害，施法者的魔攻值會額外提高傷害。","effects":[
+	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":200,"name":"爆裂III","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":18,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":945,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":946,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":947,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":948,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":949,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":950,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":951,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":952,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":953,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":954,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":955,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":956,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":957,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -4584,8 +4544,8 @@
 	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"食慾拳","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 1\neval: BattleManager._action.subject().getSprite().集氣_gen(90,50,0.75,3,20,-40,\"img/pictures/Hungry.png\",[[1.0/1.5,\"img/pictures/Hungry.png\"]],40,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},); \nwait: 87\naction effect\nwait: 30\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1322,"animationId":1171,"damage":{"critical":false,"elementId":0,"formula":"300","type":2,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":13,"value1":1,"value2":0},
-		{"code":21,"dataId":8,"value1":1,"value2":0},
-		{"code":21,"dataId":10,"value1":1,"value2":0}
+		{"code":21,"dataId":8,"value1":0.3,"value2":0},
+		{"code":21,"dataId":10,"value1":0.3,"value2":0}
 	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":300,"name":"陽光拳","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 52\naction effect\nwait: 108\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1323,"animationId":1172,"damage":{"critical":true,"elementId":1,"formula":"200 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":13,"value1":1,"value2":0},
@@ -4602,8 +4562,7 @@
 		{"code":34,"dataId":4,"value1":1,"value2":0},
 		{"code":34,"dataId":5,"value1":1,"value2":0},
 		{"code":34,"dataId":6,"value1":1,"value2":0},
-		{"code":34,"dataId":7,"value1":1,"value2":0},
-		{"code":22,"dataId":230,"value1":1,"value2":0}
+		{"code":34,"dataId":7,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":13,"message1":"","message2":"","mpCost":0,"name":"超級大胃王藍","note":"<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 28\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,-10,-40,\"img/pictures/Recolor_Sailors.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 87\neval: $gameTroop.members()[0].transform(474)\nEVAL: self.addState(425);\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainMp(btlr.mmp));\naction effect\nwait: 180\nopacity user: 100%\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1326,"animationId":1175,"damage":{"critical":true,"elementId":0,"formula":"1","type":0,"variance":20},"description":"","effects":[
 		{"code":31,"dataId":2,"value1":9,"value2":0},
@@ -4613,16 +4572,16 @@
 		{"code":31,"dataId":6,"value1":9,"value2":0},
 		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":44,"dataId":272,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"美食聖鬥術","note":"<speed:20000>\n<target action>\naction animation: user, mirror\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 30\nEVAL: self.addState(424);\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":0,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1327,"animationId":1176,"damage":{"critical":true,"elementId":1,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":77,"message1":"","message2":"","mpCost":1000,"name":"美食聖鬥術","note":"<speed:20000>\n<target action>\naction animation: user, mirror\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 30\naction effect\nwait: 30\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":0,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1327,"animationId":1176,"damage":{"critical":true,"elementId":1,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
 		{"code":22,"dataId":2,"value1":1,"value2":0},
 		{"code":21,"dataId":17,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"分切","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1328,"animationId":1177,"damage":{"critical":true,"elementId":2,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+	{"id":1328,"animationId":1177,"damage":{"critical":true,"elementId":2,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":8,"value1":1,"value2":0},
 		{"code":21,"dataId":13,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"插刺","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 20\naction effect\nwait: 35\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1329,"animationId":1178,"damage":{"critical":true,"elementId":3,"formula":"200 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
+	{"id":1329,"animationId":1178,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"","effects":[
 		{"code":32,"dataId":2,"value1":3,"value2":0},
 		{"code":32,"dataId":3,"value1":3,"value2":0},
 		{"code":32,"dataId":4,"value1":3,"value2":0},
@@ -4636,11 +4595,11 @@
 		{"code":32,"dataId":6,"value1":3,"value2":0},
 		{"code":32,"dataId":7,"value1":3,"value2":0}
 	],"hitType":1,"iconIndex":77,"message1":"","message2":"","mpCost":0,"name":"舀","note":"<addEle:10>\n<speed:20000>\n<target action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 16\naction effect\nwait: 40\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1330,"animationId":1179,"damage":{"critical":true,"elementId":0,"formula":"50 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":1000,"name":"脂肪熱量波","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 116\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 60\nEVAL: self.addState(424);\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1330,"animationId":1179,"damage":{"critical":true,"elementId":0,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":1000,"name":"脂肪熱量波","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\neval: BattleManager._action._dmgRate= 0.15\nwait: 116\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 16\naction effect\nwait: 60\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1331,"animationId":1180,"damage":{"critical":true,"elementId":0,"formula":"500 + ( a.mat / 2 - b.mdf / 3 )","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":1000,"name":"營養玉","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,115,-260,\"img/pictures/White.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 112\naction effect\nwait: 160\nEVAL: self.addState(424);\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1332,"animationId":1181,"damage":{"critical":false,"elementId":0,"formula":"a.mhp * 0.5","type":3,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":127,"message1":"","message2":"","mpCost":1000,"name":"營養玉","note":"<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\naction animation\nwait: 60\neval: BattleManager._action.subject().getSprite().集氣_gen(144,50,0.75,3,115,-260,\"img/pictures/White.png\",[[2.0/3.0,\"img/pictures/Food01.png\"],[2.0/3.0,\"img/pictures/Food02.png\"],[2.0/3.0,\"img/pictures/Food03.png\"],[2.0/3.0,\"img/pictures/Food04.png\"],[2.0/3.0,\"img/pictures/Food05.png\"],[2.0/3.0,\"img/pictures/Food06.png\"],[2.0/3.0,\"img/pictures/Food07.png\"],[2.0/3.0,\"img/pictures/Food08.png\"],[2.0/3.0,\"img/pictures/Food09.png\"],[2.0/3.0,\"img/pictures/Food10.png\"]],90,10,0.25,{childFrames:30,childMaxAlpha:[0.5,1],childSpeed:[1.0/75,1.0/90]},);\nwait: 112\naction effect\nwait: 160\nopacity user: 100%\neval: BattleManager.setCurrentLoopAniOn();\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1332,"animationId":1181,"damage":{"critical":false,"elementId":0,"formula":"a.mhp * 0.2","type":3,"variance":0},"description":"","effects":[
 		{"code":31,"dataId":0,"value1":9,"value2":0},
 		{"code":31,"dataId":0,"value1":9,"value2":0},
 		{"code":31,"dataId":0,"value1":9,"value2":0},
@@ -4680,21 +4639,15 @@
 		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":31,"dataId":7,"value1":9,"value2":0},
 		{"code":31,"dataId":7,"value1":9,"value2":0},
-		{"code":31,"dataId":7,"value1":9,"value2":0}
+		{"code":31,"dataId":7,"value1":9,"value2":0},
+		{"code":22,"dataId":424,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":72,"message1":"","message2":"","mpCost":0,"name":"不能輸啊......路人甲先生！","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nEVAL: $gameTemp._bgm_backup=AudioManager.saveBgm();\nwait: 60\nEVAL AudioManager.playBgm({name:\"親吻死者\",volume:50,pitch:100,pan:0,});\nwait: 1060\nAudioManager.fadeOutBgm(3);\nwait: 180\naction effect\neval: $gameTroop.members()[0].transform(478)\nwait: 30\nEVAL: AudioManager.playBgm($gameTemp._bgm_backup);\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1333,"animationId":1184,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
 		{"code":21,"dataId":262,"value1":1,"value2":0},
-		{"code":21,"dataId":21,"value1":1,"value2":0},
 		{"code":21,"dataId":221,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":266,"message1":"","message2":"","mpCost":0,"name":"香菜薄荷煎餅","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 32\naction effect\nwait: 50\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1334,"animationId":1183,"damage":{"critical":true,"elementId":11,"formula":"300","type":1,"variance":0},"description":"敵人","effects":[
-		{"code":21,"dataId":10,"value1":1,"value2":0},
-		{"code":22,"dataId":3,"value1":1,"value2":0},
-		{"code":22,"dataId":98,"value1":1,"value2":0},
-		{"code":22,"dataId":99,"value1":1,"value2":0},
-		{"code":22,"dataId":108,"value1":1,"value2":0},
-		{"code":22,"dataId":109,"value1":1,"value2":0},
-		{"code":22,"dataId":110,"value1":1,"value2":0}
+		{"code":21,"dataId":10,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":266,"message1":"","message2":"","mpCost":0,"name":"香菜薄荷煎餅","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 96\naction effect\nwait: 45\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1335,"animationId":1184,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
 		{"code":21,"dataId":101,"value1":1,"value2":0},
@@ -4707,70 +4660,29 @@
 		{"code":21,"dataId":17,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":1741,"message1":"","message2":"","mpCost":0,"name":"辣炒福壽螺","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 96\naction effect\nwait: 45\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1337,"animationId":1184,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
-		{"code":21,"dataId":268,"value1":1,"value2":0},
+		{"code":21,"dataId":261,"value1":1,"value2":0},
 		{"code":21,"dataId":221,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"糖醋垃圾魚","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 32\naction effect\nwait: 50\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1338,"animationId":1183,"damage":{"critical":true,"elementId":11,"formula":"300","type":1,"variance":0},"description":"敵人","effects":[
-		{"code":21,"dataId":18,"value1":1,"value2":0},
-		{"code":32,"dataId":0,"value1":3,"value2":0},
-		{"code":32,"dataId":0,"value1":3,"value2":0},
-		{"code":32,"dataId":0,"value1":3,"value2":0},
-		{"code":32,"dataId":0,"value1":3,"value2":0},
-		{"code":32,"dataId":0,"value1":3,"value2":0},
-		{"code":32,"dataId":1,"value1":3,"value2":0},
-		{"code":32,"dataId":1,"value1":3,"value2":0},
-		{"code":32,"dataId":1,"value1":3,"value2":0},
-		{"code":32,"dataId":1,"value1":3,"value2":0},
-		{"code":32,"dataId":1,"value1":3,"value2":0}
+		{"code":21,"dataId":18,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"糖醋垃圾魚","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 96\naction effect\nwait: 45\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1339,"animationId":1184,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
 		{"code":21,"dataId":221,"value1":1,"value2":0},
-		{"code":21,"dataId":221,"value1":1,"value2":0}
+		{"code":21,"dataId":221,"value1":0.5,"value2":0}
 	],"hitType":0,"iconIndex":1610,"message1":"","message2":"","mpCost":0,"name":"皮蛋榴槤拌飯","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 32\naction effect\nwait: 50\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1340,"animationId":1183,"damage":{"critical":true,"elementId":11,"formula":"300","type":1,"variance":20},"description":"敵人","effects":[
-		{"code":21,"dataId":1,"value1":1,"value2":0}
+		{"code":21,"dataId":1,"value1":0.2,"value2":0}
 	],"hitType":1,"iconIndex":1610,"message1":"","message2":"","mpCost":0,"name":"皮蛋榴槤拌飯","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 96\naction effect\nwait: 45\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1341,"animationId":1184,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
-		{"code":21,"dataId":221,"value1":0.5,"value2":0},
-		{"code":21,"dataId":221,"value1":0.5,"value2":0},
-		{"code":21,"dataId":221,"value1":0.5,"value2":0}
+		{"code":21,"dataId":221,"value1":1,"value2":0},
+		{"code":21,"dataId":221,"value1":0.25,"value2":0},
+		{"code":21,"dataId":221,"value1":0.25,"value2":0}
 	],"hitType":0,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"醃漬鯡魚三明治","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 32\naction effect\nwait: 50\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1342,"animationId":1183,"damage":{"critical":true,"elementId":11,"formula":"300","type":1,"variance":20},"description":"敵人","effects":[
-		{"code":21,"dataId":19,"value1":1,"value2":0},
-		{"code":32,"dataId":2,"value1":9,"value2":0},
-		{"code":32,"dataId":2,"value1":9,"value2":0},
-		{"code":32,"dataId":2,"value1":9,"value2":0},
-		{"code":32,"dataId":2,"value1":9,"value2":0},
-		{"code":32,"dataId":2,"value1":9,"value2":0},
-		{"code":32,"dataId":3,"value1":9,"value2":0},
-		{"code":32,"dataId":3,"value1":9,"value2":0},
-		{"code":32,"dataId":3,"value1":9,"value2":0},
-		{"code":32,"dataId":3,"value1":9,"value2":0},
-		{"code":32,"dataId":3,"value1":9,"value2":0},
-		{"code":32,"dataId":4,"value1":9,"value2":0},
-		{"code":32,"dataId":4,"value1":9,"value2":0},
-		{"code":32,"dataId":4,"value1":9,"value2":0},
-		{"code":32,"dataId":4,"value1":9,"value2":0},
-		{"code":32,"dataId":4,"value1":9,"value2":0},
-		{"code":32,"dataId":5,"value1":9,"value2":0},
-		{"code":32,"dataId":5,"value1":9,"value2":0},
-		{"code":32,"dataId":5,"value1":9,"value2":0},
-		{"code":32,"dataId":5,"value1":9,"value2":0},
-		{"code":32,"dataId":5,"value1":9,"value2":0},
-		{"code":32,"dataId":6,"value1":9,"value2":0},
-		{"code":32,"dataId":6,"value1":9,"value2":0},
-		{"code":32,"dataId":6,"value1":9,"value2":0},
-		{"code":32,"dataId":6,"value1":9,"value2":0},
-		{"code":32,"dataId":6,"value1":9,"value2":0},
-		{"code":32,"dataId":7,"value1":9,"value2":0},
-		{"code":32,"dataId":7,"value1":9,"value2":0},
-		{"code":32,"dataId":7,"value1":9,"value2":0},
-		{"code":32,"dataId":7,"value1":9,"value2":0},
-		{"code":32,"dataId":7,"value1":9,"value2":0}
+		{"code":21,"dataId":19,"value1":1,"value2":0}
 	],"hitType":1,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"醃漬鯡魚三明治","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 96\naction effect\nEVAL: BattleManager._targets.forEach(btlr=>btlr.gainTp(-30));\nwait: 45\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1343,"animationId":54,"damage":{"critical":false,"elementId":0,"formula":"a.hp * 0.2","type":1,"variance":0},"description":"敵人","effects":[
-		{"code":21,"dataId":426,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"沒有……力氣了。","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 36\naction effect\neval: AudioManager.playSe({name:\"Hungry\",volume:50,pitch:100,pan:0,});\neval: $gameTroop.members()[0].transform(473)\nwait: 16\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	],"hitType":0,"iconIndex":260,"message1":"","message2":"","mpCost":0,"name":"沒有……力氣了。","note":"<speed:20000>\n<target action>\nwait for opacity\naction animation\nwait: 36\naction effect\neval: AudioManager.playSe({name:\"Hungry\",volume:50,pitch:100,pan:0,});\neval: $gameTroop.members()[0].transform(473)\nEVAL: self.addState(426);\nwait: 16\n</target action>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1344,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"-忠之琳-","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1345,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -4951,55 +4863,119 @@
 	{"id":1399,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1400,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1401,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1402,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1403,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1404,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1405,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1406,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1407,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1408,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1409,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1410,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+		{"code":31,"dataId":0,"value1":9,"value2":0},
+		{"code":31,"dataId":1,"value1":9,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":3,"value1":9,"value2":0},
+		{"code":31,"dataId":4,"value1":9,"value2":0},
+		{"code":31,"dataId":5,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"技能強化","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":13,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1401,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"1000","type":3,"variance":0},"description":"","effects":[
+		{"code":12,"dataId":0,"value1":0.25,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"全體補血","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1402,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"b. mhp * 1.25","type":3,"variance":0},"description":"","effects":[
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體補血","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1403,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b. mmp * 0.5","type":4,"variance":0},"description":"","effects":[
+		{"code":13,"dataId":0,"value1":20,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體補TP 補MP","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1404,"animationId":3,"damage":{"critical":false,"elementId":0,"formula":"b. mhp * 0.5","type":3,"variance":0},"description":"","effects":[
+		{"code":44,"dataId":121,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"鴿子的善意","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1405,"animationId":2,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"黑暗鴿子轉換","note":"<effect_javascript:(function(subject,target){target._buffs.forEach(function(x,i,a){a[i]=-a[i];});})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1406,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.stateRate(1)===0 || b.isStateResist(1) ? (b.hp * 0.99) : (0)","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":1,"value1":10,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"單體100%咒殺","note":"<effect_javascript:(function(a,b){b.gainTp(-100);})>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1407,"animationId":679,"damage":{"critical":true,"elementId":1,"formula":"500 + ( a.atk / 2 - b.def / 3 ) * 0.7","type":0,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":6,"value1":1,"value2":0},
+		{"code":21,"dataId":7,"value1":1,"value2":0},
+		{"code":21,"dataId":8,"value1":1,"value2":0},
+		{"code":21,"dataId":9,"value1":1,"value2":0},
+		{"code":21,"dataId":10,"value1":1,"value2":0},
+		{"code":21,"dataId":11,"value1":1,"value2":0},
+		{"code":21,"dataId":15,"value1":1,"value2":0},
+		{"code":21,"dataId":14,"value1":1,"value2":0},
+		{"code":21,"dataId":16,"value1":1,"value2":0},
+		{"code":21,"dataId":17,"value1":1,"value2":0},
+		{"code":21,"dataId":18,"value1":1,"value2":0},
+		{"code":21,"dataId":19,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":60,"name":"全異常狀態","note":"<speed:20000>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1408,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.1","type":1,"variance":0},"description":"","effects":[
+		{"code":21,"dataId":184,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"扣100TP+永生禁錮","note":"<effect_javascript:(function(a,b){b.gainTp(-5);})>","occasion":1,"repeats":5,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1409,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"b.hp * 0.1","type":1,"variance":0},"description":"","effects":[
+		{"code":44,"dataId":120,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"特殊狀態逆轉","note":"","occasion":1,"repeats":3,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1410,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"(b.mhp - b.hp) * 2","type":1,"variance":0},"description":"","effects":[
+		{"code":44,"dataId":120,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":0,"name":"鴿子的惡意","note":"","occasion":1,"repeats":3,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":5,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1411,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1412,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1413,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1414,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1415,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1416,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1417,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1418,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1419,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1420,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1421,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1422,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1423,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
-	{"id":1424,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+		{"code":22,"dataId":6,"value1":1,"value2":0},
+		{"code":22,"dataId":7,"value1":1,"value2":0},
+		{"code":22,"dataId":8,"value1":1,"value2":0},
+		{"code":22,"dataId":9,"value1":1,"value2":0},
+		{"code":22,"dataId":10,"value1":1,"value2":0},
+		{"code":22,"dataId":11,"value1":1,"value2":0},
+		{"code":22,"dataId":14,"value1":1,"value2":0},
+		{"code":22,"dataId":15,"value1":1,"value2":0},
+		{"code":22,"dataId":16,"value1":1,"value2":0},
+		{"code":22,"dataId":17,"value1":1,"value2":0},
+		{"code":22,"dataId":18,"value1":1,"value2":0},
+		{"code":22,"dataId":19,"value1":1,"value2":0},
+		{"code":11,"dataId":0,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"天使鴿子轉換","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1412,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"500","type":1,"variance":20},"description":"","effects":[
+	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（全體退條2500）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-2500||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1413,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"250","type":1,"variance":20},"description":"","effects":[
+	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（隨機退條2500）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-2500||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":6,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1414,"animationId":0,"damage":{"critical":true,"elementId":2,"formula":"10000","type":1,"variance":20},"description":"","effects":[
+	],"hitType":1,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針（單體退條10000）","note":"<effect_javascript:(function(a,b){b.setATBSpeed(b._atbSpeed-10000||0);})>","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1415,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"500","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":17,"value1":1,"value2":0},
+		{"code":21,"dataId":11,"value1":1,"value2":0},
+		{"code":21,"dataId":197,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"飛針","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":4,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1416,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"5000","type":3,"variance":20},"description":"","effects":[
+		{"code":13,"dataId":0,"value1":20,"value2":0},
+		{"code":21,"dataId":196,"value1":1,"value2":0},
+		{"code":31,"dataId":2,"value1":9,"value2":0},
+		{"code":31,"dataId":3,"value1":9,"value2":0},
+		{"code":31,"dataId":4,"value1":9,"value2":0},
+		{"code":31,"dataId":5,"value1":9,"value2":0},
+		{"code":31,"dataId":6,"value1":9,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"針灸","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1417,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"5000","type":0,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":198,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"牙籤盔甲","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":7,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1418,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"100","type":1,"variance":0},"description":"","effects":[
+		{"code":22,"dataId":221,"value1":1,"value2":0},
+		{"code":22,"dataId":222,"value1":1,"value2":0},
+		{"code":22,"dataId":223,"value1":1,"value2":0},
+		{"code":22,"dataId":224,"value1":1,"value2":0},
+		{"code":22,"dataId":225,"value1":1,"value2":0},
+		{"code":22,"dataId":226,"value1":1,"value2":0},
+		{"code":22,"dataId":227,"value1":1,"value2":0},
+		{"code":22,"dataId":228,"value1":1,"value2":0},
+		{"code":22,"dataId":229,"value1":1,"value2":0},
+		{"code":22,"dataId":230,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"牙籤反擊","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1419,"animationId":23,"damage":{"critical":true,"elementId":1,"formula":"b.isStateAffected(2) ? 4000 : 1000","type":1,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"破甲斬","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":1420,"animationId":106,"damage":{"critical":true,"elementId":1,"formula":"200","type":0,"variance":20},"description":"","effects":[
+		{"code":44,"dataId":124,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"忍獸召喚","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1421,"animationId":23,"damage":{"critical":true,"elementId":1,"formula":"200","type":1,"variance":20},"description":"","effects":[
+		{"code":44,"dataId":123,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"疾如風","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":3,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":1422,"animationId":23,"damage":{"critical":true,"elementId":7,"formula":"1000","type":1,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":199,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"徐如林","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":1423,"animationId":51,"damage":{"critical":true,"elementId":7,"formula":"1000","type":0,"variance":20},"description":"","effects":[
+		{"code":21,"dataId":101,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"不動如山","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1424,"animationId":51,"damage":{"critical":true,"elementId":4,"formula":"1000","type":1,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"侵略如火","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":100,"tpGain":0},
 	{"id":1425,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1426,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

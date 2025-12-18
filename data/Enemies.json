@@ -21459,6 +21459,7 @@
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":6,"value":1.5},
 		{"code":11,"dataId":5,"value":1.5},
+		{"code":11,"dataId":11,"value":1.5},
 		{"code":11,"dataId":1,"value":0.5},
 		{"code":11,"dataId":2,"value":0.5},
 		{"code":11,"dataId":3,"value":0.25},
@@ -21488,6 +21489,7 @@
 		{"conditionParam1":425,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1326},
 		{"conditionParam1":425,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1330},
 		{"conditionParam1":425,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1331},
+		{"conditionParam1":0,"conditionParam2":0.3,"conditionType":3,"rating":5,"skillId":1321},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1343}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21505,6 +21507,7 @@
 		{"code":11,"dataId":3,"value":0.25},
 		{"code":11,"dataId":10,"value":0.25},
 		{"code":11,"dataId":4,"value":0.25},
+		{"code":11,"dataId":11,"value":1.5},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":13,"value":1},
@@ -21515,7 +21518,7 @@
 		{"code":12,"dataId":2,"value":0.25},
 		{"code":12,"dataId":5,"value":0.5},
 		{"code":12,"dataId":6,"value":0.5}
-	],"gold":0,"name":"超級路人甲2","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":1050,\"mdf\":1050,\"agi\":950,\"luk\":800,\"hp\":45000,\"mp\":8000}>\n<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>\n<死時技能:[[1332,1]]>","params":[
+	],"gold":0,"name":"超級路人甲2","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":1050,\"mdf\":1050,\"agi\":950,\"luk\":800,\"hp\":45000,\"mp\":8000}>\n<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>\n","params":[
 		35000,
 		5000,
 		750,
